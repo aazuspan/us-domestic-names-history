@@ -6402,7 +6402,7 @@
 630136|Langton Drain|Stream|Michigan|26|Monroe|115|Estral Beach|04/14/1980|||||415927N|0831335W|41.9908783|-83.2263173|420117N|0831659W|42.0214334|-83.2829858
 630137|Langworth Lake|Lake|Michigan|26|Mecosta|107|Hersey|04/14/1980|09/28/2018||||434511N|0852643W|43.7529403|-85.4452577|||0.0|0.0
 630142|Lansing Club Pond|Reservoir|Michigan|26|Otsego|137|Hardwood Lake|04/14/1980|05/14/2019||||450825N|0842827W|45.1403679|-84.4742471|||0.0|0.0
-630143|Lake Lansing|Lake|Michigan|26|Ingham|065|Bath|04/14/1980|11/09/2018|Official|Board Decision|01/01/1930|424533N|0842403W|42.7592406|-84.4007027|||0.0|0.0
+630143|Lake Lansing|Lake|Michigan|26|Ingham|065|Bath|04/14/1980|02/19/2025|Official|Board Decision|02/13/2025|424533N|0842403W|42.7592406|-84.4007027|||0.0|0.0
 630144|Lanway Drain|Canal|Michigan|26|Tuscola|157|Clifford|04/14/1980|||||432219N|0831101W|43.3719675|-83.1835563|||0.0|0.0
 630145|Lapan Drain|Canal|Michigan|26|Bay|017|Willard|04/14/1980|||||434105N|0840032W|43.6847455|-84.0088718|||0.0|0.0
 630146|Lapeer|Populated Place|Michigan|26|Lapeer|087|Lapeer|04/14/1980|06/07/2022||||430305N|0831908W|43.0514161|-83.3188341|||0.0|0.0
@@ -21290,3 +21290,5 @@
 2830243|Little Cedar Lake|Reservoir|Michigan|26|Calhoun|025|Ceresco|01/31/2022|09/08/2022|Official|Secretarial Order|09/08/2022|421519N|0850029W|42.255141|-85.00813|||0.0|0.0
 2830302|Stonington Peninsula|Cape|Michigan|26|Delta|041|Maywood|03/17/2022|03/17/2022||||454817N|0865338W|45.8046861|-86.8938149|||0.0|0.0
 2831527|Whiskey Cove|Bay|Michigan|26|Keweenaw|083|Manitou Island|06/14/2024|06/14/2024|Official|Board Decision|06/13/2024|472503N|0873836W|47.4174444|-87.6433333|||0.0|0.0
+2832472|Kunkosky Island|Island|Michigan|26|Antrim|009|Bellaire|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|445411N|0851017W|44.903049|-85.171361|||0.0|0.0
+2832473|Kasper Point|Cape|Michigan|26|Mackinac|097|Cedarville|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|455912N|0841833W|45.98667|-84.30903|||0.0|0.0

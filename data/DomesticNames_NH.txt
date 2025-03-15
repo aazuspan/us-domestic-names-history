@@ -3034,7 +3034,7 @@
 868734|Newton Brook|Stream|New Hampshire|33|Sullivan|019|North Hartland|08/27/1980|||||433225N|0721524W|43.5403496|-72.2567571|432937N|0721314W|43.4936834|-72.2206453
 868735|Newton Junction|Populated Place|New Hampshire|33|Rockingham|015|Haverhill|08/27/1980|06/07/2022||||425202N|0710357W|42.8673111|-71.0658913|||0.0|0.0
 868736|Newtown Plains|Lake|New Hampshire|33|Strafford|017|Dover West|08/27/1980|05/15/2018||||430955N|0705943W|43.1653476|-70.9953474|||0.0|0.0
-868737|Nickerson Mountains|Ridge|New Hampshire|33|Carroll|003|Ossipee Lake|08/27/1980|||||434803N|0711237W|43.8009083|-71.2103473|||0.0|0.0
+868737|Nickerson Mountains|Summit|New Hampshire|33|Carroll|003|Ossipee Lake|08/27/1980|02/21/2025||||434829N|0711249W|43.8080784|-71.2137376|||0.0|0.0
 868738|Nighthawk Hollow Brook|Stream|New Hampshire|33|Belknap|001|Gilmanton Ironworks|08/27/1980|||||432344N|0711730W|43.3956353|-71.2917344|432738N|0712317W|43.460634|-71.3881263
 868739|Nilus Brook|Stream|New Hampshire|33|Rockingham|015|Hampton|08/27/1980|||||425636N|0704816W|42.9434235|-70.8044969|425655N|0704932W|42.9486111|-70.8255556
 868740|Nims Hill|Summit|New Hampshire|33|Cheshire|005|Marlborough|08/27/1980|08/31/2022||||425919N|0721344W|42.9886387|-72.2289681|||0.0|0.0
@@ -3578,7 +3578,7 @@
 869419|Quinby Point|Cape|New Hampshire|33|Belknap|001|Laconia|08/27/1980|||||433431N|0712804W|43.575354|-71.4678511|||0.0|0.0
 869420|Quincy Pond|Lake|New Hampshire|33|Rockingham|015|Northwood|08/27/1980|05/15/2018||||430820N|0710909W|43.1388882|-71.1523758|||0.0|0.0
 869421|Raccoon Hill|Summit|New Hampshire|33|Merrimack|013|Andover|08/27/1980|08/30/2022||||432502N|0714513W|43.4172398|-71.7534971|||0.0|0.0
-869422|Raccoon Mountain|Summit|New Hampshire|33|Carroll|003|Ossipee Lake|11/15/2023|11/15/2023||||434613N|0711057W|43.770195|-71.182587|||0.0|0.0
+869422|Raccoon Mountain|Summit|New Hampshire|33|Carroll|003|Ossipee Lake|11/15/2023|02/21/2025||||434613N|0711057W|43.7701861|-71.1825863|||0.0|0.0
 869424|Ragged Island|Island|New Hampshire|33|Carroll|003|Melvin Village|08/27/1980|||||433747N|0711928W|43.629799|-71.3245149|||0.0|0.0
 869425|Ragged Mountain|Summit|New Hampshire|33|Belknap|001|Alton|08/27/1980|09/01/2022||||432347N|0711022W|43.3964987|-71.1727443|||0.0|0.0
 869426|Ragged Mountain|Summit|New Hampshire|33|Merrimack|013|Andover|08/27/1980|03/29/2024|Official|Board Decision|01/01/1980|432805N|0714946W|43.4680085|-71.8295478|||0.0|0.0

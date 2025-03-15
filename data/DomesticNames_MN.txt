@@ -20072,3 +20072,4 @@
 2832414|Golds Cove|Bay|Minnesota|27|Hennepin|053|Mound|10/11/2024|10/11/2024|Official|Board Decision|10/10/2024|445649N|0933939W|44.9468346|-93.6607003|||0.0|0.0
 2832429|City of Baldwin|Civil|Minnesota|27|Sherburne|141|Princeton|11/15/2024|11/15/2024||||453050N|0933418W|45.514|-93.5718|||0.0|0.0
 2832430|Baldwin|Populated Place|Minnesota|27|Sherburne|141|Princeton|11/15/2024|11/15/2024||||453050N|0933418W|45.514|-93.5718|||0.0|0.0
+2832477|Sunny Lake|Lake|Minnesota|27|Beltrami|007|Turtle River Lake|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|473203N|0944216W|47.5343|-94.70456|||0.0|0.0

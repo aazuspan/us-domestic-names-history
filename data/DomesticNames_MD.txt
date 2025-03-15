@@ -7689,10 +7689,8 @@
 594216|Rohrersville|Populated Place|Maryland|24|Washington|043|Keedysville|09/13/1996|06/07/2022|Official|Board Decision|01/01/1994|392600N|0773946W|39.4334336|-77.6627688|||0.0|0.0
 594217|Rohrersville Station|Populated Place|Maryland|24|Washington|043|Keedysville|09/13/1996|01/29/2011|Official|Board Decision|01/01/1994|392552N|0774040W|39.4312113|-77.6777691|||0.0|0.0
 594231|Hagerstown Reservoir|Reservoir|Maryland|24|Washington|043|Smithsburg|09/01/1992|09/21/2020||||393854N|0773439W|39.6482921|-77.5773859|||0.0|0.0
-594233|Greenbelt Lake|Reservoir|Maryland|24|Prince George's|033|Beltsville|09/01/1992|||||390000N|0765359W|39.0001101|-76.8996956|||0.0|0.0
 594237|Cunningham Lake|Reservoir|Maryland|24|Garrett|023|Bittinger|09/01/1992|||||393406N|0791447W|39.568422|-79.2464245|||0.0|0.0
 594241|Herrington Manor Recreation Area Reservoir|Reservoir|Maryland|24|Garrett|023|Oakland|09/01/1992|01/30/2019||||392719N|0792724W|39.4553278|-79.4565722|||0.0|0.0
-594243|Cash Creek Lake|Reservoir|Maryland|24|Prince George's|033|Laurel|09/01/1992|||||390212N|0764729W|39.0367763|-76.7913595|||0.0|0.0
 594251|Broad Creek Memorial Camp Reservoir|Reservoir|Maryland|24|Harford|025|Delta|09/01/1992|12/21/2018||||394124N|0761556W|39.6899349|-76.2656242|||0.0|0.0
 594253|Rainbow Lake|Reservoir|Maryland|24|Frederick|021|Blue Ridge Summit|09/01/1992|04/04/2019||||394144N|0772325W|39.695512|-77.3903266|||0.0|0.0
 594255|Johns Hopkins Pond|Reservoir|Maryland|24|Howard|027|Clarksville|09/01/1992|01/29/2019||||391428N|0765612W|39.2410477|-76.9365379|||0.0|0.0
@@ -8793,7 +8791,7 @@
 597194|Carsondale|Populated Place|Maryland|24|Prince George's|033|Lanham|09/12/1979|06/07/2022||||385630N|0765113W|38.9417779|-76.853583|||0.0|0.0
 597195|Carter Creek|Bay|Maryland|24|Queen Anne's|035|Kent Island|09/12/1979|||||385248N|0762130W|38.8801148|-76.3582874|||0.0|0.0
 597197|Carville|Populated Place|Maryland|24|Queen Anne's|035|Centreville|09/12/1979|06/07/2022||||390257N|0760014W|39.0492786|-76.0038302|||0.0|0.0
-597198|Cash Lake|Reservoir|Maryland|24|Prince George's|033|Laurel|09/12/1979|01/29/2019||||390149N|0764739W|39.0301875|-76.7940817|||0.0|0.0
+597198|Cash Lake|Reservoir|Maryland|24|Prince George's|033|Laurel|09/12/1979|01/14/2025||||390153N|0764724W|39.031453|-76.790096|||0.0|0.0
 597199|Castle Manor|Populated Place|Maryland|24|Prince George's|033|Washington East|09/12/1979|06/07/2022||||385716N|0765721W|38.9545553|-76.9558082|||0.0|0.0
 597201|Cattail Branch|Stream|Maryland|24|Prince George's|033|Washington East|09/12/1979|||||385542N|0765339W|38.9284447|-76.8941396|385552N|0765120W|38.9312225|-76.8555274
 597202|Cedar Heights|Populated Place|Maryland|24|Prince George's|033|Washington East|09/12/1979|06/07/2022||||385409N|0765429W|38.9026119|-76.9080288|||0.0|0.0
@@ -9423,6 +9421,7 @@
 1023842|Blue Ridge|Range|North Carolina|37|Yancey|199|Mount Mitchell|06/17/1980|12/13/2015|Official|Board Decision|01/01/1932|354551N|0821556W|35.7642834|-82.2656776|||0.0|0.0
 1168270|Amorine Branch|Stream|Maryland|24|Allegany|001|Flintstone|09/12/1979|||||394252N|0783209W|39.7145323|-78.5358489|394459N|0783311W|39.7497222|-78.5530556
 1168864|Bear Creek|Stream|Maryland|24|Allegany|001|Bellegrove|09/12/1979|||||394201N|0781855W|39.7003682|-78.3152889|394639N|0781917W|39.7775883|-78.3214012
+1169585|Big Savage Mountain|Summit|Maryland|24|Garrett|023|Barton|08/02/1979|03/12/2025||||393240N|0790547W|39.5443982|-79.0964401|||0.0|0.0
 1171834|Chub Run|Stream|Maryland|24|Garrett|023|Accident|09/12/1979|||||394256N|0792039W|39.7156354|-79.3442022|394449N|0791952W|39.7469444|-79.3311111
 1172729|Crooked Run|Stream|Pennsylvania|42|Fulton|057|Bellegrove|08/02/1979|||||394429N|0782116W|39.7414778|-78.354457|394301N|0782507W|39.7170333|-78.4186246
 1174604|Falls Creek|Stream|Pennsylvania|42|Franklin|055|Smithsburg|08/02/1979|01/05/2006||||394360N|0773232W|39.7333333|-77.5422222|394244N|0772905W|39.7122222|-77.4847222
