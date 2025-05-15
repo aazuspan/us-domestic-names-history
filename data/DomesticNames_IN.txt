@@ -893,7 +893,7 @@
 431414|Bowton Ditch|Canal|Indiana|18|Newton|111|Sheldon|02/14/1979|||||404547N|0873038W|40.7630925|-87.5105825|||0.0|0.0
 431416|Box Ditch|Canal|Indiana|18|Tippecanoe|157|Otterbein|02/14/1979|||||402935N|0870038W|40.4930896|-87.010569|||0.0|0.0
 431417|Box Ditch|Canal|Indiana|18|White|181|Monon|02/14/1979|||||405138N|0865529W|40.8605948|-86.9247387|||0.0|0.0
-431418|Boxley|Populated Place|Indiana|18|Hamilton|057|Sheridan|02/14/1979|06/23/2022||||400958N|0861032W|40.1661483|-86.1755472|||0.0|0.0
+431418|Boxley|Populated Place|Indiana|18|Hamilton|057|Sheridan|02/14/1979|04/14/2025||||400958N|0861032W|40.1661483|-86.1755472|||0.0|0.0
 431419|Boy Scout Pond|Lake|Indiana|18|Greene|055|Linton|02/14/1979|04/11/2018||||390358N|0870906W|39.0660401|-87.1516714|||0.0|0.0
 431420|Boyd|Populated Place|Indiana|18|Rush|139|Carthage|02/14/1979|06/07/2022||||394307N|0853304W|39.7186563|-85.5510851|||0.0|0.0
 431421|Boyd Branch|Stream|Indiana|18|Ripley|137|Bear Branch|02/14/1979|||||385904N|0850458W|38.9845019|-85.0827321|390232N|0850837W|39.042278|-85.1435676
@@ -12117,7 +12117,7 @@
 453074|Township of Adams|Civil|Indiana|18|Carroll|015|Burrows|09/01/1995|08/11/2023||||404219N|0863624W|40.7052708|-86.6066997|||0.0|0.0
 453075|Township of Adams|Civil|Indiana|18|Cass|017|Twelve Mile|09/01/1995|08/11/2023||||405119N|0861223W|40.8551812|-86.2064647|||0.0|0.0
 453076|Township of Adams|Civil|Indiana|18|Decatur|031|Adams|09/01/1995|08/11/2023||||392459N|0853409W|39.4163363|-85.569083|||0.0|0.0
-453077|Township of Adams|Civil|Indiana|18|Hamilton|057|Sheridan|09/01/1995|08/11/2023||||400931N|0861107W|40.1585683|-86.1851488|||0.0|0.0
+453077|Township of Adams (historical)|Civil|Indiana|18|Hamilton|057|Sheridan|09/01/1995|04/15/2025||||400931N|0861107W|40.1585683|-86.1851488|||0.0|0.0
 453078|Township of Adams|Civil|Indiana|18|Madison|095|Shirley|09/01/1995|08/11/2023||||395948N|0853729W|39.9966515|-85.6246393|||0.0|0.0
 453079|Township of Adams|Civil|Indiana|18|Morgan|109|Hall|09/01/1995|08/11/2023||||393325N|0863659W|39.556825|-86.6162901|||0.0|0.0
 453080|Township of Adams|Civil|Indiana|18|Parke|121|Catlin|09/01/1995|08/11/2023||||394425N|0871233W|39.7401422|-87.2092896|||0.0|0.0
@@ -13829,7 +13829,7 @@
 2397652|Town of Shamrock Lakes|Civil|Indiana|18|Blackford|009|Hartford City West|02/27/2008|08/10/2023||||402442N|0852534W|40.4116216|-85.426185|||0.0|0.0
 2397653|Town of Sharpsville|Civil|Indiana|18|Tipton|159|Kokomo East|02/27/2008|08/10/2023||||402247N|0860513W|40.3796833|-86.0868967|||0.0|0.0
 2397654|Town of Shelburn|Civil|Indiana|18|Sullivan|153|Shelburn|02/27/2008|08/10/2023||||391045N|0872350W|39.1791438|-87.3971424|||0.0|0.0
-2397655|Town of Sheridan|Civil|Indiana|18|Hamilton|057|Sheridan|02/27/2008|08/10/2023||||400755N|0861311W|40.1319571|-86.2197924|||0.0|0.0
+2397655|Town of Sheridan|Civil|Indiana|18|Hamilton|057|Sheridan|02/27/2008|04/15/2025||||400755N|0861311W|40.1319571|-86.2197924|||0.0|0.0
 2397658|Town of Shipshewana|Civil|Indiana|18|LaGrange|087|Shipshewana|02/27/2008|08/09/2023||||414027N|0853435W|41.6742837|-85.5764768|||0.0|0.0
 2397659|Town of Shirley|Civil|Indiana|18|Hancock|059|Shirley|02/27/2008|08/10/2023||||395327N|0853448W|39.8909057|-85.5799389|||0.0|0.0
 2397661|Town of Shoals|Civil|Indiana|18|Martin|101|Shoals|02/27/2008|08/10/2023||||384001N|0864738W|38.6668847|-86.7938803|||0.0|0.0
@@ -14202,7 +14202,7 @@
 2830390|Midland Census Designated Place|Census|Indiana|18|Greene|055|Linton|03/24/2022|08/09/2023||||390710N|0871112W|39.1193513|-87.1866291|||0.0|0.0
 2830391|Solsberry Census Designated Place|Census|Indiana|18|Greene|055|Solsberry|03/25/2022|08/09/2023||||390457N|0864549W|39.0825985|-86.7635449|||0.0|0.0
 2830392|Vicksburg Census Designated Place|Census|Indiana|18|Greene|055|Linton|03/25/2022|08/09/2023||||390518N|0871153W|39.0884497|-87.1979987|||0.0|0.0
-2830393|Boxley Census Designated Place|Census|Indiana|18|Hamilton|057|Sheridan|03/25/2022|08/09/2023||||401004N|0861045W|40.1677829|-86.1790671|||0.0|0.0
+2830393|Boxley Census Designated Place (historical)|Census|Indiana|18|Hamilton|057|Sheridan|03/25/2022|04/15/2025||||401004N|0861045W|40.1677829|-86.1790671|||0.0|0.0
 2830394|Fishersburg Census Designated Place|Census|Indiana|18|Madison|095|Lapel|03/25/2022|03/25/2022||||400416N|0855140W|40.071|-85.861|||0.0|0.0
 2830395|Hortonville Census Designated Place|Census|Indiana|18|Hamilton|057|Westfield|03/27/2022|08/09/2023||||400516N|0860927W|40.0877222|-86.1575673|||0.0|0.0
 2830396|Riverwood Census Designated Place|Census|Indiana|18|Hamilton|057|Riverwood|03/27/2022|08/09/2023||||400603N|0855803W|40.1008779|-85.9673665|||0.0|0.0

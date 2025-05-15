@@ -803,7 +803,7 @@
 606328|Deer Brook|Stream|Massachusetts|25|Middlesex|017|Holliston|08/27/2002|||||421042N|0712826W|42.1784297|-71.4739507|420941N|0712932W|42.1613889|-71.4922222
 606329|Broad Meadow Swamp|Swamp|Massachusetts|25|Middlesex|017|Marlborough|08/27/2002|08/02/2022||||422014N|0713124W|42.3373138|-71.5232989|||0.0|0.0
 606330|Steep Brook (historical)|Stream|Massachusetts|25|Middlesex|017|Framingham|08/27/2002|03/25/2021||||421836N|0712241W|42.3100959|-71.3781153|421734N|0712328W|42.2927778|-71.3911111
-606331|Cold Spring Pond|Lake|Massachusetts|25|Middlesex|017|Framingham|08/27/2002|05/15/2018||||421521N|0712704W|42.2558564|-71.4510423|||0.0|0.0
+606331|Cold Spring Pond (historical)|Lake|Massachusetts|25|Middlesex|017|Framingham|08/27/2002|03/19/2025||||421521N|0712704W|42.2558564|-71.4510423|||0.0|0.0
 606333|Reservoir Pond|Lake|Massachusetts|25|Middlesex|017|Framingham|08/27/2002|05/15/2018||||421545N|0712738W|42.2625364|-71.4606834|||0.0|0.0
 606334|Guinea Meadow Swamp|Swamp|Massachusetts|25|Middlesex|017|Framingham|08/27/2002|||||421518N|0712514W|42.2550961|-71.4206164|||0.0|0.0
 606335|Dirty Meadow Swamp|Swamp|Massachusetts|25|Middlesex|017|Holliston|08/27/2002|08/03/2022||||421300N|0712411W|42.2166886|-71.4031565|||0.0|0.0
@@ -3138,7 +3138,7 @@
 609358|Turkey Hill|Summit|Massachusetts|25|Hampshire|015|Belchertown|02/24/1974|09/01/2022||||421508N|0722610W|42.2521115|-72.4360493|||0.0|0.0
 609359|Turkey Hill Brook|Stream|Massachusetts|25|Franklin|011|Belchertown|02/24/1974|||||421550N|0722818W|42.2639808|-72.4717527|421414N|0722638W|42.2373146|-72.443974
 609360|Twelvemile Brook|Stream|Massachusetts|25|Hampden|013|Ludlow|02/24/1974|||||420915N|0722430W|42.1542605|-72.4084171|420525N|0722129W|42.0903725|-72.3581376
-609361|Upper Bald Hills|Summit|Massachusetts|25|Franklin|011|Northfield|02/24/1974|02/14/2025||||424040N|0722408W|42.6778625|-72.4023088|||0.0|0.0
+609361|Upper Bald Hills|Summit|Massachusetts|25|Franklin|011|Northfield|02/24/1974|03/22/2025||||424011N|0722442W|42.6695958|-72.4117073|||0.0|0.0
 609362|Mount Vision|Summit|Massachusetts|25|Hampden|013|Hampden|02/24/1974|12/07/2021||||420519N|0722459W|42.0886477|-72.4162582|||0.0|0.0
 609363|Wanamaker Lake|Lake|Massachusetts|25|Franklin|011|Northfield|02/24/1974|02/28/2018||||424309N|0722646W|42.7191096|-72.4460956|||0.0|0.0
 609365|West Brook|Stream|Massachusetts|25|Hampden|013|Hampden|02/24/1974|||||420348N|0722513W|42.0634285|-72.4203614|420507N|0722522W|42.0852778|-72.4227778
@@ -7230,7 +7230,7 @@
 613507|Forge Pond|Reservoir|Massachusetts|25|Plymouth|023|Whitman|02/24/1974|05/17/2018||||420210N|0705737W|42.0361248|-70.9602344|||0.0|0.0
 613508|French Stream|Stream|Massachusetts|25|Plymouth|023|Weymouth|02/24/1974|||||420633N|0705251W|42.1092677|-70.8808762|420845N|0705558W|42.1459338|-70.9328223
 613509|Fuller Shores|Populated Place|Massachusetts|25|Plymouth|023|Assawompset Pond|02/24/1974|06/07/2022||||414905N|0705623W|41.8181579|-70.9397628|||0.0|0.0
-613510|Giffords Pond|Lake|Massachusetts|25|Plymouth|023|Assawompset Pond|02/24/1974|05/16/2018||||414502N|0705234W|41.7506786|-70.8761145|||0.0|0.0
+613510|Giffords Pond (historical)|Lake|Massachusetts|25|Plymouth|023|Assawompset Pond|02/24/1974|03/19/2025||||414502N|0705234W|41.7506786|-70.8761145|||0.0|0.0
 613511|Goat Island|Island|Massachusetts|25|Plymouth|023|Assawompset Pond|02/24/1974|||||414735N|0705608W|41.793158|-70.9355958|||0.0|0.0
 613512|Great Cedar Swamp|Swamp|Massachusetts|25|Plymouth|023|Bridgewater|02/24/1974|12/08/2006||||415622N|0705229W|41.9395208|-70.8746378|||0.0|0.0
 613513|Great Island|Island|Massachusetts|25|Plymouth|023|Assawompset Pond|02/24/1974|||||414750N|0705403W|41.7973248|-70.9008729|||0.0|0.0
@@ -10119,7 +10119,7 @@
 616429|Megansett|Populated Place|Massachusetts|25|Barnstable|001|Pocasset|02/24/1974|06/07/2022||||413910N|0703713W|41.6528847|-70.6203084|||0.0|0.0
 616430|Menauhant|Populated Place|Massachusetts|25|Barnstable|001|Falmouth|02/24/1974|06/07/2022||||413315N|0703300W|41.5542764|-70.5500287|||0.0|0.0
 616431|Mill Pond|Lake|Massachusetts|25|Barnstable|001|Pocasset|02/24/1974|10/29/2024||||414148N|0703621W|41.696629|-70.605741|||0.0|0.0
-616432|Mill Pond|Reservoir|Massachusetts|25|Barnstable|001|Pocasset|02/24/1974|05/16/2018||||414342N|0703546W|41.7283602|-70.5960814|||0.0|0.0
+616432|Mill Pond (historical)|Reservoir|Massachusetts|25|Barnstable|001|Pocasset|02/24/1974|03/19/2025||||414340N|0703545W|41.72772|-70.595806|||0.0|0.0
 616433|Mill Pond|Reservoir|Massachusetts|25|Barnstable|001|Falmouth|02/24/1974|05/16/2018||||413450N|0703350W|41.5804924|-70.5638404|||0.0|0.0
 616434|Monument Beach|Populated Place|Massachusetts|25|Barnstable|001|Pocasset|02/24/1974|06/07/2022|Official|Board Decision|01/01/1960|414310N|0703643W|41.7195502|-70.6119755|||0.0|0.0
 616435|Moody Pond|Lake|Massachusetts|25|Barnstable|001|Pocasset|02/24/1974|05/16/2018||||413827N|0703044W|41.6409633|-70.5123566|||0.0|0.0
@@ -11050,7 +11050,7 @@
 617397|Reservoir Hill|Summit|Massachusetts|25|Middlesex|017|Concord|02/24/1974|11/27/2018||||422748N|0711611W|42.4633259|-71.2696918|||0.0|0.0
 617398|Union Hill|Summit|Massachusetts|25|Worcester|027|Worcester South|02/24/1974|09/01/2022||||421425N|0714711W|42.2403945|-71.786398|||0.0|0.0
 617400|Pattenville|Populated Place|Massachusetts|25|Middlesex|017|Wilmington|02/24/1974|06/07/2022||||423445N|0711334W|42.5792597|-71.2261686|||0.0|0.0
-617401|Bad Lands|Summit|Massachusetts|25|Worcester|027|Uxbridge|02/24/1974|||||420645N|0713848W|42.1125964|-71.6467332|||0.0|0.0
+617401|Bad Lands|Summit|Massachusetts|25|Worcester|027|Uxbridge|02/24/1974|03/22/2025||||420706N|0713846W|42.118247|-71.6461109|||0.0|0.0
 617402|Tewksbury Junction|Populated Place|Massachusetts|25|Middlesex|017|Wilmington|02/24/1974|06/07/2022||||423655N|0711258W|42.6153702|-71.2161689|||0.0|0.0
 617403|Assonet River|Stream|Massachusetts|25|Bristol|005|Assonet|02/24/1974|08/30/2018||||414655N|0710643W|41.7820463|-71.111989|414655N|0710643W|41.7820463|-71.111989
 617404|Blynman Canal|Channel|Massachusetts|25|Essex|009|Gloucester|02/24/1974|||||423635N|0704023W|42.6098176|-70.6731001|||0.0|0.0

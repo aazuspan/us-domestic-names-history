@@ -1527,7 +1527,7 @@
 534173|Coulee Creek|Stream|Louisiana|22|Union|111|Rocky Branch|06/04/1980|||||324113N|0920846W|32.6870828|-92.1462461|323946N|0920925W|32.6627778|-92.1569444
 534174|Coulee Des Iles|Stream|Louisiana|22|Vermilion|113|Wright|06/04/1980|||||300305N|0922437W|30.0513173|-92.4104107|300354N|0921414W|30.0649271|-92.23735
 534175|Coulee Galleque|Stream|Louisiana|22|Vermilion|113|Abbeville West|06/04/1980|||||295823N|0921007W|29.9729839|-92.1687375|300016N|0921304W|30.0043724|-92.2179052
-534176|Coulee Hippolyte|Stream|Louisiana|22|Calcasieu|019|Moss Lake|06/04/1980|08/07/2024||||300443N|0931542W|30.07868|-93.26172|300856N|0930924W|30.14877|-93.15678
+534176|Bayou Hippolyte|Stream|Louisiana|22|Calcasieu|019|Moss Lake|06/04/1980|03/19/2025|Official|Board Decision|03/13/2025|300443N|0931542W|30.07868|-93.26172|300856N|0930924W|30.14877|-93.15678
 534177|Coulee Ile des Cannes|Stream|Louisiana|22|Lafayette|055|Lafayette|06/04/1980|08/07/2009||||300735N|0920512W|30.126314|-92.0867899|301758N|0920801W|30.2993674|-92.1337347
 534178|Coulee Lantier|Stream|Louisiana|22|Lafayette|055|Carencro|06/04/1980|||||302151N|0920005W|30.3640874|-92.0015076|302032N|0915918W|30.3421431|-91.9884519
 534179|Coulee Malam|Stream|Louisiana|22|Iberia|045|Delcambre|06/04/1980|||||295925N|0915836W|29.9902045|-91.9767878|300203N|0915840W|30.0340926|-91.9778986
@@ -2735,7 +2735,7 @@
 536141|Junior Branch|Stream|Louisiana|22|Natchitoches|069|Provencal|06/04/1980|||||314335N|0931321W|31.726276|-93.2223906|314417N|0931328W|31.7380556|-93.2244444
 536142|Jurdon Creek|Stream|Louisiana|22|Vernon|115|Leesville|06/04/1980|||||310746N|0932153W|31.1293542|-93.3646121|311058N|0932304W|31.182686|-93.3843356
 536143|Jurjevich Canal|Bay|Louisiana|22|Plaquemines|075|Triumph|06/04/1980|12/13/2018||||292054N|0892411W|29.348228|-89.4029739|||0.0|0.0
-536147|Kayouche Coulee|Stream|Louisiana|22|Calcasieu|019|Moss Bluff|04/23/2024|04/23/2024||||301551N|0931019W|30.2640942|-93.1718197|300932N|0930933W|30.158819|-93.159042
+536147|Kayouche Bayou|Stream|Louisiana|22|Calcasieu|019|Moss Bluff|06/04/1980|03/31/2025|Official|Board Decision|03/13/2025|301551N|0931019W|30.2640942|-93.1718197|300932N|0930933W|30.158819|-93.159042
 536148|Keatchie Bayou|Stream|Louisiana|22|De Soto|031|Stonewall|06/04/1980|||||321807N|0934924W|32.3018246|-93.8232368|321305N|0935623W|32.2179386|-93.9396294
 536151|Keithville|Populated Place|Louisiana|22|Caddo|017|Stonewall|06/04/1980|06/07/2022||||321960N|0935011W|32.3332128|-93.8362925|||0.0|0.0
 536153|Keller|Populated Place|Louisiana|22|Pointe Coupee|077|Innis|06/04/1980|06/07/2022||||305631N|0914319W|30.9418481|-91.7220627|||0.0|0.0
@@ -7754,7 +7754,7 @@
 547521|Jenks Branch|Stream|Louisiana|22|Union|111|Lillie|06/04/1980|||||325627N|0923853W|32.9406953|-92.6479313|325614N|0924134W|32.9372222|-92.6927778
 547522|Jericho|Populated Place|Louisiana|22|Vernon|115|Jericho|06/04/1980|06/07/2022||||311603N|0925160W|31.2674027|-92.8665419|||0.0|0.0
 547523|Jesse Branch|Stream|Louisiana|22|Grant|043|Mudville|06/04/1980|||||313813N|0922437W|31.6368398|-92.4101391|313611N|0922649W|31.6029519|-92.4468065
-547524|Johns Hills|Range|Louisiana|22|Grant|043|Mudville|06/04/1980|02/06/2025||||314130N|0922907W|31.6915603|-92.4851416|||0.0|0.0
+547524|Johns Hills|Range|Louisiana|22|Grant|043|Mudville|06/04/1980|03/22/2025||||314128N|0922932W|31.6911769|-92.4922012|||0.0|0.0
 547527|Johnson Creek|Stream|Louisiana|22|Bienville|013|Ashland|06/04/1980|||||321203N|0930233W|32.2007137|-93.0423839|321211N|0930419W|32.2030556|-93.0719444
 547529|Jones Old River|Lake|Louisiana|22|Sabine|085|Brushy Creek|06/04/1980|||||314010N|0934920W|31.669341|-93.8221309|||0.0|0.0
 547530|Jordan Creek|Stream|Louisiana|22|Grant|043|Rock Hill|06/04/1980|||||312958N|0923150W|31.4993435|-92.5304195|313309N|0923156W|31.5523974|-92.5320866
@@ -10299,7 +10299,7 @@
 554832|Ingleside|Populated Place|Louisiana|22|Assumption|007|Madewood|06/04/1980|06/07/2022||||295354N|0905915W|29.8982592|-90.9875981|||0.0|0.0
 554833|Inner Harbor Navigation Canal|Bay|Louisiana|22|Orleans|071|Spanish Fort|06/04/1980|12/13/2018||||300044N|0900142W|30.0123426|-90.028294|||0.0|0.0
 554834|Innis|Populated Place|Louisiana|22|Pointe Coupee|077|Innis|06/04/1980|06/07/2022||||305241N|0914050W|30.87796|-91.6806726|||0.0|0.0
-554835|Inniswold|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|06/04/1980|06/07/2022||||302418N|0910500W|30.4049139|-91.0834377|||0.0|0.0
+554835|Inniswold|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|06/04/1980|04/14/2025||||302418N|0910500W|30.4049139|-91.0834377|||0.0|0.0
 554836|Intracoastal City|Populated Place|Louisiana|22|Vermilion|113|Intracoastal City|06/04/1980|06/07/2022||||294704N|0920922W|29.7843773|-92.1562386|||0.0|0.0
 554837|Iota|Populated Place|Louisiana|22|Acadia|001|Iota|06/04/1980|06/07/2022||||301953N|0922944W|30.3313143|-92.495691|||0.0|0.0
 554838|Irish Bayou|Stream|Louisiana|22|Caddo|017|Dixie|06/04/1980|||||324017N|0935026W|32.6712573|-93.8404579|324126N|0934741W|32.6905556|-93.7947222
@@ -12055,7 +12055,7 @@
 559116|Oak Forest|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302904N|0910439W|30.4843564|-91.0776047|||0.0|0.0
 559117|Oak Hill|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302654N|0910428W|30.4482462|-91.0745488|||0.0|0.0
 559118|Oak Hills|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|06/07/2022||||302146N|0910516W|30.3626927|-91.087882|||0.0|0.0
-559119|Oak Hills Place|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|06/07/2022||||302136N|0910515W|30.359915|-91.0876042|||0.0|0.0
+559119|Oak Hills Place|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|04/14/2025||||302136N|0910515W|30.359915|-91.0876042|||0.0|0.0
 559120|Oak Park|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302734N|0910419W|30.459357|-91.0720488|||0.0|0.0
 559121|Oak Shadows Place|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/01/1994|06/07/2022||||303119N|0910157W|30.5218554|-91.0326037|||0.0|0.0
 559122|Oak Valley|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302559N|0910556W|30.4329688|-91.0989939|||0.0|0.0
@@ -12063,7 +12063,7 @@
 559124|Oakcrest|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302846N|0910539W|30.4793566|-91.0942718|||0.0|0.0
 559125|Oakwood Forest|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302801N|0910336W|30.4668568|-91.0601041|||0.0|0.0
 559126|Ogden Park|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge West|05/01/1994|06/07/2022||||302646N|0910924W|30.446024|-91.1567733|||0.0|0.0
-559127|Old Jefferson|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302258N|0910101W|30.3826922|-91.0170468|||0.0|0.0
+559127|Old Jefferson|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|04/14/2025||||302258N|0910101W|30.3826922|-91.0170468|||0.0|0.0
 559128|O'Neal Place|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302603N|0910006W|30.4340798|-91.001769|||0.0|0.0
 559129|Oxford Place|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302510N|0910448W|30.419358|-91.0801044|||0.0|0.0
 559131|Palm Hills|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302541N|0910609W|30.4279689|-91.102605|||0.0|0.0
@@ -12195,7 +12195,7 @@
 559259|Villa Del Rey|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302806N|0910450W|30.4682457|-91.0806603|||0.0|0.0
 559260|Villa Del Rey Park|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302748N|0910453W|30.4632458|-91.0814936|||0.0|0.0
 559261|Village Cote|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302849N|0910015W|30.4801897|-91.0042694|||0.0|0.0
-559262|Village Saint George|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|06/07/2022||||302144N|0910402W|30.3621371|-91.0673259|||0.0|0.0
+559262|Village Saint George|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|04/14/2025||||302144N|0910402W|30.3621371|-91.0673259|||0.0|0.0
 559263|Walden|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302333N|0910710W|30.3924142|-91.1195497|||0.0|0.0
 559264|Walnut Hill|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge West|05/01/1994|06/07/2022||||302545N|0910856W|30.42908|-91.1489952|||0.0|0.0
 559265|Waters Edge|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/01/1994|06/07/2022||||303408N|0910615W|30.5687988|-91.1042724|||0.0|0.0
@@ -12207,7 +12207,7 @@
 559271|Westchester|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|06/07/2022||||302119N|0910415W|30.3551929|-91.070937|||0.0|0.0
 559272|Westdale Heights|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge West|05/01/1994|06/07/2022||||302601N|0910821W|30.4335243|-91.1392727|||0.0|0.0
 559273|Westdale Terrace|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge West|05/01/1994|06/07/2022||||302552N|0910814W|30.4310244|-91.1373282|||0.0|0.0
-559274|Westminster|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302450N|0910515W|30.4138026|-91.0876045|||0.0|0.0
+559274|Westminster|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|04/14/2025||||302450N|0910515W|30.4138026|-91.0876045|||0.0|0.0
 559275|White Hills|Populated Place|Louisiana|22|East Baton Rouge|033|Scotlandville|05/01/1994|06/07/2022||||303553N|0910820W|30.5979648|-91.1389955|||0.0|0.0
 559276|Whispering Oaks|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/01/1994|06/07/2022||||303325N|0910629W|30.5568547|-91.1081613|||0.0|0.0
 559277|White Oak Run|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/01/1994|06/07/2022||||303536N|0910055W|30.5932425|-91.0153812|||0.0|0.0
@@ -14907,7 +14907,7 @@
 1867283|Eden Isle|Populated Place|Louisiana|22|St. Tammany|103|North Shore|05/15/2000|06/07/2022||||301343N|0894755W|30.2285288|-89.7986746|||0.0|0.0
 1867284|Merrydale|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/15/2000|06/07/2022||||303005N|0910630W|30.5013004|-91.1084389|||0.0|0.0
 1867285|North Vacherie|Populated Place|Louisiana|22|St. James|093|Lower Vacherie|05/15/2000|06/07/2022||||295949N|0904220W|29.9968696|-90.7056463|||0.0|0.0
-1867286|Shenandoah|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/15/2000|06/07/2022||||302405N|0910003W|30.4013028|-91.0009354|||0.0|0.0
+1867286|Shenandoah|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/15/2000|04/14/2025||||302405N|0910003W|30.4013028|-91.0009354|||0.0|0.0
 1867287|South Vacherie|Populated Place|Louisiana|22|St. James|093|Lower Vacherie|05/15/2000|06/07/2022||||295539N|0904159W|29.9274271|-90.6998125|||0.0|0.0
 1867288|Timberlane|Populated Place|Louisiana|22|Jefferson|051|New Orleans East|05/15/2000|06/07/2022||||295239N|0900155W|29.8774282|-90.0320153|||0.0|0.0
 1867290|West Ferriday|Populated Place|Louisiana|22|Concordia|029|Ferriday North|05/15/2000|06/07/2022||||313826N|0913423W|31.6404443|-91.5731766|||0.0|0.0
@@ -15587,7 +15587,7 @@
 2402559|Hackberry Census Designated Place|Census|Louisiana|22|Cameron|023|Browns Lake|03/10/2008|08/08/2023||||295818N|0932341W|29.9717005|-93.394789|||0.0|0.0
 2402560|Hahnville Census Designated Place|Census|Louisiana|22|St. Charles|089|Hahnville|03/10/2008|08/09/2023||||295751N|0902451W|29.9641062|-90.4140645|||0.0|0.0
 2402571|Harvey Census Designated Place|Census|Louisiana|22|Jefferson|051|New Orleans East|03/10/2008|08/08/2023||||295315N|0900360W|29.8876083|-90.0665845|||0.0|0.0
-2402616|Inniswold Census Designated Place|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|08/08/2023||||302354N|0910415W|30.3982187|-91.0709485|||0.0|0.0
+2402616|Inniswold Census Designated Place (historical)|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|04/15/2025||||302354N|0910415W|30.3982187|-91.0709485|||0.0|0.0
 2402632|Jefferson Census Designated Place|Census|Louisiana|22|Jefferson|051|New Orleans West|03/10/2008|08/09/2023||||295739N|0900919W|29.9609306|-90.1553639|||0.0|0.0
 2402643|Ama Census Designated Place|Census|Louisiana|22|St. Charles|089|Luling|03/10/2008|08/09/2023||||295639N|0901748W|29.9440288|-90.2966552|||0.0|0.0
 2402644|Amelia Census Designated Place|Census|Louisiana|22|St. Mary|101|Amelia|03/10/2008|08/08/2023||||293952N|0910626W|29.6644776|-91.1072253|||0.0|0.0
@@ -15615,7 +15615,7 @@
 2402779|Claiborne Census Designated Place|Census|Louisiana|22|Ouachita|073|West Monroe North|03/10/2008|08/08/2023||||323216N|0921153W|32.5378568|-92.198023|||0.0|0.0
 2402812|Saint Rose Census Designated Place|Census|Louisiana|22|St. Charles|089|Luling|03/10/2008|08/08/2023||||295754N|0901832W|29.9648794|-90.3087705|||0.0|0.0
 2402830|Schriever Census Designated Place|Census|Louisiana|22|Terrebonne|109|Gray|03/10/2008|08/09/2023||||294360N|0904952W|29.7332914|-90.830981|||0.0|0.0
-2402848|Shenandoah Census Designated Place|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|08/08/2023||||302407N|0910007W|30.4019264|-91.0020514|||0.0|0.0
+2402848|Shenandoah Census Designated Place (historical)|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|04/15/2025||||302407N|0910007W|30.4019264|-91.0020514|||0.0|0.0
 2402879|South Vacherie Census Designated Place|Census|Louisiana|22|St. James|093|Lower Vacherie|03/10/2008|08/09/2023||||295626N|0904121W|29.9406017|-90.689293|||0.0|0.0
 2402906|Supreme Census Designated Place|Census|Louisiana|22|Assumption|007|Labadieville|03/10/2008|08/08/2023||||295138N|0905944W|29.8604334|-90.9955177|||0.0|0.0
 2402908|Swartz Census Designated Place|Census|Louisiana|22|Ouachita|073|Swartz|03/10/2008|08/08/2023||||323451N|0915913W|32.5808756|-91.9868866|||0.0|0.0
@@ -15623,12 +15623,12 @@
 2402921|Terrytown Census Designated Place|Census|Louisiana|22|Jefferson|051|New Orleans East|03/10/2008|08/08/2023||||295405N|0900141W|29.9014123|-90.0279336|||0.0|0.0
 2402935|Timberlane Census Designated Place|Census|Louisiana|22|Jefferson|051|New Orleans East|03/10/2008|08/08/2023||||295241N|0900149W|29.8780683|-90.0302576|||0.0|0.0
 2402951|Unorganized Territory of Industrial Complex (historical)|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge West|03/10/2008|05/07/2008||||302938N|0911107W|30.4939799|-91.185151|||0.0|0.0
-2402967|Village Saint George Census Designated Place|Census|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/10/2008|08/08/2023||||302135N|0910402W|30.359799|-91.0672046|||0.0|0.0
+2402967|Village Saint George Census Designated Place (historical)|Census|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/10/2008|04/15/2025||||302135N|0910402W|30.359799|-91.0672046|||0.0|0.0
 2402973|Violet Census Designated Place|Census|Louisiana|22|St. Bernard|087|Chalmette|03/10/2008|08/08/2023||||295347N|0895331W|29.8962534|-89.8919817|||0.0|0.0
 2402978|Waggaman Census Designated Place|Census|Louisiana|22|Jefferson|051|New Orleans West|03/10/2008|08/09/2023||||295614N|0901407W|29.9372817|-90.235405|||0.0|0.0
 2402980|Wallace Census Designated Place|Census|Louisiana|22|St. John the Baptist|095|Lutcher|03/10/2008|08/08/2023||||300149N|0903925W|30.0302415|-90.6569294|||0.0|0.0
 2403003|West Ferriday Census Designated Place|Census|Louisiana|22|Concordia|029|Ferriday South|03/10/2008|||||313718N|0913517W|31.6216254|-91.587988|||0.0|0.0
-2403014|Westminster Census Designated Place|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|08/09/2023||||302428N|0910524W|30.4076482|-91.0899967|||0.0|0.0
+2403014|Westminster Census Designated Place (historical)|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|04/15/2025||||302428N|0910524W|30.4076482|-91.0899967|||0.0|0.0
 2403041|Woodmere Census Designated Place|Census|Louisiana|22|Jefferson|051|Bertrandville|03/10/2008|08/08/2023||||295058N|0900430W|29.8493114|-90.075078|||0.0|0.0
 2403057|City of Abbeville|Civil|Louisiana|22|Vermilion|113|Abbeville West|03/10/2008|08/09/2023||||295830N|0920735W|29.9750153|-92.1263078|||0.0|0.0
 2403079|City of Alexandria|Civil|Louisiana|22|Rapides|079|Alexandria|03/10/2008|08/09/2023||||311732N|0922813W|31.2922844|-92.4701834|||0.0|0.0
@@ -15655,8 +15655,8 @@
 2403334|New Sarpy Census Designated Place|Census|Louisiana|22|St. Charles|089|Hahnville|03/10/2008|08/09/2023||||295852N|0902259W|29.980981|-90.3831273|||0.0|0.0
 2403339|Norco Census Designated Place|Census|Louisiana|22|St. Charles|089|Hahnville|03/10/2008|08/09/2023||||295955N|0902413W|29.9986379|-90.4036288|||0.0|0.0
 2403356|North Vacherie Census Designated Place|Census|Louisiana|22|St. James|093|Lutcher|03/10/2008|08/08/2023||||300017N|0904239W|30.0047595|-90.7109394|||0.0|0.0
-2403362|Oak Hills Place Census Designated Place|Census|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/10/2008|08/09/2023||||302208N|0910519W|30.3689742|-91.0886713|||0.0|0.0
-2403374|Old Jefferson Census Designated Place|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|08/09/2023||||302239N|0910022W|30.3775481|-91.006001|||0.0|0.0
+2403362|Oak Hills Place Census Designated Place (historical)|Census|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/10/2008|04/15/2025||||302208N|0910519W|30.3689742|-91.0886713|||0.0|0.0
+2403374|Old Jefferson Census Designated Place (historical)|Census|Louisiana|22|East Baton Rouge|033|Baton Rouge East|03/10/2008|04/15/2025||||302239N|0910022W|30.3775481|-91.006001|||0.0|0.0
 2403386|Paincourtville Census Designated Place|Census|Louisiana|22|Assumption|007|Napoleonville|03/10/2008|08/08/2023||||295919N|0910320W|29.9885834|-91.0554359|||0.0|0.0
 2403396|Paradis Census Designated Place|Census|Louisiana|22|St. Charles|089|Des Allemands|03/10/2008|08/08/2023||||295205N|0902623W|29.8680251|-90.4397396|||0.0|0.0
 2403408|Pierre Part Census Designated Place|Census|Louisiana|22|Assumption|007|Pierre Part|03/10/2008|08/08/2023||||295634N|0911247W|29.9428384|-91.213169|||0.0|0.0
@@ -16138,3 +16138,8 @@
 2831469|Front Ridge|Ridge|Louisiana|22|Vermilion|113|Pecan Island|02/15/2024|02/16/2024||||293842N|0922641W|29.6451089|-92.444633|||0.0|0.0
 2832401|Neptune Pass|Channel|Louisiana|22|Plaquemines|075|Buras|10/04/2024|10/04/2024||||292218N|0893043W|29.37167|-89.51184|||0.0|0.0
 2832465|Bald Hill|Summit|Louisiana|22|Catahoula|025|Nickel|02/06/2025|02/24/2025||||315140N|0920014W|31.86116|-92.00394|||0.0|0.0
+2832501|City of Saint George|Civil|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/19/2025|04/14/2025||||302156N|0910141W|30.365475|-91.027999|||0.0|0.0
+2832503|Carman Branch|Stream|Louisiana|22|Sabine|085|Toro|03/19/2025|03/19/2025|Official|Board Decision|03/13/2025|311840N|0933049W|31.31108|-93.51362|311848N|0932941W|31.31335|-93.49473
+2832504|Koenck Coteau|Area|Louisiana|22|Vernon|115|New Llano|03/19/2025|03/19/2025|Official|Board Decision|03/13/2025|310321N|0931550W|31.0557675|-93.263867|||0.0|0.0
+2832546|Anne des Cadeaux Bayou|Stream|Louisiana|22|Natchitoches|069|Robeline|05/09/2025|05/09/2025|Official|Board Decision|05/08/2025|314301N|0931814W|31.71697|-93.30397|314244N|0931649W|31.71225|-93.28014
+2832547|Brevelle Branch|Stream|Louisiana|22|Sabine|085|Toro|05/09/2025|05/09/2025|Official|Board Decision|05/08/2025|311904N|0933026W|31.31789|-93.50736|311855N|0932841W|31.31536|-93.47792

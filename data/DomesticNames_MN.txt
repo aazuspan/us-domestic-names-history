@@ -20037,7 +20037,7 @@
 2783990|Moozoogitagaaning Island|Island|Minnesota|27|Cook|031|South Lake|05/09/2016||Official|Board Decision|05/05/2016|480417N|0903600W|48.0713888|-90.6|||0.0|0.0
 2784026|Sugar Loaf Point|Cape|Minnesota|27|Cook|031|Little Marais OE E|08/23/2017|||||472912N|0905847W|47.486718|-90.979734|||0.0|0.0
 2784108|Indian Point Segment|Civil|Minnesota|27|St. Louis|137|Orr|05/20/2016|||||480339N|0925047W|48.060704|-92.846489|||0.0|0.0
-2784109|Unorganized Territory of Liberty|Civil|Minnesota|27|Itasca|061|Wildwood SE|05/20/2016|08/12/2023||||474536N|0935025W|47.7601216|-93.8402602|||0.0|0.0
+2784109|Unorganized Territory of Liberty (historical)|Civil|Minnesota|27|Itasca|061|Wildwood SE|05/20/2016|04/15/2025||||474536N|0935025W|47.7601216|-93.8402602|||0.0|0.0
 2784207|Lang Lake|Lake|Minnesota|27|Itasca|061|Effie|06/13/2016|02/01/2021|Official|Board Decision|06/09/2016|474541N|0933819W|47.7613635|-93.6385064|||0.0|0.0
 2784688|Valley Lake|Lake|Minnesota|27|Dakota|037|Farmington|07/05/2018|||||444254N|0931232W|44.7151|-93.209008|||0.0|0.0
 2784689|Wood Park Pond|Lake|Minnesota|27|Dakota|037|Orchard Lake|07/05/2018|||||444428N|0931557W|44.7411|-93.2657|||0.0|0.0
@@ -20073,3 +20073,5 @@
 2832429|City of Baldwin|Civil|Minnesota|27|Sherburne|141|Princeton|11/15/2024|11/15/2024||||453050N|0933418W|45.514|-93.5718|||0.0|0.0
 2832430|Baldwin|Populated Place|Minnesota|27|Sherburne|141|Princeton|11/15/2024|11/15/2024||||453050N|0933418W|45.514|-93.5718|||0.0|0.0
 2832477|Sunny Lake|Lake|Minnesota|27|Beltrami|007|Turtle River Lake|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|473203N|0944216W|47.5343|-94.70456|||0.0|0.0
+2832515|Unorganized Territory of 14925|Census|Minnesota|27|Itasca|061|Spring Lake|04/14/2025|04/14/2025||||474300N|0935022W|47.716768|-93.839402|||0.0|0.0
+2832516|Unorganized Territory of 15025|Census|Minnesota|27|Itasca|061|Wildwood SE|04/14/2025|04/14/2025||||474812N|0935028W|47.803439|-93.841116|||0.0|0.0

@@ -8286,7 +8286,7 @@
 570521|Lower Narrows|Channel|Maine|23|Cumberland|005|North Windham|09/30/1980|||||435138N|0702528W|43.8606317|-70.4244984|||0.0|0.0
 570522|Lower Narrows|Channel|Maine|23|Somerset|025|Long Pond|09/30/1980|||||453725N|0700453W|45.6236566|-70.0814535|||0.0|0.0
 570523|Lower Narrows Pond|Lake|Maine|23|Kennebec|011|Winthrop|09/30/1980|05/13/2018||||441726N|0695702W|44.290636|-69.9506201|||0.0|0.0
-570524|Lower Negro Island|Island|Maine|23|Hancock|009|Castine|09/30/1980|||||442419N|0684617W|44.4053545|-68.7714183|||0.0|0.0
+570524|Emanuel Island|Island|Maine|23|Hancock|009|Castine|09/30/1980|05/09/2025|Official|Board Decision|05/08/2025|442419N|0684617W|44.4053545|-68.7714183|||0.0|0.0
 570525|Lower Oxbrook Lake|Lake|Maine|23|Washington|029|Oxbrook Lakes|09/30/1980|05/10/2018||||451652N|0675033W|45.2811563|-67.8426349|||0.0|0.0
 570526|Lower Oxhead Pond|Lake|Maine|23|Hancock|009|West Lake|09/30/1980|05/12/2018||||450445N|0681342W|45.0792604|-68.2282847|||0.0|0.0
 570527|Lower Partridge Pond|Lake|Maine|23|Piscataquis|021|Haymock Lake|09/30/1980|10/18/2017||||462212N|0691003W|46.3700757|-69.167598|||0.0|0.0
@@ -14399,7 +14399,7 @@
 577634|Upper Narrows|Channel|Maine|23|Somerset|025|Heald Pond|09/30/1980|||||453733N|0700752W|45.6258792|-70.1311766|||0.0|0.0
 577635|Upper Narrows|Gap|Maine|23|Cumberland|005|Raymond|09/30/1980|||||435427N|0702354W|43.9075753|-70.3983877|||0.0|0.0
 577636|Upper Narrows Pond|Lake|Maine|23|Kennebec|011|Winthrop|09/30/1980|05/12/2018||||441826N|0695634W|44.3071127|-69.9426713|||0.0|0.0
-577637|Upper Negro Island|Island|Maine|23|Hancock|009|Castine|09/30/1980|||||442429N|0684614W|44.4081322|-68.770585|||0.0|0.0
+577637|Esther Island|Island|Maine|23|Hancock|009|Castine|09/30/1980|05/09/2025|Official|Board Decision|05/08/2025|442429N|0684614W|44.4081322|-68.770585|||0.0|0.0
 577638|Upper Oxbrook Lake|Lake|Maine|23|Washington|029|Oxbrook Lakes|09/30/1980|05/10/2018||||451734N|0675005W|45.2928563|-67.8346357|||0.0|0.0
 577639|Upper Oxhead Pond|Lake|Maine|23|Hancock|009|Brandy Pond|09/30/1980|05/12/2018||||450458N|0681515W|45.0828374|-68.2540479|||0.0|0.0
 577640|Upper Partridge Pond|Lake|Maine|23|Piscataquis|021|Haymock Lake|09/30/1980|10/18/2017||||462141N|0690902W|46.3612667|-69.1505051|||0.0|0.0

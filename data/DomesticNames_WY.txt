@@ -19092,3 +19092,4 @@
 2831228|West Crow Woman Butte|Summit|Wyoming|56|Park|029|Gillies Draw|05/17/2023|05/17/2023|Official|Board Decision|05/11/2023|440634N|1083435W|44.10947|-108.57647|||0.0|0.0
 2831531|Porter Creek|Stream|Wyoming|56|Natrona|025|Ice Cave Mountain|06/14/2024|06/14/2024|Official|Board Decision|06/13/2024|423034N|1060915W|42.50943|-106.15413|423256N|1060710W|42.54889|-106.11941
 2832479|Roach Gulch Reservoir|Reservoir|Wyoming|56|Park|029|Tatman Mountain|02/21/2025|02/21/2025||||442150N|1083641W|44.3639|-108.61144|||0.0|0.0
+2832507|Mount Fryxell|Summit|Wyoming|56|Teton|039|Mount Moran|03/25/2025|03/25/2025||||434714N|1104854W|43.78736|-110.81506|||0.0|0.0
