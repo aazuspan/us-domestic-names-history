@@ -2300,7 +2300,7 @@
 2475187|Pawtucket Armory (historical)|Military|Rhode Island|44|Providence|007|Pawtucket|07/16/2008|05/31/2022||||415249N|0712251W|41.8803|-71.3807|||0.0|0.0
 2475188|The Kentish Guards Armory (historical)|Military|Rhode Island|44|Kent|003|East Greenwich|07/16/2008|05/31/2022||||413945N|0712703W|41.6625|-71.4509|||0.0|0.0
 2475189|Westerly Armory (historical)|Military|Rhode Island|44|Washington|009|Ashaway|07/16/2008|05/31/2022||||412255N|0714938W|41.382|-71.8272|||0.0|0.0
-2511936|Naval Station Newport|Military|Rhode Island|44|Newport|005|Prudence Island|11/17/2008|05/31/2022||||413143N|0711828W|41.5285646|-71.3076765|||0.0|0.0
+2511936|Naval Station Newport|Military|Rhode Island|44|Newport|005|Prudence Island|11/17/2008|05/22/2025||||413143N|0711828W|41.5285646|-71.3076765|||0.0|0.0
 2511987|Quonset Air Guard Base|Military|Rhode Island|44|Washington|009|Wickford|11/17/2008|05/31/2022||||413534N|0712545W|41.5927348|-71.4291685|||0.0|0.0
 2512158|Davisville Construction Battalion Center|Military|Rhode Island|44|Washington|009|Wickford|11/17/2008|05/31/2022||||413651N|0712516W|41.6140654|-71.4210845|||0.0|0.0
 2567562|Gould Brook|Stream|Rhode Island|44|Providence|007|Georgiaville|08/15/2009||Official|Board Decision|08/13/2009|415339N|0713027W|41.89424|-71.50754|415457N|0712851W|41.915946|-71.480913

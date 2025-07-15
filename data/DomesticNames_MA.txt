@@ -13009,11 +13009,11 @@
 2378359|Ware Census Designated Place|Census|Massachusetts|25|Hampshire|015|Ware|02/11/2008|08/08/2023||||421518N|0721445W|42.2549668|-72.2459054|||0.0|0.0
 2418958|Hassanamisco Reservation|Civil|Massachusetts|25|Worcester|027|Grafton|04/11/2008|03/21/2023||||421243N|0714216W|42.2120115|-71.7044957|||0.0|0.0
 2419514|Wampanoag-Aquinnah Trust Land|Civil|Massachusetts|25|Dukes|007|Squibnocket|04/11/2008|03/21/2023||||412046N|0704626W|41.3461465|-70.773924|||0.0|0.0
-2512019|Soldier Systems Center Natick|Military|Massachusetts|25|Middlesex|017|Natick|11/17/2008|05/31/2022||||421718N|0712140W|42.2884069|-71.3611165|||0.0|0.0
-2512098|Coast Guard Station Boston|Military|Massachusetts|25|Suffolk|025|Boston South|11/17/2008|05/31/2022||||422205N|0710307W|42.3679588|-71.0520175|||0.0|0.0
-2512193|Fort Devens|Military|Massachusetts|25|Worcester|027|Shirley|11/17/2008|05/31/2022||||423026N|0714000W|42.5072996|-71.6666915|||0.0|0.0
+2512019|Soldier Systems Center Natick|Military|Massachusetts|25|Middlesex|017|Natick|11/17/2008|05/22/2025||||421718N|0712140W|42.2884069|-71.3611165|||0.0|0.0
+2512098|Coast Guard Station Boston|Military|Massachusetts|25|Suffolk|025|Boston South|11/17/2008|05/22/2025||||422205N|0710307W|42.3679588|-71.0520175|||0.0|0.0
+2512193|Fort Devens (historical)|Military|Massachusetts|25|Worcester|027|Shirley|11/17/2008|05/22/2025||||423026N|0714000W|42.5072996|-71.6666915|||0.0|0.0
 2512234|Hanscom Air Force Base|Military|Massachusetts|25|Middlesex|017|Concord|11/17/2008|05/31/2022||||422729N|0711634W|42.4581329|-71.2760485|||0.0|0.0
-2512389|Westover Air Force Base|Military|Massachusetts|25|Hampden|013|Springfield North|11/17/2008|05/31/2022||||421207N|0723216W|42.2020441|-72.5376565|||0.0|0.0
+2512389|Westover Air Reserve Base|Military|Massachusetts|25|Hampden|013|Springfield North|11/17/2008|05/22/2025||||421207N|0723216W|42.2020441|-72.5376565|||0.0|0.0
 2512409|Coast Guard Air Station Cape Cod|Military|Massachusetts|25|Barnstable|001|Pocasset|11/17/2008|05/31/2022||||413955N|0703129W|41.6654055|-70.5247465|||0.0|0.0
 2512430|Massachusetts Military Reservation|Military|Massachusetts|25|Barnstable|001|Pocasset|11/17/2008|05/31/2022||||414210N|0703235W|41.7026605|-70.543186|||0.0|0.0
 2519194|Yokun Ridge|Ridge|Massachusetts|25|Berkshire|003|Pittsfield West|02/05/2009|||||422405N|0731822W|42.401474|-73.306218|||0.0|0.0

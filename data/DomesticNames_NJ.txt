@@ -7239,19 +7239,19 @@
 2419194|Ramapough State Designated Tribal Statistical Area|Census|New Jersey|34|Passaic|031|Greenwood Lake|04/11/2008|03/21/2023||||410836N|0741630W|41.1434232|-74.2749091|||0.0|0.0
 2460919|Bogerts Ranch Estates|Populated Place|New Jersey|34|Bergen|003|Ramsey|07/21/2008|06/07/2022||||410207N|0741043W|41.0352778|-74.1786111|||0.0|0.0
 2504629|Watchung Mountains|Range|New Jersey|34|Passaic|031|Paterson|10/16/2008|||||405814N|0741154W|40.9705556|-74.1983333|||0.0|0.0
-2511958|Naval Weapons Station Earle|Military|New Jersey|34|Monmouth|025|Marlboro|11/17/2008|05/31/2022||||401524N|0740853W|40.2566979|-74.148091|||0.0|0.0
-2511963|New Jersey National Guard Sea Girt Unit|Military|New Jersey|34|Monmouth|025|Point Pleasant|11/17/2008|05/31/2022||||400726N|0740215W|40.12387|-74.0375305|||0.0|0.0
-2511975|Picatinny Arsenal|Military|New Jersey|34|Morris|027|Dover|11/17/2008|05/31/2022||||405733N|0743230W|40.9592817|-74.5416435|||0.0|0.0
-2512100|Coast Guard Station Cape May|Military|New Jersey|34|Cape May|009|Wildwood|11/17/2008|05/31/2022||||385701N|0745142W|38.9502093|-74.8615685|||0.0|0.0
-2512119|Coast Guard Station Manasquan Beach|Military|New Jersey|34|Ocean|029|Point Pleasant|11/17/2008|05/31/2022||||400611N|0740216W|40.1030876|-74.037826|||0.0|0.0
-2512139|Coast Guard Station Sandy Hook|Military|New Jersey|34|Monmouth|025|Sandy Hook West|11/17/2008|05/31/2022||||402817N|0740036W|40.4714592|-74.0100565|||0.0|0.0
-2512148|Coast Guard Training Center Cape May|Military|New Jersey|34|Cape May|009|Cape May|11/17/2008|05/31/2022||||385645N|0745256W|38.9458917|-74.8821565|||0.0|0.0
+2511958|Naval Weapons Station Earle|Military|New Jersey|34|Monmouth|025|Marlboro|11/17/2008|05/22/2025||||401524N|0740853W|40.2566979|-74.148091|||0.0|0.0
+2511963|New Jersey National Guard Sea Girt Unit|Military|New Jersey|34|Monmouth|025|Point Pleasant|11/17/2008|05/22/2025||||400726N|0740215W|40.12387|-74.0375305|||0.0|0.0
+2511975|Picatinny Arsenal|Military|New Jersey|34|Morris|027|Dover|11/17/2008|05/22/2025||||405733N|0743230W|40.9592817|-74.5416435|||0.0|0.0
+2512100|Coast Guard Station Cape May|Military|New Jersey|34|Cape May|009|Wildwood|11/17/2008|05/22/2025||||385701N|0745142W|38.9502093|-74.8615685|||0.0|0.0
+2512119|Coast Guard Station Manasquan Beach|Military|New Jersey|34|Ocean|029|Point Pleasant|11/17/2008|05/22/2025||||400611N|0740216W|40.1030876|-74.037826|||0.0|0.0
+2512139|Coast Guard Station Sandy Hook|Military|New Jersey|34|Monmouth|025|Sandy Hook West|11/17/2008|05/22/2025||||402817N|0740036W|40.4714592|-74.0100565|||0.0|0.0
+2512148|Coast Guard Training Center Cape May|Military|New Jersey|34|Cape May|009|Cape May|11/17/2008|05/22/2025||||385645N|0745256W|38.9458917|-74.8821565|||0.0|0.0
 2512194|Fort Dix|Military|New Jersey|34|Burlington|005|New Egypt|11/17/2008|05/31/2022||||400047N|0743206W|40.0129485|-74.535118|||0.0|0.0
 2512212|Fort Monmouth|Military|New Jersey|34|Monmouth|025|Long Branch West|11/17/2008|05/31/2022||||401843N|0740242W|40.3118633|-74.04508|||0.0|0.0
 2512291|McGuire Air Force Base|Military|New Jersey|34|Burlington|005|New Egypt|11/17/2008|05/31/2022||||400130N|0743520W|40.0248823|-74.588953|||0.0|0.0
 2512311|Naval Air Station Lakehurst|Military|New Jersey|34|Ocean|029|Lakehurst|11/17/2008|05/31/2022||||400152N|0742211W|40.0311501|-74.3697035|||0.0|0.0
-2512385|Warren Grove Range|Military|New Jersey|34|Burlington|005|Oswego Lake|11/17/2008|05/31/2022||||394221N|0742617W|39.7057556|-74.438116|||0.0|0.0
-2512411|Coast Guard Station Atlantic City|Military|New Jersey|34|Atlantic|001|Oceanville|11/17/2008|05/31/2022||||392242N|0742524W|39.3783875|-74.4233685|||0.0|0.0
+2512385|Warren Grove Range|Military|New Jersey|34|Burlington|005|Oswego Lake|11/17/2008|05/22/2025||||394221N|0742617W|39.7057556|-74.438116|||0.0|0.0
+2512411|Coast Guard Station Atlantic City|Military|New Jersey|34|Atlantic|001|Oceanville|11/17/2008|05/22/2025||||392242N|0742524W|39.3783875|-74.4233685|||0.0|0.0
 2572337|The Dike|Bar|New Jersey|34|Ocean|029|Barnegat Light|10/15/2009|||||394528N|0740713W|39.7577778|-74.1202778|||0.0|0.0
 2583964|Allamuchy Census Designated Place|Census|New Jersey|34|Warren|041|Tranquility|03/31/2010|08/08/2023||||405541N|0744842W|40.9279458|-74.8115852|||0.0|0.0
 2583965|Anderson Census Designated Place|Census|New Jersey|34|Warren|041|Washington|03/31/2010|08/09/2023||||404542N|0745548W|40.7616854|-74.9301082|||0.0|0.0

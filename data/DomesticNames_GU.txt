@@ -874,7 +874,7 @@
 2512331|Naval Computer and Telecommunications Station Barrigada|Military|Guam|66|Guam|010|Dededo|11/17/2008|05/31/2022||||132838N|1444949E|13.4771176|144.830274|||0.0|0.0
 2512332|Naval Computer and Telecommunications Station Finegayan|Military|Guam|66|Guam|010|Ritidian Point|11/17/2008|05/31/2022||||133458N|1445046E|13.5828519|144.846002|||0.0|0.0
 2512337|Naval Hospital Guam|Military|Guam|66|Guam|010|Hagatna|11/17/2008|05/31/2022||||132825N|1444424E|13.4735658|144.7400185|||0.0|0.0
-2512505|Naval Station Apra|Military|Guam|66|Guam|010|Apra Harbor|11/17/2008|05/31/2022||||132545N|1443858E|13.4291309|144.6493765|||0.0|0.0
+2512505|Naval Base Guam|Military|Guam|66|Guam|010|Apra Harbor|11/17/2008|05/22/2025||||132545N|1443858E|13.4291309|144.6493765|||0.0|0.0
 2575344|Typhoon Channel (historical)|Channel|Guam|66|Guam|010|Apra Harbor|01/21/2010||Vacated|Board Decision|09/27/1954|132700N|1444000E|13.45|144.6666667|||0.0|0.0
 2575348|Tiyan|Populated Place|Guam|66|Guam|010|Dededo|01/21/2010|01/27/2011|Official|Board Decision|12/31/1944|132860N|1444800E|13.4833333|144.8|||0.0|0.0
 2575349|Sumay Point (historical)|Cape|Guam|66|Guam|010|Apra Harbor|01/21/2010|01/04/2011||||132560N|1443900E|13.4333333|144.65|||0.0|0.0

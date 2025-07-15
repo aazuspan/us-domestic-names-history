@@ -19899,7 +19899,7 @@
 2479500|Kenwood Gables|Populated Place|Minnesota|27|Hennepin|053|Minneapolis South|07/17/2008|06/07/2022||||445760N|0931721W|44.9666|-93.2892|||0.0|0.0
 2512070|Camp Ripley|Military|Minnesota|27|Morrison|097|Belle Prairie NW|11/17/2008|05/31/2022||||461232N|0942454W|46.2088435|-94.414937|||0.0|0.0
 2512180|Finland Air Force Station|Military|Minnesota|27|Lake|075|Finland|11/17/2008|05/31/2022||||472716N|0911420W|47.4545498|-91.2388605|||0.0|0.0
-2512362|Twin Cities Army Ammunition Plant|Military|Minnesota|27|Ramsey|123|New Brighton|11/17/2008|05/31/2022||||450537N|0931004W|45.0935562|-93.167913|||0.0|0.0
+2512362|Twin Cities Army Ammunition Plant|Military|Minnesota|27|Ramsey|123|New Brighton|11/17/2008|05/22/2025||||450537N|0931004W|45.0935562|-93.167913|||0.0|0.0
 2512487|Minneapolis-Saint Paul International Airport Air Reserve Station|Military|Minnesota|27|Hennepin|053|Saint Paul West|11/17/2008|05/31/2022||||445325N|0931210W|44.8903222|-93.2026685|||0.0|0.0
 2514794|Rock Dam Creek|Stream|Minnesota|27|Pine|115|Askov Lookout Tower|12/12/2008||Official|Board Decision|12/11/2008|461421N|0923733W|46.2391667|-92.6258333|461602N|0923319W|46.2672222|-92.5552778
 2554759|Unorganized Territory of Klondike|Civil|Minnesota|27|Kittson|069|Juneberry Ridge|04/30/2009|08/12/2023||||484539N|0962814W|48.7607236|-96.470541|||0.0|0.0

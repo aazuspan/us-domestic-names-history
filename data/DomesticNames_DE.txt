@@ -2942,8 +2942,8 @@
 2400490|Knotts Landing|Populated Place|Delaware|10|Kent|001|Milford|02/28/2008|06/07/2022||||385606N|0752629W|38.9351|-75.4414|||0.0|0.0
 2400491|Colony West|Populated Place|Delaware|10|Kent|001|Milford|02/28/2008|06/07/2022||||385654N|0752545W|38.9483|-75.4292|||0.0|0.0
 2418723|Nanticoke Indian Tribe State Designated Tribal Statistical Area|Census|Delaware|10|Sussex|005|Fairmount|04/11/2008|03/21/2023||||383910N|0751256W|38.652672|-75.2155317|||0.0|0.0
-2512113|Coast Guard Station Indian River Inlet|Military|Delaware|10|Sussex|005|Bethany Beach|11/17/2008|05/31/2022||||383637N|0750405W|38.6103267|-75.0680895|||0.0|0.0
-2512167|Dover Air Force Base|Military|Delaware|10|Kent|001|Little Creek|11/17/2008|05/31/2022||||390741N|0752756W|39.1280319|-75.4654715|||0.0|0.0
+2512113|Coast Guard Station Indian River Inlet|Military|Delaware|10|Sussex|005|Bethany Beach|11/17/2008|05/22/2025||||383637N|0750405W|38.6103267|-75.0680895|||0.0|0.0
+2512167|Dover Air Force Base|Military|Delaware|10|Kent|001|Little Creek|11/17/2008|05/22/2025||||390741N|0752756W|39.1280319|-75.4654715|||0.0|0.0
 2574383|Tannery Run|Stream|Pennsylvania|42|Chester|029|Kennett Square|12/14/2009||Official|Board Decision|12/10/2009|394647N|0754436W|39.7797222|-75.7433333|394653N|0754329W|39.7813889|-75.7247222
 2575194|Lenape Indian Tribe of Delaware State Designated Tribal Statistical Area|Census|Delaware|10|Kent|001|Dover|01/13/2010|03/21/2023||||391224N|0753537W|39.2067577|-75.5936303|||0.0|0.0
 2583320|Pike Creek Valley Census Designated Place|Census|Delaware|10|New Castle|003|Newark East|03/31/2010|08/09/2023||||394346N|0754156W|39.7293405|-75.6988539|||0.0|0.0

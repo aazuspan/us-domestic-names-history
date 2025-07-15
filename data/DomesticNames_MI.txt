@@ -20968,22 +20968,22 @@
 2498784|Hartwick Lake|Lake|Michigan|26|Crawford|039|Grayling|10/27/2008|05/14/2019|Official|Board Decision|03/20/1958|444409N|0843925W|44.7359608|-84.6569195|||0.0|0.0
 2508906|Songers Point|Cape|Michigan|26|Roscommon|143|Prudenville|12/16/2008|||||442045N|0844059W|44.3458333|-84.6830556|||0.0|0.0
 2508907|McDonald Point|Cape|Michigan|26|Roscommon|143|Meads Landing|12/16/2008|||||442240N|0844545W|44.3777778|-84.7625|||0.0|0.0
-2512010|Selfridge Air National Guard Base|Military|Michigan|26|Macomb|099|Mount Clemens East|11/17/2008|05/31/2022||||423651N|0824949W|42.6141709|-82.8301965|||0.0|0.0
+2512010|Selfridge Air National Guard Base|Military|Michigan|26|Macomb|099|Mount Clemens East|11/17/2008|05/22/2025||||423651N|0824949W|42.6141709|-82.8301965|||0.0|0.0
 2512011|Selfridge Army Garrison|Military|Michigan|26|Macomb|099|Mount Clemens East|11/17/2008|05/31/2022||||423613N|0824860W|42.6037051|-82.8166115|||0.0|0.0
 2512058|Camp Grayling|Military|Michigan|26|Kalkaska|079|Fletcher|11/17/2008|05/31/2022||||443551N|0845358W|44.5975529|-84.8994125|||0.0|0.0
-2512101|Coast Guard Station Charlevoix|Military|Michigan|26|Charlevoix|029|Ironton|11/17/2008|05/31/2022||||451859N|0851445W|45.3162528|-85.245858|||0.0|0.0
-2512111|Coast Guard Station Holland|Military|Michigan|26|Ottawa|139|Holland West|11/17/2008|05/31/2022||||424626N|0861209W|42.7739785|-86.20251|||0.0|0.0
-2512120|Coast Guard Station Manistee|Military|Michigan|26|Manistee|101|Parkdale|11/17/2008|05/31/2022||||441501N|0862030W|44.2503675|-86.3416415|||0.0|0.0
-2512122|Coast Guard Station Marquette|Military|Michigan|26|Marquette|103|Marquette|11/17/2008|05/31/2022||||463247N|0872236W|46.546407|-87.3768055|||0.0|0.0
-2512133|Coast Guard Station Port Huron|Military|Michigan|26|St. Clair|147|Lakeport|11/17/2008|05/31/2022||||430019N|0822523W|43.0053355|-82.423173|||0.0|0.0
+2512101|Coast Guard Station Charlevoix|Military|Michigan|26|Charlevoix|029|Ironton|11/17/2008|05/22/2025||||451859N|0851445W|45.3162528|-85.245858|||0.0|0.0
+2512111|Coast Guard Station Holland|Military|Michigan|26|Ottawa|139|Holland West|11/17/2008|05/22/2025||||424626N|0861209W|42.7739785|-86.20251|||0.0|0.0
+2512120|Coast Guard Station Manistee|Military|Michigan|26|Manistee|101|Parkdale|11/17/2008|05/22/2025||||441501N|0862030W|44.2503675|-86.3416415|||0.0|0.0
+2512122|Coast Guard Station Marquette|Military|Michigan|26|Marquette|103|Marquette|11/17/2008|05/22/2025||||463247N|0872236W|46.546407|-87.3768055|||0.0|0.0
+2512133|Coast Guard Station Port Huron|Military|Michigan|26|St. Clair|147|Lakeport|11/17/2008|05/22/2025||||430019N|0822523W|43.0053355|-82.423173|||0.0|0.0
 2512134|Coast Guard Station Portage|Military|Michigan|26|Houghton|061|Chassell|11/17/2008|05/31/2022||||470701N|0883039W|47.1168823|-88.5108625|||0.0|0.0
 2512140|Coast Guard Station Sault Saint Marie|Military|Michigan|26|Chippewa|033|Sault Ste. Marie South|11/17/2008|05/31/2022||||462960N|0842019W|46.4999825|-84.3386405|||0.0|0.0
-2512144|Coast Guard Station Tawas|Military|Michigan|26|Iosco|069|East Tawas|11/17/2008|05/31/2022||||441519N|0832703W|44.2554134|-83.450851|||0.0|0.0
-2512163|Detroit Arsenal|Military|Michigan|26|Macomb|099|Highland Park|11/17/2008|05/31/2022||||422949N|0830230W|42.4969134|-83.041785|||0.0|0.0
-2512191|Fort Custer Training Center|Military|Michigan|26|Kalamazoo|077|Augusta|11/17/2008|05/31/2022||||421733N|0851933W|42.2926007|-85.325858|||0.0|0.0
-2512458|Coast Guard Station Grand Haven|Military|Michigan|26|Ottawa|139|Grand Haven|11/17/2008|05/31/2022||||430337N|0861418W|43.0603635|-86.238467|||0.0|0.0
-2512502|Coast Guard Station Ludington|Military|Michigan|26|Mason|105|Ludington|11/17/2008|05/31/2022||||435710N|0862735W|43.9529162|-86.459726|||0.0|0.0
-2512517|Coast Guard Station Frankfort|Military|Michigan|26|Benzie|019|Frankfort|11/17/2008|05/31/2022||||443749N|0861439W|44.6302637|-86.2442445|||0.0|0.0
+2512144|Coast Guard Station Tawas|Military|Michigan|26|Iosco|069|East Tawas|11/17/2008|05/22/2025||||441519N|0832703W|44.2554134|-83.450851|||0.0|0.0
+2512163|Detroit Arsenal|Military|Michigan|26|Macomb|099|Highland Park|11/17/2008|05/22/2025||||422949N|0830230W|42.4969134|-83.041785|||0.0|0.0
+2512191|Fort Custer Training Center|Military|Michigan|26|Kalamazoo|077|Augusta|11/17/2008|05/22/2025||||421733N|0851933W|42.2926007|-85.325858|||0.0|0.0
+2512458|Coast Guard Station Grand Haven|Military|Michigan|26|Ottawa|139|Grand Haven|11/17/2008|05/22/2025||||430337N|0861418W|43.0603635|-86.238467|||0.0|0.0
+2512502|Coast Guard Station Ludington|Military|Michigan|26|Mason|105|Ludington|11/17/2008|05/22/2025||||435710N|0862735W|43.9529162|-86.459726|||0.0|0.0
+2512517|Coast Guard Station Frankfort|Military|Michigan|26|Benzie|019|Frankfort|11/17/2008|05/22/2025||||443749N|0861439W|44.6302637|-86.2442445|||0.0|0.0
 2513397|Conna-Mara Lake|Lake|Michigan|26|Lake|085|Marlborough|12/17/2008|09/27/2018||||434903N|0854607W|43.8174729|-85.7685787|||0.0|0.0
 2514261|Riverton (historical)|Populated Place|Michigan|26|Mason|105|Scottville|01/06/2009|06/07/2022||||435418N|0862020W|43.905|-86.3388889|||0.0|0.0
 2514264|Lincoln (historical)|Populated Place|Michigan|26|Mason|105|Ludington|01/06/2009|06/07/2022||||435930N|0862803W|43.9916667|-86.4675|||0.0|0.0

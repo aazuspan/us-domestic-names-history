@@ -397,11 +397,11 @@
 2496982|Point Reno|Summit|District of Columbia|11|District of Columbia|001|Washington West|09/08/2008|04/08/2020|Official|Board Decision|09/03/2008|385706N|0770434W|38.9517864|-77.076023|||0.0|0.0
 2512033|Anacostia Annex (historical)|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/17/2008|05/31/2022||||385119N|0770039W|38.8552886|-77.010841|||0.0|0.0
 2512207|Fort Lesley J McNair|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/17/2008|05/31/2022||||385200N|0770060W|38.8667669|-77.0166025|||0.0|0.0
-2512274|Marine Barracks|Military|District of Columbia|11|District of Columbia|001|Washington East|11/17/2008|05/31/2022||||385242N|0765952W|38.8782494|-76.997647|||0.0|0.0
-2512345|Naval Research Laboratory|Military|District of Columbia|11|District of Columbia|001|Alexandria|11/17/2008|05/31/2022||||384926N|0770121W|38.8238335|-77.022423|||0.0|0.0
+2512274|Marine Barracks|Military|District of Columbia|11|District of Columbia|001|Washington East|11/17/2008|05/22/2025||||385242N|0765952W|38.8782494|-76.997647|||0.0|0.0
+2512345|Naval Research Laboratory|Military|District of Columbia|11|District of Columbia|001|Alexandria|11/17/2008|05/22/2025||||384926N|0770121W|38.8238335|-77.022423|||0.0|0.0
 2512365|United States Naval Observatory|Military|District of Columbia|11|District of Columbia|001|Washington West|11/17/2008|05/31/2022||||385517N|0770401W|38.9215133|-77.0668685|||0.0|0.0
 2512383|Walter Reed Army Medical Center|Military|District of Columbia|11|District of Columbia|001|Washington West|11/17/2008|05/31/2022||||385830N|0770153W|38.9751258|-77.031402|||0.0|0.0
-2512386|Washington Navy Yard|Military|District of Columbia|11|District of Columbia|001|Anacostia|11/17/2008|05/31/2022||||385226N|0765942W|38.8738225|-76.995|||0.0|0.0
+2512386|Naval Support Activity Washington|Military|District of Columbia|11|District of Columbia|001|Anacostia|11/17/2008|05/22/2025||||385226N|0765942W|38.8738225|-76.995|||0.0|0.0
 2512447|Bolling Air Force Base (historical)|Military|District of Columbia|11|District of Columbia|000|Alexandria|11/17/2008|05/31/2022||||385024N|0770102W|38.8398896|-77.017269|||0.0|0.0
 2575396|Little River|Gut|District of Columbia|11|District of Columbia|001|Washington West|01/22/2010|||||385340N|0770353W|38.8944444|-77.0647222|||0.0|0.0
 2790960|Heritage Island|Island|District of Columbia|11|District of Columbia|000|Washington East|02/13/2018|||||385333N|0765758W|38.8925183|-76.9662432|||0.0|0.0

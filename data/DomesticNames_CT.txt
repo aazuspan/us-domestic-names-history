@@ -6973,9 +6973,9 @@
 2512025|Stone Ranch Military Reservation|Military|Connecticut|09|Southeastern Connecticut|180|Old Lyme|11/17/2008|05/31/2022||||412202N|0721626W|41.3671469|-72.2737505|||0.0|0.0
 2512069|Camp Niantic|Military|Connecticut|09|Southeastern Connecticut|180|Niantic|11/17/2008|05/31/2022||||411953N|0721113W|41.3314653|-72.186907|||0.0|0.0
 2512085|Coast Guard Academy|Military|Connecticut|09|Southeastern Connecticut|180|New London|11/17/2008|05/31/2022||||412229N|0720558W|41.3748063|-72.09952|||0.0|0.0
-2512126|Coast Guard Station New London|Military|Connecticut|09|Southeastern Connecticut|180|New London|11/17/2008|05/31/2022||||412044N|0720534W|41.3456156|-72.092772|||0.0|0.0
-2512460|Coast Guard Station New Haven|Military|Connecticut|09|South Central Connecticut|170|Milford|11/17/2008|05/31/2022||||411338N|0730057W|41.2273138|-73.0158715|||0.0|0.0
-2512506|Naval Submarine Base New London|Military|Connecticut|09|Southeastern Connecticut|180|Uncasville|11/17/2008|05/31/2022||||412354N|0720510W|41.3984372|-72.0861485|||0.0|0.0
+2512126|Coast Guard Station New London|Military|Connecticut|09|Southeastern Connecticut|180|New London|11/17/2008|05/22/2025||||412044N|0720534W|41.3456156|-72.092772|||0.0|0.0
+2512460|Coast Guard Station New Haven|Military|Connecticut|09|South Central Connecticut|170|Milford|11/17/2008|05/22/2025||||411338N|0730057W|41.2273138|-73.0158715|||0.0|0.0
+2512506|Naval Submarine Base New London|Military|Connecticut|09|Southeastern Connecticut|180|Uncasville|11/17/2008|05/22/2025||||412354N|0720510W|41.3984372|-72.0861485|||0.0|0.0
 2558342|Laurel Beach|Beach|Connecticut|09|South Central Connecticut|170|Milford|06/02/2009|||||411055N|0730535W|41.182078|-73.093071|||0.0|0.0
 2558397|Wee Captain Island|Island|Connecticut|09|Western Connecticut|190|Bayville|06/02/2009|||||405925N|0733632W|40.9902778|-73.6088889|||0.0|0.0
 2567590|Powers Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Palmertown|08/15/2009||Official|Board Decision|08/13/2009|412531N|0721322W|41.425368|-72.222866|412540N|0721228W|41.427669|-72.207899

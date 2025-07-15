@@ -19978,14 +19978,14 @@
 2418969|Houlton Maliseet Reservation|Civil|Maine|23|Aroostook|003|Houlton North|04/11/2008|03/21/2023||||461047N|0674836W|46.1798138|-67.8099262|||0.0|0.0
 2418973|Indian Township Reservation|Civil|Maine|23|Washington|029|Tomah Ridge|04/11/2008|03/21/2023||||451555N|0673644W|45.2653961|-67.6121489|||0.0|0.0
 2419052|Passamaquoddy Trust Land|Civil|Maine|23|Franklin|007|Skinner|04/11/2008|03/21/2023||||453302N|0703405W|45.5505531|-70.5679682|||0.0|0.0
-2511983|Portsmouth Naval Shipyard|Military|Maine|23|York|031|Kittery|11/17/2008|05/31/2022||||430446N|0704406W|43.0794649|-70.7350465|||0.0|0.0
-2512009|Security Group Activity Winter Harbor|Military|Maine|23|Hancock|009|Petit Manan Point|11/17/2008|05/31/2022||||442413N|0675917W|44.4037144|-67.9879965|||0.0|0.0
-2512093|Coast Guard Base South Portland|Military|Maine|23|Cumberland|005|Portland East|11/17/2008|05/31/2022||||433840N|0701449W|43.6445395|-70.247021|||0.0|0.0
-2512097|Coast Guard Station Boothbay Harbor|Military|Maine|23|Lincoln|015|Boothbay Harbor|11/17/2008|05/31/2022||||435032N|0693837W|43.8421617|-69.643515|||0.0|0.0
-2512142|Coast Guard Station Southwest Harbor|Military|Maine|23|Hancock|009|Southwest Harbor|11/17/2008|05/31/2022||||441631N|0681845W|44.2751454|-68.312424|||0.0|0.0
-2512305|Naval Air Station Brunswick|Military|Maine|23|Cumberland|005|Brunswick|11/17/2008|05/31/2022||||435260N|0695554W|43.8832056|-69.9316525|||0.0|0.0
+2511983|Portsmouth Naval Shipyard|Military|Maine|23|York|031|Kittery|11/17/2008|05/22/2025||||430446N|0704406W|43.0794649|-70.7350465|||0.0|0.0
+2512009|Security Group Activity Winter Harbor|Military|Maine|23|Hancock|009|Petit Manan Point|11/17/2008|05/22/2025||||442413N|0675917W|44.4037144|-67.9879965|||0.0|0.0
+2512093|Coast Guard Base South Portland|Military|Maine|23|Cumberland|005|Portland East|11/17/2008|05/22/2025||||433840N|0701449W|43.6445395|-70.247021|||0.0|0.0
+2512097|Coast Guard Station Boothbay Harbor|Military|Maine|23|Lincoln|015|Boothbay Harbor|11/17/2008|05/22/2025||||435032N|0693837W|43.8421617|-69.643515|||0.0|0.0
+2512142|Coast Guard Station Southwest Harbor|Military|Maine|23|Hancock|009|Southwest Harbor|11/17/2008|05/22/2025||||441631N|0681845W|44.2751454|-68.312424|||0.0|0.0
+2512305|Naval Air Station Brunswick|Military|Maine|23|Cumberland|005|Brunswick|11/17/2008|05/22/2025||||435260N|0695554W|43.8832056|-69.9316525|||0.0|0.0
 2512344|Naval Radio Station Cutler|Military|Maine|23|Washington|029|Machias Bay|11/17/2008|05/31/2022||||443903N|0671728W|44.6507987|-67.2910335|||0.0|0.0
-2512459|Coast Guard Station Jonesport|Military|Maine|23|Washington|029|Jonesport|11/17/2008|05/31/2022||||443140N|0673660W|44.5279087|-67.616557|||0.0|0.0
+2512459|Coast Guard Station Jonesport|Military|Maine|23|Washington|029|Jonesport|11/17/2008|05/22/2025||||443140N|0673660W|44.5279087|-67.616557|||0.0|0.0
 2559629|Orris Falls|Falls|Maine|23|York|031|North Berwick|07/01/2009|||||431631N|0704239W|43.2752778|-70.7108333|||0.0|0.0
 2562463|Aroostook Band of Micmac Trust Land|Civil|Maine|23|Aroostook|003|Fort Fairfield NW|07/14/2009|03/21/2023||||465525N|0675336W|46.9235417|-67.8931988|||0.0|0.0
 2564602|Bacons Corner|Populated Place|Maine|23|Kennebec|011|Belgrade|08/10/2009|06/07/2022||||442528N|0694519W|44.424463|-69.755287|||0.0|0.0

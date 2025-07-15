@@ -22096,34 +22096,34 @@
 2493925|Pebble Beach Creek|Canal|Florida|12|Charlotte|015|Englewood|11/18/2008|||||265344N|0821644W|26.8956922|-82.2789085|||0.0|0.0
 2493926|Pelican Bay|Bay|Florida|12|Charlotte|015|Placida|11/18/2008|02/14/2019||||265042N|0821712W|26.8449817|-82.2867256|||0.0|0.0
 2493927|Pine Valley Creek|Canal|Florida|12|Charlotte|015|Englewood|11/18/2008|||||265312N|0821610W|26.8866632|-82.269308|||0.0|0.0
-2511935|Naval Station Mayport|Military|Florida|12|Duval|031|Mayport|11/17/2008|05/31/2022||||302247N|0812543W|30.3796436|-81.4285805|||0.0|0.0
+2511935|Naval Station Mayport|Military|Florida|12|Duval|031|Mayport|11/17/2008|05/22/2025||||302247N|0812543W|30.3796436|-81.4285805|||0.0|0.0
 2511969|Orlando Naval Training Center|Military|Florida|12|Orange|095|Pine Castle|11/17/2008|05/31/2022||||282557N|0812029W|28.4325024|-81.341478|||0.0|0.0
 2511972|Patrick Air Force Base|Military|Florida|12|Brevard|009|Tropic|11/17/2008|05/31/2022||||281417N|0803628W|28.2380932|-80.6079035|||0.0|0.0
-2511977|Pinecastle Impact Range|Military|Florida|12|Marion|083|Farles Lake|11/17/2008|05/31/2022||||290654N|0814258W|29.1150759|-81.716196|||0.0|0.0
-2512040|Avon Park Auxiliary Airfield|Military|Florida|12|Highlands|055|Lake Arbuckle NE|11/17/2008|05/31/2022||||273844N|0811725W|27.6455547|-81.2902845|||0.0|0.0
-2512048|Blount Island Command|Military|Florida|12|Duval|031|Eastport|11/17/2008|05/31/2022||||302407N|0813127W|30.4019068|-81.5242635|||0.0|0.0
+2511977|Pinecastle Electronic Warfare Range|Military|Florida|12|Marion|083|Farles Lake|11/17/2008|05/22/2025||||290654N|0814258W|29.1150759|-81.716196|||0.0|0.0
+2512040|Avon Park Air Force Range|Military|Florida|12|Highlands|055|Lake Arbuckle NE|11/17/2008|05/22/2025||||273844N|0811725W|27.6455547|-81.2902845|||0.0|0.0
+2512048|Marine Corps Support Facility Blount Island|Military|Florida|12|Duval|031|Eastport|11/17/2008|05/22/2025||||302407N|0813127W|30.4019068|-81.5242635|||0.0|0.0
 2512089|Coast Guard Air Station Miami|Military|Florida|12|Miami-Dade|086|Opa-locka|11/17/2008|05/31/2022||||255430N|0801627W|25.9082597|-80.2741895|||0.0|0.0
-2512099|Coast Guard Station Cape Canaveral|Military|Florida|12|Brevard|009|Cape Canaveral|11/17/2008|05/31/2022||||282456N|0803714W|28.4156808|-80.6204705|||0.0|0.0
-2512106|Coast Guard Station Fort Myers Beach|Military|Florida|12|Lee|071|Fort Myers Beach|11/17/2008|05/31/2022||||262732N|0815715W|26.4587876|-81.954188|||0.0|0.0
-2512115|Coast Guard Station Jupiter Inlet|Military|Florida|12|Martin|085|Hobe Sound|11/17/2008|05/31/2022||||270208N|0800652W|27.0355453|-80.1145175|||0.0|0.0
-2512116|Coast Guard Station Lake Worth Inlet|Military|Florida|12|Palm Beach|099|Riviera Beach|11/17/2008|05/31/2022||||264720N|0800305W|26.7888079|-80.0513015|||0.0|0.0
-2512132|Coast Guard Station Ponce de Leon|Military|Florida|12|Volusia|127|New Smyrna Beach|11/17/2008|05/31/2022||||290355N|0805442W|29.0651543|-80.91163|||0.0|0.0
-2512150|Coastal Systems Station Panama City|Military|Florida|12|Bay|005|Panama City|11/17/2008|05/31/2022||||300956N|0854460W|30.1655471|-85.7499665|||0.0|0.0
-2512171|Eglin Air Force Base|Military|Florida|12|Okaloosa|091|Valparaiso|11/17/2008|05/31/2022||||303416N|0863241W|30.5711454|-86.544766|||0.0|0.0
-2512242|Homestead Air Reserve Base|Military|Florida|12|Miami-Dade|086|Homestead|11/17/2008|05/31/2022||||252904N|0802319W|25.4843897|-80.388726|||0.0|0.0
+2512099|Coast Guard Station Cape Canaveral|Military|Florida|12|Brevard|009|Cape Canaveral|11/17/2008|05/22/2025||||282456N|0803714W|28.4156808|-80.6204705|||0.0|0.0
+2512106|Coast Guard Station Fort Myers Beach|Military|Florida|12|Lee|071|Fort Myers Beach|11/17/2008|05/22/2025||||262732N|0815715W|26.4587876|-81.954188|||0.0|0.0
+2512115|Coast Guard Station Jupiter Inlet|Military|Florida|12|Martin|085|Hobe Sound|11/17/2008|05/22/2025||||270208N|0800652W|27.0355453|-80.1145175|||0.0|0.0
+2512116|Coast Guard Station Lake Worth Inlet|Military|Florida|12|Palm Beach|099|Riviera Beach|11/17/2008|05/22/2025||||264720N|0800305W|26.7888079|-80.0513015|||0.0|0.0
+2512132|Coast Guard Station Ponce de Leon|Military|Florida|12|Volusia|127|New Smyrna Beach|11/17/2008|05/22/2025||||290355N|0805442W|29.0651543|-80.91163|||0.0|0.0
+2512150|Naval Support Activity Panama City|Military|Florida|12|Bay|005|Panama City|11/17/2008|05/22/2025||||300956N|0854460W|30.1655471|-85.7499665|||0.0|0.0
+2512171|Eglin Air Force Base|Military|Florida|12|Okaloosa|091|Valparaiso|11/17/2008|05/22/2025||||303416N|0863241W|30.5711454|-86.544766|||0.0|0.0
+2512242|Homestead Air Reserve Base|Military|Florida|12|Miami-Dade|086|Homestead|11/17/2008|05/22/2025||||252904N|0802319W|25.4843897|-80.388726|||0.0|0.0
 2512244|Hurlburt Field|Military|Florida|12|Okaloosa|091|Mary Esther|11/17/2008|05/31/2022||||302539N|0864149W|30.427618|-86.696952|||0.0|0.0
-2512267|Macdill Air Force Base|Military|Florida|12|Hillsborough|057|Port Tampa|11/17/2008|05/31/2022||||275050N|0823012W|27.8472039|-82.5033785|||0.0|0.0
-2512309|Naval Air Station Jacksonville|Military|Florida|12|Duval|031|Orange Park|11/17/2008|05/31/2022||||301304N|0814103W|30.2178808|-81.6840455|||0.0|0.0
-2512310|Naval Air Station Key West|Military|Florida|12|Monroe|087|Boca Chica Key|11/17/2008|05/31/2022||||243338N|0814125W|24.5605378|-81.690272|||0.0|0.0
-2512317|Naval Air Station Pensacola|Military|Florida|12|Escambia|033|Fort Barrancas|11/17/2008|05/31/2022||||302126N|0871823W|30.3572925|-87.3064915|||0.0|0.0
+2512267|Macdill Air Force Base|Military|Florida|12|Hillsborough|057|Port Tampa|11/17/2008|05/22/2025||||275050N|0823012W|27.8472039|-82.5033785|||0.0|0.0
+2512309|Naval Air Station Jacksonville|Military|Florida|12|Duval|031|Orange Park|11/17/2008|05/22/2025||||301304N|0814103W|30.2178808|-81.6840455|||0.0|0.0
+2512310|Naval Air Station Key West|Military|Florida|12|Monroe|087|Boca Chica Key|11/17/2008|05/22/2025||||243338N|0814125W|24.5605378|-81.690272|||0.0|0.0
+2512317|Naval Air Station Pensacola|Military|Florida|12|Escambia|033|Fort Barrancas|11/17/2008|05/22/2025||||302126N|0871823W|30.3572925|-87.3064915|||0.0|0.0
 2512320|Naval Air Station Whiting Field|Military|Florida|12|Santa Rosa|113|Milton North|11/17/2008|05/31/2022||||304244N|0870106W|30.7123438|-87.018384|||0.0|0.0
 2512346|Naval Reservation Dania Beach|Military|Florida|12|Broward|011|Port Everglades|11/17/2008|05/31/2022||||260532N|0800635W|26.0920857|-80.1097115|||0.0|0.0
 2512363|Tyndall Air Force Base|Military|Florida|12|Bay|005|Long Point|11/17/2008|05/31/2022||||300318N|0853403W|30.0549597|-85.5674755|||0.0|0.0
-2512364|Coast Guard Air Station Clearwater|Military|Florida|12|Pinellas|103|Saint Petersburg|11/17/2008|05/31/2022||||274546N|0823740W|27.7628454|-82.627718|||0.0|0.0
-2512370|United States Coast Guard Integrated Support Command|Military|Florida|12|Miami-Dade|086|Miami|11/17/2008|05/31/2022||||254616N|0800843W|25.7711758|-80.145285|||0.0|0.0
+2512364|Coast Guard Air Station Clearwater|Military|Florida|12|Pinellas|103|Saint Petersburg|11/17/2008|05/22/2025||||274546N|0823740W|27.7628454|-82.627718|||0.0|0.0
+2512370|United States Coast Guard Integrated Support Command|Military|Florida|12|Miami-Dade|086|Miami|11/17/2008|05/22/2025||||254616N|0800843W|25.7711758|-80.145285|||0.0|0.0
 2512399|Camp Blanding|Military|Florida|12|Clay|019|Kingsley|11/17/2008|05/31/2022||||295649N|0815824W|29.9468559|-81.9732405|||0.0|0.0
 2512407|Cape Canaveral Air Force Station|Military|Florida|12|Brevard|009|Cape Canaveral|11/17/2008|05/31/2022||||282954N|0803405W|28.4984562|-80.5681705|||0.0|0.0
-2512461|Coast Guard Station Panama City|Military|Florida|12|Bay|005|Panama City Beach|11/17/2008|05/31/2022||||301012N|0854521W|30.1698775|-85.755878|||0.0|0.0
+2512461|Coast Guard Station Panama City|Military|Florida|12|Bay|005|Panama City Beach|11/17/2008|05/22/2025||||301012N|0854521W|30.1698775|-85.755878|||0.0|0.0
 2514500|Nela Isle Annex (historical)|Populated Place|Florida|12|Orange|095|Pine Castle|12/10/2008|06/07/2022||||282751N|0812051W|28.46424|-81.347601|||0.0|0.0
 2514501|Canal Addition (historical)|Populated Place|Florida|12|Orange|095|Pine Castle|12/10/2008|06/07/2022||||282751N|0812041W|28.46424|-81.344812|||0.0|0.0
 2514502|Lake Conway Park (historical)|Populated Place|Florida|12|Orange|095|Pine Castle|12/10/2008|06/07/2022||||282752N|0812030W|28.464541|-81.341786|||0.0|0.0

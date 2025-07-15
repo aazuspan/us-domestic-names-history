@@ -684,7 +684,7 @@
 1463109|Berry Mountain|Summit|Virginia|51|Madison|113|Madison|09/28/1979|08/22/2017|Official|Board Decision|01/01/1933|382301N|0782036W|38.3836134|-78.3433377|||0.0|0.0
 1463110|Berry Run|Stream|Virginia|51|Orange|137|Lahore|09/28/1979|||||381203N|0775854W|38.2009679|-77.9816643|381512N|0780103W|38.2534665|-78.0174986
 1463111|Berryville Reservoir|Reservoir|Virginia|51|Clarke|043|Ashby Gap|09/28/1979|04/15/2012||||390436N|0775420W|39.076708|-77.9055368|||0.0|0.0
-1463112|Besor Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|||||392019N|0781515W|39.3387115|-78.2541708|||0.0|0.0
+1463112|Besor Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|07/11/2025||||392005N|0781512W|39.3347284|-78.2534198|||0.0|0.0
 1463113|Bessie Bell Mountain|Summit|Virginia|51|Rappahannock|157|Woodville|09/28/1979|02/28/2025||||383648N|0780823W|38.6134478|-78.1398493|||0.0|0.0
 1463150|Bethel Beach|Beach|Virginia|51|Mathews|115|Mathews|09/28/1979|||||372506N|0761459W|37.4184681|-76.2496622|||0.0|0.0
 1463151|Bethel Branch|Stream|Virginia|51|Accomack|001|Parksley|09/28/1979|||||375052N|0753809W|37.8479044|-75.6357618|374923N|0753521W|37.8231824|-75.5890944
@@ -701,7 +701,7 @@
 1463285|Beverly Marsh Creek|Stream|Virginia|51|Essex|057|Champlain|09/28/1979|||||380358N|0765541W|38.0662441|-76.9280234|380417N|0765615W|38.0713889|-76.9375
 1463286|Beverly Run|Stream|Virginia|51|Spotsylvania|177|Lahore|09/28/1979|||||380954N|0775342W|38.1651351|-77.8949956|381153N|0775244W|38.1980556|-77.8788889
 1463287|Beverly Run|Stream|Virginia|51|Caroline|033|Sparta|09/28/1979|||||375514N|0771109W|37.920693|-77.1858093|380402N|0771427W|38.0673557|-77.2408117
-1463292|Bible Ridge|Ridge|Virginia|51|Nelson|125|Gladstone|09/28/1979|||||373324N|0785119W|37.5565316|-78.8552957|||0.0|0.0
+1463292|Bible Ridge|Ridge|Virginia|51|Nelson|125|Gladstone|09/28/1979|07/11/2025||||373344N|0785059W|37.562281|-78.8498455|||0.0|0.0
 1463295|Bickers Creek|Stream|Virginia|51|Prince George|149|Westover|09/28/1979|||||371805N|0771254W|37.3012595|-77.2149752|371710N|0771309W|37.2861111|-77.2191667
 1463300|Big A Mountain|Summit|Virginia|51|Buchanan|027|Big A Mountain|09/28/1979|03/04/2025||||370310N|0820208W|37.052867|-82.0356415|||0.0|0.0
 1463302|Big Bend of Dan|Bend|Virginia|51|Patrick|141|Meadows of Dan|09/28/1979|04/23/2018||||364011N|0802308W|36.6698585|-80.3856155|||0.0|0.0
@@ -971,7 +971,7 @@
 1463654|Bond Branch|Stream|Virginia|51|Culpeper|047|Culpeper West|09/28/1979|||||382757N|0780144W|38.4659595|-78.0288869|382902N|0780221W|38.4838889|-78.0391667
 1463655|Bonum Creek|Stream|Virginia|51|Westmoreland|193|Kinsale|09/28/1979|07/06/2020|Official|Board Decision|01/01/1940|380545N|0763454W|38.0958363|-76.5818039|380326N|0763708W|38.05733|-76.6190039
 1463656|Bonys Run|Stream|Virginia|51|Montgomery|121|Elliston|09/28/1979|||||370945N|0801430W|37.1626327|-80.2417096|370806N|0801500W|37.1351327|-80.2500433
-1463660|Booher Ridge|Ridge|Virginia|51|Scott|169|Blountville|09/28/1979|||||363652N|0821925W|36.6145474|-82.3234739|||0.0|0.0
+1463660|Booher Ridge|Ridge|Virginia|51|Scott|169|Blountville|09/28/1979|07/09/2025||||363655N|0821916W|36.6152708|-82.321135|||0.0|0.0
 1463663|Bookers Mill Stream|Stream|Virginia|51|Richmond|159|Lottsburg|09/28/1979|||||375434N|0763714W|37.9095786|-76.6205112|375325N|0763232W|37.8902778|-76.5422222
 1463664|Boom Swamp|Stream|Virginia|51|King George|099|Rollins Fork|09/28/1979|||||381132N|0770609W|38.1923526|-77.1024751|381315N|0770658W|38.2208333|-77.1161111
 1463668|Boot Swamp|Stream|Virginia|51|King William|101|Sparta|09/28/1979|||||375359N|0771437W|37.8998602|-77.2435888|375150N|0771839W|37.8637504|-77.3108124
@@ -1001,7 +1001,7 @@
 1463710|Bowle Spring Branch|Stream|Virginia|51|Halifax|083|South Boston|09/28/1979|||||363827N|0785617W|36.6409722|-78.938066|363711N|0785740W|36.6195835|-78.9611221
 1463711|Bowler Creek|Stream|Virginia|51|Appomattox|011|Pamplin|09/28/1979|||||371904N|0784138W|37.3176472|-78.6938956|371646N|0784220W|37.2794444|-78.7055556
 1463712|Bowler Creek|Stream|Virginia|51|Louisa|109|Boswells Tavern|09/28/1979|||||380522N|0781246W|38.0895815|-78.2127817|380554N|0781523W|38.09847|-78.256394
-1463717|Bowling Green Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|||||391618N|0781806W|39.2717687|-78.301671|||0.0|0.0
+1463717|Bowling Green Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|07/11/2025||||391616N|0781817W|39.271071|-78.3046322|||0.0|0.0
 1463721|Box Branch|Stream|Virginia|51|Buchanan|027|Vansant|09/28/1979|||||370816N|0820035W|37.1378887|-82.0098504|370837N|0820014W|37.1436111|-82.0038889
 1463722|Box Camp Creek|Stream|Virginia|51|Buchanan|027|Vansant|09/28/1979|||||371009N|0820402W|37.1692773|-82.0673538|371027N|0820250W|37.1741667|-82.0472222
 1463723|Box Tree Creek|Stream|Virginia|51|Northampton|131|Nassawadox|09/28/1979|||||372342N|0755132W|37.3951369|-75.858818|372315N|0755223W|37.3875|-75.8730556
@@ -3262,7 +3262,7 @@
 1467852|Hawksbill Spring|Spring|Virginia|51|Page|139|Big Meadows|09/28/1979|||||383327N|0782316W|38.5576234|-78.3877834|||0.0|0.0
 1467856|Hay Run|Stream|Virginia|51|Franklin|067|Boones Mill|09/28/1979|||||370125N|0795635W|37.0234728|-79.9430899|365942N|0795718W|36.9948617|-79.9550345
 1467858|Hayes Branch|Stream|Virginia|51|Nelson|125|Waynesboro East|09/28/1979|||||380053N|0785036W|38.0148604|-78.8433555|380147N|0784947W|38.0297222|-78.8297222
-1467860|Hayfield Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|||||391536N|0781725W|39.2601023|-78.2902818|||0.0|0.0
+1467860|Hayfield Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|07/11/2025||||391535N|0781726W|39.2596205|-78.2904749|||0.0|0.0
 1467862|Haynes Branch|Stream|Virginia|51|Tazewell|185|Bramwell|09/28/1979|||||371739N|0812213W|37.2942827|-81.3703801|371854N|0812336W|37.3151158|-81.3934362
 1467864|Haynes Pond|Reservoir|Virginia|51|Gloucester|073|Clay Bank|09/28/1979|12/14/2018||||372115N|0763253W|37.354039|-76.5479475|||0.0|0.0
 1467865|Haynesville|Populated Place|Virginia|51|Richmond|159|Haynesville|09/28/1979|06/07/2022||||375700N|0763945W|37.9501331|-76.6624565|||0.0|0.0
@@ -3743,7 +3743,7 @@
 1468690|Jericho Hollow|Valley|Virginia|51|Washington|191|Mendota|09/28/1979|02/19/2016||||364016N|0821805W|36.6711677|-82.3013458|363949N|0821844W|36.6635749|-82.3122211
 1468691|Jerimy Creek|Stream|Virginia|51|Halifax|083|South Boston|09/28/1979|||||363843N|0785858W|36.6454164|-78.9827895|363609N|0785828W|36.6023615|-78.9744557
 1468693|Jerrys Branch|Stream|Virginia|51|Campbell|031|Mike|09/28/1979|||||371228N|0785642W|37.2076447|-78.9450158|371328N|0785438W|37.2244444|-78.9105556
-1468695|Jersey Ridge|Ridge|Virginia|51|Pulaski|155|Hiwassee|09/28/1979|||||365744N|0803950W|36.9623464|-80.663954|||0.0|0.0
+1468695|Jersey Ridge|Ridge|Virginia|51|Pulaski|155|Hiwassee|09/28/1979|07/11/2025||||365731N|0803948W|36.9587097|-80.6633028|||0.0|0.0
 1468715|Jess Fork|Stream|Virginia|51|Buchanan|027|Harman|09/28/1979|||||371719N|0821236W|37.288721|-82.2098616|371838N|0821304W|37.3105556|-82.2177778
 1468716|Jess Hollow|Valley|Virginia|51|Buchanan|027|Jamboree|09/28/1979|03/01/2016||||372340N|0820732W|37.3945555|-82.1256135|372311N|0820724W|37.3864882|-82.1232258
 1468732|Jessee Hollow|Valley|Virginia|51|Russell|167|Carbo|09/28/1979|02/02/2016||||365346N|0821246W|36.8960712|-82.2128707|365317N|0821227W|36.8880555|-82.2073887
@@ -4329,7 +4329,7 @@
 1469667|Little Thoms Creek|Gut|Virginia|51|Northampton|131|Townsend|09/28/1979|||||371019N|0755320W|37.1718086|-75.8888161|||0.0|0.0
 1469668|Little Thorofare|Channel|Virginia|51|Accomack|001|Wachapreague|09/28/1979|||||373552N|0753753W|37.5979112|-75.6313159|||0.0|0.0
 1469669|Little Thrasher Gut|Gut|Virginia|51|Accomack|001|Metompkin Inlet|09/28/1979|||||374015N|0753614W|37.6709644|-75.6038164|||0.0|0.0
-1469670|Little Timber Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|||||391616N|0782216W|39.271213|-78.3711171|||0.0|0.0
+1469670|Little Timber Ridge|Ridge|Virginia|51|Frederick|069|Capon Bridge|09/28/1979|07/11/2025||||391504N|0782317W|39.2511433|-78.3880687|||0.0|0.0
 1469671|Little Toby Creek|Stream|Virginia|51|Halifax|083|Oak Level|09/28/1979|||||363918N|0790442W|36.6551382|-79.0783476|364018N|0790557W|36.6716667|-79.0991667
 1469672|Little Tomahawk Creek|Stream|Virginia|51|Chesterfield|041|Hallsboro|09/28/1979|||||372652N|0774026W|37.4476487|-77.6738814|373013N|0774039W|37.5034815|-77.6774923
 1469673|Little Toms Cove|Bay|Virginia|51|Accomack|001|Chincoteague East|09/28/1979||Official|Board Decision|01/01/1966|375315N|0752054W|37.8876245|-75.3482521|||0.0|0.0
@@ -6404,7 +6404,7 @@
 1474123|Seacorrie Swamp|Stream|Virginia|51|Sussex|183|Manry|09/28/1979|||||365530N|0770725W|36.9248726|-77.1235768|365710N|0770255W|36.9527778|-77.0486111
 1474124|Seaford|Populated Place|Virginia|51|York|199|Poquoson West|09/28/1979|06/07/2022|Official|Board Decision|01/01/1940|371154N|0762559W|37.1981994|-76.4330032|||0.0|0.0
 1474128|Seal Creek|Stream|Virginia|51|Accomack|001|Wachapreague|09/28/1979|||||373420N|0753947W|37.5723563|-75.6629827|373357N|0754015W|37.5658333|-75.6708333
-1474129|Sears Ridge|Ridge|Virginia|51|Nelson|125|Gladstone|09/28/1979|||||373550N|0785049W|37.5970869|-78.8469627|||0.0|0.0
+1474129|Sears Ridge|Ridge|Virginia|51|Nelson|125|Gladstone|09/28/1979|07/11/2025||||373523N|0785124W|37.5896059|-78.8566401|||0.0|0.0
 1474130|Seat Island Branch|Stream|Virginia|51|Dinwiddie|053|Dinwiddie|09/28/1979|||||370513N|0773711W|37.0868165|-77.6197122|370647N|0773854W|37.1129276|-77.6483248
 1474131|Seawright Springs|Spring|Virginia|51|Augusta|015|Mount Sidney|09/28/1979|||||381649N|0785919W|38.2804066|-78.9886399|||0.0|0.0
 1474133|Seay Creek|Stream|Virginia|51|Lunenburg|111|Kenbridge East|09/28/1979||Official|Board Decision|01/01/1960|365939N|0780131W|36.994039|-78.0252809|365748N|0780701W|36.9632056|-78.1169447
@@ -6978,7 +6978,7 @@
 1475158|Stingaree Point Cove|Bay|Virginia|51|Accomack|001|Quinby Inlet|09/28/1979|||||372849N|0753948W|37.4804145|-75.6632591|||0.0|0.0
 1475159|Stingray Point|Cape|Virginia|51|Middlesex|119|Deltaville|09/28/1979|05/23/2014||||373336N|0761755W|37.5601336|-76.2985537|||0.0|0.0
 1475160|Stingray Point|Populated Place|Virginia|51|Middlesex|119|Deltaville|09/28/1979|06/07/2022||||373331N|0761819W|37.5587449|-76.3052206|||0.0|0.0
-1475163|Stinson Ridge|Ridge|Virginia|51|Buchanan|027|Big A Mountain|09/28/1979|||||370652N|0820208W|37.1145549|-82.0356849|||0.0|0.0
+1475163|Stinson Ridge|Ridge|Virginia|51|Buchanan|027|Big A Mountain|09/28/1979|07/09/2025||||370712N|0820322W|37.1198933|-82.0561984|||0.0|0.0
 1475164|Stinson Ridge|Ridge|Virginia|51|Tazewell|185|Jewell Ridge|09/28/1979|||||371040N|0814621W|37.1778913|-81.772613|||0.0|0.0
 1475165|Stoakes Creek|Stream|Virginia|51|Mathews|115|Mathews|09/28/1979|||||372714N|0761550W|37.4540231|-76.2638295|372603N|0761623W|37.4341667|-76.2730556
 1475166|Stock Branch|Stream|Virginia|51|Buckingham|029|Howardsville|09/28/1979|||||374047N|0783851W|37.6795879|-78.6475127|373918N|0783813W|37.655|-78.6369444
@@ -7937,7 +7937,7 @@
 1476844|Winders Neck|Cape|Virginia|51|Accomack|001|Chincoteague West|09/28/1979|||||375906N|0752632W|37.9851224|-75.4421442|||0.0|0.0
 1476845|Winding Gap|Gap|Virginia|51|Buchanan|027|Harman|09/28/1979|||||371644N|0821333W|37.2789989|-82.2256959|||0.0|0.0
 1476846|Winding Ridge|Ridge|Virginia|51|Buchanan|027|Vansant|09/28/1979|||||370911N|0820433W|37.1531659|-82.0759652|||0.0|0.0
-1476847|Winding Ridge|Ridge|Virginia|51|Frederick|069|Glengary|09/28/1979|||||392244N|0781457W|39.3789883|-78.2491712|||0.0|0.0
+1476847|Winding Ridge|Ridge|Virginia|51|Frederick|069|Glengary|09/28/1979|07/11/2025||||392339N|0781407W|39.3942458|-78.235331|||0.0|0.0
 1476848|Windmill Point|Cape|Virginia|51|Prince George|149|Charles City|09/28/1979|||||371828N|0770536W|37.3076481|-77.093304|||0.0|0.0
 1476849|Windmill Point|Cape|Virginia|51|Gloucester|073|Achilles|09/28/1979|||||372154N|0762640W|37.3648625|-76.4443921|||0.0|0.0
 1476850|Windmill Point|Cape|Virginia|51|Lancaster|103|Deltaville|09/28/1979|05/23/2014||||373649N|0761647W|37.613744|-76.2796647|||0.0|0.0
@@ -10616,7 +10616,7 @@
 1482310|Canoe Branch|Stream|Virginia|51|Washington|191|Brumley|09/28/1979|||||364637N|0820353W|36.7770532|-82.0648524|364517N|0820251W|36.7547222|-82.0475
 1482315|Cantrell Hollow|Valley|Virginia|51|Wise|195|Caney Ridge|09/28/1979|02/24/2016||||370337N|0822953W|37.0603128|-82.4979358|370309N|0823031W|37.0525268|-82.5086907
 1482316|Capon Run|Stream|Virginia|51|Rockingham|165|Fulks Run|09/28/1979||Official|Board Decision|01/01/1968|384440N|0785514W|38.7445586|-78.9205825|384745N|0785139W|38.7959464|-78.8608577
-1482317|Capper Ridge|Ridge|Virginia|51|Frederick|069|Gore|09/28/1979|||||391505N|0782202W|39.2514913|-78.3672279|||0.0|0.0
+1482317|Capper Ridge|Ridge|Virginia|51|Frederick|069|Capon Springs|09/28/1979|07/11/2025||||391424N|0782249W|39.2400417|-78.3804029|||0.0|0.0
 1482318|Captain|Populated Place|Virginia|51|Craig|045|Waiteville|09/28/1979|06/07/2022||||372332N|0802717W|37.3923486|-80.4547795|||0.0|0.0
 1482319|Cardinal Ridge|Ridge|Virginia|51|Amherst|009|Forks of Buffalo|09/28/1979|07/24/2020||||374437N|0790920W|37.7434924|-79.1554877|||0.0|0.0
 1482320|Carding Machine Branch|Stream|Virginia|51|Wise|195|Norton|09/28/1979|||||365543N|0824012W|36.9287099|-82.6698804|365341N|0823806W|36.8947222|-82.635
@@ -13700,7 +13700,7 @@
 1487348|Smith Run|Stream|Virginia|51|Montgomery|121|McDonalds Mill|09/28/1979|||||371734N|0801700W|37.2929084|-80.2833794|371924N|0801738W|37.3233333|-80.2938889
 1487349|Smithfield|Populated Place|Virginia|51|Russell|167|Elk Garden|09/28/1979|06/07/2022||||365611N|0815759W|36.9364998|-81.9665144|||0.0|0.0
 1487351|Smoky Row Creek|Stream|Virginia|51|Augusta|015|Churchville|09/28/1979|||||380745N|0790953W|38.1292974|-79.164754|380543N|0790938W|38.0954093|-79.1605868
-1487352|Smooth Ridge|Ridge|Virginia|51|Rockingham|165|Brandywine|09/28/1979|||||383654N|0790829W|38.6151186|-79.1414241|||0.0|0.0
+1487352|Smooth Ridge|Ridge|Virginia|51|Rockingham|165|Brandywine|09/28/1979|07/09/2025||||383659N|0790840W|38.6164934|-79.1444711|||0.0|0.0
 1487353|Smyth Branch|Stream|Virginia|51|Washington|191|Hayters Gap|09/28/1979|||||364732N|0815256W|36.7923344|-81.8823463|364731N|0815050W|36.7920571|-81.8473454
 1487355|Smyth Gap|Gap|Virginia|51|Washington|191|Glade Spring|09/28/1979|||||364727N|0815031W|36.7909461|-81.8420675|||0.0|0.0
 1487356|Snag Hollow|Valley|Virginia|51|Tazewell|185|Tiptop|09/28/1979|02/27/2016||||371327N|0812758W|37.2242918|-81.4662229|371259N|0812842W|37.2164757|-81.4783092
@@ -23881,12 +23881,12 @@
 1791329|Menokin Millpond (historical)|Reservoir|Virginia|51|Richmond|159|Montross|04/20/1998|||||380018N|0764717W|38.0051326|-76.7880152|||0.0|0.0
 1791333|Morattico Swamp|Swamp|Virginia|51|Richmond|159|Morattico|04/20/1998|05/17/2023||||374910N|0763920W|37.8193724|-76.6555631|||0.0|0.0
 1791340|Paddys Creek|Stream|Virginia|51|Richmond|159|Tappahannock|04/20/1998|||||375731N|0765042W|37.9587457|-76.8449627|375807N|0765012W|37.9686111|-76.8366667
-1791342|Pantico Hill|Summit|Virginia|51|Richmond|159|Montross|04/20/1998|||||380255N|0764723W|38.0487432|-76.7896835|||0.0|0.0
+1791342|Pantico Hill|Summit|Virginia|51|Westmoreland|193|Montross|04/20/1998|06/27/2025||||380321N|0764724W|38.0559314|-76.7899094|||0.0|0.0
 1791344|Plant Patch Ferry (historical)|Crossing|Virginia|51|Richmond|159|Tappahannock|04/20/1998|||||375902N|0764836W|37.9840223|-76.8099608|||0.0|0.0
 1791347|Rock Springs Hill|Summit|Virginia|51|Richmond|159|Montross|04/20/1998|04/09/2025||||380218N|0764849W|38.0384657|-76.8135732|||0.0|0.0
 1791351|Sexton Hill|Summit|Virginia|51|Richmond|159|Montross|04/20/1998|04/09/2025||||380052N|0764730W|38.0145769|-76.7916268|||0.0|0.0
 1791352|Sexton Hill|Populated Place|Virginia|51|Richmond|159|Montross|04/20/1998|06/07/2022||||380055N|0764739W|38.0154103|-76.794127|||0.0|0.0
-1791354|Smith Hill|Summit|Virginia|51|Richmond|159|Tappahannock|04/20/1998|||||375810N|0764723W|37.969578|-76.7896821|||0.0|0.0
+1791354|Smith Hill|Summit|Virginia|51|Richmond|159|Tappahannock|04/20/1998|06/27/2025||||375815N|0764728W|37.9708773|-76.7911765|||0.0|0.0
 1791355|Snake Island|Island|Virginia|51|Richmond|159|Morattico|04/20/1998|||||374937N|0764037W|37.8270819|-76.6769016|||0.0|0.0
 1791358|Totuskey Ferry (historical)|Crossing|Virginia|51|Richmond|159|Haynesville|04/20/1998|||||375525N|0764314W|37.9237456|-76.7205132|||0.0|0.0
 1791368|Bayside|Populated Place|Virginia|51|Westmoreland|193|Machodoc|04/20/1998|06/07/2022||||380620N|0763910W|38.1056854|-76.6527365|||0.0|0.0
@@ -25704,17 +25704,17 @@
 2459339|Youngstead|Populated Place|Virginia|51|Stafford|179|Stafford|06/27/2008|06/07/2022||||382523N|0772418W|38.423|-77.4051|||0.0|0.0
 2507992|Captains Cove|Populated Place|Virginia|51|Accomack|001|Chincoteague West|10/30/2008|01/19/2011||||375924N|0752522W|37.989957|-75.422722|||0.0|0.0
 2511929|Naval Shipyard Norfolk|Military|Virginia|51|Portsmouth (city)|740|Norfolk South|11/17/2008|05/31/2022||||364804N|0761805W|36.8010721|-76.30137|||0.0|0.0
-2511937|Naval Station Norfolk|Military|Virginia|51|Norfolk (city)|710|Norfolk North|11/17/2008|05/31/2022||||365631N|0761754W|36.9420289|-76.298383|||0.0|0.0
+2511937|Naval Station Norfolk|Military|Virginia|51|Norfolk (city)|710|Norfolk North|11/17/2008|05/22/2025||||365631N|0761754W|36.9420289|-76.298383|||0.0|0.0
 2511944|Naval Supply Center Cheatham Annex|Military|Virginia|51|York|199|Clay Bank|11/17/2008|05/31/2022||||371702N|0763614W|37.2838378|-76.603793|||0.0|0.0
 2511948|Naval Support Activity Norfolk|Military|Virginia|51|Norfolk (city)|710|Norfolk North|11/17/2008|05/31/2022||||365534N|0761757W|36.9260799|-76.2991675|||0.0|0.0
 2511952|Naval Surface Warfare Center Dahlgren Mainside|Military|Virginia|51|King George|099|Dahlgren|11/17/2008|05/31/2022||||382026N|0770158W|38.3405925|-77.032697|||0.0|0.0
-2511959|Naval Weapons Station Yorktown|Military|Virginia|51|York|199|Yorktown|11/17/2008|05/31/2022||||371430N|0763447W|37.2417883|-76.579833|||0.0|0.0
+2511959|Naval Weapons Station Yorktown|Military|Virginia|51|York|199|Yorktown|11/17/2008|05/22/2025||||371430N|0763447W|37.2417883|-76.579833|||0.0|0.0
 2511966|Northwest Chesapeake Naval Information Operations Command|Military|Virginia|51|Chesapeake (city)|550|Lake Drummond SE|11/17/2008|05/31/2022||||363349N|0761601W|36.5637029|-76.266834|||0.0|0.0
-2511988|Radford Army Ammunition Plant|Military|Virginia|51|Montgomery|121|Radford North|11/17/2008|05/31/2022||||371102N|0803241W|37.1838513|-80.5446315|||0.0|0.0
+2511988|Radford Army Ammunition Plant|Military|Virginia|51|Montgomery|121|Radford North|11/17/2008|05/22/2025||||371102N|0803241W|37.1838513|-80.5446315|||0.0|0.0
 2511999|Naval Station Norfolk Saint Juliens Creek Annex|Military|Virginia|51|Chesapeake (city)|550|Norfolk South|10/05/2023|10/05/2023||||364719N|0761853W|36.7886925|-76.314694|||0.0|0.0
-2512135|Coast Guard Station Portsmouth|Military|Virginia|51|Portsmouth (city)|740|Norfolk North|11/17/2008|05/31/2022||||365259N|0762121W|36.883034|-76.355831|||0.0|0.0
+2512135|Coast Guard Station Portsmouth|Military|Virginia|51|Portsmouth (city)|740|Norfolk North|11/17/2008|05/22/2025||||365259N|0762121W|36.883034|-76.355831|||0.0|0.0
 2512154|Craney Island Fuel Depot|Military|Virginia|51|Portsmouth (city)|740|Norfolk North|11/17/2008|05/31/2022||||365318N|0762136W|36.8884137|-76.3598805|||0.0|0.0
-2512161|Defense Supply Center Richmond|Military|Virginia|51|Chesterfield|041|Drewrys Bluff|11/17/2008|05/31/2022||||372446N|0772641W|37.4128885|-77.444617|||0.0|0.0
+2512161|Defense Supply Center Richmond|Military|Virginia|51|Chesterfield|041|Drewrys Bluff|11/17/2008|05/22/2025||||372446N|0772641W|37.4128885|-77.444617|||0.0|0.0
 2512184|Fort Belvoir|Military|Virginia|51|Fairfax|059|Fort Belvoir|11/17/2008|05/31/2022|Vacated|Board Decision|02/09/1965|384134N|0770943W|38.6927378|-77.1619015|||0.0|0.0
 2512195|Fort Eustis|Military|Virginia|51|Newport News (city)|700|Yorktown|11/17/2008|05/31/2022||||370819N|0763521W|37.1387116|-76.589057|||0.0|0.0
 2512213|Fort Monroe|Military|Virginia|51|Hampton (city)|650|Hampton|11/17/2008|05/31/2022||||370020N|0761818W|37.0056075|-76.304864|||0.0|0.0
@@ -25723,20 +25723,20 @@
 2512223|Fort Story|Military|Virginia|51|Virginia Beach (city)|810|Cape Henry|11/17/2008|05/31/2022||||365531N|0760109W|36.92525|-76.019153|||0.0|0.0
 2512238|Henderson Hall|Military|Virginia|51|Arlington|013|Alexandria|11/17/2008|05/31/2022||||385209N|0770426W|38.8691755|-77.073796|||0.0|0.0
 2512258|Langley Air Force Base|Military|Virginia|51|Hampton (city)|650|Hampton|11/17/2008|05/31/2022||||370458N|0762143W|37.0827735|-76.362001|||0.0|0.0
-2512260|Lieber Army Reserve Center|Military|Virginia|51|Fairfax|059|Alexandria|11/17/2008|05/31/2022||||384611N|0770701W|38.769704|-77.116861|||0.0|0.0
-2512283|Marine Corps Base Quantico|Military|Virginia|51|Stafford|179|Stafford|11/17/2008|05/31/2022||||382923N|0772801W|38.4895896|-77.4668805|||0.0|0.0
-2512315|Naval Air Station Oceanna|Military|Virginia|51|Virginia Beach (city)|810|Princess Anne|11/17/2008|05/31/2022||||364858N|0760123W|36.8160863|-76.023035|||0.0|0.0
-2512324|Naval Auxiliary Landing Field Fentress|Military|Virginia|51|Chesapeake (city)|550|Fentress|11/17/2008|05/31/2022||||364200N|0760751W|36.7000667|-76.1309565|||0.0|0.0
-2512340|Naval Medical Center Portsmouth|Military|Virginia|51|Portsmouth (city)|740|Norfolk South|11/17/2008|05/31/2022||||365043N|0761831W|36.8453655|-76.308608|||0.0|0.0
+2512260|Lieber Army Reserve Center|Military|Virginia|51|Fairfax|059|Alexandria|11/17/2008|05/22/2025||||384611N|0770701W|38.769704|-77.116861|||0.0|0.0
+2512283|Marine Corps Base Quantico|Military|Virginia|51|Stafford|179|Stafford|11/17/2008|05/22/2025||||382923N|0772801W|38.4895896|-77.4668805|||0.0|0.0
+2512315|Naval Air Station Oceanna|Military|Virginia|51|Virginia Beach (city)|810|Princess Anne|11/17/2008|05/22/2025||||364858N|0760123W|36.8160863|-76.023035|||0.0|0.0
+2512324|Naval Auxiliary Landing Field Fentress|Military|Virginia|51|Chesapeake (city)|550|Fentress|11/17/2008|05/22/2025||||364200N|0760751W|36.7000667|-76.1309565|||0.0|0.0
+2512340|Naval Medical Center Portsmouth|Military|Virginia|51|Portsmouth (city)|740|Norfolk South|11/17/2008|05/22/2025||||365043N|0761831W|36.8453655|-76.308608|||0.0|0.0
 2512434|Naval Surface Warfare Center Pumpkin Annex|Military|Virginia|51|King George|099|Dahlgren|11/17/2008|05/31/2022||||381759N|0770232W|38.2996477|-77.0422095|||0.0|0.0
 2512451|Camp Pendleton|Military|Virginia|51|Virginia Beach (city)|810|Virginia Beach|11/17/2008|05/31/2022||||364828N|0755851W|36.807745|-75.980757|||0.0|0.0
 2512471|Fort Lee|Military|Virginia|51|Prince George|149|Prince George|11/17/2008|05/31/2022||||371406N|0771958W|37.2350327|-77.3327905|||0.0|0.0
 2512489|Naval Amphibious Base Little Creek|Military|Virginia|51|Virginia Beach (city)|810|Little Creek|11/17/2008|05/31/2022||||365507N|0760953W|36.918474|-76.1646935|||0.0|0.0
-2512494|Telecommunications and Information Systems Command|Military|Virginia|51|Fairfax|059|Annandale|11/17/2008|05/31/2022||||384519N|0770747W|38.7552333|-77.1298005|||0.0|0.0
-2512496|United States Coast Guard Training Center Yorktown|Military|Virginia|51|York|199|Poquoson West|11/17/2008|05/31/2022||||371260N|0762836W|37.2166307|-76.4767505|||0.0|0.0
-2512514|Camp Peary|Military|Virginia|51|York|199|Williamsburg|11/17/2008|05/31/2022||||371955N|0763937W|37.3320094|-76.6604|||0.0|0.0
+2512494|Telecommunications and Information Systems Command|Military|Virginia|51|Fairfax|059|Annandale|11/17/2008|05/22/2025||||384519N|0770747W|38.7552333|-77.1298005|||0.0|0.0
+2512496|United States Coast Guard Training Center Yorktown|Military|Virginia|51|York|199|Poquoson West|11/17/2008|05/22/2025||||371260N|0762836W|37.2166307|-76.4767505|||0.0|0.0
+2512514|Camp Peary|Military|Virginia|51|York|199|Williamsburg|11/17/2008|05/22/2025||||371955N|0763937W|37.3320094|-76.6604|||0.0|0.0
 2512519|Dam Neck Annex|Military|Virginia|51|Virginia Beach (city)|810|Virginia Beach|11/17/2008|05/31/2022||||364539N|0755744W|36.7607668|-75.9623415|||0.0|0.0
-2512521|Fort A P Hill|Military|Virginia|51|Caroline|033|Bowling Green|11/17/2008|05/31/2022||||380613N|0771557W|38.1035244|-77.265906|||0.0|0.0
+2512521|Fort Walker|Military|Virginia|51|Caroline|033|Bowling Green|11/17/2008|05/22/2025||||380613N|0771557W|38.1035244|-77.265906|||0.0|0.0
 2519270|Lake Frederick|Populated Place|Virginia|51|Frederick|069|Stephens City|02/06/2009|06/07/2022||||390235N|0780942W|39.0431682|-78.1616458|||0.0|0.0
 2559073|Rippon Landing|Populated Place|Virginia|51|Prince William|153|Quantico|06/13/2009|06/07/2022||||383708N|0771634W|38.618882|-77.276073|||0.0|0.0
 2572162|Wrights Peak|Summit|Virginia|51|Giles|071|Interior|10/11/2009|07/24/2020|Official|Board Decision|10/08/2009|372837N|0803128W|37.4768774|-80.5243215|||0.0|0.0
@@ -26145,7 +26145,7 @@
 2813259|Difficult Run|Populated Place|Virginia|51|Fairfax|059|Vienna|07/23/2020|||||385406N|0772050W|38.9016037|-77.3471823|||0.0|0.0
 2813260|Great Falls Crossing Census Designated Place|Census|Virginia|51|Fairfax|059|Vienna|07/23/2020|08/09/2023||||385851N|0771932W|38.9808137|-77.3255792|||0.0|0.0
 2813261|Great Falls Crossing|Populated Place|Virginia|51|Fairfax|059|Vienna|07/23/2020|||||385851N|0771932W|38.9808135|-77.3255789|||0.0|0.0
-2813263|Rappahannock Tribal Designated Statistical Area|Census|Virginia|51|Essex|057|Cauthornville|07/23/2020|03/21/2023||||375554N|0770239W|37.9316175|-77.044206|||0.0|0.0
+2813263|Rappahannock Tribal Designated Statistical Area (historical)|Census|Virginia|51|Essex|057|Cauthornville|07/23/2020|07/03/2025||||375554N|0770239W|37.9316175|-77.044206|||0.0|0.0
 2813340|Bull Run Census Designated Place|Census|Virginia|51|Fairfax|059|Manassas|08/03/2020|08/08/2023||||385023N|0772923W|38.8396367|-77.4896518|||0.0|0.0
 2813341|Hutchison Census Designated Place|Census|Virginia|51|Fairfax|059|Herndon|08/03/2020|08/09/2023||||385749N|0772440W|38.9636217|-77.4109751|||0.0|0.0
 2813342|Navy Census Designated Place|Census|Virginia|51|Fairfax|059|Herndon|08/03/2020|08/08/2023||||385317N|0772327W|38.8881547|-77.3907233|||0.0|0.0
@@ -26216,3 +26216,5 @@
 2832541|Stafford Lakes|Populated Place|Virginia|51|Stafford|179|Salem Church|04/11/2025|04/14/2025||||382157N|0773218W|38.3658|-77.5383|||0.0|0.0
 2832542|Vista Woods Census Designated Place|Census|Virginia|51|Stafford|179|Stafford|04/11/2025|04/11/2025||||382758N|0772857W|38.466|-77.4825|||0.0|0.0
 2832544|Courthouse Square Census Designated Place|Census|Virginia|51|Stafford|179|Stafford|04/14/2025|04/14/2025||||382520N|0772438W|38.4222|-77.4106|||0.0|0.0
+2832574|Liberty Creek|Stream|Virginia|51|Hanover|085|Hanover Academy|06/13/2025|06/13/2025|Official|Board Decision|06/12/2025|374812N|0773049W|37.80347|-77.51351|374631N|0773203W|37.7754|-77.53406
+2832590|Rappahannock Trust Land|Civil|Virginia|51|Essex|057|Cauthornville|07/02/2025|07/11/2025||||375433N|0770240W|37.9092|-77.0444|||0.0|0.0

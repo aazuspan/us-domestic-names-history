@@ -5663,15 +5663,15 @@
 2480873|Residence San Juan Bautista|Populated Place|Puerto Rico|72|San Juan|127|San Juan|07/18/2008|06/07/2022||||182627N|0660402W|18.44097|-66.067212|||0.0|0.0
 2480874|Rio Hondo IV|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|07/18/2008|06/07/2022||||182532N|0660949W|18.42559|-66.163675|||0.0|0.0
 2487485|Tumbao Barrio|Civil|Puerto Rico|72|Maunabo|095|Yabucoa|07/28/2008|08/14/2023||||180115N|0655516W|18.0207894|-65.9212259|||0.0|0.0
-2511940|Naval Station Roosevelt Roads|Military|Puerto Rico|72|Vieques|147|Isla De Vieques East OE S|11/17/2008|05/31/2022||||180647N|0652111W|18.1131293|-65.3530575|||0.0|0.0
+2511940|Naval Activity Puerto Rico|Military|Puerto Rico|72|Vieques|147|Isla De Vieques East OE S|11/17/2008|05/22/2025||||180647N|0652111W|18.1131293|-65.3530575|||0.0|0.0
 2511993|Reservación de Guardia Nacional|Military|Puerto Rico|72|Vega Baja|145|Manati|11/17/2008|05/31/2022||||182713N|0662521W|18.4535357|-66.4226385|||0.0|0.0
 2512038|Army Reserve Training Center|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/31/2022||||182432N|0660456W|18.4090232|-66.082253|||0.0|0.0
 2512072|Camp Santiago|Military|Puerto Rico|72|Salinas|123|Coamo|11/17/2008|05/31/2022||||180125N|0661709W|18.0235583|-66.2858895|||0.0|0.0
-2512087|Coast Guard Air Station Borinquen|Military|Puerto Rico|72|Aguadilla|005|Moca|11/17/2008|05/31/2022||||182949N|0670659W|18.4968408|-67.1163|||0.0|0.0
-2512187|Fort Buchanan|Military|Puerto Rico|72|Guaynabo|061|San Juan|11/17/2008|05/31/2022||||182438N|0660714W|18.4105735|-66.120464|||0.0|0.0
+2512087|Coast Guard Air Station Borinquen|Military|Puerto Rico|72|Aguadilla|005|Moca|11/17/2008|05/22/2025||||182949N|0670659W|18.4968408|-67.1163|||0.0|0.0
+2512187|Fort Buchanan|Military|Puerto Rico|72|Guaynabo|061|San Juan|11/17/2008|05/22/2025||||182438N|0660714W|18.4105735|-66.120464|||0.0|0.0
 2512327|Naval Base San Juan|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/31/2022||||182742N|0660532W|18.4616104|-66.0922965|||0.0|0.0
 2512350|Naval Security Group Activity Sabana Seca|Military|Puerto Rico|72|Toa Baja|137|Bayamon|11/17/2008|05/31/2022||||182708N|0661249W|18.4522035|-66.213727|||0.0|0.0
-2512462|Coast Guard Station San Juan|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/31/2022||||182719N|0660527W|18.4551957|-66.0906975|||0.0|0.0
+2512462|Coast Guard Station San Juan|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/22/2025||||182719N|0660527W|18.4551957|-66.0906975|||0.0|0.0
 2512467|Fort Allen|Military|Puerto Rico|72|Juana Díaz|075|Ponce|11/17/2008|05/31/2022||||180047N|0663015W|18.0130854|-66.504056|||0.0|0.0
 2575403|Punta Matojo|Cape|Puerto Rico|72|Culebra|049|Culebra|01/26/2010|02/10/2020||||182014N|0651724W|18.3373213|-65.2901052|||0.0|0.0
 2575404|Punta el Capitán|Cape|Puerto Rico|72|Mayagüez|097|Isla de Mona|01/26/2010|||||180635N|0675610W|18.1097222|-67.9361111|||0.0|0.0

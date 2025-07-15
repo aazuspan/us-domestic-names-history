@@ -167,7 +167,6 @@
 1024041|Hooper Creek|Stream|North Carolina|37|Polk|149|Fingerville West|06/17/1980|||||351105N|0820454W|35.1848384|-82.0817769|351416N|0820919W|35.2378925|-82.1553906
 1024194|North Pacolet River|Stream|South Carolina|45|Spartanburg|083|Valley Falls|07/13/1980|||||350639N|0815748W|35.1109524|-81.9634396|351322N|0822254W|35.2228937|-82.3817846
 1024330|Suck Creek|Stream|North Carolina|37|Cleveland|045|Boiling Springs South|06/17/1980|||||351307N|0814454W|35.2187348|-81.7484334|350805N|0814554W|35.1348468|-81.7651013
-1024346|Tennessee Valley Divide|Ridge|North Carolina|37|Ashe|009|Grayson|06/17/1980|||||363059N|0814206W|36.5165087|-81.70178|||0.0|0.0
 1024378|Vaughn Creek|Stream|North Carolina|37|Polk|149|Landrum|07/13/1980|12/07/2010||||351254N|0821258W|35.2151141|-82.2162252|351122N|0821719W|35.1895589|-82.2887267
 1027385|Calabash River|Stream|North Carolina|37|Brunswick|019|Calabash|01/01/2000||Official|Board Decision|01/01/1989|335239N|0783433W|33.8773945|-78.5758449|335526N|0782843W|33.9237832|-78.4786187
 1027460|Sixmile Creek|Stream|South Carolina|45|Lancaster|057|Catawba NE|07/13/1980|||||345501N|0804841W|34.9168148|-80.8114599|350442N|0804414W|35.0782029|-80.7372918
@@ -13846,17 +13845,17 @@
 2407593|Oak Grove|Populated Place|South Carolina|45|Lexington|063|Lexington|03/10/2008|06/07/2022||||335819N|0810838W|33.971913|-81.143865|||0.0|0.0
 2414575|Drafts Branch|Stream|South Carolina|45|Lexington|063|Irmo|03/15/2008||Official|Board Decision|03/13/2008|340056N|0811012W|34.0155556|-81.17|340100N|0810912W|34.0166667|-81.1533333
 2511956|Naval Weapons Station Charleston|Military|South Carolina|45|Berkeley|015|North Charleston|11/17/2008|05/31/2022||||325750N|0795744W|32.9638639|-79.9621655|||0.0|0.0
-2512014|Shaw Air Force Base|Military|South Carolina|45|Sumter|085|Sumter West|11/17/2008|05/31/2022||||335829N|0802804W|33.9747251|-80.467858|||0.0|0.0
+2512014|Shaw Air Force Base|Military|South Carolina|45|Sumter|085|Sumter West|11/17/2008|05/22/2025||||335829N|0802804W|33.9747251|-80.467858|||0.0|0.0
 2512081|Charleston Air Force Base|Military|South Carolina|45|Charleston|019|Ladson|11/17/2008|05/31/2022||||325352N|0800255W|32.8978123|-80.048724|||0.0|0.0
 2512082|Charleston Naval Shipyard|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/31/2022||||325113N|0795723W|32.8535652|-79.956295|||0.0|0.0
 2512091|Coast Guard Base Charleston|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/31/2022||||324626N|0795638W|32.7740277|-79.943939|||0.0|0.0
-2512203|Fort Jackson|Military|South Carolina|45|Richland|079|Messers Pond|11/17/2008|05/31/2022||||340251N|0805000W|34.0475697|-80.8333515|||0.0|0.0
+2512203|Fort Jackson|Military|South Carolina|45|Richland|079|Messers Pond|11/17/2008|05/22/2025||||340251N|0805000W|34.0475697|-80.8333515|||0.0|0.0
 2512275|Marine Corp Recruit Depot Parris Island|Military|South Carolina|45|Beaufort|013|Parris Island|11/17/2008|05/31/2022||||322028N|0804216W|32.3411389|-80.7045215|||0.0|0.0
-2512276|Marine Corps Air Station Beaufort|Military|South Carolina|45|Beaufort|013|Beaufort|11/17/2008|05/31/2022||||322823N|0804315W|32.4731172|-80.720776|||0.0|0.0
+2512276|Marine Corps Air Station Beaufort|Military|South Carolina|45|Beaufort|013|Beaufort|11/17/2008|05/22/2025||||322823N|0804315W|32.4731172|-80.720776|||0.0|0.0
 2512290|McEntire Air Guard Station|Military|South Carolina|45|Richland|079|Congaree|11/17/2008|05/31/2022||||335530N|0804806W|33.924874|-80.801591|||0.0|0.0
 2512334|Naval Hospital Beaufort|Military|South Carolina|45|Beaufort|013|Beaufort|11/17/2008|05/31/2022||||322319N|0804054W|32.3884737|-80.68155|||0.0|0.0
-2512336|Naval Hospital Charleston|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/31/2022||||325129N|0795845W|32.8580908|-79.97906|||0.0|0.0
-2512444|South Carolina National Guard Headquarters|Military|South Carolina|45|Sumter|085|Sumter East|11/17/2008|05/31/2022||||335656N|0802125W|33.9488322|-80.3568195|||0.0|0.0
+2512336|Naval Hospital Charleston|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/22/2025||||325129N|0795845W|32.8580908|-79.97906|||0.0|0.0
+2512444|South Carolina National Guard Headquarters|Military|South Carolina|45|Sumter|085|Sumter East|11/17/2008|05/22/2025||||335656N|0802125W|33.9488322|-80.3568195|||0.0|0.0
 2512483|Marine Corp Air Station Beaufort|Military|South Carolina|45|Beaufort|013|Laurel Bay|11/17/2008|05/31/2022||||322755N|0804731W|32.4651423|-80.792023|||0.0|0.0
 2542194|Town of Jenkinsville|Civil|South Carolina|45|Fairfield|039|Jenkinsville|02/13/2009|08/11/2023||||341836N|0811712W|34.3100298|-81.2866697|||0.0|0.0
 2542484|Little River|Stream|South Carolina|45|Richland|079|Poinsett State Park|07/12/2010|||||334516N|0803631W|33.7544444|-80.6086111|334743N|0803502W|33.7952778|-80.5838889

@@ -12195,7 +12195,7 @@
 559259|Villa Del Rey|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302806N|0910450W|30.4682457|-91.0806603|||0.0|0.0
 559260|Villa Del Rey Park|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302748N|0910453W|30.4632458|-91.0814936|||0.0|0.0
 559261|Village Cote|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302849N|0910015W|30.4801897|-91.0042694|||0.0|0.0
-559262|Village Saint George|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|04/14/2025||||302144N|0910402W|30.3621371|-91.0673259|||0.0|0.0
+559262|Village Saint George|Populated Place|Louisiana|22|East Baton Rouge|033|Saint Gabriel|05/01/1994|06/04/2025||||302144N|0910402W|30.3621371|-91.0673259|||0.0|0.0
 559263|Walden|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302333N|0910710W|30.3924142|-91.1195497|||0.0|0.0
 559264|Walnut Hill|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge West|05/01/1994|06/07/2022||||302545N|0910856W|30.42908|-91.1489952|||0.0|0.0
 559265|Waters Edge|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/01/1994|06/07/2022||||303408N|0910615W|30.5687988|-91.1042724|||0.0|0.0
@@ -15985,18 +15985,18 @@
 2419503|Tunica-Biloxi Reservation|Civil|Louisiana|22|Avoyelles|009|Marksville South|04/11/2008|03/21/2023||||310629N|0920342W|31.1081583|-92.0617407|||0.0|0.0
 2453210|Jena Band of Choctaw Reservation|Civil|Louisiana|22|Grant|043|Ball|06/19/2008|03/21/2023||||312616N|0922933W|31.4379075|-92.4926166|||0.0|0.0
 2504823|City of Central|Civil|Louisiana|22|East Baton Rouge|033|Comite|10/21/2008|08/10/2023||||303333N|0910213W|30.5593014|-91.036908|||0.0|0.0
-2511947|Naval Support Activity New Orleans|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/31/2022||||295652N|0900156W|29.947867|-90.032134|||0.0|0.0
-2512042|Barksdale Air Force Base|Military|Louisiana|22|Bossier|015|Sligo|11/17/2008|05/31/2022||||322945N|0933643W|32.4958714|-93.6118495|||0.0|0.0
+2511947|Naval Support Activity New Orleans|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/22/2025||||295652N|0900156W|29.947867|-90.032134|||0.0|0.0
+2512042|Barksdale Air Force Base|Military|Louisiana|22|Bossier|015|Sligo|11/17/2008|05/22/2025||||322945N|0933643W|32.4958714|-93.6118495|||0.0|0.0
 2512052|Camp Beauregard|Military|Louisiana|22|Rapides|079|Alexandria|11/17/2008|05/31/2022||||312225N|0922353W|31.3735141|-92.3981918|||0.0|0.0
 2512074|Camp Villere|Military|Louisiana|22|St. Tammany|103|Slidell|11/17/2008|05/31/2022||||301923N|0894833W|30.3231325|-89.8091205|||0.0|0.0
-2512108|Coast Guard Station Grangeville|Military|Louisiana|22|St. Helena|091|Pine Grove|11/17/2008|05/31/2022||||304341N|0904935W|30.7281287|-90.826464|||0.0|0.0
-2512127|Coast Guard Station New Orleans|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/31/2022||||295758N|0900138W|29.9662219|-90.027299|||0.0|0.0
+2512108|Coast Guard Station Grangeville|Military|Louisiana|22|St. Helena|091|Pine Grove|11/17/2008|05/22/2025||||304341N|0904935W|30.7281287|-90.826464|||0.0|0.0
+2512127|Coast Guard Station New Orleans|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/22/2025||||295758N|0900138W|29.9662219|-90.027299|||0.0|0.0
 2512146|Coast Guard Station Venice|Military|Louisiana|22|Plaquemines|075|Venice|11/17/2008|05/31/2022||||291520N|0892122W|29.2555337|-89.3561145|||0.0|0.0
-2512314|Naval Air Station New Orleans|Military|Louisiana|22|Plaquemines|075|Bertrandville|11/17/2008|05/31/2022||||294934N|0900116W|29.825992|-90.0211325|||0.0|0.0
-2512400|Camp Cook|Military|Louisiana|22|Rapides|079|Ball|11/17/2008|05/31/2022||||312436N|0922438W|31.4099985|-92.410571|||0.0|0.0
-2512414|Coast Guard Station Grand Isle|Military|Louisiana|22|Jefferson|051|Barataria Pass|11/17/2008|05/31/2022||||291555N|0895723W|29.2652463|-89.9564965|||0.0|0.0
-2512425|Louisiana Army Ammunition Plant|Military|Louisiana|22|Webster|119|Doyline|11/17/2008|05/31/2022||||323331N|0932354W|32.5584787|-93.398291|||0.0|0.0
-2512454|Claiborne Range|Military|Louisiana|22|Rapides|079|Woodworth West|11/17/2008|05/31/2022||||311000N|0923712W|31.166686|-92.6201165|||0.0|0.0
+2512314|Naval Air Station Joint Reserve Base New Orleans|Military|Louisiana|22|Plaquemines|075|Bertrandville|11/17/2008|05/22/2025||||294934N|0900116W|29.825992|-90.0211325|||0.0|0.0
+2512400|Camp Cook|Military|Louisiana|22|Rapides|079|Ball|11/17/2008|05/22/2025||||312436N|0922438W|31.4099985|-92.410571|||0.0|0.0
+2512414|Coast Guard Station Grand Isle|Military|Louisiana|22|Jefferson|051|Barataria Pass|11/17/2008|05/22/2025||||291555N|0895723W|29.2652463|-89.9564965|||0.0|0.0
+2512425|National Guard Camp Minden Training Site|Military|Louisiana|22|Webster|119|Doyline|11/17/2008|05/22/2025||||323331N|0932354W|32.5584787|-93.398291|||0.0|0.0
+2512454|Claiborne Range|Military|Louisiana|22|Rapides|079|Woodworth West|11/17/2008|05/22/2025||||311000N|0923712W|31.166686|-92.6201165|||0.0|0.0
 2512473|Fort Polk|Military|Louisiana|22|Vernon|115|Sugrue|11/17/2008|05/31/2022||||305915N|0930300W|30.9874939|-93.0500375|||0.0|0.0
 2512479|Jackson Barracks Air National Guard Station|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/31/2022||||295733N|0900022W|29.9591617|-90.006136|||0.0|0.0
 2564362|Guyton Creek|Stream|Louisiana|22|Ouachita|073|Cadeville|08/07/2009||Official|Board Decision|12/14/1978|322540N|0922156W|32.4277778|-92.3655556|322711N|0922458W|32.4530556|-92.4161111
@@ -16138,7 +16138,7 @@
 2831469|Front Ridge|Ridge|Louisiana|22|Vermilion|113|Pecan Island|02/15/2024|02/16/2024||||293842N|0922641W|29.6451089|-92.444633|||0.0|0.0
 2832401|Neptune Pass|Channel|Louisiana|22|Plaquemines|075|Buras|10/04/2024|10/04/2024||||292218N|0893043W|29.37167|-89.51184|||0.0|0.0
 2832465|Bald Hill|Summit|Louisiana|22|Catahoula|025|Nickel|02/06/2025|02/24/2025||||315140N|0920014W|31.86116|-92.00394|||0.0|0.0
-2832501|City of Saint George|Civil|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/19/2025|04/14/2025||||302156N|0910141W|30.365475|-91.027999|||0.0|0.0
+2832501|City of St. George|Civil|Louisiana|22|East Baton Rouge|033|Saint Gabriel|03/19/2025|06/04/2025||||302156N|0910141W|30.365475|-91.027999|||0.0|0.0
 2832503|Carman Branch|Stream|Louisiana|22|Sabine|085|Toro|03/19/2025|03/19/2025|Official|Board Decision|03/13/2025|311840N|0933049W|31.31108|-93.51362|311848N|0932941W|31.31335|-93.49473
 2832504|Koenck Coteau|Area|Louisiana|22|Vernon|115|New Llano|03/19/2025|03/19/2025|Official|Board Decision|03/13/2025|310321N|0931550W|31.0557675|-93.263867|||0.0|0.0
 2832546|Anne des Cadeaux Bayou|Stream|Louisiana|22|Natchitoches|069|Robeline|05/09/2025|05/09/2025|Official|Board Decision|05/08/2025|314301N|0931814W|31.71697|-93.30397|314244N|0931649W|31.71225|-93.28014
