@@ -15243,8 +15243,8 @@
 2503668|Suburban Estates|Populated Place|Maryland|24|St. Mary's|037|Solomons Island|10/23/2008|10/23/2018||||381527N|0762845W|38.257637|-76.479041|||0.0|0.0
 2503669|Summerhill Park|Populated Place|Maryland|24|Anne Arundel|003|Round Bay|10/23/2008|10/23/2018||||390029N|0763525W|39.007979|-76.59014|||0.0|0.0
 2503739|Warrens Park|Populated Place|Maryland|24|Worcester|047|Assawoman Bay|10/23/2008|10/23/2018||||382236N|0750415W|38.376805|-75.070833|||0.0|0.0
-2511950|Naval Surface Warfare Center Carderock|Military|Maryland|24|Montgomery|031|Falls Church|11/17/2008|05/31/2022||||385828N|0771134W|38.9745002|-77.192864|||0.0|0.0
-2511953|Naval Surface Warfare Center Indian Head|Military|Maryland|24|Charles|017|Indian Head|11/17/2008|05/31/2022||||383515N|0771108W|38.5875335|-77.185458|||0.0|0.0
+2511950|Naval Surface Warfare Center Carderock Division|Military|Maryland|24|Montgomery|031|Falls Church|11/17/2008|08/22/2025||||385828N|0771134W|38.9745002|-77.192864|||0.0|0.0
+2511953|Naval Support Facility Indian Head|Military|Maryland|24|Charles|017|Indian Head|11/17/2008|08/22/2025||||383515N|0771108W|38.5875335|-77.185458|||0.0|0.0
 2511954|Naval Surface Warefare Center (historical)|Military|Maryland|24|Montgomery|031|Beltsville|11/17/2008|05/31/2022||||390212N|0765809W|39.0365547|-76.9690435|||0.0|0.0
 2512026|Aberdeen Proving Ground|Military|Maryland|24|Harford|025|Perryman|11/17/2008|05/22/2025||||392347N|0761159W|39.3962817|-76.1997135|||0.0|0.0
 2512027|Adelphi Laboratory Center|Military|Maryland|24|Prince George's|033|Beltsville|11/17/2008|05/22/2025||||390155N|0765734W|39.0319909|-76.959507|||0.0|0.0
@@ -15252,12 +15252,12 @@
 2512103|Coast Guard Station Crisfield|Military|Maryland|24|Somerset|039|Crisfield|11/17/2008|05/22/2025||||375830N|0755127W|37.9749792|-75.857577|||0.0|0.0
 2512143|Coast Guard Station Stillpond|Military|Maryland|24|Kent|029|Hanesville|11/17/2008|05/22/2025||||392015N|0760750W|39.3374662|-76.1304715|||0.0|0.0
 2512192|Fort Detrick|Military|Maryland|24|Frederick|021|Frederick|11/17/2008|05/22/2025||||392630N|0772527W|39.4415548|-77.424076|||0.0|0.0
-2512196|Fort George G Meade|Military|Maryland|24|Anne Arundel|003|Odenton|11/17/2008|05/31/2022||||390625N|0764435W|39.1069801|-76.743033|||0.0|0.0
+2512196|Fort Meade|Military|Maryland|24|Anne Arundel|003|Odenton|11/17/2008|08/22/2025||||390625N|0764435W|39.1069801|-76.743033|||0.0|0.0
 2512316|Naval Air Station Patuxent River|Military|Maryland|24|St. Mary's|037|Solomons Island|11/17/2008|05/22/2025||||381701N|0762507W|38.2837401|-76.4185285|||0.0|0.0
 2512369|United States Army Publications Center|Military|Maryland|24|Baltimore|005|Middle River|11/17/2008|05/31/2022||||392015N|0762453W|39.3376152|-76.4148505|||0.0|0.0
 2512492|Naval Medical Center Bethesda|Military|Maryland|24|Montgomery|031|Kensington|11/17/2008|05/31/2022||||390005N|0770526W|39.001334|-77.09045|||0.0|0.0
-2512511|Solomons Navy Recreation Center|Military|Maryland|24|Calvert|009|Solomons Island|11/17/2008|05/31/2022||||382006N|0762825W|38.3351145|-76.4735945|||0.0|0.0
-2512512|Andrews Air Force Base|Military|Maryland|24|Prince George's|033|Anacostia|11/17/2008|05/31/2022||||384817N|0765235W|38.8047174|-76.8762925|||0.0|0.0
+2512511|Naval Recreation Center Solomons|Military|Maryland|24|Calvert|009|Solomons Island|11/17/2008|08/22/2025||||382006N|0762825W|38.3351145|-76.4735945|||0.0|0.0
+2512512|Joint Base Andrews|Military|Maryland|24|Prince George's|033|Anacostia|11/17/2008|08/22/2025||||384817N|0765235W|38.8047174|-76.8762925|||0.0|0.0
 2558323|Farnandis Branch|Stream|Maryland|24|Harford|025|Bel Air|06/01/2009||Official|Board Decision|05/27/2009|393140N|0761904W|39.527795|-76.31773|393124N|0762015W|39.523333|-76.3375
 2571506|Beltsville Naval Outer Landing Field (historical)|Military|Maryland|24|Prince George's|033|Laurel|01/07/2010|05/31/2022||||390138N|0764917W|39.0272222|-76.8213889|||0.0|0.0
 2571507|Piney Point Naval Outer Landing Field (historical)|Military|Maryland|24|St. Mary's|037|Piney Point|01/07/2010|05/31/2022||||380855N|0763119W|38.1486111|-76.5219444|||0.0|0.0
@@ -15518,3 +15518,18 @@
 2832413|Valor Creek|Stream|Maryland|24|Harford|025|Edgewood|10/11/2024|10/11/2024|Official|Board Decision|10/10/2024|392416N|0761920W|39.404385|-76.32232|392431N|0761943W|39.408746|-76.328675
 2832426|Park Hall|Populated Place|Maryland|24|St. Mary's|037|Saint Marys City|10/31/2024|10/31/2024||||381310N|0762549W|38.21944|-76.43028|||0.0|0.0
 2832557|Federal Law Enforcement Training Center|Military|Maryland|24|Prince George's|033|Upper Marlboro|05/22/2025|05/22/2025||||384505N|0765117W|38.7514403|-76.8548523|||0.0|0.0
+2832686|Fort Detrick Forest Glen Annex|Military|Maryland|24|Montgomery|031|Kensington|08/20/2025|08/20/2025||||390023N|0770318W|39.006422|-77.0549624|||0.0|0.0
+2832742|Martin State Airport|Military|Maryland|24|Baltimore|005|Middle River|08/20/2025|08/20/2025||||391955N|0762455W|39.3318249|-76.41518|||0.0|0.0
+2832769|National Guard Camp Fretterd Military Reservation|Military|Maryland|24|Baltimore|005|Reisterstown|08/20/2025|08/20/2025||||392953N|0765045W|39.498038|-76.8457103|||0.0|0.0
+2832788|National Guard Gunpowder Military Reservation|Military|Maryland|24|Baltimore|005|Towson|08/20/2025|08/20/2025||||392557N|0763018W|39.4324081|-76.5049862|||0.0|0.0
+2832789|National Guard Havre De Grace Military Reservation|Military|Maryland|24|Harford|025|Havre De Grace|08/20/2025|08/20/2025||||393158N|0760615W|39.5327115|-76.1041621|||0.0|0.0
+2832849|Naval Academy North Severn|Military|Maryland|24|Anne Arundel|003|Annapolis|08/20/2025|08/20/2025||||385923N|0762744W|38.9897083|-76.4622203|||0.0|0.0
+2832869|Naval Military Intelligence Center Suitland|Military|Maryland|24|Prince George's|033|Anacostia|08/20/2025|08/20/2025||||385056N|0765612W|38.84887|-76.9366348|||0.0|0.0
+2832886|Naval Research Laboratory Blossom Point|Military|Maryland|24|Charles|017|Mathias Point|08/20/2025|08/20/2025||||382518N|0770533W|38.4217253|-77.0924937|||0.0|0.0
+2832887|Naval Research Laboratory Chesapeake Bay Detachment|Military|Maryland|24|Calvert|009|North Beach|08/20/2025|08/20/2025||||383931N|0763155W|38.6585942|-76.5319779|||0.0|0.0
+2832889|Naval Support Activity Annapolis|Military|Maryland|24|Anne Arundel|003|Annapolis|08/20/2025|08/20/2025||||385855N|0762903W|38.9819747|-76.4840427|||0.0|0.0
+2832890|Naval Support Activity Bethesda|Military|Maryland|24|Montgomery|031|Kensington|08/20/2025|08/20/2025||||390007N|0770525W|39.0019076|-77.090402|||0.0|0.0
+2832891|Naval Support Activity Gambrills|Military|Maryland|24|Anne Arundel|003|Odenton|08/20/2025|08/20/2025||||390323N|0764033W|39.0564134|-76.6759181|||0.0|0.0
+2832933|Stump Neck Area|Military|Maryland|24|Charles|017|Indian Head|08/20/2025|08/20/2025||||383257N|0771248W|38.5492736|-77.2133066|||0.0|0.0
+2832949|Upper Yard Annapolis|Military|Maryland|24|Anne Arundel|003|Annapolis|08/20/2025|08/20/2025||||385919N|0762940W|38.9886201|-76.4944313|||0.0|0.0
+2832952|Webster Field|Military|Maryland|24|St. Mary's|037|Saint Marys City|08/20/2025|08/20/2025||||380845N|0762540W|38.1459014|-76.4278434|||0.0|0.0

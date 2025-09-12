@@ -7134,7 +7134,7 @@
 631106|Lost Lake|Lake|Michigan|26|Schoolcraft|153|Sunken Lake|04/14/1980|07/07/2023||||462851N|0860157W|46.4807429|-86.0324855|||0.0|0.0
 631107|Lost Lake|Lake|Michigan|26|Baraga|013|Herman|04/14/1980|09/21/2018||||464404N|0882140W|46.7343056|-88.3609935|||0.0|0.0
 631108|Lost Lake|Lake|Michigan|26|Ontonagon|131|Government Peak|04/14/1980|05/19/2023||||464610N|0894126W|46.7693334|-89.6904539|||0.0|0.0
-631109|Lost Lake|Lake|Michigan|26|Keweenaw|083|Fort Wilkins|04/14/1980|05/19/2023||||472546N|0874908W|47.4293812|-87.8188039|||0.0|0.0
+631109|Lake Trillium|Lake|Michigan|26|Keweenaw|083|Fort Wilkins|04/14/1980|08/18/2025|Official|Board Decision|08/14/2025|472546N|0874908W|47.4293812|-87.8188039|||0.0|0.0
 631110|Lost Lake|Lake|Michigan|26|Missaukee|113|Arlene|04/14/1980|09/28/2018||||442232N|0851550W|44.3755913|-85.263874|||0.0|0.0
 631111|Lost Lake|Swamp|Michigan|26|Oakland|125|Oxford|04/14/1980|||||424501N|0831931W|42.7503083|-83.325218|||0.0|0.0
 631113|Lost Lakes|Lake|Michigan|26|Roscommon|143|Meredith NW|04/14/1980|||||441255N|0844256W|44.2152958|-84.7155793|||0.0|0.0
@@ -20970,17 +20970,17 @@
 2508907|McDonald Point|Cape|Michigan|26|Roscommon|143|Meads Landing|12/16/2008|||||442240N|0844545W|44.3777778|-84.7625|||0.0|0.0
 2512010|Selfridge Air National Guard Base|Military|Michigan|26|Macomb|099|Mount Clemens East|11/17/2008|05/22/2025||||423651N|0824949W|42.6141709|-82.8301965|||0.0|0.0
 2512011|Selfridge Army Garrison|Military|Michigan|26|Macomb|099|Mount Clemens East|11/17/2008|05/31/2022||||423613N|0824860W|42.6037051|-82.8166115|||0.0|0.0
-2512058|Camp Grayling|Military|Michigan|26|Kalkaska|079|Fletcher|11/17/2008|05/31/2022||||443551N|0845358W|44.5975529|-84.8994125|||0.0|0.0
+2512058|National Guard Camp Grayling Joint Maneuver Training Center|Military|Michigan|26|Kalkaska|079|Fletcher|11/17/2008|08/22/2025||||443551N|0845358W|44.5975529|-84.8994125|||0.0|0.0
 2512101|Coast Guard Station Charlevoix|Military|Michigan|26|Charlevoix|029|Ironton|11/17/2008|05/22/2025||||451859N|0851445W|45.3162528|-85.245858|||0.0|0.0
 2512111|Coast Guard Station Holland|Military|Michigan|26|Ottawa|139|Holland West|11/17/2008|05/22/2025||||424626N|0861209W|42.7739785|-86.20251|||0.0|0.0
 2512120|Coast Guard Station Manistee|Military|Michigan|26|Manistee|101|Parkdale|11/17/2008|05/22/2025||||441501N|0862030W|44.2503675|-86.3416415|||0.0|0.0
 2512122|Coast Guard Station Marquette|Military|Michigan|26|Marquette|103|Marquette|11/17/2008|05/22/2025||||463247N|0872236W|46.546407|-87.3768055|||0.0|0.0
 2512133|Coast Guard Station Port Huron|Military|Michigan|26|St. Clair|147|Lakeport|11/17/2008|05/22/2025||||430019N|0822523W|43.0053355|-82.423173|||0.0|0.0
 2512134|Coast Guard Station Portage|Military|Michigan|26|Houghton|061|Chassell|11/17/2008|05/31/2022||||470701N|0883039W|47.1168823|-88.5108625|||0.0|0.0
-2512140|Coast Guard Station Sault Saint Marie|Military|Michigan|26|Chippewa|033|Sault Ste. Marie South|11/17/2008|05/31/2022||||462960N|0842019W|46.4999825|-84.3386405|||0.0|0.0
+2512140|Coast Guard Station Sault Sainte Marie|Military|Michigan|26|Chippewa|033|Sault Ste. Marie South|11/17/2008|08/22/2025||||462960N|0842019W|46.4999825|-84.3386405|||0.0|0.0
 2512144|Coast Guard Station Tawas|Military|Michigan|26|Iosco|069|East Tawas|11/17/2008|05/22/2025||||441519N|0832703W|44.2554134|-83.450851|||0.0|0.0
 2512163|Detroit Arsenal|Military|Michigan|26|Macomb|099|Highland Park|11/17/2008|05/22/2025||||422949N|0830230W|42.4969134|-83.041785|||0.0|0.0
-2512191|Fort Custer Training Center|Military|Michigan|26|Kalamazoo|077|Augusta|11/17/2008|05/22/2025||||421733N|0851933W|42.2926007|-85.325858|||0.0|0.0
+2512191|Fort Custer Training Center|Military|Michigan|26|Kalamazoo|077|Augusta|11/17/2008|08/22/2025||||421733N|0851933W|42.2926007|-85.325858|||0.0|0.0
 2512458|Coast Guard Station Grand Haven|Military|Michigan|26|Ottawa|139|Grand Haven|11/17/2008|05/22/2025||||430337N|0861418W|43.0603635|-86.238467|||0.0|0.0
 2512502|Coast Guard Station Ludington|Military|Michigan|26|Mason|105|Ludington|11/17/2008|05/22/2025||||435710N|0862735W|43.9529162|-86.459726|||0.0|0.0
 2512517|Coast Guard Station Frankfort|Military|Michigan|26|Benzie|019|Frankfort|11/17/2008|05/22/2025||||443749N|0861439W|44.6302637|-86.2442445|||0.0|0.0
@@ -21292,3 +21292,5 @@
 2831527|Whiskey Cove|Bay|Michigan|26|Keweenaw|083|Manitou Island|06/14/2024|06/14/2024|Official|Board Decision|06/13/2024|472503N|0873836W|47.4174444|-87.6433333|||0.0|0.0
 2832472|Kunkosky Island|Island|Michigan|26|Antrim|009|Bellaire|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|445411N|0851017W|44.903049|-85.171361|||0.0|0.0
 2832473|Kasper Point|Cape|Michigan|26|Mackinac|097|Cedarville|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|455912N|0841833W|45.98667|-84.30903|||0.0|0.0
+2832667|Coast Guard Station Sault Sainte Marie Housing Area|Military|Michigan|26|Chippewa|033|Shallows|08/20/2025|08/20/2025||||462911N|0842450W|46.4863974|-84.4138696|||0.0|0.0
+2832801|National Guard Lansing Joint Forces Readiness Center|Military|Michigan|26|Ingham|065|Lansing North|08/20/2025|08/20/2025||||424605N|0843417W|42.7681919|-84.57149|||0.0|0.0

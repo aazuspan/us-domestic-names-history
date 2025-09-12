@@ -20179,3 +20179,11 @@
 2832425|Pumgustuck|Falls|Maine|23|Cumberland|005|Yarmouth|10/29/2024|10/29/2024||||434756N|0701043W|43.79892|-70.17849|||0.0|0.0
 2832436|Gladys and Rose Hill|Summit|Maine|23|York|031|Cornish|11/15/2024|02/21/2025|Official|Board Decision|11/14/2024|434531N|0705208W|43.75864|-70.86886|||0.0|0.0
 2832437|Loon Call Island|Island|Maine|23|Kennebec|011|Togus Pond|11/15/2024|11/15/2024|Official|Board Decision|11/14/2024|442002N|0693959W|44.333993|-69.666491|||0.0|0.0
+2832642|Bangor International Airport|Military|Maine|23|Penobscot|019|Bangor|08/20/2025|08/20/2025||||444901N|0684933W|44.8169345|-68.8257786|||0.0|0.0
+2832752|National Guard Auburn Training Site|Military|Maine|23|Androscoggin|001|Minot|08/20/2025|08/20/2025||||440511N|0701658W|44.0863178|-70.2827416|||0.0|0.0
+2832753|National Guard Bangor Training Site|Military|Maine|23|Penobscot|019|Bangor|08/20/2025|08/20/2025||||444830N|0684836W|44.8084515|-68.8100347|||0.0|0.0
+2832761|National Guard Bog Brook Training Site|Military|Maine|23|Oxford|017|Gilead|08/20/2025|08/20/2025||||442348N|0705612W|44.3966338|-70.9365415|||0.0|0.0
+2832792|National Guard Hollis Plains Training Site|Military|Maine|23|York|031|Limington|08/20/2025|08/20/2025||||434007N|0703949W|43.6687493|-70.6637292|||0.0|0.0
+2832850|Naval Air Station Brunswick Naval Computer and Telecommunications Cutler V L F Area|Military|Maine|23|Washington|029|Machias Bay|08/20/2025|08/20/2025||||443904N|0671706W|44.6509883|-67.2849081|||0.0|0.0
+2832916|Portsmouth Naval Shipyard Housing|Military|Maine|23|York|031|Kittery|08/20/2025|08/20/2025||||430530N|0704333W|43.0916547|-70.7257724|||0.0|0.0
+2832920|Redington Township|Military|Maine|23|Franklin|007|Redington|08/20/2025|08/20/2025||||445928N|0702712W|44.9910277|-70.4532343|||0.0|0.0

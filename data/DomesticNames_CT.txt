@@ -3463,7 +3463,7 @@
 209917|Ponset|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/12/1979|06/07/2022|Official|Board Decision|01/01/1950|412754N|0723322W|41.4650988|-72.5562016|||0.0|0.0
 209918|Ponset Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/12/1979||Official|Board Decision|01/01/1950|412836N|0723320W|41.4767655|-72.5556459|412544N|0723454W|41.4288889|-72.5816667
 209920|Ponus|Populated Place|Connecticut|09|Western Connecticut|190|Pound Ridge|09/12/1979|06/07/2022||||410736N|0733111W|41.1267631|-73.5198453|||0.0|0.0
-209921|Poole Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Eastford|09/12/1979|03/30/2023||||415251N|0720657W|41.8807554|-72.115809|||0.0|0.0
+209921|Pearson Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Eastford|09/12/1979|08/18/2025|Official|Board Decision|08/14/2025|415251N|0720657W|41.8807554|-72.115809|||0.0|0.0
 209922|Poorhouse Brook|Stream|Connecticut|09|Western Connecticut|190|Stamford|09/12/1979|||||410722N|0733232W|41.1228742|-73.5423461|410825N|0733324W|41.140374|-73.5567913
 209923|Poorhouse Brook|Stream|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|||||411035N|0732845W|41.176485|-73.4792888|411146N|0733012W|41.196207|-73.5034566
 209924|Pootatuck Park|Populated Place|Connecticut|09|Western Connecticut|190|Newtown|09/12/1979|06/07/2022||||412545N|0731535W|41.4292624|-73.2598379|||0.0|0.0
@@ -7122,3 +7122,7 @@
 2831229|Barlow Mountain|Summit|Connecticut|09|Western Connecticut|190|Bethel|05/17/2023|12/18/2023|Official|Board Decision|05/11/2023|411935N|0732955W|41.3262866|-73.4985337|||0.0|0.0
 2831243|Codfish Hill|Populated Place|Connecticut|09|Western Connecticut|190|Botsford|07/12/2023|07/12/2023||||412209N|0732136W|41.369301|-73.359897|||0.0|0.0
 2832419|King Street|Populated Place|Connecticut|09|Western Connecticut|190|Brewster|10/28/2024|10/28/2024||||412555N|0733028W|41.431889|-73.507889|||0.0|0.0
+2832648|Bradley International Airport|Military|Connecticut|09|Capitol|110|Windsor Locks|08/20/2025|08/20/2025||||415606N|0724204W|41.93507|-72.7012374|||0.0|0.0
+2832770|National Guard Camp Hartell|Military|Connecticut|09|Capitol|110|Windsor Locks|08/20/2025|08/20/2025||||415632N|0723956W|41.9421257|-72.6656787|||0.0|0.0
+2832771|National Guard Camp Nett|Military|Connecticut|09|Southeastern Connecticut|180|Niantic|08/20/2025|08/20/2025||||411953N|0721116W|41.3313899|-72.1879102|||0.0|0.0
+2832839|National Guard Stones Ranch Military Reservation|Military|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|08/20/2025|08/20/2025||||412160N|0721656W|41.366582|-72.282256|||0.0|0.0

@@ -4983,8 +4983,8 @@
 2378351|Wilder Census Designated Place|Census|Vermont|50|Windsor|027|Hanover|02/11/2008|08/08/2023||||434049N|0721860W|43.6801754|-72.316576|||0.0|0.0
 2378358|South Shaftsbury Census Designated Place|Census|Vermont|50|Bennington|003|Bennington|02/11/2008|08/09/2023||||425628N|0731207W|42.9411055|-73.2019647|||0.0|0.0
 2440030|Richies Run|Stream|Vermont|50|Caledonia|005|Sutton|06/14/2008||Official|Board Decision|06/12/2008|444245N|0720004W|44.7125|-72.0011111|444348N|0715929W|44.73|-71.9913889
-2512358|Training Site Ethan Allen Range|Military|Vermont|50|Chittenden|007|Richmond|11/17/2008|05/31/2022||||442821N|0725353W|44.4725536|-72.8981885|||0.0|0.0
-2512536|Camp Johnson|Military|Vermont|50|Chittenden|007|Colchester|11/17/2008|05/31/2022||||443020N|0730946W|44.5056742|-73.1627745|||0.0|0.0
+2512358|National Guard Training Site Ethan Allen Range|Military|Vermont|50|Chittenden|007|Richmond|11/17/2008|08/22/2025||||442821N|0725353W|44.4725536|-72.8981885|||0.0|0.0
+2512536|National Guard Training Site Camp Johnson|Military|Vermont|50|Chittenden|007|Colchester|11/17/2008|08/22/2025||||443020N|0730946W|44.5056742|-73.1627745|||0.0|0.0
 2575211|Fayette Mountain|Summit|Vermont|50|Rutland|021|Middletown Springs|01/20/2010|08/30/2022||||432352N|0730455W|43.3977198|-73.082049|||0.0|0.0
 2575212|East Peacham Brook|Stream|Vermont|50|Caledonia|005|Barnet|01/20/2010|02/03/2021|Official|Board Decision|04/14/1983|441847N|0720623W|44.3130485|-72.10648|442217N|0721128W|44.3713644|-72.1911587
 2575213|Burrington Hill|Summit|Vermont|50|Windham|025|Jacksonville|01/20/2010|09/07/2022|Official|Board Decision|07/09/1974|424612N|0725154W|42.7699603|-72.8651014|||0.0|0.0
@@ -5168,3 +5168,5 @@
 2831549|Chamberlain Hill|Summit|Vermont|50|Orange|017|Groton|07/11/2024|07/12/2024||||440757N|0720943W|44.13259|-72.1618513|||0.0|0.0
 2832386|Gibson Hill|Summit|Vermont|50|Caledonia|005|Peacham|10/02/2024|10/03/2024||||441536N|0720829W|44.260031|-72.141359|||0.0|0.0
 2832391|Woodbury Mountains|Range|Vermont|50|Washington|023|Woodbury|10/02/2024|10/04/2024||||442831N|0722531W|44.4752006|-72.4253513|||0.0|0.0
+2832651|Burlington International Airport|Military|Vermont|50|Chittenden|007|Burlington|08/20/2025|08/20/2025||||442828N|0730853W|44.4744384|-73.1479217|||0.0|0.0
+2832846|National Guard Westminster Training Site|Military|Vermont|50|Windham|025|Walpole|08/20/2025|08/20/2025||||430509N|0722705W|43.0859177|-72.4513088|||0.0|0.0

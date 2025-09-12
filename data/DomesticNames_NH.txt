@@ -7273,7 +7273,7 @@
 2378098|Wolfeboro Census Designated Place|Census|New Hampshire|33|Carroll|003|Wolfeboro|02/11/2008|08/08/2023||||433530N|0711246W|43.5917078|-71.2126912|||0.0|0.0
 2378099|Woodsville Census Designated Place|Census|New Hampshire|33|Grafton|009|Woodsville|02/11/2008|08/09/2023||||440833N|0720132W|44.1423618|-72.0255931|||0.0|0.0
 2420614|Leighton Mountain|Summit|New Hampshire|33|Belknap|001|Winnisquam Lake|04/16/2008|07/06/2022|Official|Board Decision|04/10/2008|433511N|0713513W|43.58638|-71.5869436|||0.0|0.0
-2511962|New Boston Air Station|Military|New Hampshire|33|Hillsborough|011|New Boston|11/17/2008|05/31/2022||||425634N|0713844W|42.9428142|-71.6454295|||0.0|0.0
+2511962|New Boston Space Force Station|Military|New Hampshire|33|Hillsborough|011|New Boston|11/17/2008|08/22/2025||||425634N|0713844W|42.9428142|-71.6454295|||0.0|0.0
 2512020|Somersworth Readiness Center|Military|New Hampshire|33|Strafford|017|Dover West|11/17/2008|05/22/2025||||431451N|0705240W|43.2476011|-70.8778105|||0.0|0.0
 2571250|Pages Corner|Populated Place|New Hampshire|33|Rockingham|015|Kingston|09/28/2009|06/07/2022||||425800N|0710529W|42.966692|-71.091499|||0.0|0.0
 2571343|Mountain Cove|Bay|New Hampshire|33|Strafford|017|Mount Pawtuckaway|09/29/2009|||||430455N|0710955W|43.082054|-71.165271|||0.0|0.0
@@ -7356,3 +7356,5 @@
 2832403|Middle Mountain|Summit|New Hampshire|33|Rockingham|015|Mount Pawtuckaway|10/04/2024|10/05/2024||||430626N|0711116W|43.10714|-71.187887|||0.0|0.0
 2832404|South Mountain|Summit|New Hampshire|33|Rockingham|015|Mount Pawtuckaway|10/04/2024|10/05/2024||||430607N|0711054W|43.101861|-71.1815746|||0.0|0.0
 2832458|Third Parish Hill|Summit|New Hampshire|33|Rockingham|015|Hampton|12/18/2024|12/18/2024|Official|Board Decision|12/12/2024|425459N|0705156W|42.916384|-70.865494|||0.0|0.0
+2832819|National Guard New Hampshire Training Site|Military|New Hampshire|33|Strafford|017|Baxter Lake|08/20/2025|08/20/2025||||431640N|0710720W|43.2777784|-71.1222083|||0.0|0.0
+2832913|Pease Air National Guard Base|Military|New Hampshire|33|Rockingham|015|Portsmouth|08/20/2025|08/20/2025||||430521N|0704907W|43.0890638|-70.8185604|||0.0|0.0

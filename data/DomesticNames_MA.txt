@@ -112,7 +112,7 @@
 598751|Town of New Ashford|Civil|Massachusetts|25|Berkshire|003|Cheshire|08/27/2002|08/12/2023||||423631N|0731326W|42.6086756|-73.2240257|||0.0|0.0
 598753|Tanglewood|Populated Place|Massachusetts|25|Berkshire|003|Stockbridge|08/27/2002|06/07/2022||||422050N|0731833W|42.3473084|-73.3092742|||0.0|0.0
 598754|Chopin Pond|Lake|Massachusetts|25|Hampden|013|Ludlow|08/27/2002|||||421114N|0722635W|42.1873154|-72.4431405|||0.0|0.0
-599083|Camp Curtis Guild National Guard Reservation|Military|Massachusetts|25|Essex|009|Reading|08/27/2002|05/31/2022||||423232N|0710428W|42.5423167|-71.0744979|||0.0|0.0
+599083|National Guard Military Training Area Camp Curtis Guild|Military|Massachusetts|25|Essex|009|Reading|08/27/2002|08/22/2025||||423232N|0710428W|42.5423167|-71.0744979|||0.0|0.0
 599177|Goldthwait Beach|Beach|Massachusetts|25|Essex|009|Marblehead North|08/27/2002|08/28/2010||||422924N|0705129W|42.490011|-70.857975|||0.0|0.0
 599178|Davereux Rocks|Bar|Massachusetts|25|Essex|009|Marblehead South|08/27/2002|||||422910N|0705155W|42.4862073|-70.8653253|||0.0|0.0
 599565|Bristol Blake State Reservoir|Reservoir|Massachusetts|25|Norfolk|021|Wrentham|08/27/2002|||||420633N|0711915W|42.109265|-71.3208894|||0.0|0.0
@@ -13009,10 +13009,10 @@
 2378359|Ware Census Designated Place|Census|Massachusetts|25|Hampshire|015|Ware|02/11/2008|08/08/2023||||421518N|0721445W|42.2549668|-72.2459054|||0.0|0.0
 2418958|Hassanamisco Reservation|Civil|Massachusetts|25|Worcester|027|Grafton|04/11/2008|03/21/2023||||421243N|0714216W|42.2120115|-71.7044957|||0.0|0.0
 2419514|Wampanoag-Aquinnah Trust Land|Civil|Massachusetts|25|Dukes|007|Squibnocket|04/11/2008|03/21/2023||||412046N|0704626W|41.3461465|-70.773924|||0.0|0.0
-2512019|Soldier Systems Center Natick|Military|Massachusetts|25|Middlesex|017|Natick|11/17/2008|05/22/2025||||421718N|0712140W|42.2884069|-71.3611165|||0.0|0.0
+2512019|Army Natick Soldier Systems Center|Military|Massachusetts|25|Middlesex|017|Natick|11/17/2008|08/22/2025||||421718N|0712140W|42.2884069|-71.3611165|||0.0|0.0
 2512098|Coast Guard Station Boston|Military|Massachusetts|25|Suffolk|025|Boston South|11/17/2008|05/22/2025||||422205N|0710307W|42.3679588|-71.0520175|||0.0|0.0
 2512193|Fort Devens (historical)|Military|Massachusetts|25|Worcester|027|Shirley|11/17/2008|05/22/2025||||423026N|0714000W|42.5072996|-71.6666915|||0.0|0.0
-2512234|Hanscom Air Force Base|Military|Massachusetts|25|Middlesex|017|Concord|11/17/2008|05/31/2022||||422729N|0711634W|42.4581329|-71.2760485|||0.0|0.0
+2512234|Hanscom Air Force Base|Military|Massachusetts|25|Middlesex|017|Concord|11/17/2008|08/22/2025||||422729N|0711634W|42.4581329|-71.2760485|||0.0|0.0
 2512389|Westover Air Reserve Base|Military|Massachusetts|25|Hampden|013|Springfield North|11/17/2008|05/22/2025||||421207N|0723216W|42.2020441|-72.5376565|||0.0|0.0
 2512409|Coast Guard Air Station Cape Cod|Military|Massachusetts|25|Barnstable|001|Pocasset|11/17/2008|05/31/2022||||413955N|0703129W|41.6654055|-70.5247465|||0.0|0.0
 2512430|Massachusetts Military Reservation|Military|Massachusetts|25|Barnstable|001|Pocasset|11/17/2008|05/31/2022||||414210N|0703235W|41.7026605|-70.543186|||0.0|0.0
@@ -13080,3 +13080,7 @@
 2831273|Jaroslow Reef|Bar|Massachusetts|25|Barnstable|001|Sagamore|08/16/2023|08/16/2023|Official|Board Decision|08/10/2023|414549N|0703645W|41.7636979|-70.6125641|||0.0|0.0
 2831346|Cedar Swamp|Swamp|Massachusetts|25|Barnstable|001|Dennis|09/25/2023|09/25/2023|Official|Board Decision|09/15/2023|414010N|0701226W|41.6695331|-70.207159|||0.0|0.0
 2832467|Wolfe Hill|Summit|Massachusetts|25|Worcester|027|Blackstone|02/13/2025|02/14/2025||||420629N|0713702W|42.1081708|-71.6172802|||0.0|0.0
+2832643|Barnes Municipal Airport Air National Guard|Military|Massachusetts|25|Hampden|013|Mount Tom|08/20/2025|08/20/2025||||421010N|0724305W|42.1693831|-72.7179848|||0.0|0.0
+2832656|Cape Cod Space Force Station|Military|Massachusetts|25|Barnstable|001|Sagamore|08/20/2025|08/20/2025||||414509N|0703217W|41.7524976|-70.5381245|||0.0|0.0
+2832814|National Guard Military Training Area Camp Edwards|Military|Massachusetts|25|Barnstable|001|Pocasset|08/20/2025|08/20/2025||||414201N|0703242W|41.7001637|-70.5450366|||0.0|0.0
+2832883|Naval Plant Representative Office Pittsfield|Military|Massachusetts|25|Berkshire|003|Pittsfield East|08/20/2025|08/20/2025||||422744N|0731216W|42.4622903|-73.2045312|||0.0|0.0

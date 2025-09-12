@@ -5666,13 +5666,13 @@
 2511940|Naval Activity Puerto Rico|Military|Puerto Rico|72|Vieques|147|Isla De Vieques East OE S|11/17/2008|05/22/2025||||180647N|0652111W|18.1131293|-65.3530575|||0.0|0.0
 2511993|Reservación de Guardia Nacional|Military|Puerto Rico|72|Vega Baja|145|Manati|11/17/2008|05/31/2022||||182713N|0662521W|18.4535357|-66.4226385|||0.0|0.0
 2512038|Army Reserve Training Center|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/31/2022||||182432N|0660456W|18.4090232|-66.082253|||0.0|0.0
-2512072|Camp Santiago|Military|Puerto Rico|72|Salinas|123|Coamo|11/17/2008|05/31/2022||||180125N|0661709W|18.0235583|-66.2858895|||0.0|0.0
+2512072|National Guard Maneuver Training Area Camp Santiago|Military|Puerto Rico|72|Salinas|123|Coamo|11/17/2008|08/22/2025||||180125N|0661709W|18.0235583|-66.2858895|||0.0|0.0
 2512087|Coast Guard Air Station Borinquen|Military|Puerto Rico|72|Aguadilla|005|Moca|11/17/2008|05/22/2025||||182949N|0670659W|18.4968408|-67.1163|||0.0|0.0
 2512187|Fort Buchanan|Military|Puerto Rico|72|Guaynabo|061|San Juan|11/17/2008|05/22/2025||||182438N|0660714W|18.4105735|-66.120464|||0.0|0.0
 2512327|Naval Base San Juan|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/31/2022||||182742N|0660532W|18.4616104|-66.0922965|||0.0|0.0
 2512350|Naval Security Group Activity Sabana Seca|Military|Puerto Rico|72|Toa Baja|137|Bayamon|11/17/2008|05/31/2022||||182708N|0661249W|18.4522035|-66.213727|||0.0|0.0
 2512462|Coast Guard Station San Juan|Military|Puerto Rico|72|San Juan|127|San Juan|11/17/2008|05/22/2025||||182719N|0660527W|18.4551957|-66.0906975|||0.0|0.0
-2512467|Fort Allen|Military|Puerto Rico|72|Juana Díaz|075|Ponce|11/17/2008|05/31/2022||||180047N|0663015W|18.0130854|-66.504056|||0.0|0.0
+2512467|National Guard Fort Allen|Military|Puerto Rico|72|Juana Díaz|075|Ponce|11/17/2008|08/22/2025||||180047N|0663015W|18.0130854|-66.504056|||0.0|0.0
 2575403|Punta Matojo|Cape|Puerto Rico|72|Culebra|049|Culebra|01/26/2010|02/10/2020||||182014N|0651724W|18.3373213|-65.2901052|||0.0|0.0
 2575404|Punta el Capitán|Cape|Puerto Rico|72|Mayagüez|097|Isla de Mona|01/26/2010|||||180635N|0675610W|18.1097222|-67.9361111|||0.0|0.0
 2575405|Punta Cabras|Cape|Puerto Rico|72|Culebra|049|Culebra|01/26/2010|02/06/2020||||181811N|0651652W|18.3031869|-65.2811958|||0.0|0.0
@@ -5815,3 +5815,5 @@
 2813118|Palma Sola Census Designated Place|Census|Puerto Rico|72|Canóvanas|029|El Yunque|06/18/2020|||||181926N|0655217W|18.3239432|-65.8715096|||0.0|0.0
 2813119|Rincón Census Designated Place|Populated Place|Puerto Rico|72|Cidra|041|Comerio|06/18/2020|08/12/2021||||180860N|0660925W|18.1499098|-66.1568967|||0.0|0.0
 2813120|Palmarejo Census Designated Place|Populated Place|Puerto Rico|72|Corozal|047|Corozal|06/18/2020|08/12/2021||||181853N|0661732W|18.3148098|-66.292326|||0.0|0.0
+2832707|Isabela Puerto Rico Air Base|Military|Puerto Rico|72|Aguadilla|005|Moca|08/20/2025|08/20/2025||||182750N|0670357W|18.4637601|-67.0658661|||0.0|0.0
+2832919|Ramey Air Force Solar Observatory Research Site|Military|Puerto Rico|72|Aguadilla|005|Isabela|08/20/2025|08/20/2025||||183034N|0670557W|18.5094646|-67.0991704|||0.0|0.0

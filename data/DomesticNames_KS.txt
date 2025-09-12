@@ -7288,10 +7288,10 @@
 2510282|Min - Rock Village|Populated Place|Kansas|20|Wyandotte|209|Shawnee|12/08/2008|10/24/2018||||390416N|0943808W|39.071131|-94.63544|||0.0|0.0
 2512018|Smoky Hill Air National Guard Range|Military|Kansas|20|Saline|169|Falun|11/17/2008|05/22/2025||||384214N|0974847W|38.7037832|-97.813016|||0.0|0.0
 2512205|Fort Leavenworth|Military|Kansas|20|Leavenworth|103|Leavenworth|11/17/2008|05/22/2025||||392125N|0945455W|39.3568423|-94.9152905|||0.0|0.0
-2512216|Fort Riley|Military|Kansas|20|Geary|061|Junction City|11/17/2008|05/31/2022||||390330N|0964918W|39.058327|-96.8215535|||0.0|0.0
+2512216|Fort Riley|Military|Kansas|20|Geary|061|Junction City|11/17/2008|08/22/2025||||390330N|0964918W|39.058327|-96.8215535|||0.0|0.0
 2512250|Kansas Army Ammunition Plant|Military|Kansas|20|Labette|099|Parsons East|11/17/2008|05/31/2022||||371707N|0951044W|37.2851843|-95.1788215|||0.0|0.0
-2512251|Kansas Regional Training Center Salina|Military|Kansas|20|Saline|169|Salina SW|11/17/2008|05/31/2022||||384712N|0973809W|38.786712|-97.635851|||0.0|0.0
-2512289|McConnell Air Force Base|Military|Kansas|20|Sedgwick|173|Wichita East|11/17/2008|05/31/2022||||373735N|0971524W|37.6263931|-97.2567055|||0.0|0.0
+2512251|National Guard Salina Training Center|Military|Kansas|20|Saline|169|Salina SW|11/17/2008|08/22/2025||||384712N|0973809W|38.786712|-97.635851|||0.0|0.0
+2512289|McConnell Air Force Base|Military|Kansas|20|Sedgwick|173|Wichita East|11/17/2008|08/22/2025||||373735N|0971524W|37.6263931|-97.2567055|||0.0|0.0
 2563442|Clear Creek|Stream|Kansas|20|Montgomery|125|Independence|07/20/2009|||||370838N|0953945W|37.1438889|-95.6625|370745N|0954222W|37.1291667|-95.7061111
 2563523|May Branch Whitewater River|Stream|Kansas|20|Butler|015|Peabody SE|07/20/2009||Official|Board Decision|10/08/1963|380109N|0970106W|38.0191667|-97.0183333|380749N|0965830W|38.1302778|-96.975
 2575214|Township of Grant|Civil|Kansas|20|Osborne|141|Gaylord SW|01/15/2010|08/12/2023||||393128N|0985920W|39.5243515|-98.9890234|||0.0|0.0
@@ -7479,3 +7479,5 @@
 2831031|Little Mission Creek|Stream|Kansas|20|Marshall|117|Oketo|03/16/2023|03/16/2023|Official|Board Decision|03/09/2023|395937N|0963037W|39.993593|-96.510239|400202N|0962810W|40.034014|-96.469406
 2831233|Lake Gary|Reservoir|Kansas|20|Wyandotte|209|Wolcott|06/09/2023|06/09/2023|Official|Board Decision|06/08/2023|391016N|0944947W|39.1710609|-94.8298431|||0.0|0.0
 2831271|Mount Mitchell|Summit|Kansas|20|Wabaunsee|197|Wamego|08/16/2023|08/16/2023|Official|Board Decision|08/10/2023|390843N|0961752W|39.1454111|-96.2978229|||0.0|0.0
+2832681|Forbes Field Air National Guard|Military|Kansas|20|Shawnee|177|Wakarusa|08/20/2025|08/20/2025||||385739N|0954052W|38.960781|-95.6809959|||0.0|0.0
+2832797|National Guard Joint Forces Headquarters Kansas|Military|Kansas|20|Shawnee|177|Topeka|08/20/2025|08/20/2025||||390113N|0954059W|39.0202088|-95.6830761|||0.0|0.0

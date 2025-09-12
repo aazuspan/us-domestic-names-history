@@ -25743,14 +25743,14 @@
 2496981|Crowley Point|Summit|Colorado|08|Eagle|037|Meredith|09/08/2008|07/11/2019|Official|Board Decision|09/03/2008|392219N|1064241W|39.3719695|-106.7113839|||0.0|0.0
 2500981|City of Castle Pines|Civil|Colorado|08|Douglas|035|Castle Rock North|10/03/2008|08/10/2023||||392745N|1045214W|39.46249|-104.8705933|||0.0|0.0
 2500982|Castle Pines North|Populated Place|Colorado|08|Douglas|035|Sedalia|10/03/2008|06/07/2022||||392818N|1045341W|39.471712|-104.894815|||0.0|0.0
-2511974|Peterson Air Force Base|Military|Colorado|08|El Paso|041|Elsmere|11/17/2008|05/31/2022||||384925N|1044142W|38.8235726|-104.69501|||0.0|0.0
+2511974|Peterson Space Force Base|Military|Colorado|08|El Paso|041|Elsmere|11/17/2008|08/22/2025||||384925N|1044142W|38.8235726|-104.69501|||0.0|0.0
 2511978|Pinon Canyon Maneuver Site|Military|Colorado|08|Las Animas|071|Rock Crossing|11/17/2008|05/31/2022||||372933N|1035234W|37.4924676|-103.8761115|||0.0|0.0
 2511985|Pueblo Chemical Depot|Military|Colorado|08|Pueblo|101|North Avondale|11/17/2008|05/22/2025||||381851N|1041953W|38.3142959|-104.3313425|||0.0|0.0
 2511997|Rocky Flats Plant|Military|Colorado|08|Jefferson|059|Louisville|11/17/2008|05/22/2025||||395329N|1051252W|39.8915236|-105.2144915|||0.0|0.0
-2512004|Schriever Air Force Base|Military|Colorado|08|El Paso|041|Corral Bluffs|11/17/2008|05/31/2022||||384809N|1043058W|38.8024275|-104.5161575|||0.0|0.0
-2512050|Buckley Air Force Base|Military|Colorado|08|Arapahoe|005|Fitzsimons|11/17/2008|05/31/2022||||394240N|1044545W|39.7111872|-104.76259|||0.0|0.0
-2512189|Fort Carson|Military|Colorado|08|El Paso|041|Timber Mountain|11/17/2008|05/31/2022||||383320N|1045033W|38.5555596|-104.842556|||0.0|0.0
-2512367|United States Air Force Academy|Military|Colorado|08|El Paso|041|Pikeview|11/17/2008|05/31/2022||||385955N|1045115W|38.9984961|-104.8540895|||0.0|0.0
+2512004|Schriever Space Force Base|Military|Colorado|08|El Paso|041|Corral Bluffs|11/17/2008|08/22/2025||||384809N|1043058W|38.8024275|-104.5161575|||0.0|0.0
+2512050|Buckley Space Force Base|Military|Colorado|08|Arapahoe|005|Fitzsimons|11/17/2008|08/22/2025||||394240N|1044545W|39.7111872|-104.76259|||0.0|0.0
+2512189|Fort Carson|Military|Colorado|08|El Paso|041|Timber Mountain|11/17/2008|08/22/2025||||383320N|1045033W|38.5555596|-104.842556|||0.0|0.0
+2512367|United States Air Force Academy|Military|Colorado|08|El Paso|041|Pikeview|11/17/2008|08/22/2025||||385955N|1045115W|38.9984961|-104.8540895|||0.0|0.0
 2512539|Whittaker Point|Summit|Colorado|08|Eagle|037|Fulford|11/13/2008|06/18/2019|Official|Board Decision|11/13/2008|393409N|1064308W|39.5690777|-106.7189439|||0.0|0.0
 2519196|Arikaree Glacier|Glacier|Colorado|08|Boulder|013|Monarch Lake|02/05/2009|||||400300N|1053830W|40.05|-105.6416667|||0.0|0.0
 2519197|Navajo Glacier|Glacier|Colorado|08|Boulder|013|Monarch Lake|02/05/2009|||||400321N|1053847W|40.0558333|-105.6463889|||0.0|0.0
@@ -26418,3 +26418,8 @@
 2831519|Wortman (historical)|Populated Place|Colorado|08|Lake|065|Climax|05/16/2024|05/16/2024||||392125N|1061022W|39.357023|-106.17266|||0.0|0.0
 2831550|Democratic Gulch|Valley|Colorado|08|Fremont|043|Iron Mountain|07/11/2024|07/11/2024||||381650N|1052825W|38.28046|-105.4736|381523N|1053121W|38.25652|-105.52244
 2832513|Town of Keystone|Civil|Colorado|08|Summit|117|Keystone|04/11/2025|04/11/2025||||393610N|1055748W|39.602652|-105.963415|||0.0|0.0
+2832662|Cheyenne Mountain Space Force Station|Military|Colorado|08|El Paso|041|Cheyenne Mountain|08/20/2025|08/20/2025||||384426N|1045042W|38.7404781|-104.8451016|||0.0|0.0
+2832935|The Farish Memorial Recreational Annex|Military|Colorado|08|El Paso|041|Cascade|08/20/2025|08/20/2025||||385957N|1045959W|38.9991585|-104.9996451|||0.0|0.0
+2832947|United States Air Force Academy Auxiliary Airfield|Military|Colorado|08|El Paso|041|Big Springs Ranch|08/20/2025|08/20/2025||||384531N|1041804W|38.7585884|-104.3011075|||0.0|0.0
+2832967|York Gulch Census Designated Place|Census|Colorado|08|Clear Creek|019|Central City|08/25/2025|08/25/2025||||394756N|1053430W|39.798934|-105.57511|||0.0|0.0
+2832968|Mill Creek Park Census Designated Place|Census|Colorado|08|Clear Creek|019|Empire|08/25/2025|08/25/2025||||394724N|1053822W|39.79003|-105.639469|||0.0|0.0

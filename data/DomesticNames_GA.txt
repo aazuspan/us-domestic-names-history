@@ -4797,7 +4797,7 @@
 319843|Oak Mountain Spring|Spring|Georgia|13|Talbot|263|Shiloh|09/25/1979|04/18/2011||||324523N|0844122W|32.7563872|-84.6893269|||0.0|0.0
 319846|Oak Pond|Lake|Georgia|13|Baker|007|Elmodel|09/25/1979|||||311743N|0842422W|31.29518|-84.4060216|||0.0|0.0
 319847|Oak Pond Branch|Stream|Georgia|13|Wayne|305|Manningtown|09/25/1979|||||312430N|0814927W|31.4082764|-81.8242794|312530N|0814958W|31.425|-81.8327778
-319854|Oakbin Pond|Lake|Georgia|13|Dooly|093|Pinehurst|09/25/1979|02/12/2019||||321313N|0834555W|32.2203327|-83.7651899|||0.0|0.0
+319854|Oakbin Pond|Lake|Georgia|13|Dooly|093|Pinehurst|09/25/1979|08/08/2025||||321326N|0834622W|32.223876|-83.772748|||0.0|0.0
 319857|Oakey Mountain|Summit|Georgia|13|Pickens|227|Ludville|09/25/1979|04/30/2025||||342256N|0843351W|34.3823143|-84.564097|||0.0|0.0
 319868|Oakman|Populated Place|Georgia|13|Gordon|129|Oakman|09/25/1979|06/07/2022||||343359N|0844230W|34.5664756|-84.7082685|||0.0|0.0
 319873|Oakwood|Populated Place|Georgia|13|Hall|139|Flowery Branch|09/25/1979|06/07/2022||||341339N|0835304W|34.227602|-83.8843455|||0.0|0.0
@@ -23533,16 +23533,16 @@
 2424941|Chattahoochee Hills|Populated Place|Georgia|13|Fulton|121|Rico|04/21/2008|06/07/2022||||333302N|0844538W|33.550628|-84.760488|||0.0|0.0
 2508009|Piney Woods|Populated Place|Georgia|13|Haralson|143|Draketown|10/31/2008|06/07/2022||||335047N|0850544W|33.846503|-85.095592|||0.0|0.0
 2511943|Naval Submarine Base Kings Bay|Military|Georgia|13|Camden|039|Harrietts Bluff|11/17/2008|05/22/2025||||304749N|0813158W|30.7968402|-81.532801|||0.0|0.0
-2511996|Robins Air Force Base|Military|Georgia|13|Houston|153|Warner Robins SE|11/17/2008|05/22/2025||||323645N|0833505W|32.6126266|-83.584735|||0.0|0.0
-2512185|Fort Benning|Military|Georgia|13|Chattahoochee|053|Ochillee|11/17/2008|05/22/2025||||322322N|0844946W|32.3893392|-84.829424|||0.0|0.0
+2511996|Robins Air Force Base|Military|Georgia|13|Houston|153|Warner Robins SE|11/17/2008|08/22/2025||||323645N|0833505W|32.6126266|-83.584735|||0.0|0.0
+2512185|Fort Benning|Military|Georgia|13|Chattahoochee|053|Ochillee|11/17/2008|08/22/2025||||322322N|0844946W|32.3893392|-84.829424|||0.0|0.0
 2512197|Fort Gillem|Military|Georgia|13|Clayton|063|Jonesboro|11/17/2008|05/31/2022||||333726N|0841945W|33.6238946|-84.32913|||0.0|0.0
 2512198|Fort Gordon|Military|Georgia|13|Richmond|245|Blythe|11/17/2008|05/31/2022||||332102N|0821420W|33.3505253|-82.2388015|||0.0|0.0
-2512222|Fort Stewart|Military|Georgia|13|Liberty|179|Trinity|11/17/2008|05/22/2025||||315858N|0813549W|31.9827199|-81.5969585|||0.0|0.0
+2512222|Fort Stewart|Military|Georgia|13|Liberty|179|Trinity|11/17/2008|08/22/2025||||315858N|0813549W|31.9827199|-81.5969585|||0.0|0.0
 2512243|Hunter Army Airfield|Military|Georgia|13|Chatham|051|Garden City|11/17/2008|05/22/2025||||320035N|0810919W|32.0097454|-81.1553495|||0.0|0.0
-2512296|Moody Air Force Base|Military|Georgia|13|Lanier|173|Bemiss|11/17/2008|05/31/2022||||305800N|0831026W|30.9667125|-83.173967|||0.0|0.0
+2512296|Moody Air Force Base|Military|Georgia|13|Lanier|173|Bemiss|11/17/2008|08/22/2025||||305800N|0831026W|30.9667125|-83.173967|||0.0|0.0
 2512304|Naval Air Station Atlanta|Military|Georgia|13|Cobb|067|Marietta|11/17/2008|05/31/2022||||335449N|0843146W|33.9135886|-84.5293685|||0.0|0.0
 2512357|Townsend Air-To-Ground Range|Military|Georgia|13|McIntosh|191|Townsend|11/17/2008|05/31/2022||||313301N|0813504W|31.5502875|-81.5845475|||0.0|0.0
-2512380|Volunteer Training Site Catoosa|Military|Georgia|13|Catoosa|047|Ringgold|11/17/2008|05/31/2022||||345604N|0850328W|34.9344117|-85.0576525|||0.0|0.0
+2512380|National Guard Volunteer Training Site Catoosa|Military|Georgia|13|Catoosa|047|Ringgold|11/17/2008|08/22/2025||||345604N|0850328W|34.9344117|-85.0576525|||0.0|0.0
 2512429|Marine Corps Logistics Base Albany|Military|Georgia|13|Dougherty|095|Albany East|11/17/2008|05/22/2025||||313303N|0840307W|31.5509714|-84.051872|||0.0|0.0
 2512435|Navy Supply Corps School Athens|Military|Georgia|13|Clarke|059|Athens West|11/17/2008|05/31/2022||||335753N|0832421W|33.9647161|-83.4058835|||0.0|0.0
 2512466|Dobbins Air Reserve Base|Military|Georgia|13|Cobb|067|Marietta|11/17/2008|05/22/2025||||335510N|0843108W|33.9195337|-84.518889|||0.0|0.0
@@ -23731,3 +23731,10 @@
 2832427|City of Mulberry|Civil|Georgia|13|Gwinnett|135|Hog Mountain|11/15/2024|11/15/2024||||340353N|0835318W|34.0647|-83.8883|||0.0|0.0
 2832428|Mulberry|Populated Place|Georgia|13|Gwinnett|135|Hog Mountain|11/15/2024|11/15/2024||||340353N|0835318W|34.0647|-83.8883|||0.0|0.0
 2832468|Williams Creek|Stream|Georgia|13|Gwinnett|135|Loganville|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|335056N|0835847W|33.84886|-83.97971|335136N|0840042W|33.85988|-84.01168
+2832687|Fort Eisenhower|Military|Georgia|13|Columbia|073|Avondale|08/20/2025|08/20/2025||||332210N|0821713W|33.36958|-82.287033|||0.0|0.0
+2832751|National Guard Atlanta United Avenue|Military|Georgia|13|Fulton|121|Southeast Atlanta|08/20/2025|08/20/2025||||334320N|0842132W|33.7221311|-84.3590009|||0.0|0.0
+2832777|National Guard Cumming|Military|Georgia|13|Forsyth|117|Buford Dam|08/20/2025|08/20/2025||||341328N|0840647W|34.2245021|-84.1131256|||0.0|0.0
+2832784|National Guard General Lucius D Clay National Guard Center|Military|Georgia|13|Cobb|067|Marietta|08/20/2025|08/20/2025||||335449N|0843143W|33.91358|-84.528676|||0.0|0.0
+2832807|National Guard Macon Readiness Center|Military|Georgia|13|Bibb|021|Macon East|08/20/2025|08/20/2025||||325141N|0833621W|32.8613137|-83.6057112|||0.0|0.0
+2832820|National Guard Oglethorpe Armory|Military|Georgia|13|Clayton|063|Jonesboro|08/20/2025|08/20/2025||||333703N|0841836W|33.617423|-84.3100028|||0.0|0.0
+2832929|Savannah/Hilton Head International Airport|Military|Georgia|13|Chatham|051|Port Wentworth|08/20/2025|08/20/2025||||320735N|0811123W|32.1263297|-81.1897384|||0.0|0.0

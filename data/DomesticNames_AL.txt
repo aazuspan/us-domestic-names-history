@@ -21587,10 +21587,11 @@
 2496977|Yellow Bird Mountain|Summit|Alabama|01|Jefferson|073|Gardendale|09/08/2008|08/26/2023|Official|Board Decision|09/03/2008|334254N|0864903W|33.7149122|-86.8173664|||0.0|0.0
 2496978|Turpentine Branch|Stream|Alabama|01|Mobile|097|Saint Elmo|09/08/2008||Official|Board Decision|09/03/2008|303525N|0881945W|30.5902778|-88.3291667|303514N|0882002W|30.5872222|-88.3338889
 2512036|Anniston Army Depot|Military|Alabama|01|Calhoun|015|Eulaton|11/17/2008|05/22/2025||||333908N|0855744W|33.6523089|-85.962139|||0.0|0.0
+2512185|Fort Benning|Military|Georgia|13|Chattahoochee|053|Ochillee|11/17/2008|08/22/2025||||322322N|0844946W|32.3893392|-84.829424|||0.0|0.0
 2512209|Fort McClellan|Military|Alabama|01|Calhoun|015|Choccolocco|11/17/2008|05/31/2022||||334239N|0854414W|33.7107576|-85.737327|||0.0|0.0
-2512217|Fort Novosel|Military|Alabama|01|Dale|045|Ozark|11/17/2008|05/22/2025||||312401N|0854445W|31.4003524|-85.745913|||0.0|0.0
+2512217|Fort Novosel|Military|Alabama|01|Dale|045|Ozark|11/17/2008|08/22/2025||||312401N|0854445W|31.4003524|-85.745913|||0.0|0.0
 2512410|Coast Guard Aviation Training Center|Military|Alabama|01|Mobile|097|Spring Hill|11/17/2008|05/22/2025||||304153N|0881440W|30.6980189|-88.2443115|||0.0|0.0
-2512509|Redstone Arsenal|Military|Alabama|01|Madison|089|Madison|11/17/2008|05/31/2022||||343748N|0863910W|34.6299727|-86.6528665|||0.0|0.0
+2512509|Redstone Arsenal|Military|Alabama|01|Madison|089|Madison|11/17/2008|08/22/2025||||343748N|0863910W|34.6299727|-86.6528665|||0.0|0.0
 2512529|Maxwell Air Force Base|Military|Alabama|01|Montgomery|101|Montgomery North|11/17/2008|05/22/2025||||322258N|0862118W|32.3826578|-86.3550245|||0.0|0.0
 2514442|Heritage Estates|Populated Place|Alabama|01|Morgan|103|Trinity|12/15/2008|06/07/2022||||343521N|0870407W|34.5891667|-87.0686111|||0.0|0.0
 2557134|Lexington Downs|Populated Place|Alabama|01|Tuscaloosa|125|Lake Nicol|06/10/2009|06/07/2022||||331532N|0872841W|33.2588889|-87.4780556|||0.0|0.0
@@ -21780,3 +21781,13 @@
 2832545|Red Mountain|Summit|Alabama|01|St. Clair|115|Hyatt Gap|04/21/2025|04/23/2025||||335733N|0861635W|33.9590767|-86.2764343|||0.0|0.0
 2832591|Town of Pine Level|Civil|Alabama|01|Autauga|001|Deatsville|07/02/2025|07/02/2025||||323442N|0862742W|32.578471|-86.461633|||0.0|0.0
 2832599|Ruffner Mountain|Summit|Alabama|01|Jefferson|073|Irondale|07/11/2025|07/11/2025|Official|Board Decision|07/10/2025|333356N|0864157W|33.565536|-86.699272|||0.0|0.0
+2832637|Army National Guard Fort McClellan Training Center|Military|Alabama|01|Calhoun|015|Eulaton|08/20/2025|08/20/2025||||334304N|0855700W|33.7178642|-85.9501336|||0.0|0.0
+2832645|Birmingham Airport|Military|Alabama|01|Jefferson|073|Birmingham North|08/20/2025|08/20/2025||||333413N|0864514W|33.5703892|-86.7540093|||0.0|0.0
+2832744|Maxwell Air Force Base Gunter Annex|Military|Alabama|01|Montgomery|101|Willow Springs|08/20/2025|08/20/2025||||322425N|0861447W|32.4069311|-86.246279|||0.0|0.0
+2832747|Montgomery Regional Airport Army National Guard|Military|Alabama|01|Montgomery|101|Cantelous|08/20/2025|08/20/2025||||321817N|0862406W|32.3047406|-86.4016556|||0.0|0.0
+2832872|Naval Outlying Landing Field Barin|Military|Alabama|01|Baldwin|003|Foley|08/20/2025|08/20/2025||||302328N|0873754W|30.3911623|-87.6317197|||0.0|0.0
+2832873|Naval Outlying Landing Field Brewton|Military|Alabama|01|Escambia|053|Brewton South|08/20/2025|08/20/2025||||310255N|0870352W|31.0486417|-87.0644062|||0.0|0.0
+2832876|Naval Outlying Landing Field Evergreen|Military|Alabama|01|Conecuh|035|Belleville|08/20/2025|08/20/2025||||312457N|0870239W|31.4157328|-87.0440408|||0.0|0.0
+2832879|Naval Outlying Landing Field Silverhill|Military|Alabama|01|Baldwin|003|Silverhill|08/20/2025|08/20/2025||||303343N|0874834W|30.5619545|-87.8093459|||0.0|0.0
+2832881|Naval Outlying Landing Field Summerdale|Military|Alabama|01|Baldwin|003|Robertsdale|08/20/2025|08/20/2025||||303029N|0873850W|30.5080574|-87.647198|||0.0|0.0
+2832882|Naval Outlying Landing Field Wolf|Military|Alabama|01|Baldwin|003|Orange Beach|08/20/2025|08/20/2025||||302041N|0873227W|30.3446807|-87.5407774|||0.0|0.0

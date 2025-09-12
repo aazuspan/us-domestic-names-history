@@ -7247,7 +7247,7 @@
 2512139|Coast Guard Station Sandy Hook|Military|New Jersey|34|Monmouth|025|Sandy Hook West|11/17/2008|05/22/2025||||402817N|0740036W|40.4714592|-74.0100565|||0.0|0.0
 2512148|Coast Guard Training Center Cape May|Military|New Jersey|34|Cape May|009|Cape May|11/17/2008|05/22/2025||||385645N|0745256W|38.9458917|-74.8821565|||0.0|0.0
 2512194|Fort Dix|Military|New Jersey|34|Burlington|005|New Egypt|11/17/2008|05/31/2022||||400047N|0743206W|40.0129485|-74.535118|||0.0|0.0
-2512212|Fort Monmouth|Military|New Jersey|34|Monmouth|025|Long Branch West|11/17/2008|05/31/2022||||401843N|0740242W|40.3118633|-74.04508|||0.0|0.0
+2512212|Fort Monmouth Main Post|Military|New Jersey|34|Monmouth|025|Long Branch West|11/17/2008|08/22/2025||||401843N|0740242W|40.3118633|-74.04508|||0.0|0.0
 2512291|McGuire Air Force Base|Military|New Jersey|34|Burlington|005|New Egypt|11/17/2008|05/31/2022||||400130N|0743520W|40.0248823|-74.588953|||0.0|0.0
 2512311|Naval Air Station Lakehurst|Military|New Jersey|34|Ocean|029|Lakehurst|11/17/2008|05/31/2022||||400152N|0742211W|40.0311501|-74.3697035|||0.0|0.0
 2512385|Warren Grove Range|Military|New Jersey|34|Burlington|005|Oswego Lake|11/17/2008|05/22/2025||||394221N|0742617W|39.7057556|-74.438116|||0.0|0.0
@@ -7548,3 +7548,7 @@
 2813401|Lower Berkshire Valley Census Designated Place|Census|New Jersey|34|Morris|027|Dover|08/19/2020|08/08/2023||||405448N|0743638W|40.9132438|-74.61045|||0.0|0.0
 2813402|Port Morris Census Designated Place|Census|New Jersey|34|Morris|027|Stanhope|08/19/2020|08/08/2023||||405422N|0744104W|40.906094|-74.6845146|||0.0|0.0
 2830613|Stone Bridge Run|Stream|New Jersey|34|Cumberland|011|Bridgeton|04/25/2022|04/25/2022||||392640N|0751401W|39.444478|-75.23356|392722N|0751253W|39.456143|-75.214634
+2832638|Atlantic City International Airport|Military|New Jersey|34|Atlantic|001|Pleasantville|08/20/2025|08/20/2025||||392643N|0743446W|39.4452531|-74.5794425|||0.0|0.0
+2832716|Joint Base McGuire-Dix-Lakehurst|Military|New Jersey|34|Burlington|005|New Egypt|08/20/2025|08/20/2025||||400144N|0743454W|40.0289636|-74.5815622|||0.0|0.0
+2832803|National Guard Lawrenceville|Military|New Jersey|34|Mercer|021|Princeton|08/20/2025|08/20/2025||||401611N|0744441W|40.269831|-74.7446814|||0.0|0.0
+2832902|Naval Weapons Station Earle Waterfront Unit|Military|New Jersey|34|Monmouth|025|Sandy Hook West|08/20/2025|08/20/2025||||402519N|0740414W|40.4218431|-74.0705708|||0.0|0.0

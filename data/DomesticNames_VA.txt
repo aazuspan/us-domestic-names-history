@@ -169,7 +169,7 @@
 1025518|Meherrin River|Stream|North Carolina|37|Hertford|091|Winton|06/17/1980|09/14/2017|Official|Board Decision|01/01/1961|362554N|0765653W|36.4315425|-76.9480157|364911N|0781632W|36.8195884|-78.2755527
 1025587|Northwest River|Stream|North Carolina|37|Currituck|053|Creeds|06/17/1980|||||363044N|0760429W|36.512098|-76.0746523|363656N|0762012W|36.6154287|-76.3366079
 1025624|Porpoise Slough|Stream|North Carolina|37|Currituck|053|Knotts Island|06/17/1980|||||363241N|0755434W|36.5445987|-75.9093682|363302N|0755427W|36.5505556|-75.9075
-1025677|Sand Ridge|Ridge|North Carolina|37|Currituck|053|Knotts Island OE E|09/28/1979|04/12/2011||||363122N|0755147W|36.5226551|-75.8629772|||0.0|0.0
+1025677|Sand Ridge|Ridge|North Carolina|37|Currituck|053|Knotts Island OE E|09/28/1979|08/09/2025||||363131N|0755151W|36.5253278|-75.864093|||0.0|0.0
 1025714|Somerton Creek|Stream|North Carolina|37|Gates|073|Riverdale|06/17/1980|||||363144N|0765447W|36.5287636|-76.9130161|363526N|0764444W|36.59043|-76.7455123
 1025799|Whitley Branch|Stream|Virginia|51|Southampton|175|Sunbeam|09/28/1979|||||363310N|0770107W|36.5526519|-77.0185742|363228N|0765940W|36.5409854|-76.994407
 1026323|Mill Swamp|Stream|Virginia|51|Suffolk (city)|800|Gates|08/01/1995|||||363353N|0764841W|36.5645968|-76.8113472|363330N|0764339W|36.5582082|-76.727456
@@ -25703,19 +25703,19 @@
 2459338|Yendor Landing|Populated Place|Virginia|51|Stafford|179|Passapatanzy|06/27/2008|06/07/2022||||381943N|0772107W|38.3287|-77.3519|||0.0|0.0
 2459339|Youngstead|Populated Place|Virginia|51|Stafford|179|Stafford|06/27/2008|06/07/2022||||382523N|0772418W|38.423|-77.4051|||0.0|0.0
 2507992|Captains Cove|Populated Place|Virginia|51|Accomack|001|Chincoteague West|10/30/2008|01/19/2011||||375924N|0752522W|37.989957|-75.422722|||0.0|0.0
-2511929|Naval Shipyard Norfolk|Military|Virginia|51|Portsmouth (city)|740|Norfolk South|11/17/2008|05/31/2022||||364804N|0761805W|36.8010721|-76.30137|||0.0|0.0
+2511929|Norfolk Naval Shipyard|Military|Virginia|51|Portsmouth (city)|740|Norfolk South|11/17/2008|08/22/2025||||364804N|0761805W|36.8010721|-76.30137|||0.0|0.0
 2511937|Naval Station Norfolk|Military|Virginia|51|Norfolk (city)|710|Norfolk North|11/17/2008|05/22/2025||||365631N|0761754W|36.9420289|-76.298383|||0.0|0.0
-2511944|Naval Supply Center Cheatham Annex|Military|Virginia|51|York|199|Clay Bank|11/17/2008|05/31/2022||||371702N|0763614W|37.2838378|-76.603793|||0.0|0.0
+2511944|Cheatham Annex|Military|Virginia|51|York|199|Clay Bank|11/17/2008|08/22/2025||||371702N|0763614W|37.2838378|-76.603793|||0.0|0.0
 2511948|Naval Support Activity Norfolk|Military|Virginia|51|Norfolk (city)|710|Norfolk North|11/17/2008|05/31/2022||||365534N|0761757W|36.9260799|-76.2991675|||0.0|0.0
-2511952|Naval Surface Warfare Center Dahlgren Mainside|Military|Virginia|51|King George|099|Dahlgren|11/17/2008|05/31/2022||||382026N|0770158W|38.3405925|-77.032697|||0.0|0.0
-2511959|Naval Weapons Station Yorktown|Military|Virginia|51|York|199|Yorktown|11/17/2008|05/22/2025||||371430N|0763447W|37.2417883|-76.579833|||0.0|0.0
-2511966|Northwest Chesapeake Naval Information Operations Command|Military|Virginia|51|Chesapeake (city)|550|Lake Drummond SE|11/17/2008|05/31/2022||||363349N|0761601W|36.5637029|-76.266834|||0.0|0.0
-2511988|Radford Army Ammunition Plant|Military|Virginia|51|Montgomery|121|Radford North|11/17/2008|05/22/2025||||371102N|0803241W|37.1838513|-80.5446315|||0.0|0.0
+2511952|Naval Support Facility Dahlgren|Military|Virginia|51|King George|099|Dahlgren|11/17/2008|08/22/2025||||382026N|0770158W|38.3405925|-77.032697|||0.0|0.0
+2511959|Naval Weapons Station Yorktown|Military|Virginia|51|York|199|Yorktown|11/17/2008|08/22/2025||||371430N|0763447W|37.2417883|-76.579833|||0.0|0.0
+2511966|Naval Support Activity Northwest Chesapeake|Military|Virginia|51|Chesapeake (city)|550|Lake Drummond SE|11/17/2008|08/22/2025||||363349N|0761601W|36.5637029|-76.266834|||0.0|0.0
+2511988|Radford Army Ammunition Plant|Military|Virginia|51|Montgomery|121|Radford North|11/17/2008|08/22/2025||||371102N|0803241W|37.1838513|-80.5446315|||0.0|0.0
 2511999|Naval Station Norfolk Saint Juliens Creek Annex|Military|Virginia|51|Chesapeake (city)|550|Norfolk South|10/05/2023|10/05/2023||||364719N|0761853W|36.7886925|-76.314694|||0.0|0.0
 2512135|Coast Guard Station Portsmouth|Military|Virginia|51|Portsmouth (city)|740|Norfolk North|11/17/2008|05/22/2025||||365259N|0762121W|36.883034|-76.355831|||0.0|0.0
-2512154|Craney Island Fuel Depot|Military|Virginia|51|Portsmouth (city)|740|Norfolk North|11/17/2008|05/31/2022||||365318N|0762136W|36.8884137|-76.3598805|||0.0|0.0
+2512154|Craney Island|Military|Virginia|51|Portsmouth (city)|740|Norfolk North|11/17/2008|08/22/2025||||365318N|0762136W|36.8884137|-76.3598805|||0.0|0.0
 2512161|Defense Supply Center Richmond|Military|Virginia|51|Chesterfield|041|Drewrys Bluff|11/17/2008|05/22/2025||||372446N|0772641W|37.4128885|-77.444617|||0.0|0.0
-2512184|Fort Belvoir|Military|Virginia|51|Fairfax|059|Fort Belvoir|11/17/2008|05/31/2022|Vacated|Board Decision|02/09/1965|384134N|0770943W|38.6927378|-77.1619015|||0.0|0.0
+2512184|Fort Belvoir|Military|Virginia|51|Fairfax|059|Fort Belvoir|11/17/2008|08/22/2025|Vacated|Board Decision|02/09/1965|384134N|0770943W|38.6927378|-77.1619015|||0.0|0.0
 2512195|Fort Eustis|Military|Virginia|51|Newport News (city)|700|Yorktown|11/17/2008|05/31/2022||||370819N|0763521W|37.1387116|-76.589057|||0.0|0.0
 2512213|Fort Monroe|Military|Virginia|51|Hampton (city)|650|Hampton|11/17/2008|05/31/2022||||370020N|0761818W|37.0056075|-76.304864|||0.0|0.0
 2512214|Fort Myer|Military|Virginia|51|Arlington|013|Alexandria|11/17/2008|05/31/2022|Vacated|Board Decision|02/09/1965|385219N|0770439W|38.8718621|-77.0775355|||0.0|0.0
@@ -25724,9 +25724,9 @@
 2512238|Henderson Hall|Military|Virginia|51|Arlington|013|Alexandria|11/17/2008|05/31/2022||||385209N|0770426W|38.8691755|-77.073796|||0.0|0.0
 2512258|Langley Air Force Base|Military|Virginia|51|Hampton (city)|650|Hampton|11/17/2008|05/31/2022||||370458N|0762143W|37.0827735|-76.362001|||0.0|0.0
 2512260|Lieber Army Reserve Center|Military|Virginia|51|Fairfax|059|Alexandria|11/17/2008|05/22/2025||||384611N|0770701W|38.769704|-77.116861|||0.0|0.0
-2512283|Marine Corps Base Quantico|Military|Virginia|51|Stafford|179|Stafford|11/17/2008|05/22/2025||||382923N|0772801W|38.4895896|-77.4668805|||0.0|0.0
-2512315|Naval Air Station Oceanna|Military|Virginia|51|Virginia Beach (city)|810|Princess Anne|11/17/2008|05/22/2025||||364858N|0760123W|36.8160863|-76.023035|||0.0|0.0
-2512324|Naval Auxiliary Landing Field Fentress|Military|Virginia|51|Chesapeake (city)|550|Fentress|11/17/2008|05/22/2025||||364200N|0760751W|36.7000667|-76.1309565|||0.0|0.0
+2512283|Marine Corps Base Quantico|Military|Virginia|51|Stafford|179|Stafford|11/17/2008|08/22/2025||||382923N|0772801W|38.4895896|-77.4668805|||0.0|0.0
+2512315|Naval Air Station Oceana|Military|Virginia|51|Virginia Beach (city)|810|Princess Anne|11/17/2008|08/22/2025||||364858N|0760123W|36.8160863|-76.023035|||0.0|0.0
+2512324|Auxiliary Landing Field Fentress Chesapeake|Military|Virginia|51|Chesapeake (city)|550|Fentress|11/17/2008|08/22/2025||||364200N|0760751W|36.7000667|-76.1309565|||0.0|0.0
 2512340|Naval Medical Center Portsmouth|Military|Virginia|51|Portsmouth (city)|740|Norfolk South|11/17/2008|05/22/2025||||365043N|0761831W|36.8453655|-76.308608|||0.0|0.0
 2512434|Naval Surface Warfare Center Pumpkin Annex|Military|Virginia|51|King George|099|Dahlgren|11/17/2008|05/31/2022||||381759N|0770232W|38.2996477|-77.0422095|||0.0|0.0
 2512451|Camp Pendleton|Military|Virginia|51|Virginia Beach (city)|810|Virginia Beach|11/17/2008|05/31/2022||||364828N|0755851W|36.807745|-75.980757|||0.0|0.0
@@ -25736,7 +25736,7 @@
 2512496|United States Coast Guard Training Center Yorktown|Military|Virginia|51|York|199|Poquoson West|11/17/2008|05/22/2025||||371260N|0762836W|37.2166307|-76.4767505|||0.0|0.0
 2512514|Camp Peary|Military|Virginia|51|York|199|Williamsburg|11/17/2008|05/22/2025||||371955N|0763937W|37.3320094|-76.6604|||0.0|0.0
 2512519|Dam Neck Annex|Military|Virginia|51|Virginia Beach (city)|810|Virginia Beach|11/17/2008|05/31/2022||||364539N|0755744W|36.7607668|-75.9623415|||0.0|0.0
-2512521|Fort Walker|Military|Virginia|51|Caroline|033|Bowling Green|11/17/2008|05/22/2025||||380613N|0771557W|38.1035244|-77.265906|||0.0|0.0
+2512521|Fort Walker|Military|Virginia|51|Caroline|033|Bowling Green|11/17/2008|08/22/2025||||380613N|0771557W|38.1035244|-77.265906|||0.0|0.0
 2519270|Lake Frederick|Populated Place|Virginia|51|Frederick|069|Stephens City|02/06/2009|06/07/2022||||390235N|0780942W|39.0431682|-78.1616458|||0.0|0.0
 2559073|Rippon Landing|Populated Place|Virginia|51|Prince William|153|Quantico|06/13/2009|06/07/2022||||383708N|0771634W|38.618882|-77.276073|||0.0|0.0
 2572162|Wrights Peak|Summit|Virginia|51|Giles|071|Interior|10/11/2009|07/24/2020|Official|Board Decision|10/08/2009|372837N|0803128W|37.4768774|-80.5243215|||0.0|0.0
@@ -26218,3 +26218,16 @@
 2832544|Courthouse Square Census Designated Place|Census|Virginia|51|Stafford|179|Stafford|04/14/2025|04/14/2025||||382520N|0772438W|38.4222|-77.4106|||0.0|0.0
 2832574|Liberty Creek|Stream|Virginia|51|Hanover|085|Hanover Academy|06/13/2025|06/13/2025|Official|Board Decision|06/12/2025|374812N|0773049W|37.80347|-77.51351|374631N|0773203W|37.7754|-77.53406
 2832590|Rappahannock Trust Land|Civil|Virginia|51|Essex|057|Cauthornville|07/02/2025|07/11/2025||||375433N|0770240W|37.9092|-77.0444|||0.0|0.0
+2832636|Arlington Service Center|Military|Virginia|51|Arlington|013|Alexandria|08/20/2025|08/20/2025||||385204N|0770445W|38.8677546|-77.0792894|||0.0|0.0
+2832689|Fort Gregg-Adams|Military|Virginia|51|Prince George|149|Prince George|08/20/2025|08/20/2025||||371459N|0772005W|37.2496701|-77.3346534|||0.0|0.0
+2832714|Joint Base Langley-Eustis|Military|Virginia|51|James City|095|Yorktown|08/20/2025|08/20/2025||||371025N|0763635W|37.173527|-76.609693|||0.0|0.0
+2832717|Joint Base Myer-Henderson Hall|Military|District of Columbia|11|District of Columbia|001|Alexandria|08/20/2025|08/20/2025||||385202N|0770059W|38.8672403|-77.0164336|||0.0|0.0
+2832719|Joint Expeditionary Base Little Creek-Fort Story|Military|Virginia|51|Norfolk (city)|710|Little Creek|08/20/2025|08/20/2025||||365535N|0761044W|36.926399|-76.178873|||0.0|0.0
+2832726|Lafayette River Complex|Military|Virginia|51|Norfolk (city)|710|Norfolk North|08/20/2025|08/20/2025||||365408N|0761809W|36.9022176|-76.3023618|||0.0|0.0
+2832783|National Guard Fort Barfoot|Military|Virginia|51|Brunswick|025|Danieltown|08/20/2025|08/20/2025||||365849N|0775359W|36.980217|-77.899765|||0.0|0.0
+2832856|Naval Air Station Oceana Dam Neck Annex|Military|Virginia|51|Virginia Beach (city)|810|Virginia Beach|08/20/2025|08/20/2025||||364717N|0755756W|36.7881198|-75.9654758|||0.0|0.0
+2832857|Naval Air Station Oceana Nexcome Headquarters|Military|Virginia|51|Virginia Beach (city)|810|Princess Anne|08/20/2025|08/20/2025||||365038N|0760504W|36.8439551|-76.0843061|||0.0|0.0
+2832892|Naval Support Activity Hampton Roads|Military|Virginia|51|Norfolk (city)|710|Norfolk North|08/20/2025|08/20/2025||||365528N|0761804W|36.9245112|-76.3010443|||0.0|0.0
+2832917|Pumpkin Neck|Military|Virginia|51|King George|099|Dahlgren|08/20/2025|08/20/2025||||381807N|0770233W|38.3019864|-77.0423857|||0.0|0.0
+2832923|Saint Julian's Creek East|Military|Virginia|51|Chesapeake (city)|550|Norfolk South|08/20/2025|08/20/2025||||364721N|0761848W|36.7892031|-76.3134307|||0.0|0.0
+2832958|Yorktown Fuel Depot|Military|Virginia|51|York|199|Poquoson West|08/20/2025|08/20/2025||||371259N|0762911W|37.216423|-76.4862714|||0.0|0.0

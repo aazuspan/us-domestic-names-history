@@ -20156,8 +20156,8 @@
 2487085|Choctaw Village (historical)|Populated Place|Arkansas|05|Desha|041|Watson|02/24/2010|04/26/2021||||335955N|0911954W|33.9985999|-91.3315801|||0.0|0.0
 2487105|Quawpaw Village (historical)|Populated Place|Arkansas|05|Lincoln|079|Cades|12/13/2011|||||340535N|0913302W|34.0929909|-91.5504392|||0.0|0.0
 2511976|Pine Bluff Arsenal|Military|Arkansas|05|Jefferson|069|White Hall|11/17/2008|05/22/2025||||341957N|0920512W|34.3326129|-92.0868035|||0.0|0.0
-2512061|Camp Joseph T Robinson|Military|Arkansas|05|Pulaski|119|Cato|11/17/2008|05/31/2022||||345359N|0921847W|34.8997258|-92.3129995|||0.0|0.0
-2512190|Fort Chaffee Maneuver Training Center|Military|Arkansas|05|Sebastian|131|Lavaca|11/17/2008|05/31/2022||||351626N|0941156W|35.273854|-94.1989745|||0.0|0.0
+2512061|National Guard Camp Joseph T Robinson|Military|Arkansas|05|Pulaski|119|Cato|11/17/2008|08/22/2025||||345359N|0921847W|34.8997258|-92.3129995|||0.0|0.0
+2512190|National Guard Fort Chaffee Maneuver Training Center|Military|Arkansas|05|Crawford|033|Barling|11/17/2008|08/22/2025||||352114N|0941617W|35.3539522|-94.2713255|||0.0|0.0
 2512424|Little Rock Air Force Base|Military|Arkansas|05|Pulaski|119|Olmstead|11/17/2008|05/22/2025||||345426N|0920816W|34.9073284|-92.137687|||0.0|0.0
 2548749|Brushy Island Creek|Stream|Arkansas|05|Pulaski|119|McAlmont|04/15/2009|02/13/2025|Official|Board Decision|01/13/1977|345101N|0920829W|34.85028|-92.14152|344912N|0921136W|34.82007|-92.19331
 2548804|Pine Mountain Lake|Reservoir|Arkansas|05|Crawford|033|Rudy NE|04/22/2009||Official|Board Decision|07/27/1971|353815N|0942210W|35.6375|-94.3694444|||0.0|0.0
@@ -21303,5 +21303,5 @@
 2832353|Justice of the Peace District 5|Civil|Arkansas|05|Desha|041|Yancopin|08/14/2024|10/08/2024||||335518N|0911020W|33.9217|-91.1722|||0.0|0.0
 2832398|City of Diamondhead|Civil|Arkansas|05|Garland|051|Lake Catherine|10/02/2024|10/02/2024||||342609N|0925730W|34.43591|-92.95836|||0.0|0.0
 2832400|Justice of the Peace District 1|Civil|Arkansas|05|Yell|149|Bluffton|10/02/2024|10/02/2024||||345440N|0933023W|34.911|-93.5063|||0.0|0.0
-2832594|Brushy Creek Ditch|Stream|||||Central|07/10/2025|07/10/2025||||351727N|0905611W|35.29072|-90.93652|353752N|0905301W|35.63117|-90.8837
-2832595|Brushy Creek|Stream|||||Hamlin|07/10/2025|07/10/2025||||351359N|0905437W|35.23311|-90.9103|351727N|0905611W|35.29072|-90.93652
+2832594|Brushy Creek Ditch|Stream|Arkansas|05|Poinsett|111|Central|07/10/2025|07/16/2025||||351727N|0905611W|35.29072|-90.93652|353752N|0905301W|35.63117|-90.8837
+2832595|Brushy Creek|Stream|Arkansas|05|Cross|037|Hamlin|07/10/2025|07/16/2025||||351359N|0905437W|35.23311|-90.9103|351727N|0905611W|35.29072|-90.93652

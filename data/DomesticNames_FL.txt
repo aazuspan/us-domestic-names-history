@@ -15795,7 +15795,7 @@
 306506|Todd Branch|Stream|Florida|12|Gadsden|039|Bloxham|10/19/1979|||||302702N|0843755W|30.4504741|-84.6318557|302757N|0843723W|30.4657518|-84.6229669
 306507|Tom Hahn Creek|Stream|Florida|12|Franklin|037|McIntyre|10/19/1979|||||295810N|0843419W|29.9693715|-84.5718479|295902N|0843703W|29.9838889|-84.6175
 306508|Tomahawk Lake|Lake|Florida|12|Marion|083|Lynne|10/19/1979|07/16/2022||||290759N|0815422W|29.1329968|-81.9061096|||0.0|0.0
-306509|Tracy Canal|Canal|Florida|12|Lake|069|Alexander Springs|10/19/1979|||||290131N|0813000W|29.0252621|-81.5000695|||0.0|0.0
+306509|Tracy Canal|Canal|Florida|12|Lake|069|Alexander Springs|10/19/1979|09/02/2025||||290245N|0813023W|29.04584|-81.50638|||0.0|0.0
 306510|Lake Tracy|Lake|Florida|12|Lake|069|Pine Lakes|10/19/1979|10/15/2019||||285750N|0812820W|28.9637833|-81.4721918|||0.0|0.0
 306512|Trout Lake|Lake|Florida|12|Lake|069|Paisley|10/19/1979|02/13/2019||||285858N|0813157W|28.9827381|-81.5325362|||0.0|0.0
 306513|Trout Lake|Lake|Florida|12|Marion|083|Lake Mary|10/19/1979|07/16/2022||||290301N|0814929W|29.0503625|-81.8247598|||0.0|0.0
@@ -22097,8 +22097,8 @@
 2493926|Pelican Bay|Bay|Florida|12|Charlotte|015|Placida|11/18/2008|02/14/2019||||265042N|0821712W|26.8449817|-82.2867256|||0.0|0.0
 2493927|Pine Valley Creek|Canal|Florida|12|Charlotte|015|Englewood|11/18/2008|||||265312N|0821610W|26.8866632|-82.269308|||0.0|0.0
 2511935|Naval Station Mayport|Military|Florida|12|Duval|031|Mayport|11/17/2008|05/22/2025||||302247N|0812543W|30.3796436|-81.4285805|||0.0|0.0
-2511969|Orlando Naval Training Center|Military|Florida|12|Orange|095|Pine Castle|11/17/2008|05/31/2022||||282557N|0812029W|28.4325024|-81.341478|||0.0|0.0
-2511972|Patrick Air Force Base|Military|Florida|12|Brevard|009|Tropic|11/17/2008|05/31/2022||||281417N|0803628W|28.2380932|-80.6079035|||0.0|0.0
+2511969|Naval Support Activity Orlando|Military|Florida|12|Orange|095|Oviedo SW|11/17/2008|08/22/2025||||283503N|0811148W|28.5842067|-81.1967792|||0.0|0.0
+2511972|Patrick Space Force Base|Military|Florida|12|Brevard|009|Tropic|11/17/2008|08/22/2025||||281417N|0803628W|28.2380932|-80.6079035|||0.0|0.0
 2511977|Pinecastle Electronic Warfare Range|Military|Florida|12|Marion|083|Farles Lake|11/17/2008|05/22/2025||||290654N|0814258W|29.1150759|-81.716196|||0.0|0.0
 2512040|Avon Park Air Force Range|Military|Florida|12|Highlands|055|Lake Arbuckle NE|11/17/2008|05/22/2025||||273844N|0811725W|27.6455547|-81.2902845|||0.0|0.0
 2512048|Marine Corps Support Facility Blount Island|Military|Florida|12|Duval|031|Eastport|11/17/2008|05/22/2025||||302407N|0813127W|30.4019068|-81.5242635|||0.0|0.0
@@ -22109,20 +22109,20 @@
 2512116|Coast Guard Station Lake Worth Inlet|Military|Florida|12|Palm Beach|099|Riviera Beach|11/17/2008|05/22/2025||||264720N|0800305W|26.7888079|-80.0513015|||0.0|0.0
 2512132|Coast Guard Station Ponce de Leon|Military|Florida|12|Volusia|127|New Smyrna Beach|11/17/2008|05/22/2025||||290355N|0805442W|29.0651543|-80.91163|||0.0|0.0
 2512150|Naval Support Activity Panama City|Military|Florida|12|Bay|005|Panama City|11/17/2008|05/22/2025||||300956N|0854460W|30.1655471|-85.7499665|||0.0|0.0
-2512171|Eglin Air Force Base|Military|Florida|12|Okaloosa|091|Valparaiso|11/17/2008|05/22/2025||||303416N|0863241W|30.5711454|-86.544766|||0.0|0.0
+2512171|Eglin Air Force Base|Military|Florida|12|Okaloosa|091|Valparaiso|11/17/2008|08/22/2025||||303416N|0863241W|30.5711454|-86.544766|||0.0|0.0
 2512242|Homestead Air Reserve Base|Military|Florida|12|Miami-Dade|086|Homestead|11/17/2008|05/22/2025||||252904N|0802319W|25.4843897|-80.388726|||0.0|0.0
-2512244|Hurlburt Field|Military|Florida|12|Okaloosa|091|Mary Esther|11/17/2008|05/31/2022||||302539N|0864149W|30.427618|-86.696952|||0.0|0.0
+2512244|Hurlburt Field|Military|Florida|12|Okaloosa|091|Mary Esther|11/17/2008|08/22/2025||||302539N|0864149W|30.427618|-86.696952|||0.0|0.0
 2512267|Macdill Air Force Base|Military|Florida|12|Hillsborough|057|Port Tampa|11/17/2008|05/22/2025||||275050N|0823012W|27.8472039|-82.5033785|||0.0|0.0
 2512309|Naval Air Station Jacksonville|Military|Florida|12|Duval|031|Orange Park|11/17/2008|05/22/2025||||301304N|0814103W|30.2178808|-81.6840455|||0.0|0.0
 2512310|Naval Air Station Key West|Military|Florida|12|Monroe|087|Boca Chica Key|11/17/2008|05/22/2025||||243338N|0814125W|24.5605378|-81.690272|||0.0|0.0
 2512317|Naval Air Station Pensacola|Military|Florida|12|Escambia|033|Fort Barrancas|11/17/2008|05/22/2025||||302126N|0871823W|30.3572925|-87.3064915|||0.0|0.0
-2512320|Naval Air Station Whiting Field|Military|Florida|12|Santa Rosa|113|Milton North|11/17/2008|05/31/2022||||304244N|0870106W|30.7123438|-87.018384|||0.0|0.0
+2512320|Naval Air Station Whiting Field Milton|Military|Florida|12|Santa Rosa|113|Milton North|11/17/2008|08/22/2025||||304244N|0870106W|30.7123438|-87.018384|||0.0|0.0
 2512346|Naval Reservation Dania Beach|Military|Florida|12|Broward|011|Port Everglades|11/17/2008|05/31/2022||||260532N|0800635W|26.0920857|-80.1097115|||0.0|0.0
-2512363|Tyndall Air Force Base|Military|Florida|12|Bay|005|Long Point|11/17/2008|05/31/2022||||300318N|0853403W|30.0549597|-85.5674755|||0.0|0.0
+2512363|Tyndall Air Force Base|Military|Florida|12|Bay|005|Long Point|11/17/2008|08/22/2025||||300318N|0853403W|30.0549597|-85.5674755|||0.0|0.0
 2512364|Coast Guard Air Station Clearwater|Military|Florida|12|Pinellas|103|Saint Petersburg|11/17/2008|05/22/2025||||274546N|0823740W|27.7628454|-82.627718|||0.0|0.0
-2512370|United States Coast Guard Integrated Support Command|Military|Florida|12|Miami-Dade|086|Miami|11/17/2008|05/22/2025||||254616N|0800843W|25.7711758|-80.145285|||0.0|0.0
+2512370|Coast Guard Integrated Support Command|Military|Florida|12|Miami-Dade|086|Miami|11/17/2008|08/22/2025||||254616N|0800843W|25.7711758|-80.145285|||0.0|0.0
 2512399|Camp Blanding|Military|Florida|12|Clay|019|Kingsley|11/17/2008|05/31/2022||||295649N|0815824W|29.9468559|-81.9732405|||0.0|0.0
-2512407|Cape Canaveral Air Force Station|Military|Florida|12|Brevard|009|Cape Canaveral|11/17/2008|05/31/2022||||282954N|0803405W|28.4984562|-80.5681705|||0.0|0.0
+2512407|Cape Canaveral Space Force Station|Military|Florida|12|Brevard|009|Cape Canaveral|11/17/2008|08/22/2025||||282954N|0803405W|28.4984562|-80.5681705|||0.0|0.0
 2512461|Coast Guard Station Panama City|Military|Florida|12|Bay|005|Panama City Beach|11/17/2008|05/22/2025||||301012N|0854521W|30.1698775|-85.755878|||0.0|0.0
 2514500|Nela Isle Annex (historical)|Populated Place|Florida|12|Orange|095|Pine Castle|12/10/2008|06/07/2022||||282751N|0812051W|28.46424|-81.347601|||0.0|0.0
 2514501|Canal Addition (historical)|Populated Place|Florida|12|Orange|095|Pine Castle|12/10/2008|06/07/2022||||282751N|0812041W|28.46424|-81.344812|||0.0|0.0
@@ -22454,3 +22454,24 @@
 2832434|Sid Latimer Island|Island|Florida|12|Walton|131|Freeport|11/15/2024|11/20/2024|Official|Board Decision|11/14/2024|302529N|0860810W|30.424775|-86.136018|||0.0|0.0
 2832435|Ruth Latimer Island|Island|Florida|12|Walton|131|Freeport|11/15/2024|11/15/2024|Official|Board Decision|11/14/2024|302534N|0860805W|30.4261|-86.13468|||0.0|0.0
 2832474|Roche Island|Island|Florida|12|Pinellas|103|Clearwater|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|275954N|0824820W|27.99845|-82.80561|||0.0|0.0
+2832635|Arbuckle Airfield|Military|Florida|12|Highlands|055|Lake Arbuckle NE|08/20/2025|08/20/2025||||273834N|0812054W|27.642891|-81.348431|||0.0|0.0
+2832657|Cape San Blas Tracking Annex D-3|Military|Florida|12|Gulf|045|Cape San Blas|08/20/2025|08/20/2025||||294033N|0852050W|29.6757913|-85.3471396|||0.0|0.0
+2832669|Corry Station|Military|Florida|12|Escambia|033|West Pensacola|08/20/2025|08/20/2025||||302413N|0871726W|30.4035221|-87.2906237|||0.0|0.0
+2832675|Dredger's Key-Sigsbee|Military|Florida|12|Monroe|087|Key West|08/20/2025|08/20/2025||||243438N|0814636W|24.577195|-81.776677|||0.0|0.0
+2832679|Fleet Logistics Center Fuel Depot Heckscher|Military|Florida|12|Duval|031|Trout River|08/20/2025|08/20/2025||||302400N|0813740W|30.4000051|-81.6276447|||0.0|0.0
+2832680|Fleming Key Magazine|Military|Florida|12|Monroe|087|Key West|08/20/2025|08/20/2025||||243449N|0814747W|24.5802294|-81.7964229|||0.0|0.0
+2832709|Jacksonville International Airport|Military|Florida|12|Duval|031|Trout River|08/20/2025|08/20/2025||||302911N|0814220W|30.4863909|-81.7054419|||0.0|0.0
+2832710|Jacksonville Maintenance|Military|Florida|12|Duval|031|Eastport|08/20/2025|08/20/2025||||302419N|0813717W|30.4052939|-81.6213328|||0.0|0.0
+2832720|Jonathan Dickinson Tracking Annex|Military|Florida|12|Martin|085|Jupiter|08/20/2025|08/20/2025||||265858N|0800629W|26.9827046|-80.1081617|||0.0|0.0
+2832736|Malabar Transmitter Annex|Military|Florida|12|Brevard|009|Melbourne West|08/20/2025|08/20/2025||||280115N|0804047W|28.0209469|-80.6797853|||0.0|0.0
+2832868|Naval Hospital Key West|Military|Florida|12|Monroe|087|Key West|08/20/2025|08/20/2025||||243408N|0814503W|24.5688905|-81.7509178|||0.0|0.0
+2832874|Naval Outlying Landing Field Choctaw|Military|Florida|12|Santa Rosa|113|Ward Basin|08/20/2025|08/20/2025||||303022N|0865725W|30.5062237|-86.9568258|||0.0|0.0
+2832877|Naval Outlying Landing Field Holley|Military|Florida|12|Santa Rosa|113|Holley|08/20/2025|08/20/2025||||302530N|0865334W|30.4250892|-86.8928663|||0.0|0.0
+2832878|Naval Outlying Landing Field Santa Rosa|Military|Florida|12|Santa Rosa|113|Ward Basin|08/20/2025|08/20/2025||||303633N|0865620W|30.609145|-86.9387777|||0.0|0.0
+2832880|Naval Outlying Landing Field Spencer|Military|Florida|12|Santa Rosa|113|Wallace|08/20/2025|08/20/2025||||303731N|0870823W|30.6253045|-87.139813|||0.0|0.0
+2832911|Outlying Landing Field Bronson|Military|Florida|12|Escambia|033|Lillian|08/20/2025|08/20/2025||||302302N|0872451W|30.3837611|-87.4140627|||0.0|0.0
+2832912|Outlying Landing Field Whitehouse|Military|Florida|12|Duval|031|Marietta|08/20/2025|08/20/2025||||302111N|0815220W|30.35311|-81.872301|||0.0|0.0
+2832928|Saufley Field|Military|Florida|12|Escambia|033|West Pensacola|08/20/2025|08/20/2025||||302813N|0872029W|30.4704098|-87.3414455|||0.0|0.0
+2832944|Truman Annex|Military|Florida|12|Monroe|087|Key West|08/20/2025|08/20/2025||||243249N|0814815W|24.5468724|-81.8042067|||0.0|0.0
+2832945|Trumbo Point Annex|Military|Florida|12|Monroe|087|Key West|08/20/2025|08/20/2025||||243352N|0814728W|24.5643792|-81.7912447|||0.0|0.0
+2832955|Whiting Pines Off-Base Military Housing|Military|Florida|12|Santa Rosa|113|Milton North|08/20/2025|08/20/2025||||303734N|0870339W|30.6261455|-87.060905|||0.0|0.0

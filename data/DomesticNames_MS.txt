@@ -356,7 +356,7 @@
 666442|Back Bay of Biloxi|Bay|Mississippi|28|Harrison|047|Biloxi|09/24/1980|||||302510N|0885403W|30.4193648|-88.9008641|||0.0|0.0
 666443|Back Bayou|Gut|Mississippi|28|Jackson|059|Pascagoula South|09/24/1980|||||302024N|0883015W|30.3399222|-88.50418|||0.0|0.0
 666444|Backbone Lake|Lake|Mississippi|28|Washington|151|Luna|09/24/1980|04/06/2023||||332456N|0910806W|33.4155052|-91.1349965|||0.0|0.0
-666445|Backbone Ridge|Ridge|Mississippi|28|Washington|151|Luna|09/24/1980|||||332504N|0910759W|33.4178933|-91.1331649|||0.0|0.0
+666445|Backbone Ridge|Ridge|Mississippi|28|Washington|151|Luna|09/24/1980|07/18/2025||||332422N|0910827W|33.406233|-91.140718|||0.0|0.0
 666446|Bad Branch Creek|Stream|Mississippi|28|Tate|137|Independence|09/24/1980|01/21/2015||||344333N|0894514W|34.7258283|-89.7539106|344319N|0894341W|34.7218161|-89.7281426
 666447|Baddie Creek|Stream|Mississippi|28|Attala|007|McAdams|09/24/1980|||||330538N|0894052W|33.0940178|-89.6811909|330806N|0894132W|33.1351284|-89.6923025
 666448|Bagasha Creek|Stream|Mississippi|28|Attala|007|Poplar Creek|09/24/1980|||||331544N|0893501W|33.2623487|-89.583688|331756N|0893540W|33.2988889|-89.5944444
@@ -570,7 +570,7 @@
 666752|Bee Lake|Populated Place|Mississippi|28|Holmes|051|Thornton|09/24/1980|06/07/2022||||330249N|0901931W|33.0470725|-90.3253664|||0.0|0.0
 666753|Bee Mountain|Summit|Mississippi|28|Tishomingo|141|Yellow Creek|09/24/1980|05/22/2025||||345648N|0881210W|34.9465922|-88.2028445|||0.0|0.0
 666754|Beech Bayou|Stream|Mississippi|28|Quitman|119|Curtis Station|09/24/1980|||||341549N|0901113W|34.2637222|-90.1870366|341718N|0900558W|34.2884437|-90.0995359
-666757|Beech Ridge|Ridge|Mississippi|28|Madison|089|Way|09/24/1980|||||324133N|0900718W|32.6926363|-90.121753|||0.0|0.0
+666757|Beech Ridge|Ridge|Mississippi|28|Madison|089|Way|09/24/1980|07/18/2025||||324130N|0900726W|32.6917514|-90.1237915|||0.0|0.0
 666758|Beech Springs|Populated Place|Mississippi|28|Lee|081|Tupelo|09/24/1980|06/07/2022||||341917N|0884222W|34.3214939|-88.7061645|||0.0|0.0
 666764|Beetree Creek|Stream|Mississippi|28|Greene|041|Brewer|09/24/1980|||||312136N|0884845W|31.3598973|-88.8125404|312049N|0884556W|31.3469444|-88.7655556
 666765|Belches Bayou|Stream|Mississippi|28|Hinds|049|Bovina|09/24/1980|||||321610N|0904156W|32.2693154|-90.6989903|321639N|0904136W|32.2775|-90.6933333
@@ -596,7 +596,7 @@
 666816|Ben Slough|Gut|Mississippi|28|Warren|149|Big Black|09/24/1980|||||320926N|0904722W|32.1570966|-90.7895471|||0.0|0.0
 666817|Bendix Creek|Stream|Mississippi|28|Kemper|069|Owl Creek|09/24/1980|||||325136N|0885431W|32.8601313|-88.9086662|325147N|0884833W|32.8631867|-88.8092183
 666827|Bennett Lake|Reservoir|Mississippi|28|Prentiss|117|Wheeler|09/24/1980|05/21/2021||||343422N|0883313W|34.5726651|-88.5536572|||0.0|0.0
-666828|Bennett Ridge|Ridge|Mississippi|28|Alcorn|003|Glens|09/24/1980|||||345107N|0882813W|34.8520341|-88.4703256|||0.0|0.0
+666828|Bennett Ridge|Ridge|Mississippi|28|Alcorn|003|Glens|09/24/1980|07/18/2025||||345104N|0882815W|34.851136|-88.4707118|||0.0|0.0
 666829|Benoit|Populated Place|Mississippi|28|Bolivar|011|Benoit|09/24/1980|06/07/2022||||333905N|0910034W|33.6515013|-91.0095508|||0.0|0.0
 666833|Bent Oak|Populated Place|Mississippi|28|Lowndes|087|Bent Oak|09/24/1980|06/07/2022||||332619N|0883234W|33.4387317|-88.5428221|||0.0|0.0
 666835|Benton|Populated Place|Mississippi|28|Yazoo|163|Benton|09/24/1980|06/07/2022||||324935N|0901534W|32.8265223|-90.259533|||0.0|0.0
@@ -961,7 +961,7 @@
 667603|Brooksville|Populated Place|Mississippi|28|Noxubee|103|Brooksville|09/24/1980|06/07/2022||||331404N|0883456W|33.2345685|-88.5822673|||0.0|0.0
 667606|Brothers Branch|Stream|Mississippi|28|Lauderdale|075|Meridian South|09/24/1980|||||321836N|0884341W|32.3098665|-88.7281014|321934N|0884205W|32.3261111|-88.7013889
 667607|Browder Branch|Stream|Mississippi|28|Alcorn|003|Glens|09/24/1980|||||344833N|0882801W|34.8092574|-88.4669927|345132N|0882560W|34.8588889|-88.4333333
-667608|Browder Ridge|Ridge|Mississippi|28|Alcorn|003|Glens|09/24/1980|||||345038N|0882724W|34.8439788|-88.4567143|||0.0|0.0
+667608|Browder Ridge|Ridge|Mississippi|28|Alcorn|003|Glens|09/24/1980|07/18/2025||||345105N|0882655W|34.8514101|-88.4485389|||0.0|0.0
 667611|Browers Branch|Stream|Mississippi|28|Yalobusha|161|Pine Valley|09/24/1980|||||340310N|0893434W|34.0528893|-89.5761938|340516N|0893409W|34.0877778|-89.5691667
 667612|Brown Bayou|Stream|Mississippi|28|Jackson|059|Grand Bay SW|09/24/1980|||||302025N|0882646W|30.3402001|-88.4461221|302022N|0882702W|30.3394444|-88.4505556
 667613|Brown Branch|Stream|Mississippi|28|Noxubee|103|Mashulaville|09/24/1980|||||330631N|0884231W|33.1087374|-88.7086602|330648N|0884434W|33.1133333|-88.7427778
@@ -1315,7 +1315,7 @@
 668218|Cedar Point|Cape|Mississippi|28|Grenada|043|Grenada|09/24/1980|||||334815N|0894506W|33.8042822|-89.7517527|||0.0|0.0
 668221|Cedars|Populated Place|Mississippi|28|Warren|149|Vicksburg West|09/24/1980|06/07/2022||||321503N|0905531W|32.250705|-90.9253831|||0.0|0.0
 668223|Cemetery Bayou|Stream|Mississippi|28|Adams|001|Washington|09/24/1980|||||313409N|0912136W|31.5690552|-91.3601139|313444N|0912341W|31.5787773|-91.3948373
-668224|Cemetery Ridge|Ridge|Mississippi|28|Panola|107|Sardis Dam|09/24/1980|||||342616N|0894734W|34.4378837|-89.7928658|||0.0|0.0
+668224|Cemetery Ridge|Ridge|Mississippi|28|Panola|107|Sardis Dam|09/24/1980|07/18/2025||||342643N|0894751W|34.445263|-89.7975436|||0.0|0.0
 668228|Center|Populated Place|Mississippi|28|Union|145|New Albany East|09/24/1980|06/07/2022||||342757N|0885537W|34.4659351|-88.9270057|||0.0|0.0
 668235|Center Hill|Populated Place|Mississippi|28|Lauderdale|075|Center Hill|09/24/1980|06/07/2022||||323121N|0884552W|32.5223623|-88.764492|||0.0|0.0
 668247|Center Ridge|Populated Place|Mississippi|28|Winston|159|Louisville South|09/24/1980|06/07/2022||||330420N|0890354W|33.0723494|-89.0650626|||0.0|0.0
@@ -1355,7 +1355,7 @@
 668375|Chestnut Creek|Stream|Mississippi|28|Attala|007|Zama|09/24/1980|||||325746N|0892751W|32.9629088|-89.4642389|325942N|0892621W|32.995|-89.4391667
 668376|Chestnut Creek|Stream|Mississippi|28|Copiah|029|Whites|09/24/1980|||||320159N|0901450W|32.0329318|-90.2473101|320250N|0902011W|32.0470983|-90.3364796
 668377|Chestnut Hill|Summit|Mississippi|28|Tishomingo|141|Yellow Creek|09/24/1980|05/22/2025||||345522N|0881235W|34.9228232|-88.2097349|||0.0|0.0
-668378|Chestnut Ridge|Ridge|Mississippi|28|Tishomingo|141|Burnsville|09/24/1980|||||344524N|0881717W|34.7567581|-88.2881003|||0.0|0.0
+668378|Chestnut Ridge|Ridge|Mississippi|28|Tishomingo|141|Burnsville|09/24/1980|07/18/2025||||344558N|0881710W|34.7660658|-88.286212|||0.0|0.0
 668382|Chewawah Creek|Stream|Mississippi|28|Chickasaw|017|Sparta|09/24/1980|||||334750N|0885826W|33.7973379|-88.9739478|334815N|0890532W|33.8042818|-89.0922857
 668383|Chicago Branch|Stream|Mississippi|28|Claiborne|021|Port Gibson|09/24/1980|||||315509N|0905309W|31.9190481|-90.8859365|315737N|0905127W|31.9601581|-90.8576031
 668384|Chickasaw Bayou|Stream|Mississippi|28|Warren|149|Redwood|09/24/1980|||||322634N|0905126W|32.4426425|-90.8573259|322445N|0905051W|32.4125|-90.8475
@@ -4340,7 +4340,7 @@
 675007|Oak Grove|Populated Place|Mississippi|28|Lamar|073|Hattiesburg SW|09/24/1980|06/07/2022||||311710N|0892452W|31.2860087|-89.4145095|||0.0|0.0
 675073|Oak Hill Branch|Stream|Mississippi|28|Tishomingo|141|Doskie|09/24/1980|12/29/2014||||345922N|0882200W|34.9894326|-88.3667127|350028N|0882211W|35.0077878|-88.3696685
 675085|Cow Oak Lake|Lake|Mississippi|28|Tunica|143|Dundee|09/24/1980|01/11/2014|Official|Board Decision|01/01/1977|343217N|0902530W|34.5380053|-90.4249006|||0.0|0.0
-675088|Oak Mill Hill|Summit|Mississippi|28|Tippah|139|Pleasant Ridge|09/24/1980|05/28/2025||||343637N|0884646W|34.610199|-88.7795006|||0.0|0.0
+675088|Oil Mill Hill|Summit|Mississippi|28|Tippah|139|Pleasant Ridge|09/24/1980|07/14/2025||||343637N|0884646W|34.610199|-88.7795006|||0.0|0.0
 675089|Oak Ridge|Populated Place|Mississippi|28|Warren|149|Oak Ridge|09/24/1980|06/07/2022||||322853N|0904223W|32.4812527|-90.7064897|||0.0|0.0
 675090|Oak Ridge|Ridge|Mississippi|28|Panola|107|Shuford|09/24/1980|||||341004N|0894714W|34.1678879|-89.7873106|||0.0|0.0
 675104|Oak Vale|Populated Place|Mississippi|28|Lawrence|077|Oak Vale|09/24/1980|06/07/2022||||312619N|0895752W|31.4385058|-89.9645268|||0.0|0.0
@@ -6354,7 +6354,7 @@
 679948|Yellow Lake Bayou|Stream|Mississippi|28|Quitman|119|Crenshaw South|09/24/1980|||||342622N|0901424W|34.4395518|-90.2400935|342860N|0901215W|34.4833333|-90.2041667
 679949|Yellow Sand Creek|Stream|Mississippi|28|Copiah|029|Dentville|09/24/1980|||||315656N|0903507W|31.9487689|-90.5853749|315355N|0903341W|31.8986111|-90.5613889
 679950|Yocona Lake|Reservoir|Mississippi|28|Pontotoc|115|Randolph|09/24/1980|06/05/2020||||341226N|0890944W|34.2071029|-89.162178|||0.0|0.0
-679951|Yocona Ridge|Ridge|Mississippi|28|Yalobusha|161|Courtland|09/24/1980|||||340801N|0895309W|34.1337223|-89.8859225|||0.0|0.0
+679951|Yocona Ridge (historic)|Populated Place|Mississippi|28|Yalobusha|161|Courtland|09/24/1980|07/16/2025||||340801N|0895309W|34.1337223|-89.8859225|||0.0|0.0
 679953|Yoda Creek|Stream|Mississippi|28|Calhoun|013|Skuna|09/24/1980|||||335746N|0892307W|33.9628898|-89.3853538|340503N|0892204W|34.0842766|-89.3678539
 679954|Yokena|Populated Place|Mississippi|28|Warren|149|Yokena|09/24/1980|06/07/2022||||321031N|0905631W|32.1751517|-90.9420498|||0.0|0.0
 679955|Yonaba Creek|Stream|Mississippi|28|Lee|081|Tupelo|09/24/1980|||||341835N|0884320W|34.3098276|-88.7222758|342336N|0884811W|34.3934365|-88.8031125
@@ -7016,7 +7016,7 @@
 686442|Uniontown (historical)|Populated Place|Mississippi|28|Jefferson|063|Rodney|12/01/2003|06/07/2022||||314531N|0911022W|31.758497|-91.1728866|||0.0|0.0
 686443|Alligator Branch|Stream|Mississippi|28|Greene|041|Brown Town|12/01/2003|||||310154N|0882851W|31.0315726|-88.480851|310015N|0882935W|31.0041667|-88.4930556
 686446|Colemans Ferry (historical)|Crossing|Mississippi|28|Greene|041|Leakesville SW|12/01/2003|01/12/2006||||310221N|0884047W|31.0390745|-88.6797512|||0.0|0.0
-686451|Jane Hills|Range|Mississippi|28|Greene|041|Leakesville|12/01/2003|||||311446N|0883355W|31.2460131|-88.5652995|||0.0|0.0
+686451|Jane Hills|Range|Mississippi|28|Greene|041|Leakesville|12/01/2003|09/03/2025||||311446N|0883355W|31.2460131|-88.5652995|||0.0|0.0
 686454|Mohoba (historical)|Populated Place|Mississippi|28|Greene|041|Brown Town|12/01/2003|06/07/2022||||310419N|0882700W|31.0718489|-88.4500162|||0.0|0.0
 686461|Sand Creek Hills|Range|Mississippi|28|Greene|041|Vernal|12/01/2003|||||310536N|0883125W|31.0932383|-88.5236309|||0.0|0.0
 686465|Wilson (historical)|Populated Place|Mississippi|28|Greene|041|Jonathan|12/01/2003|06/07/2022||||311106N|0884440W|31.1849059|-88.7444759|||0.0|0.0
@@ -7870,14 +7870,14 @@
 689965|Pollard Mill Pond|Reservoir|Mississippi|28|Tishomingo|141|Tishomingo|12/01/2003|||||343911N|0881458W|34.6531494|-88.2494884|||0.0|0.0
 689982|Short|Populated Place|Mississippi|28|Tishomingo|141|Yellow Creek|12/01/2003|07/10/2019||||345625N|0881152W|34.940365|-88.1978179|||0.0|0.0
 689984|Smith Branch|Stream|Mississippi|28|Tishomingo|141|Yellow Creek|12/01/2003|||||345850N|0881400W|34.9806421|-88.233374|345815N|0881445W|34.9708333|-88.2458333
-689997|Tucker Ridge|Ridge|Mississippi|28|Tishomingo|141|Burnsville|12/01/2003|||||345110N|0881538W|34.8528671|-88.2605985|||0.0|0.0
+689997|Tucker Ridge|Ridge|Mississippi|28|Tishomingo|141|Burnsville|12/01/2003|07/18/2025||||345057N|0881530W|34.8492749|-88.2583454|||0.0|0.0
 690002|Yellow Creek Drainage Ditch (historical)|Canal|Mississippi|28|Tishomingo|141|Burnsville|12/01/2003|08/30/2022||||344911N|0881855W|34.819812|-88.315322|||0.0|0.0
 690015|Cowpen (historical)|Populated Place|Mississippi|28|Attala|007|Ethel South|12/01/2003|06/07/2022||||330230N|0892847W|33.0417964|-89.4797952|||0.0|0.0
 690026|Mercer (historical)|Populated Place|Mississippi|28|Attala|007|Ethel South|12/01/2003|06/07/2022||||330240N|0892703W|33.0445739|-89.4509058|||0.0|0.0
 690028|Newtonville (historical)|Populated Place|Mississippi|28|Attala|007|Ethel South|12/01/2003|06/07/2022||||330347N|0892455W|33.0631846|-89.4153496|||0.0|0.0
 690042|Bennett (historical)|Populated Place|Mississippi|28|Hancock|045|Necaise|12/01/2003|06/07/2022||||303331N|0892545W|30.558525|-89.4292213|||0.0|0.0
 690046|Gulfside|Populated Place|Mississippi|28|Hancock|045|Waveland|12/01/2003|06/07/2022||||301601N|0892333W|30.2668634|-89.3925479|||0.0|0.0
-690047|Magnolia Ridge|Ridge|Mississippi|28|Hancock|045|English Lookout|12/01/2003|||||301234N|0893033W|30.2093637|-89.5092187|||0.0|0.0
+690047|Magnolia Ridge|Ridge|Mississippi|28|Hancock|045|Saint Joe Pass|12/01/2003|07/18/2025||||301247N|0892941W|30.212924|-89.4947562|||0.0|0.0
 690049|Wiehe|Populated Place|Mississippi|28|Hancock|045|Kiln|12/01/2003|06/07/2022||||302846N|0892942W|30.4793593|-89.4950553|||0.0|0.0
 690050|Fort Bayou (historical)|Populated Place|Mississippi|28|Jackson|059|Gautier North|12/01/2003|06/07/2022||||302651N|0884305W|30.4474208|-88.7180796|||0.0|0.0
 690051|Bafrick (historical)|Populated Place|Mississippi|28|Rankin|121|Johns|12/01/2003|06/07/2022||||321011N|0895045W|32.1695945|-89.8459109|||0.0|0.0
@@ -12244,15 +12244,15 @@
 2511938|Naval Station Pascagoula|Military|Mississippi|28|Jackson|059|Pascagoula South|11/17/2008|05/31/2022||||301959N|0883441W|30.3329806|-88.5781115|||0.0|0.0
 2512008|SEARAY Target Range Complex|Military|Mississippi|28|Noxubee|103|Mashulaville|11/17/2008|05/31/2022||||330311N|0884054W|33.0530822|-88.681661|||0.0|0.0
 2512037|Armed Forces Retirement Center Gulfport|Military|Mississippi|28|Harrison|047|Gulfport North|11/17/2008|05/22/2025||||302314N|0890057W|30.3872184|-89.0159085|||0.0|0.0
-2512152|Columbus Air Force Base|Military|Mississippi|28|Lowndes|087|Hamilton|11/17/2008|05/31/2022||||333828N|0882659W|33.6411124|-88.449785|||0.0|0.0
-2512231|Gulfport-Biloxi Regional Airport Air National Guard|Military|Mississippi|28|Harrison|047|Gulfport North|11/17/2008|05/22/2025||||302438N|0890334W|30.4106614|-89.0594605|||0.0|0.0
+2512152|Columbus Air Force Base|Military|Mississippi|28|Lowndes|087|Hamilton|11/17/2008|08/22/2025||||333828N|0882659W|33.6411124|-88.449785|||0.0|0.0
+2512231|Air National Guard Gulfport-Biloxi Regional Airport|Military|Mississippi|28|Harrison|047|Gulfport North|11/17/2008|08/22/2025||||302438N|0890334W|30.4106614|-89.0594605|||0.0|0.0
 2512253|Keesler Air Force Base|Military|Mississippi|28|Harrison|047|Biloxi|11/17/2008|05/22/2025||||302426N|0885531W|30.4071823|-88.925394|||0.0|0.0
-2512313|Naval Air Station Meridian|Military|Mississippi|28|Lauderdale|075|Lauderdale|11/17/2008|05/22/2025||||323224N|0883408W|32.5401029|-88.5690075|||0.0|0.0
+2512313|Naval Air Station Meridian|Military|Mississippi|28|Lauderdale|075|Lauderdale|11/17/2008|08/22/2025||||323224N|0883408W|32.5401029|-88.5690075|||0.0|0.0
 2512351|Supervisor of Shipbuilding Conversion and Repair Facility Pascagoula|Military|Mississippi|28|Jackson|059|Pascagoula South|11/17/2008|05/31/2022||||302108N|0883332W|30.3521141|-88.559006|||0.0|0.0
 2512432|Mississippi Army Ammunition Plant|Military|Mississippi|28|Hancock|045|Dead Tiger Creek|11/17/2008|05/31/2022||||302348N|0893631W|30.3967188|-89.608733|||0.0|0.0
-2512450|Camp McCain|Military|Mississippi|28|Grenada|043|Duck Hill|11/17/2008|05/31/2022||||334219N|0894111W|33.7052908|-89.686427|||0.0|0.0
+2512450|National Guard Camp McCain Training Center|Military|Mississippi|28|Grenada|043|Duck Hill|11/17/2008|08/22/2025||||334219N|0894111W|33.7052908|-89.686427|||0.0|0.0
 2512491|Naval Construction Battalion Center Gulfport|Military|Mississippi|28|Harrison|047|Gulfport North|11/17/2008|05/22/2025||||302238N|0890726W|30.3772291|-89.123936|||0.0|0.0
-2512528|Maneuver Training Area Camp Shelby|Military|Mississippi|28|Forrest|035|McLaurin|11/17/2008|05/31/2022||||311116N|0891157W|31.1878211|-89.199056|||0.0|0.0
+2512528|National Guard Maneuver Training Area Camp Shelby|Military|Mississippi|28|Forrest|035|McLaurin|11/17/2008|08/22/2025||||311116N|0891157W|31.1878211|-89.199056|||0.0|0.0
 2513517|Gaylyn Terrace|Populated Place|Mississippi|28|Hinds|049|Clinton|12/01/2008|06/07/2022||||321936N|0901538W|32.3266667|-90.2605556|||0.0|0.0
 2560562|City of Byram|Civil|Mississippi|28|Hinds|049|New Byram|07/09/2009|08/10/2023||||321132N|0901722W|32.1922966|-90.289534|||0.0|0.0
 2570600|Kirby Branch|Stream|Mississippi|28|Carroll|015|Avalon|09/21/2009|||||333927N|0900053W|33.657531|-90.014849|333754N|0895906W|33.631683|-89.985023
@@ -12373,3 +12373,7 @@
 2831207|City of Gluckstadt|Civil|Mississippi|28|Madison|089|Canton|05/08/2023|05/08/2023||||323150N|0900611W|32.530538|-90.1029796|||0.0|0.0
 2832457|Farr Creek|Stream|Mississippi|28|Hinds|049|Queens Hill Lake|12/18/2024|12/18/2024|Official|Board Decision|12/12/2024|322456N|0903306W|32.41556|-90.55163|322358N|0903201W|32.39932|-90.53349
 2832552|Tako̱lo Fala Upi Creek|Stream|Mississippi|28|Calhoun|013|Paris|05/09/2025|05/09/2025|Official|Board Decision|05/08/2025|340925N|0892630W|34.15704|-89.4417|340820N|0892712W|34.13891|-89.45321
+2832708|Jackson International Airport Thompson Field|Military|Mississippi|28|Rankin|121|Jackson SE|08/20/2025|08/20/2025||||321931N|0900458W|32.3252316|-90.0826627|||0.0|0.0
+2832787|National Guard Gulfport Aviation Classification Repair Activity Depot|Military|Mississippi|28|Harrison|047|Gulfport North|08/20/2025|08/20/2025||||302460N|0890346W|30.4166361|-89.0628675|||0.0|0.0
+2832909|Outlying Field Bravo|Military|Mississippi|28|Kemper|069|Lynville|08/20/2025|08/20/2025||||324750N|0884953W|32.7971108|-88.831322|||0.0|0.0
+2832957|Woolmarket (de Soto)|Military|Mississippi|28|Harrison|047|White Plains|08/20/2025|08/20/2025||||303230N|0885818W|30.5415897|-88.9717367|||0.0|0.0

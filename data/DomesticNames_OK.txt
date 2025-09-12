@@ -166,7 +166,7 @@
 1089487|Campbell Creek|Stream|Oklahoma|40|Atoka|005|Stringtown|12/18/1979|||||342252N|0960029W|34.3812053|-96.0080444|342547N|0955820W|34.4298167|-95.9722106
 1089489|Dosie Creek|Stream|Oklahoma|40|Lincoln|081|Stroud South|12/18/1979|||||354132N|0964317W|35.6922901|-96.7214086|354806N|0964251W|35.8017337|-96.7141873
 1089490|Flagg Springs Creek|Stream|Oklahoma|40|Cimarron|025|Keyes NW|12/18/1979|||||365454N|1022820W|36.915021|-102.4721316|365107N|1023343W|36.851966|-102.5618565
-1089491|Foss Reservoir|Reservoir|Oklahoma|40|Custer|039|Foss Dam|12/18/1979|06/27/2018||||353431N|0991322W|35.5751465|-99.2228158|||0.0|0.0
+1089491|Foss Reservoir|Reservoir|Oklahoma|40|Custer|039|Foss Dam|12/18/1979|08/06/2025||||353403N|0991304W|35.567422|-99.217873|||0.0|0.0
 1089492|Heathcock Branch|Stream|Oklahoma|40|Choctaw|023|Grant|12/18/1979|||||335741N|0953518W|33.9614922|-95.5882957|340057N|0953555W|34.0159362|-95.5985748
 1089493|Jack Fork Creek|Stream|Oklahoma|40|Pontotoc|123|Stonewall|12/18/1979|||||344018N|0963608W|34.6717559|-96.6022296|344109N|0963807W|34.685922|-96.6352864
 1089494|Little Turkey Creek|Stream|Oklahoma|40|Ellis|045|Arnett SE|12/18/1979|||||360005N|0994822W|36.0014334|-99.8062264|360148N|0994555W|36.03|-99.7652778
@@ -1110,7 +1110,7 @@
 1091195|Chambers|Populated Place|Oklahoma|40|Pittsburg|121|Savanna|12/18/1979|06/07/2022||||345211N|0954929W|34.8698184|-95.824714|||0.0|0.0
 1091199|Chandler|Populated Place|Oklahoma|40|Lincoln|081|Chandler|12/18/1979|06/07/2022||||354206N|0965251W|35.7017314|-96.8808582|||0.0|0.0
 1091202|Chandler Creek|Stream|Oklahoma|40|Comanche|031|Richards Spur|12/18/1979|||||344817N|0982314W|34.8047899|-98.3872765|345044N|0983058W|34.8456212|-98.51617
-1091203|Chandler Lake|Reservoir|Oklahoma|40|Lincoln|081|Chandler|12/18/1979|07/23/2018||||354424N|0965425W|35.7400563|-96.906952|||0.0|0.0
+1091203|Chandler Lake|Reservoir|Oklahoma|40|Lincoln|081|Chandler|12/18/1979|08/06/2025||||354424N|0965425W|35.740056|-96.906952|||0.0|0.0
 1091206|Chaney Creek|Stream|Oklahoma|40|Bryan|013|Blue|12/18/1979|||||335820N|0960731W|33.9723193|-96.1252614|340301N|0961013W|34.0503732|-96.170264
 1091207|Chapel Branch|Stream|Oklahoma|40|Mayes|097|Locust Grove|12/18/1979|||||361414N|0951158W|36.2373159|-95.1994084|361733N|0951213W|36.2925926|-95.2035761
 1091213|Charley Creek|Stream|Oklahoma|40|Tulsa|143|Sperry|12/18/1979|||||361816N|0955729W|36.3045363|-95.9580507|361941N|0955311W|36.3280556|-95.8863889
@@ -4348,7 +4348,7 @@
 1097831|Sans Bois Mountains|Range|Oklahoma|40|Latimer|077|Kinta|12/18/1979|07/19/2023|Official|Board Decision|07/01/1931|350157N|0951007W|35.0324333|-95.1686542|||0.0|0.0
 1097835|Sapulpa|Populated Place|Oklahoma|40|Creek|037|Sapulpa South|12/18/1979|06/07/2022||||355955N|0960651W|35.9987007|-96.1141664|||0.0|0.0
 1097836|Sapulpa Reservoir|Reservoir|Oklahoma|40|Creek|037|Lake Sahoma|12/18/1979|||||360006N|0961040W|36.0017531|-96.1777799|||0.0|0.0
-1097840|Sarge Creek|Stream|Oklahoma|40|Osage|113|Kaw City|12/18/1979|06/01/2014||||364529N|0964759W|36.758102|-96.7995924|364625N|0964611W|36.7736111|-96.7697222
+1097840|LaSarge Creek|Stream|Oklahoma|40|Osage|113|Kaw City|12/18/1979|08/18/2025|Official|Board Decision|08/14/2025|364529N|0964759W|36.758102|-96.7995924|364625N|0964611W|36.7736111|-96.7697222
 1097843|Sasakwa|Populated Place|Oklahoma|40|Seminole|133|Sasakwa|12/18/1979|06/07/2022|Official|Board Decision|01/01/1891|345655N|0963131W|34.9486951|-96.525289|||0.0|0.0
 1097844|Sassafras Creek|Stream|Oklahoma|40|Bryan|013|Kemp|12/18/1979|||||335030N|0961632W|33.8417667|-96.2755411|335703N|0962242W|33.9509315|-96.3783235
 1097845|Sassafras Creek|Stream|Oklahoma|40|Bryan|013|Bennington South|12/18/1979|||||335907N|0960346W|33.9853748|-96.06276|340400N|0960547W|34.0667623|-96.0963735
@@ -7167,9 +7167,9 @@
 1750840|Fourche Maline Creek Site 14 Reservoir|Reservoir|Oklahoma|40|Latimer|077|Talihina|07/10/1997|09/21/2018||||344948N|0950614W|34.8299265|-95.1039233|||0.0|0.0
 1750844|Fourche Maline Creek Site 5 Reservoir|Reservoir|Oklahoma|40|Latimer|077|Wilburton|07/10/1997|09/21/2018||||345945N|0952126W|34.995906|-95.3570997|||0.0|0.0
 1750846|Lake Carlton|Reservoir|Oklahoma|40|Latimer|077|Wilburton|07/10/1997|09/21/2018||||345844N|0952145W|34.9790247|-95.3624614|||0.0|0.0
-1750848|Uncle John Creek Site 14 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher|07/10/1997|06/27/2018||||354822N|0975320W|35.806151|-97.8887729|||0.0|0.0
+1750848|Uncle John Creek Site Fourteen Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher|07/10/1997|08/06/2025||||354822N|0975323W|35.806102|-97.889686|||0.0|0.0
 1750850|Uncle John Creek Site 13 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher SE|07/10/1997|06/27/2018||||354555N|0975145W|35.7654043|-97.862515|||0.0|0.0
-1750852|Uncle John Creek Site 12 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher SE|07/10/1997|06/27/2018||||354511N|0975151W|35.7530649|-97.8641848|||0.0|0.0
+1750852|Uncle John Creek Site Twelve Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher SE|07/10/1997|08/06/2025||||354513N|0975154W|35.753513|-97.864881|||0.0|0.0
 1750856|Schrickram Reservoir|Reservoir|Oklahoma|40|Kay|071|Ponca City|07/10/1997|06/27/2018||||364456N|0970038W|36.7489468|-97.0106518|||0.0|0.0
 1750860|Delaware Creek Site 5 Reservoir|Reservoir|Oklahoma|40|Johnston|069|Wapanucka South|07/10/1997|05/04/2023||||342139N|0962735W|34.3607897|-96.4595876|||0.0|0.0
 1750862|Delaware Creek Site 6 Reservoir|Reservoir|Oklahoma|40|Johnston|069|Wapanucka South|07/10/1997|05/04/2023||||342153N|0962800W|34.3646634|-96.4667071|||0.0|0.0
@@ -7183,7 +7183,7 @@
 1750878|Pennington Creek Site 2 Reservoir|Reservoir|Oklahoma|40|Johnston|069|Mill Creek|07/10/1997|||||342912N|0965001W|34.4867574|-96.833622|||0.0|0.0
 1750880|Pennington Creek Site 2 Reservoir|Reservoir|Oklahoma|40|Johnston|069|Mill Creek|07/10/1997|||||342942N|0964807W|34.4950909|-96.8019543|||0.0|0.0
 1750882|Upper Clear Boggy Creek Site 12 Reservoir|Reservoir|Oklahoma|40|Johnston|069|Connerville NE|07/10/1997|05/04/2023||||342932N|0963125W|34.4921143|-96.5235937|||0.0|0.0
-1750884|Upper Clear Boggy Creek Site 13 Reservoir|Reservoir|Oklahoma|40|Johnston|069|Harden City|07/10/1997|05/04/2023||||343001N|0963124W|34.5002779|-96.5232252|||0.0|0.0
+1750884|Upper Clear Boggy Creek Site Thirteen Reservoir|Reservoir|Oklahoma|40|Johnston|069|Harden City|07/10/1997|08/06/2025||||343002N|0963123W|34.500686|-96.523111|||0.0|0.0
 1750886|Nichols Lake|Reservoir|Oklahoma|40|Pontotoc|123|Fittstown|07/10/1997|07/23/2018||||343302N|0964233W|34.5505234|-96.7092632|||0.0|0.0
 1750888|Smith Lake|Reservoir|Oklahoma|40|Johnston|069|Wapanucka South|07/10/1997|07/23/2018||||341618N|0962959W|34.2716223|-96.4998573|||0.0|0.0
 1750891|Japanese Beaver Lake Dam|Lake|Oklahoma|40|Jefferson|067|Waurika West|07/10/1997|07/23/2018||||341058N|0980323W|34.1827695|-98.0562844|||0.0|0.0
@@ -7502,12 +7502,12 @@
 1751659|Leader Middle Clear Boggy Creek 16 Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|05/04/2023||||344025N|0962543W|34.6735965|-96.4285384|||0.0|0.0
 1751661|Leader Middle Clear Boggy Creek 15 Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|05/04/2023||||343943N|0962533W|34.6618968|-96.4257804|||0.0|0.0
 1751663|Leader Middle Clear Boggy Creek 14 Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|05/04/2023||||343852N|0962541W|34.6478526|-96.4280274|||0.0|0.0
-1751665|Leader Middle Clear Boggy Creek 13 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343725N|0962410W|34.6236421|-96.4026768|||0.0|0.0
+1751665|Leader Middle Clear Boggy Creek Thirteen Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|08/06/2025||||343725N|0962410W|34.623642|-96.402677|||0.0|0.0
 1751667|Leader Middle Clear Boggy Creek 11 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343549N|0962408W|34.5969476|-96.4023241|||0.0|0.0
 1751669|Leader Middle Clear Boggy Creek 2 Reservoir|Reservoir|Oklahoma|40|Coal|029|Wapanucka North|07/10/1997|05/04/2023||||342631N|0962358W|34.4418716|-96.3994368|||0.0|0.0
 1751671|Leader Middle Clear Boggy Creek 4 Reservoir|Reservoir|Oklahoma|40|Coal|029|Olney|07/10/1997|05/04/2023||||342629N|0962149W|34.4413158|-96.3636817|||0.0|0.0
 1751673|Caney-Coon Creek Site 1 Reservoir|Reservoir|Oklahoma|40|Coal|029|Centrahoma|07/10/1997|05/04/2023||||343301N|0961516W|34.550162|-96.254331|||0.0|0.0
-1751675|Upper Clear Boggy Creek Site 9 Reservoir|Reservoir|Oklahoma|40|Coal|029|Harden City|07/10/1997|05/04/2023||||343130N|0963010W|34.524902|-96.5028435|||0.0|0.0
+1751675|Upper Clear Boggy Creek Site Nine Reservoir|Reservoir|Oklahoma|40|Coal|029|Harden City|07/10/1997|08/06/2025||||343136N|0963010W|34.526535|-96.502833|||0.0|0.0
 1751677|Leader Middle Clear Boggy Creek 9 Reservoir|Reservoir|Oklahoma|40|Coal|029|Olney|07/10/1997|05/04/2023||||342939N|0962138W|34.4942152|-96.3606811|||0.0|0.0
 1751679|Leader Middle Clear Boggy Creek 10 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343411N|0962357W|34.5697904|-96.3990565|||0.0|0.0
 1751681|Leader Middle Clear Boggy Creek 6 Reservoir|Reservoir|Oklahoma|40|Coal|029|Wapanucka North|07/10/1997|05/04/2023||||342825N|0962245W|34.4735216|-96.3790389|||0.0|0.0
@@ -7570,7 +7570,7 @@
 1751809|Mary Mahoney Reservoir|Reservoir|Oklahoma|40|Oklahoma|109|Jones|07/10/1997|||||353006N|0971819W|35.5017287|-97.3053112|||0.0|0.0
 1751811|Woodlake Apartments Lake|Reservoir|Oklahoma|40|Oklahoma|109|Bethany|07/10/1997|07/03/2025||||353221N|0973736W|35.539193|-97.626593|||0.0|0.0
 1751813|West Twin Lake|Reservoir|Oklahoma|40|Oklahoma|109|Bethany|07/10/1997|05/13/2025||||353234N|0973739W|35.542895|-97.627409|||0.0|0.0
-1751815|The Pines West Lake|Reservoir|Oklahoma|40|Oklahoma|109|Bethany|07/10/1997|06/27/2018||||353243N|0973733W|35.5453562|-97.6258458|||0.0|0.0
+1751815|The Pines West Lake|Reservoir|Oklahoma|40|Oklahoma|109|Bethany|07/10/1997|08/06/2025||||353243N|0973733W|35.545339|-97.625928|||0.0|0.0
 1751817|The Pines East Lake|Reservoir|Oklahoma|40|Oklahoma|109|Britton|07/10/1997|||||353248N|0973725W|35.5467226|-97.6236529|||0.0|0.0
 1751819|Sallisaw Creek Site 25 Reservoir|Reservoir|Oklahoma|40|Adair|001|Greasy|07/10/1997|||||353954N|0944413W|35.6650896|-94.7368905|||0.0|0.0
 1751823|Cottonwood Creek Site 54 Reservoir|Reservoir|Oklahoma|40|Logan|083|Edmond|07/10/1997|06/27/2018||||354405N|0972830W|35.7346798|-97.4750481|||0.0|0.0
@@ -7773,7 +7773,7 @@
 1752252|Waterfall-Gilford Creeks Site 5 Reservoir|Reservoir|Oklahoma|40|McCurtain|089|Idabel SE|07/10/1997|07/23/2018||||335039N|0945022W|33.8441443|-94.8394865|||0.0|0.0
 1752254|Waterfall-Gilford Creeks Site 12 Reservoir|Reservoir|Oklahoma|40|McCurtain|089|Idabel SE|07/10/1997|||||334824N|0944631W|33.8067758|-94.7752138|||0.0|0.0
 1752256|Whiteshield Creek Site 15 Reservoir|Reservoir|Oklahoma|40|Roger Mills|129|Big Kiowa Creek|07/10/1997|||||353130N|0992337W|35.525049|-99.3937067|||0.0|0.0
-1752258|Upper Clear Boggy Creek Site 1 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343118N|0962316W|34.5217125|-96.3878344|||0.0|0.0
+1752258|Upper Clear Boggy Creek Site One Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|08/06/2025||||343119N|0962315W|34.521904|-96.38752|||0.0|0.0
 1752260|Upper Clear Boggy Creek Site 2 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343127N|0962418W|34.5241099|-96.4050864|||0.0|0.0
 1752262|Upper Clear Boggy Creek Site 3 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343128N|0962440W|34.5244541|-96.4109881|||0.0|0.0
 1752264|Upper Clear Boggy Creek Site 4 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343127N|0962549W|34.5241546|-96.4303702|||0.0|0.0
@@ -7786,8 +7786,8 @@
 1752278|Upper Clear Boggy Creek Site 18 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343416N|0962748W|34.5711068|-96.4633695|||0.0|0.0
 1752280|Upper Clear Boggy Creek Site 20 Reservoir|Reservoir|Oklahoma|40|Coal|029|Harden City|07/10/1997|05/04/2023||||343430N|0963008W|34.5748639|-96.5022098|||0.0|0.0
 1752282|Upper Clear Boggy Creek Site 49 Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|05/04/2023||||343941N|0962949W|34.6613981|-96.4969418|||0.0|0.0
-1752284|Upper Clear Boggy Creek Site 50 Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|05/04/2023||||343829N|0962910W|34.6414702|-96.4860257|||0.0|0.0
-1752286|Upper Clear Boggy Creek Site 51 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343702N|0962804W|34.6172574|-96.4678292|||0.0|0.0
+1752284|Upper Clear Boggy Creek Site Fifty Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|08/06/2025||||343833N|0962912W|34.642618|-96.486762|||0.0|0.0
+1752286|Upper Clear Boggy Creek Site Fifty-one Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|08/06/2025||||343701N|0962806W|34.617034|-96.468222|||0.0|0.0
 1752288|Upper Clear Boggy Creek Site 52 Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|05/04/2023||||343803N|0962809W|34.6341024|-96.4692362|||0.0|0.0
 1752290|Upper Clear Boggy Creek Site 53 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343549N|0962659W|34.5970647|-96.449671|||0.0|0.0
 1752292|Upper Clear Boggy Creek Site 54 Reservoir|Reservoir|Oklahoma|40|Coal|029|Tupelo|07/10/1997|05/04/2023||||343555N|0962615W|34.5985544|-96.4373781|||0.0|0.0
@@ -7831,7 +7831,7 @@
 1752370|Wildhorse Creek Site 100 Reservoir|Reservoir|Oklahoma|40|Garvin|049|Elmore City North|07/10/1997|||||343842N|0972755W|34.6450804|-97.4653042|||0.0|0.0
 1752372|Leader Middle Clear Boggy Creek-1 Reservoir|Reservoir|Oklahoma|40|Coal|029|Wapanucka North|07/10/1997|05/04/2023||||342525N|0962246W|34.4237233|-96.379335|||0.0|0.0
 1752374|Leader Middle Clear Boggy Creek-26a Reservoir|Reservoir|Oklahoma|40|Coal|029|Lula|07/10/1997|||||344254N|0962425W|34.7150909|-96.4069488|||0.0|0.0
-1752376|Caney-Coon Creek Site 3 Reservoir|Reservoir|Oklahoma|40|Coal|029|Coalgate|07/10/1997|05/04/2023||||343406N|0961320W|34.5684388|-96.2221949|||0.0|0.0
+1752376|Caney-Coon Creek Site Three Reservoir|Reservoir|Oklahoma|40|Coal|029|Coalgate|07/10/1997|08/06/2025||||343405N|0961319W|34.568122|-96.222017|||0.0|0.0
 1752378|Lower Clear Boggy Creek Site 22 Reservoir|Reservoir|Oklahoma|40|Coal|029|Olney|07/10/1997|||||342518N|0961813W|34.4217582|-96.3036079|||0.0|0.0
 1752380|Delaware Creek Site 14b Reservoir|Reservoir|Oklahoma|40|Coal|029|Wapanucka North|07/10/1997|||||342630N|0962943W|34.441759|-96.4952784|||0.0|0.0
 1752382|Delaware Creek Site 14c Reservoir|Reservoir|Oklahoma|40|Coal|029|Wapanucka North|07/10/1997|||||342718N|0962925W|34.4550922|-96.4902786|||0.0|0.0
@@ -7866,7 +7866,7 @@
 1752442|Oknoname 05915 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman SE|07/10/1997|06/27/2018||||364654N|0992103W|36.7817996|-99.3509592|||0.0|0.0
 1752444|Oknoname 05916 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman SE|07/10/1997|||||364700N|0992107W|36.7833648|-99.3520535|||0.0|0.0
 1752446|Oknoname 05917 Reservoir|Reservoir|Oklahoma|40|Harper|059|Sleeping Bear Creek|07/10/1997|||||364406N|0992019W|36.7350322|-99.3387191|||0.0|0.0
-1752448|Oknoname 05918 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman SE|07/10/1997|06/27/2018||||364542N|0991856W|36.7617234|-99.3154849|||0.0|0.0
+1752448|Oknoname 05918 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman SE|07/10/1997|08/06/2025||||364543N|0991855W|36.761923|-99.315205|||0.0|0.0
 1752450|Oknoname 05919 Reservoir|Reservoir|Oklahoma|40|Harper|059|Sleeping Bear Creek|07/10/1997|06/27/2018||||364122N|0991753W|36.6894233|-99.297922|||0.0|0.0
 1752452|Oknoname 05920 Reservoir|Reservoir|Oklahoma|40|Harper|059|Sleeping Bear Creek SE|07/10/1997|06/27/2018||||363653N|0992208W|36.6147396|-99.368807|||0.0|0.0
 1752454|Oknoname 05921 Reservoir|Reservoir|Oklahoma|40|Harper|059|Sleeping Bear Creek|07/10/1997|06/27/2018||||363750N|0992213W|36.630443|-99.370244|||0.0|0.0
@@ -7895,7 +7895,7 @@
 1752500|Oknoname 111022 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Kiefer SW|07/10/1997|07/23/2018||||354733N|0961037W|35.7924889|-96.1768097|||0.0|0.0
 1752502|Oknoname 111023 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Kiefer SW|07/10/1997|07/23/2018||||354743N|0961035W|35.7953456|-96.176433|||0.0|0.0
 1752504|Oknoname 111025 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Okmulgee North|07/10/1997|04/25/2023||||354454N|0955740W|35.7482274|-95.9611001|||0.0|0.0
-1752506|Oknoname 111026 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Okmulgee North|07/10/1997|04/25/2023||||354419N|0955601W|35.7386307|-95.9334862|||0.0|0.0
+1752506|Oknoname 111026 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Okmulgee North|07/10/1997|08/06/2025||||354422N|0955602W|35.739407|-95.933883|||0.0|0.0
 1752508|Oknoname 111027 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Okmulgee NE|07/10/1997|04/25/2023||||354238N|0955155W|35.7104838|-95.8653065|||0.0|0.0
 1752510|Oknoname 111028 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Okmulgee NE|07/10/1997|||||354406N|0955207W|35.7351013|-95.8686007|||0.0|0.0
 1752512|Oknoname 111029 Reservoir|Reservoir|Oklahoma|40|Okmulgee|111|Okmulgee NE|07/10/1997|04/25/2023||||354412N|0955213W|35.73673|-95.870329|||0.0|0.0
@@ -8040,7 +8040,7 @@
 1752794|Oknoname 07306 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Cashion|07/10/1997|06/27/2018||||354954N|0974454W|35.8317442|-97.7483071|||0.0|0.0
 1752796|Oknoname 07307 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher NE|07/10/1997|06/27/2018||||355340N|0974740W|35.8943424|-97.7943237|||0.0|0.0
 1752798|Kingfisher Sewage Disposal Pond|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher|07/10/1997|06/27/2018||||355222N|0975545W|35.8727743|-97.9292587|||0.0|0.0
-1752800|Oknoname 07309 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher|07/10/1997|06/27/2018||||355145N|0975313W|35.8625931|-97.8868441|||0.0|0.0
+1752800|Oknoname 07309 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher|07/10/1997|08/06/2025||||355146N|0975316W|35.862674|-97.887797|||0.0|0.0
 1752802|Oknoname 07310 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Loyal|07/10/1997|06/27/2018||||355256N|0980054W|35.8822378|-98.0149199|||0.0|0.0
 1752804|Oknoname 07311 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Kingfisher SE|07/10/1997|06/27/2018||||354810N|0975226W|35.802806|-97.873775|||0.0|0.0
 1752806|Oknoname 07312 Reservoir|Reservoir|Oklahoma|40|Kingfisher|073|Dover|07/10/1997|06/27/2018||||355546N|0975653W|35.9295075|-97.9480203|||0.0|0.0
@@ -8208,11 +8208,11 @@
 1753136|Oknoname 059059 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman|07/10/1997|||||364712N|0992443W|36.7866982|-99.4120553|||0.0|0.0
 1753138|Oknoname 059060 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman SE|07/10/1997|06/27/2018||||364526N|0992031W|36.757294|-99.3419462|||0.0|0.0
 1753140|Oknoname 059061 Reservoir|Reservoir|Oklahoma|40|Harper|059|Selman SE|07/10/1997|06/27/2018||||364545N|0992035W|36.7624554|-99.3431242|||0.0|0.0
-1753142|Oknoname 059062 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo|07/10/1997|06/27/2018||||364739N|0994210W|36.794064|-99.7027173|||0.0|0.0
+1753142|Oknoname 059062 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo|07/10/1997|08/06/2025||||364740N|0994210W|36.79456|-99.70273|||0.0|0.0
 1753144|Oknoname 059063 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo|07/10/1997|06/27/2018||||364537N|0994134W|36.7601733|-99.6927242|||0.0|0.0
 1753146|Oknoname 059065 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo|07/10/1997|||||364542N|0994031W|36.7616988|-99.6753976|||0.0|0.0
 1753148|Oknoname 059067 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo SE|07/10/1997|||||364642N|0993137W|36.778365|-99.5270587|||0.0|0.0
-1753150|Oknoname 059068 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo SE|07/10/1997|06/27/2018||||364650N|0993429W|36.7806416|-99.5747926|||0.0|0.0
+1753150|Oknoname 059068 Reservoir|Reservoir|Oklahoma|40|Harper|059|Buffalo SE|07/10/1997|08/06/2025||||364651N|0993430W|36.780898|-99.575014|||0.0|0.0
 1753152|Oknoname 143001 Reservoir|Reservoir|Oklahoma|40|Tulsa|143|Sand Springs|07/10/1997|04/25/2023||||360936N|0960539W|36.1600248|-96.094102|||0.0|0.0
 1753154|Oknoname 143002 Reservoir|Reservoir|Oklahoma|40|Tulsa|143|Collinsville|07/10/1997|||||362224N|0955131W|36.3734269|-95.8585997|||0.0|0.0
 1753156|Oknoname 143003 Reservoir|Reservoir|Oklahoma|40|Tulsa|143|Lake Sahoma|07/10/1997|||||360700N|0961437W|36.1167489|-96.2436186|||0.0|0.0
@@ -8257,7 +8257,7 @@
 1753236|Oknoname 037026 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bellvue|07/10/1997|07/23/2018||||355348N|0962309W|35.8966756|-96.3857954|||0.0|0.0
 1753238|Oknoname 037027 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bellvue|07/10/1997|04/25/2023||||355519N|0962342W|35.9219683|-96.3948896|||0.0|0.0
 1753240|Oknoname 037028 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bellvue|07/10/1997|07/23/2018||||355341N|0962608W|35.8946913|-96.4354189|||0.0|0.0
-1753242|Oknoname 037029 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bellvue|07/10/1997|07/23/2018||||355243N|0962603W|35.8785738|-96.434093|||0.0|0.0
+1753242|Oknoname 037029 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bellvue|07/10/1997|08/06/2025||||355242N|0962603W|35.878428|-96.434276|||0.0|0.0
 1753244|Oknoname 037030 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bristow|07/10/1997|07/23/2018||||355220N|0962538W|35.8721527|-96.4271483|||0.0|0.0
 1753246|Oknoname 037031 Reservoir|Reservoir|Oklahoma|40|Creek|037|Cromwell|07/10/1997|||||352130N|0962419W|35.358413|-96.4052875|||0.0|0.0
 1753248|Oknoname 037032 Reservoir|Reservoir|Oklahoma|40|Creek|037|Bristow|07/10/1997|07/23/2018||||355113N|0962452W|35.8535213|-96.4145567|||0.0|0.0
@@ -11159,7 +11159,7 @@
 1763640|Bear Creek Cove|Bay|Oklahoma|40|Kay|071|Uncas|09/09/1997|||||364950N|0965456W|36.8305902|-96.9155907|||0.0|0.0
 1763641|Coon Creek Cove|Bay|Oklahoma|40|Kay|071|Uncas|09/09/1997|||||364721N|0965527W|36.7892021|-96.9242022|||0.0|0.0
 1763643|Washunga Bay|Bay|Oklahoma|40|Kay|071|Kaw City|09/09/1997|||||364730N|0965031W|36.7917023|-96.8419782|||0.0|0.0
-1763644|Sarge Creek Cove|Bay|Oklahoma|40|Osage|113|Kaw City|09/09/1997|03/06/2014||||364537N|0964833W|36.7602617|-96.8092456|||0.0|0.0
+1763644|LaSarge Creek Cove|Bay|Oklahoma|40|Osage|113|Kaw City|09/09/1997|08/18/2025|Official|Board Decision|08/14/2025|364537N|0964833W|36.7602617|-96.8092456|||0.0|0.0
 1763646|Ponca Cove|Bay|Oklahoma|40|Kay|071|Charley Creek West|09/09/1997|||||364415N|0965525W|36.7375367|-96.9236468|||0.0|0.0
 1763647|McFadden Cove|Populated Place|Oklahoma|40|Kay|071|Charley Creek West|09/09/1997|06/07/2022||||364217N|0965603W|36.7047601|-96.9342029|||0.0|0.0
 1763652|Lou Anna Creek|Stream|Oklahoma|40|Kay|071|Dover|09/09/1997|||||355310N|0975518W|35.8861536|-97.9217206|355436N|0975733W|35.91|-97.9591667
@@ -13330,7 +13330,7 @@
 2461032|Ioland (historical)|Populated Place|Oklahoma|40|Ellis|045|Roll NE|03/05/2010|04/09/2010||||355638N|0993118W|35.943937|-99.521782|||0.0|0.0
 2504729|Belmont Farms|Populated Place|Oklahoma|40|Oklahoma|109|Edmond|10/18/2008|06/07/2022||||354153N|0972931W|35.69797|-97.492075|||0.0|0.0
 2512030|Altus Air Force Base|Military|Oklahoma|40|Jackson|065|Altus|11/17/2008|05/22/2025||||343939N|0991646W|34.6608658|-99.279453|||0.0|0.0
-2512059|Camp Gruber|Military|Oklahoma|40|Muskogee|101|Braggs|11/17/2008|05/31/2022||||354025N|0951049W|35.6736362|-95.180316|||0.0|0.0
+2512059|National Guard Camp Gruber|Military|Oklahoma|40|Muskogee|101|Braggs|11/17/2008|08/22/2025||||354025N|0951049W|35.6736362|-95.180316|||0.0|0.0
 2512221|Fort Sill|Military|Oklahoma|40|Comanche|031|Mount Scott|11/17/2008|05/22/2025||||344053N|0983109W|34.6814486|-98.519255|||0.0|0.0
 2512288|McAlester Army Ammunition Plant|Military|Oklahoma|40|Pittsburg|121|McAlester SW|11/17/2008|05/22/2025||||344936N|0955526W|34.8266495|-95.923815|||0.0|0.0
 2512354|Tinker Air Force Base|Military|Oklahoma|40|Oklahoma|109|Midwest City|11/17/2008|05/22/2025||||352508N|0972343W|35.4188818|-97.395214|||0.0|0.0
@@ -13674,3 +13674,9 @@
 2831204|Town of Hochatown|Civil|Oklahoma|40|McCurtain|089|Old Glory Mountain|05/08/2023|05/08/2023||||341001N|0944630W|34.167|-94.775|||0.0|0.0
 2831244|Shawnee Trust Land|Census|Oklahoma|40|Texas|139|Goodwell NE|07/14/2023|07/14/2023||||363853N|1013130W|36.6481808|-101.5249091|||0.0|0.0
 2832592|Town of Cleora|Civil|Oklahoma|40|Delaware|041|Bernice|07/02/2025|07/02/2025||||363447N|0945818W|36.579829|-94.971598|||0.0|0.0
+2832723|Kegelman Air Force Auxiliary Field|Military|Oklahoma|40|Alfalfa|003|Nash|08/20/2025|08/20/2025||||364415N|0980713W|36.737405|-98.1202113|||0.0|0.0
+2832840|National Guard Thunderbird Youth Academy|Military|Oklahoma|40|Mayes|097|Pryor|08/20/2025|08/20/2025||||361744N|0951735W|36.2955638|-95.2930325|||0.0|0.0
+2832936|Tinker Aerospace Complex|Military|Oklahoma|40|Oklahoma|109|Midwest City|08/20/2025|08/20/2025||||352340N|0972349W|35.3943692|-97.3970234|||0.0|0.0
+2832937|Tinker Support Annex|Military|Oklahoma|40|Oklahoma|109|Choctaw|08/20/2025|08/20/2025||||352413N|0972137W|35.4037038|-97.3603048|||0.0|0.0
+2832946|Tulsa International Airport|Military|Oklahoma|40|Tulsa|143|Mingo|08/20/2025|08/20/2025||||361301N|0955229W|36.2170607|-95.8746617|||0.0|0.0
+2832956|Will Rogers World Airport|Military|Oklahoma|40|Oklahoma|109|Oklahoma City|08/20/2025|08/20/2025||||352428N|0973642W|35.4077197|-97.6117337|||0.0|0.0

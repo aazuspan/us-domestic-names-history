@@ -15987,8 +15987,8 @@
 2504823|City of Central|Civil|Louisiana|22|East Baton Rouge|033|Comite|10/21/2008|08/10/2023||||303333N|0910213W|30.5593014|-91.036908|||0.0|0.0
 2511947|Naval Support Activity New Orleans|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/22/2025||||295652N|0900156W|29.947867|-90.032134|||0.0|0.0
 2512042|Barksdale Air Force Base|Military|Louisiana|22|Bossier|015|Sligo|11/17/2008|05/22/2025||||322945N|0933643W|32.4958714|-93.6118495|||0.0|0.0
-2512052|Camp Beauregard|Military|Louisiana|22|Rapides|079|Alexandria|11/17/2008|05/31/2022||||312225N|0922353W|31.3735141|-92.3981918|||0.0|0.0
-2512074|Camp Villere|Military|Louisiana|22|St. Tammany|103|Slidell|11/17/2008|05/31/2022||||301923N|0894833W|30.3231325|-89.8091205|||0.0|0.0
+2512052|National Guard Camp Beauregard|Military|Louisiana|22|Rapides|079|Alexandria|11/17/2008|08/22/2025||||312225N|0922353W|31.3735141|-92.3981918|||0.0|0.0
+2512074|National Guard Camp Villere|Military|Louisiana|22|St. Tammany|103|Slidell|11/17/2008|08/22/2025||||301923N|0894833W|30.3231325|-89.8091205|||0.0|0.0
 2512108|Coast Guard Station Grangeville|Military|Louisiana|22|St. Helena|091|Pine Grove|11/17/2008|05/22/2025||||304341N|0904935W|30.7281287|-90.826464|||0.0|0.0
 2512127|Coast Guard Station New Orleans|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/22/2025||||295758N|0900138W|29.9662219|-90.027299|||0.0|0.0
 2512146|Coast Guard Station Venice|Military|Louisiana|22|Plaquemines|075|Venice|11/17/2008|05/31/2022||||291520N|0892122W|29.2555337|-89.3561145|||0.0|0.0
@@ -15998,7 +15998,7 @@
 2512425|National Guard Camp Minden Training Site|Military|Louisiana|22|Webster|119|Doyline|11/17/2008|05/22/2025||||323331N|0932354W|32.5584787|-93.398291|||0.0|0.0
 2512454|Claiborne Range|Military|Louisiana|22|Rapides|079|Woodworth West|11/17/2008|05/22/2025||||311000N|0923712W|31.166686|-92.6201165|||0.0|0.0
 2512473|Fort Polk|Military|Louisiana|22|Vernon|115|Sugrue|11/17/2008|05/31/2022||||305915N|0930300W|30.9874939|-93.0500375|||0.0|0.0
-2512479|Jackson Barracks Air National Guard Station|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|05/31/2022||||295733N|0900022W|29.9591617|-90.006136|||0.0|0.0
+2512479|National Guard Jackson Barracks|Military|Louisiana|22|Orleans|071|New Orleans East|11/17/2008|08/22/2025||||295733N|0900022W|29.9591617|-90.006136|||0.0|0.0
 2564362|Guyton Creek|Stream|Louisiana|22|Ouachita|073|Cadeville|08/07/2009||Official|Board Decision|12/14/1978|322540N|0922156W|32.4277778|-92.3655556|322711N|0922458W|32.4530556|-92.4161111
 2564402|Mermentau River Navigational Channel|Channel|Louisiana|22|Cameron|023|Creole|08/07/2009||Official|Board Decision|01/09/1986|294624N|0930001W|29.773276|-93.000148|||0.0|0.0
 2564444|Soda Lake Canal (historical)|Canal|Louisiana|22|Caddo|017|North Highlands|08/07/2009|||||323630N|0934730W|32.6083333|-93.7916667|||0.0|0.0
@@ -16143,3 +16143,8 @@
 2832504|Koenck Coteau|Area|Louisiana|22|Vernon|115|New Llano|03/19/2025|03/19/2025|Official|Board Decision|03/13/2025|310321N|0931550W|31.0557675|-93.263867|||0.0|0.0
 2832546|Anne des Cadeaux Bayou|Stream|Louisiana|22|Natchitoches|069|Robeline|05/09/2025|05/09/2025|Official|Board Decision|05/08/2025|314301N|0931814W|31.71697|-93.30397|314244N|0931649W|31.71225|-93.28014
 2832547|Brevelle Branch|Stream|Louisiana|22|Sabine|085|Toro|05/09/2025|05/09/2025|Official|Board Decision|05/08/2025|311904N|0933026W|31.31789|-93.50736|311855N|0932841W|31.31536|-93.47792
+2832690|Fort Johnson|Military|Louisiana|22|Natchitoches|069|Kisatchie|08/20/2025|08/20/2025||||312246N|0931151W|31.379526|-93.197554|||0.0|0.0
+2832754|National Guard Baton Rouge Armed Forces Reserve Center|Military|Louisiana|22|East Baton Rouge|033|Plaquemine|08/20/2025|08/20/2025||||302123N|0910828W|30.356349|-91.14109|||0.0|0.0
+2832755|National Guard Beauregard Training Range|Military|Louisiana|22|Grant|043|Green Gables|08/20/2025|08/20/2025||||312753N|0921832W|31.464599|-92.308772|||0.0|0.0
+2832773|National Guard Carville Gillis Long Center|Military|Louisiana|22|Iberville|047|White Castle|08/20/2025|08/20/2025||||301203N|0910744W|30.2008471|-91.1290106|||0.0|0.0
+2832780|National Guard Esler Field|Military|Louisiana|22|Rapides|079|Green Gables|08/20/2025|08/20/2025||||312352N|0921750W|31.3978832|-92.297294|||0.0|0.0

@@ -2953,3 +2953,6 @@
 2805999|Lincoln Census Designated Place|Census|Delaware|10|Sussex|005|Ellendale|03/18/2020|08/09/2023||||385205N|0752522W|38.868051|-75.4228749|||0.0|0.0
 2813416|Calf Run|Stream|Delaware|10|New Castle|003|Newark East|08/19/2020|||||394247N|0753832W|39.71302|-75.64224|394358N|0753935W|39.73283|-75.65968
 2831215|Lackhove Creek|Stream|Delaware|10|Sussex|005|Lewes|05/15/2023|05/15/2023|Official|Board Decision|05/11/2023|384654N|0751023W|38.781805|-75.17307|384648N|0750931W|38.780099|-75.158501
+2832758|National Guard Bethany Beach Training Site|Military|Delaware|10|Sussex|005|Bethany Beach|08/20/2025|08/20/2025||||383250N|0750345W|38.5472508|-75.0623658|||0.0|0.0
+2832827|National Guard River Road Training Site|Military|Delaware|10|New Castle|003|Wilmington South|08/20/2025|08/20/2025||||393801N|0753627W|39.6335168|-75.6073738|||0.0|0.0
+2832907|New Castle Airport|Military|Delaware|10|New Castle|003|Wilmington South|08/20/2025|08/20/2025||||394044N|0753622W|39.678853|-75.6060236|||0.0|0.0

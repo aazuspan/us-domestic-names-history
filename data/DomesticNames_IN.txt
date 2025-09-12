@@ -13918,10 +13918,10 @@
 2397761|Town of Zionsville|Civil|Indiana|18|Boone|011|Zionsville|02/27/2008|08/09/2023||||395923N|0861906W|39.9897132|-86.318233|||0.0|0.0
 2419058|Pokagon Reservation|Civil|Michigan|26|Berrien|021|New Buffalo East|04/11/2008|03/21/2023||||414637N|0864251W|41.7770411|-86.7140844|||0.0|0.0
 2508767|Town of Fairland|Civil|Indiana|18|Shelby|145|Shelbyville|11/06/2008|08/10/2023||||393506N|0855146W|39.5848938|-85.8627261|||0.0|0.0
-2511951|Naval Surface Warfare Center Crane|Military|Indiana|18|Martin|101|Indian Springs|11/17/2008|05/31/2022||||384501N|0864733W|38.7502663|-86.7924405|||0.0|0.0
+2511951|Naval Support Activity Crane|Military|Indiana|18|Martin|101|Indian Springs|11/17/2008|08/22/2025||||384501N|0864733W|38.7502663|-86.7924405|||0.0|0.0
 2511964|Newport Chemical Depot|Military|Indiana|18|Vermillion|165|Dana|11/17/2008|05/22/2025||||395110N|0872702W|39.8528091|-87.450512|||0.0|0.0
-2512051|Camp Atterbury Joint Maneuver Training Center|Military|Indiana|18|Bartholomew|005|Nineveh|11/17/2008|05/31/2022||||391725N|0860226W|39.2903791|-86.0404625|||0.0|0.0
-2512229|Grissom Air Force Base|Military|Indiana|18|Miami|103|Onward|11/17/2008|05/31/2022||||403927N|0860858W|40.657503|-86.149464|||0.0|0.0
+2512051|National Guard Camp Atterbury|Military|Indiana|18|Bartholomew|005|Nineveh|11/17/2008|08/22/2025||||391725N|0860226W|39.2903791|-86.0404625|||0.0|0.0
+2512229|Grissom Air Reserve Base|Military|Indiana|18|Miami|103|Onward|11/17/2008|08/22/2025||||403927N|0860858W|40.657503|-86.149464|||0.0|0.0
 2512248|Jefferson Proving Grounds|Military|Indiana|18|Jefferson|077|Clifty Falls|11/17/2008|05/31/2022||||385143N|0852457W|38.8619444|-85.4156995|||0.0|0.0
 2514855|Mansard Du Lac|Populated Place|Indiana|18|Lake|089|Gary|12/16/2008|06/07/2022||||413534N|0871517W|41.5927778|-87.2547222|||0.0|0.0
 2514857|Gentle Manor Estates|Populated Place|Indiana|18|Lake|089|Crown Point|12/16/2008|06/07/2022||||412519N|0872051W|41.4219444|-87.3475|||0.0|0.0
@@ -14402,3 +14402,9 @@
 2831365|Esarey Creek|Stream|Indiana|18|Perry|123|Branchville|10/16/2023|10/16/2023|Official|Board Decision|10/12/2023|380938N|0863445W|38.160535|-86.579132|380915N|0863607W|38.154048|-86.601985
 2831383|Maxwell Hill|Summit|Indiana|18|Morgan|109|Mooresville West|10/25/2023|10/26/2023||||393523N|0862827W|39.5897284|-86.4741804|||0.0|0.0
 2832469|Farabee Creek|Stream|Indiana|18|Washington|175|Salem|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|383342N|0860110W|38.561758|-86.019375|383318N|0855842W|38.55511|-85.97842
+2832683|Fort Benjamin Harrison|Military|Indiana|18|Marion|097|Cumberland|08/20/2025|08/20/2025||||395143N|0855941W|39.8619159|-85.9946395|||0.0|0.0
+2832706|Hulman Field|Military|Indiana|18|Vigo|167|Seelyville|08/20/2025|08/20/2025||||392714N|0871740W|39.4540097|-87.2943982|||0.0|0.0
+2832793|National Guard Indianapolis 38th Infantry Division|Military|Indiana|18|Marion|097|Maywood|08/20/2025|08/20/2025||||394440N|0861341W|39.744325|-86.2280956|||0.0|0.0
+2832799|National Guard Knightstown|Military|Indiana|18|Rush|139|Knightstown|08/20/2025|08/20/2025||||394605N|0853104W|39.7679336|-85.5176799|||0.0|0.0
+2832816|National Guard Muscatatuck Urban Training Center|Military|Indiana|18|Jennings|079|Butlerville|08/20/2025|08/20/2025||||390305N|0853129W|39.051418|-85.5245845|||0.0|0.0
+2832834|National Guard Shelbyville|Military|Indiana|18|Shelby|145|Shelbyville|08/20/2025|08/20/2025||||393444N|0854840W|39.5789546|-85.8110331|||0.0|0.0

@@ -13848,11 +13848,11 @@
 2512014|Shaw Air Force Base|Military|South Carolina|45|Sumter|085|Sumter West|11/17/2008|05/22/2025||||335829N|0802804W|33.9747251|-80.467858|||0.0|0.0
 2512081|Charleston Air Force Base|Military|South Carolina|45|Charleston|019|Ladson|11/17/2008|05/31/2022||||325352N|0800255W|32.8978123|-80.048724|||0.0|0.0
 2512082|Charleston Naval Shipyard|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/31/2022||||325113N|0795723W|32.8535652|-79.956295|||0.0|0.0
-2512091|Coast Guard Base Charleston|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/31/2022||||324626N|0795638W|32.7740277|-79.943939|||0.0|0.0
+2512091|Coast Guard Station Charleston|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|08/22/2025||||324626N|0795638W|32.7740277|-79.943939|||0.0|0.0
 2512203|Fort Jackson|Military|South Carolina|45|Richland|079|Messers Pond|11/17/2008|05/22/2025||||340251N|0805000W|34.0475697|-80.8333515|||0.0|0.0
-2512275|Marine Corp Recruit Depot Parris Island|Military|South Carolina|45|Beaufort|013|Parris Island|11/17/2008|05/31/2022||||322028N|0804216W|32.3411389|-80.7045215|||0.0|0.0
+2512275|Marine Corps Recruit Depot Parris Island|Military|South Carolina|45|Beaufort|013|Parris Island|11/17/2008|08/22/2025||||322028N|0804216W|32.3411389|-80.7045215|||0.0|0.0
 2512276|Marine Corps Air Station Beaufort|Military|South Carolina|45|Beaufort|013|Beaufort|11/17/2008|05/22/2025||||322823N|0804315W|32.4731172|-80.720776|||0.0|0.0
-2512290|McEntire Air Guard Station|Military|South Carolina|45|Richland|079|Congaree|11/17/2008|05/31/2022||||335530N|0804806W|33.924874|-80.801591|||0.0|0.0
+2512290|McEntire Joint National Guard Base|Military|South Carolina|45|Richland|079|Congaree|11/17/2008|08/22/2025||||335530N|0804806W|33.924874|-80.801591|||0.0|0.0
 2512334|Naval Hospital Beaufort|Military|South Carolina|45|Beaufort|013|Beaufort|11/17/2008|05/31/2022||||322319N|0804054W|32.3884737|-80.68155|||0.0|0.0
 2512336|Naval Hospital Charleston|Military|South Carolina|45|Charleston|019|Charleston|11/17/2008|05/22/2025||||325129N|0795845W|32.8580908|-79.97906|||0.0|0.0
 2512444|South Carolina National Guard Headquarters|Military|South Carolina|45|Sumter|085|Sumter East|11/17/2008|05/22/2025||||335656N|0802125W|33.9488322|-80.3568195|||0.0|0.0
@@ -14020,3 +14020,7 @@
 2831282|Perkins Creek|Stream|South Carolina|45|Spartanburg|083|Reidville|08/16/2023|08/16/2023|Official|Board Decision|08/10/2023|345034N|0820539W|34.842646|-82.094135|345128N|0820742W|34.85772|-82.128253
 2831412|Lake Oolenoy|Reservoir|South Carolina|45|Pickens|077|Table Rock|01/10/2024|01/10/2024||||350107N|0824139W|35.01866|-82.69403|||0.0|0.0
 2832475|Oras Creek|Stream|South Carolina|45|Newberry|071|Pomaria|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|341709N|0812457W|34.285866|-81.415894|341844N|0812527W|34.31224|-81.42413
+2832627|Cathys Creek|Stream|South Carolina|45|Spartanburg|083|Fingerville West|08/18/2025|08/18/2025|Official|Board Decision|08/14/2025|351055N|0820332W|35.18204|-82.059|351159N|0820309W|35.1996|-82.0524
+2832713|Joint Base Charleston North Field SBML|Military|South Carolina|45|Orangeburg|075|North|08/20/2025|08/20/2025||||333609N|0810443W|33.6024939|-81.0786126|||0.0|0.0
+2832774|National Guard Clarks Hill Reservation Maneuver Training Area|Military|South Carolina|45|McCormick|065|Plum Branch|08/20/2025|08/20/2025||||334739N|0821640W|33.794291|-82.2777565|||0.0|0.0
+2832897|Naval Support Facility Beaufort|Military|South Carolina|45|Beaufort|013|Beaufort|08/20/2025|08/20/2025||||322320N|0804055W|32.3889289|-80.6819564|||0.0|0.0
