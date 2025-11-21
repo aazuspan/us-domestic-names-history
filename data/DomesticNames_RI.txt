@@ -19,7 +19,7 @@
 610955|Card Machine Brook|Stream|Massachusetts|25|Worcester|027|Uxbridge|02/24/1974|05/19/2021|Official|Board Decision|01/01/1930|420102N|0713716W|42.0173201|-71.6211763|420020N|0713808W|42.0056537|-71.6356211
 610967|Chockalog River|Stream|Massachusetts|25|Worcester|027|Chepachet|02/24/1974|05/19/2021|Official|Board Decision|01/01/1930|415945N|0714123W|41.9959314|-71.6897895|420155N|0714102W|42.032042|-71.6839561
 611570|Peters River|Stream|Massachusetts|25|Norfolk|021|Franklin|02/24/1974||Official|Board Decision|01/01/1930|420023N|0713013W|42.0064871|-71.5036724|420333N|0712803W|42.0592645|-71.4675606
-611724|Pine Swamp|Swamp|Rhode Island|44|Providence|007|Franklin|02/24/1974|08/02/2022||||420047N|0712560W|42.0129314|-71.4332489|||0.0|0.0
+611724|Pine Swamp|Swamp|Rhode Island|44|Providence|007|Franklin|02/24/1974|08/02/2022||||420047N|0712600W|42.0129314|-71.4332489|||0.0|0.0
 612650|Pocasset Cedar Swamp|Swamp|Rhode Island|44|Newport|005|Fall River|02/24/1974|04/06/2023|Official|Board Decision|01/01/1930|413943N|0711017W|41.661932|-71.1713017|||0.0|0.0
 612683|Sucker Brook|Stream|Massachusetts|25|Bristol|005|Fall River|02/24/1974||Official|Board Decision|01/01/1930|414025N|0710833W|41.6737136|-71.1425447|413915N|0710940W|41.6541667|-71.1611111
 612688|Touisset|Cape|Massachusetts|25|Bristol|005|Fall River|02/24/1974|08/26/2011|Official|Board Decision|01/01/1930|414230N|0711413W|41.7084352|-71.2369918|||0.0|0.0
@@ -53,8 +53,8 @@
 1217475|Snores Rocks|Pillar|Rhode Island|44|Washington|009|Block Island|05/21/1976||Official|Board Decision|01/01/1930|411238N|0713445W|41.2106586|-71.5792233|||0.0|0.0
 1217476|Wash Pond|Lake|Rhode Island|44|Washington|009|Block Island|05/21/1976|02/10/2021|Official|Board Decision|01/01/1930|411240N|0713432W|41.2111411|-71.5754362|||0.0|0.0
 1217478|Corn Neck|Cape|Rhode Island|44|Washington|009|Block Island|05/21/1976||Official|Board Decision|01/01/1930|411248N|0713350W|41.2134364|-71.5639449|||0.0|0.0
-1217479|Bush Lot Hill|Summit|Rhode Island|44|Washington|009|Block Island|05/21/1976|01/25/2021|Official|Board Decision|01/01/1972|411257N|0713360W|41.2158277|-71.5666364|||0.0|0.0
-1217480|Long Lot Pond|Lake|Rhode Island|44|Washington|009|Block Island|05/21/1976|02/10/2021|Official|Board Decision|01/01/1930|411243N|0713360W|41.2118335|-71.5665436|||0.0|0.0
+1217479|Bush Lot Hill|Summit|Rhode Island|44|Washington|009|Block Island|05/21/1976|01/25/2021|Official|Board Decision|01/01/1972|411257N|0713400W|41.2158277|-71.5666364|||0.0|0.0
+1217480|Long Lot Pond|Lake|Rhode Island|44|Washington|009|Block Island|05/21/1976|02/10/2021|Official|Board Decision|01/01/1930|411243N|0713400W|41.2118335|-71.5665436|||0.0|0.0
 1217481|Garden Pond|Lake|Rhode Island|44|Washington|009|Block Island|05/21/1976|10/03/2024|Official|Board Decision|01/01/1930|411233N|0713406W|41.20909|-71.56821|||0.0|0.0
 1217482|Isaiahs Gully|Bay|Rhode Island|44|Washington|009|Block Island|05/21/1976||Official|Board Decision|01/01/1930|411313N|0713331W|41.2203809|-71.5586672|||0.0|0.0
 1217483|Old Briton Rock|Pillar|Rhode Island|44|Washington|009|Block Island|05/21/1976|08/26/2011|Official|Board Decision|01/01/1963|411314N|0713312W|41.2206587|-71.5533891|||0.0|0.0
@@ -456,7 +456,7 @@
 1217896|Barberville|Populated Place|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|413221N|0714155W|41.5392664|-71.6986779|||0.0|0.0
 1217897|Tefft Hill|Summit|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|413320N|0714003W|41.555647|-71.667565|||0.0|0.0
 1217898|Woody Hill Brook|Stream|Rhode Island|44|Washington|009|Hope Valley|05/21/1976||Official|Board Decision|01/01/1930|413350N|0714340W|41.5639884|-71.7278456|413340N|0714543W|41.5612104|-71.7620134
-1217899|Parris Brook|Stream|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|02/03/2021|Official|Board Decision|01/01/1930|413400N|0714254W|41.5667254|-71.7151028|413560N|0714644W|41.5999922|-71.7788961
+1217899|Parris Brook|Stream|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|02/03/2021|Official|Board Decision|01/01/1930|413400N|0714254W|41.5667254|-71.7151028|413600N|0714644W|41.5999922|-71.7788961
 1217900|Deep Pond|Lake|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|02/18/2021|Official|Board Decision|02/05/1930|413340N|0714301W|41.5610732|-71.7169149|||0.0|0.0
 1217901|Bald Hill|Summit|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|413351N|0714209W|41.5641167|-71.7025471|||0.0|0.0
 1217902|Millville|Populated Place|Rhode Island|44|Washington|009|Hope Valley|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|413427N|0714055W|41.5742665|-71.6820107|||0.0|0.0
@@ -964,7 +964,7 @@
 1218427|Rock Island|Island|Rhode Island|44|Kent|003|East Greenwich|05/21/1976|05/28/2015|Official|Board Decision|01/01/1930|414459N|0712250W|41.7498232|-71.3806098|||0.0|0.0
 1218428|Passeonkquis Cove|Bay|Rhode Island|44|Kent|003|East Greenwich|05/21/1976||Official|Board Decision|01/01/1930|414449N|0712306W|41.7470454|-71.3850545|||0.0|0.0
 1218429|Lakewood|Populated Place|Rhode Island|44|Kent|003|Providence|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|414533N|0712430W|41.7592675|-71.4083891|||0.0|0.0
-1218430|Posneganset Pond|Lake|Rhode Island|44|Kent|003|East Greenwich|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414460N|0712422W|41.7498854|-71.4061648|||0.0|0.0
+1218430|Posneganset Pond|Lake|Rhode Island|44|Kent|003|East Greenwich|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414500N|0712422W|41.7498854|-71.4061648|||0.0|0.0
 1218431|Spring Green|Populated Place|Rhode Island|44|Kent|003|East Greenwich|05/21/1976|08/26/2011|Official|Board Decision|02/05/1930|414424N|0712442W|41.7401009|-71.4117225|||0.0|0.0
 1218432|Spring Green Pond|Reservoir|Rhode Island|44|Kent|003|East Greenwich|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414407N|0712439W|41.7353185|-71.4106955|||0.0|0.0
 1218433|Hoxsie|Populated Place|Rhode Island|44|Kent|003|East Greenwich|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|414359N|0712439W|41.7331565|-71.4108891|||0.0|0.0
@@ -1141,7 +1141,7 @@
 1218614|Applehouse Hill|Summit|Rhode Island|44|Providence|007|North Scituate|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|414700N|0713029W|41.7834249|-71.5081155|||0.0|0.0
 1218615|Comstock Gardens|Populated Place|Rhode Island|44|Providence|007|North Scituate|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|414639N|0713122W|41.7776|-71.5228389|||0.0|0.0
 1218616|Bald Hill|Summit|Rhode Island|44|Providence|007|North Scituate|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|414619N|0713319W|41.7719182|-71.5551451|||0.0|0.0
-1218617|Betty Pond|Reservoir|Rhode Island|44|Providence|007|North Scituate|05/21/1976|05/17/2018|Official|Board Decision|01/01/1972|414656N|0713360W|41.7821677|-71.5665925|||0.0|0.0
+1218617|Betty Pond|Reservoir|Rhode Island|44|Providence|007|North Scituate|05/21/1976|05/17/2018|Official|Board Decision|01/01/1972|414656N|0713400W|41.7821677|-71.5665925|||0.0|0.0
 1218618|Kent Brook|Stream|Rhode Island|44|Providence|007|North Scituate|05/21/1976||Official|Board Decision|01/01/1930|414606N|0713432W|41.7684332|-71.5756186|414645N|0713408W|41.7791667|-71.5688889
 1218619|Spruce Brook|Stream|Rhode Island|44|Providence|007|North Scituate|05/21/1976||Official|Board Decision|01/01/1930|414709N|0713710W|41.7859329|-71.6195091|414822N|0713800W|41.8062105|-71.6333985
 1218620|Quonopaug Brook|Stream|Rhode Island|44|Providence|007|North Scituate|05/21/1976||Official|Board Decision|01/01/1930|414755N|0713522W|41.7987107|-71.589508|414713N|0713412W|41.7869444|-71.57
@@ -1149,7 +1149,7 @@
 1218623|Horn Hill|Summit|Rhode Island|44|Providence|007|North Scituate|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|414707N|0713320W|41.7853692|-71.5556172|||0.0|0.0
 1218624|Peck Hill|Summit|Rhode Island|44|Providence|007|North Scituate|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|414808N|0713335W|41.8021555|-71.5598044|||0.0|0.0
 1218625|Lawton Hill|Summit|Rhode Island|44|Providence|007|North Scituate|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|414729N|0713232W|41.7913511|-71.5422666|||0.0|0.0
-1218626|Simmons Upper Reservoir|Reservoir|Rhode Island|44|Providence|007|North Scituate|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414760N|0713121W|41.7999834|-71.5225953|||0.0|0.0
+1218626|Simmons Upper Reservoir|Reservoir|Rhode Island|44|Providence|007|North Scituate|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414800N|0713121W|41.7999834|-71.5225953|||0.0|0.0
 1218627|Simmons Lower Reservoir|Reservoir|Rhode Island|44|Providence|007|North Scituate|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414735N|0713049W|41.7930266|-71.5134952|||0.0|0.0
 1218628|Simmonsville|Populated Place|Rhode Island|44|Providence|007|North Scituate|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|414804N|0713005W|41.801211|-71.5014494|||0.0|0.0
 1218629|Hughesdale Pond|Reservoir|Rhode Island|44|Providence|007|North Scituate|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414829N|0713012W|41.807957|-71.5033352|||0.0|0.0
@@ -1229,7 +1229,7 @@
 1218708|Dyer Pond|Lake|Rhode Island|44|Providence|007|Providence|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414743N|0712756W|41.7953925|-71.4656909|||0.0|0.0
 1218709|Thornton|Populated Place|Rhode Island|44|Providence|007|Providence|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|414739N|0712842W|41.7942668|-71.4783928|||0.0|0.0
 1218710|Stone Pond|Lake|Rhode Island|44|Providence|007|Providence|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|414724N|0712920W|41.7899707|-71.4888036|||0.0|0.0
-1218711|Dugaway Hill|Summit|Rhode Island|44|Providence|007|Providence|05/21/1976|04/06/2018|Official|Board Decision|01/01/1930|414701N|0712860W|41.7836547|-71.4832206|||0.0|0.0
+1218711|Dugaway Hill|Summit|Rhode Island|44|Providence|007|Providence|05/21/1976|04/06/2018|Official|Board Decision|01/01/1930|414701N|0712900W|41.7836547|-71.4832206|||0.0|0.0
 1218712|Simmons Brook|Stream|Rhode Island|44|Providence|007|Providence|05/21/1976||Official|Board Decision|01/01/1930|414752N|0712852W|41.7978779|-71.4811707|414735N|0713038W|41.7931556|-71.5106164
 1218713|Dry Brook|Stream|Rhode Island|44|Providence|007|Providence|05/21/1976||Official|Board Decision|01/01/1930|414828N|0712923W|41.8078777|-71.4897823|414932N|0713217W|41.8256552|-71.5381174
 1218714|Hughesdale|Populated Place|Rhode Island|44|Providence|007|Providence|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|414829N|0712937W|41.8081555|-71.4936713|||0.0|0.0
@@ -1492,7 +1492,7 @@
 1218986|Arnold Mills Reservoir|Reservoir|Rhode Island|44|Providence|007|Pawtucket|05/21/1976|05/17/2018|Official|Board Decision|01/01/1972|415906N|0712344W|41.9851171|-71.3954459|||0.0|0.0
 1218987|Arnold Mills|Populated Place|Rhode Island|44|Providence|007|Pawtucket|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|415842N|0712331W|41.9784322|-71.3920016|||0.0|0.0
 1218988|Diamond Hill|Summit|Rhode Island|44|Providence|007|Franklin|05/21/1976|01/25/2021|Official|Board Decision|01/01/1930|420001N|0712449W|42.0001631|-71.4136256|||0.0|0.0
-1218989|Beacon Pole Hill|Summit|Rhode Island|44|Providence|007|Pawtucket|05/21/1976|01/25/2021|Official|Board Decision|01/01/1972|415942N|0712660W|41.9950355|-71.44993|||0.0|0.0
+1218989|Beacon Pole Hill|Summit|Rhode Island|44|Providence|007|Pawtucket|05/21/1976|01/25/2021|Official|Board Decision|01/01/1972|415942N|0712700W|41.9950355|-71.44993|||0.0|0.0
 1218990|Darlington|Populated Place|Rhode Island|44|Providence|007|Attleboro|05/21/1976|06/07/2022|Official|Board Decision|01/01/1930|415306N|0712147W|41.8850999|-71.3631105|||0.0|0.0
 1218992|Big Round Top Pond|Reservoir|Rhode Island|44|Providence|007|Uxbridge|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|420014N|0714201W|42.0039346|-71.700389|||0.0|0.0
 1218993|Little Round Top Pond|Lake|Rhode Island|44|Providence|007|Uxbridge|05/21/1976|05/17/2018|Official|Board Decision|01/01/1930|420007N|0714154W|42.0019742|-71.698237|||0.0|0.0
@@ -1600,7 +1600,7 @@
 1219349|Star Island|Island|Rhode Island|44|Providence|007|Providence|04/01/1991|08/26/2011|Official|Board Decision|01/01/1971|414652N|0712436W|41.7812117|-71.4100561|||0.0|0.0
 1219352|Streeter Hill|Summit|Rhode Island|44|Providence|007|Franklin|04/01/1991|01/25/2021|Official|Board Decision|01/01/1971|420009N|0712309W|42.0025507|-71.3859067|||0.0|0.0
 1219353|Manton Pond|Lake|Rhode Island|44|Providence|007|Providence|04/01/1991|05/17/2018|Official|Board Decision|01/01/1930|415014N|0712822W|41.8371337|-71.4729088|||0.0|0.0
-1219354|Mashapaug Brook|Stream|Rhode Island|44|Providence|007|Providence|04/01/1991||Official|Board Decision|01/01/1930|414640N|0712458W|41.7778784|-71.4161674|414722N|0712560W|41.7894444|-71.4333333
+1219354|Mashapaug Brook|Stream|Rhode Island|44|Providence|007|Providence|04/01/1991||Official|Board Decision|01/01/1930|414640N|0712458W|41.7778784|-71.4161674|414722N|0712600W|41.7894444|-71.4333333
 1219355|Manville Pond|Lake|Rhode Island|44|Providence|007|Pawtucket|04/01/1991||Official|Board Decision|01/01/1930|415825N|0712828W|41.9737097|-71.4745046|||0.0|0.0
 1219356|Stump Hill Reservoir|Reservoir|Rhode Island|44|Providence|007|Pawtucket|04/01/1991|05/17/2018|Official|Board Decision|01/01/1972|415312N|0712523W|41.8866639|-71.4229454|||0.0|0.0
 1219357|Sylvys Brook|Stream|Rhode Island|44|Providence|007|Pawtucket|04/01/1991|08/26/2011|Official|Board Decision|01/01/1971|415858N|0712440W|41.9828766|-71.411169|420028N|0712503W|42.0078764|-71.4175584
@@ -1701,7 +1701,7 @@
 1219477|Goat Rock Brook|Stream|Rhode Island|44|Providence|007|Thompson|04/01/1991||Official|Board Decision|01/01/1972|415858N|0714650W|41.9828758|-71.7806254|415905N|0714630W|41.9847222|-71.775
 1219478|Goose Nest Spring|Spring|Rhode Island|44|Washington|009|Slocum|04/01/1991||Official|Board Decision|01/01/1972|413354N|0713022W|41.5651011|-71.5061709|||0.0|0.0
 1219481|The Brothers|Bar|Rhode Island|44|Bristol|001|Bristol|04/01/1991|08/05/2011|Official|Board Decision|02/05/1930|414150N|0711734W|41.6973239|-71.2928276|||0.0|0.0
-1219482|Robin Hollow|Valley|Massachusetts|25|Bristol|005|Pawtucket|04/01/1991|12/09/2016|Official|Board Decision|01/01/1972|415521N|0712252W|41.9224611|-71.3811251|415449N|0712260W|41.9135874|-71.3832821
+1219482|Robin Hollow|Valley|Massachusetts|25|Bristol|005|Pawtucket|04/01/1991|12/09/2016|Official|Board Decision|01/01/1972|415521N|0712252W|41.9224611|-71.3811251|415449N|0712300W|41.9135874|-71.3832821
 1219483|Nannaquaket Hill|Summit|Rhode Island|44|Newport|005|Tiverton|04/01/1991|01/25/2021|Official|Board Decision|01/01/1930|413644N|0711006W|41.6121358|-71.1682587|||0.0|0.0
 1219484|Meadow View|Populated Place|Rhode Island|44|Kent|003|East Greenwich|04/01/1991|06/07/2022|Official|Board Decision|01/01/1930|414135N|0712313W|41.6931568|-71.386999|||0.0|0.0
 1219485|Barker Hill|Summit|Rhode Island|44|Newport|005|Tiverton|04/01/1991|01/25/2021|Official|Board Decision|01/01/1930|413048N|0711428W|41.5134274|-71.2411583|||0.0|0.0
@@ -2032,7 +2032,7 @@
 1220045|Cedar Island|Island|Rhode Island|44|Washington|009|Kingston|04/01/1991||Official|Board Decision|01/01/1972|412413N|0713010W|41.4037132|-71.5028352|||0.0|0.0
 1220046|Flat Cove|Bay|Rhode Island|44|Kent|003|East Greenwich|04/01/1991||Official|Board Decision|01/01/1930|413731N|0712453W|41.6253791|-71.414778|||0.0|0.0
 1220047|Gingerbread Island|Island|Rhode Island|44|Providence|007|Providence|04/01/1991|03/30/2020|Official|Board Decision|01/01/1930|414919N|0712308W|41.8220447|-71.3856108|||0.0|0.0
-1220049|Flat Rock|Pillar|Rhode Island|44|Washington|009|Narragansett Pier|04/01/1991|08/11/2011|Official|Board Decision|01/01/1930|412260N|0712827W|41.3833333|-71.4741667|||0.0|0.0
+1220049|Flat Rock|Pillar|Rhode Island|44|Washington|009|Narragansett Pier|04/01/1991|08/11/2011|Official|Board Decision|01/01/1930|412300N|0712827W|41.3833333|-71.4741667|||0.0|0.0
 1220050|Flat Rock|Pillar|Rhode Island|44|Washington|009|Narragansett Pier|04/01/1991|08/11/2011|Official|Board Decision|01/01/1930|412500N|0712740W|41.416769|-71.461167|||0.0|0.0
 1220051|Flat Cove (historical)|Bay|Rhode Island|44|Kent|003|East Greenwich|04/01/1991||Official|Board Decision|01/01/1930|414140N|0712438W|41.6945455|-71.4106112|||0.0|0.0
 1220054|Arlington (historical)|Civil|Rhode Island|44|Providence|007|Providence|04/01/1991|07/21/2011|Vacated|Board Decision|01/01/1965|414800N|0712618W|41.8001003|-71.4383909|||0.0|0.0
@@ -2316,7 +2316,7 @@
 2575242|Kings Rocks|Pillar|Rhode Island|44|Bristol|001|East Providence|01/20/2010||Official|Board Decision|12/31/1930|414522N|0711617W|41.7561111|-71.2713889|||0.0|0.0
 2575243|Martin Point|Cape|Rhode Island|44|Bristol|001|Bristol|01/20/2010|02/16/2010|Official|Board Decision|10/12/1971|414455N|0711840W|41.7486111|-71.3111111|||0.0|0.0
 2575244|Old Pier Rock|Island|Rhode Island|44|Kent|003|East Greenwich|01/20/2010|08/05/2011|Official|Board Decision|02/05/1930|414007N|0712232W|41.6686111|-71.3755556|||0.0|0.0
-2575246|Thatch Cove (historical)|Populated Place|Rhode Island|44|Kent|003|East Greenwich|01/20/2010|08/26/2011||||414060N|0712700W|41.6833333|-71.45|||0.0|0.0
+2575246|Thatch Cove (historical)|Populated Place|Rhode Island|44|Kent|003|East Greenwich|01/20/2010|08/26/2011||||414100N|0712700W|41.6833333|-71.45|||0.0|0.0
 2575248|Old Warwick|Populated Place|Rhode Island|44|Kent|003|East Greenwich|01/20/2010|02/16/2010|Official|Board Decision|02/05/1930|414205N|0712310W|41.7013889|-71.3861111|||0.0|0.0
 2575249|Hellburn Woods (historical)|Woods|Rhode Island|44|Newport|005|Tiverton|01/20/2010|02/16/2010|Official|Board Decision|02/05/1930|413715N|0711050W|41.6208333|-71.1805556|||0.0|0.0
 2575253|Honeyman Hill|Summit|Rhode Island|44|Newport|005|Prudence Island|01/21/2010|01/25/2021|Official|Board Decision|02/05/1930|413004N|0711645W|41.5010453|-71.2791875|||0.0|0.0
@@ -2343,7 +2343,7 @@
 2575305|Williams Mill|Populated Place|Rhode Island|44|Providence|007|Thompson|01/21/2010|08/26/2011|Official|Board Decision|02/05/1930|415350N|0714742W|41.8972222|-71.795|||0.0|0.0
 2575306|Whortleberry Island|Island|Rhode Island|44|Providence|007|East Providence|01/21/2010|02/16/2010|Official|Board Decision|02/05/1930|414919N|0712223W|41.8219444|-71.3730556|||0.0|0.0
 2575307|Arnolda|Populated Place|Rhode Island|44|Washington|009|Carolina|01/21/2010|||||412253N|0713922W|41.381413|-71.656008|||0.0|0.0
-2575308|Horn Heap|Populated Place|Rhode Island|44|Washington|009|Slocum|01/21/2010|02/16/2010|Official|Board Decision|02/05/1930|413460N|0713160W|41.5833333|-71.5333333|||0.0|0.0
+2575308|Horn Heap|Populated Place|Rhode Island|44|Washington|009|Slocum|01/21/2010|02/16/2010|Official|Board Decision|02/05/1930|413500N|0713200W|41.5833333|-71.5333333|||0.0|0.0
 2575309|Iron Mine Cove|Bay|Rhode Island|44|Washington|009|Narragansett Pier|01/21/2010|02/16/2010|Official|Board Decision|02/05/1930|412335N|0712928W|41.3930556|-71.4911111|||0.0|0.0
 2575310|Moscow Ponds|Lake|Rhode Island|44|Washington|009|Hope Valley|01/21/2010|02/18/2021||||413120N|0714437W|41.5221991|-71.7435423|||0.0|0.0
 2575311|Quonochontaug Beach|Beach|Rhode Island|44|Washington|009|Quonochontaug|01/21/2010|09/14/2011||||411954N|0714318W|41.331767|-71.721731|||0.0|0.0
@@ -2438,7 +2438,7 @@
 2704965|Twin Islands|Island|Rhode Island|44|Washington|009|Carolina|09/14/2011||Official|Board Decision|02/05/1930|412235N|0713848W|41.3763889|-71.6466667|||0.0|0.0
 2704966|Uptown Creek|Stream|Rhode Island|44|Kent|003|Bristol|09/14/2011||Official|Board Decision|02/05/1930|414247N|0712155W|41.7130556|-71.3652778|414300N|0712158W|41.7166667|-71.3661111
 2704970|Wanton Cove|Bay|Rhode Island|44|Newport|005|Tiverton|09/14/2011||Official|Board Decision|02/05/1930|413710N|0711230W|41.6194444|-71.2083333|||0.0|0.0
-2704971|Washington Park|Populated Place|Rhode Island|44|Providence|007|Providence|09/14/2011||Official|Board Decision|02/05/1930|414660N|0712440W|41.7833333|-71.4111111|||0.0|0.0
+2704971|Washington Park|Populated Place|Rhode Island|44|Providence|007|Providence|09/14/2011||Official|Board Decision|02/05/1930|414700N|0712440W|41.7833333|-71.4111111|||0.0|0.0
 2704973|Watchemoket|Populated Place|Rhode Island|44|Providence|007|Providence|09/14/2011||Official|Board Decision|02/05/1930|414945N|0712245W|41.8291667|-71.3791667|||0.0|0.0
 2704974|West Arlington|Civil|Rhode Island|44|Providence|007|Providence|09/14/2011||Vacated|Board Decision|02/09/1965|414745N|0712700W|41.7958333|-71.45|||0.0|0.0
 2704984|Champlin Cove|Bay|Rhode Island|44|Washington|009|Narragansett Pier|09/14/2011||Official|Board Decision|02/05/1930|412430N|0712928W|41.408424|-71.4912128|||0.0|0.0

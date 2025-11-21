@@ -38,7 +38,7 @@
 1613714|Bethany|Populated Place|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|06/07/2022||||181952N|0644658W|18.3310654|-64.7829159|||0.0|0.0
 1613715|Bethesda Hill|Summit|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|08/23/2017||||182125N|0650013W|18.357045|-65.0036322|||0.0|0.0
 1613716|Bethlehem Old Work|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174353N|0644738W|17.7313627|-64.7937565|||0.0|0.0
-1613717|Bettys Hope|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174132N|0644860W|17.6921977|-64.8165348|||0.0|0.0
+1613717|Bettys Hope|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174132N|0644900W|17.6921977|-64.8165348|||0.0|0.0
 1613718|Betzys Jewell|Populated Place|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/26/1981|06/07/2022||||174534N|0644745W|17.7594172|-64.7957005|||0.0|0.0
 1613719|Beverhout Point|Cape|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|05/13/2011|Official|Board Decision|01/01/1958|181855N|0645109W|18.3152323|-64.852363|||0.0|0.0
 1613720|Big Current Hole|Channel|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|||||182119N|0650233W|18.3552333|-65.0423726|||0.0|0.0
@@ -80,7 +80,7 @@
 1613759|Bull Rock|Pillar|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||182127N|0645028W|18.3574537|-64.8409734|||0.0|0.0
 1613760|Bulows Minde|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174425N|0644342W|17.740251|-64.7281989|||0.0|0.0
 1613761|Bunker Hill|Summit|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|08/24/2017||||182048N|0645548W|18.3466958|-64.9300939|||0.0|0.0
-1613762|Butler Bay|Bay|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/26/1981|||||174460N|0645329W|17.749973|-64.8912573|||0.0|0.0
+1613762|Butler Bay|Bay|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/26/1981|||||174500N|0645329W|17.749973|-64.8912573|||0.0|0.0
 1613763|Butler Bay|Populated Place|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/26/1981|06/07/2022||||174455N|0645330W|17.7485842|-64.891535|||0.0|0.0
 1613764|Butzberg|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174448N|0644039W|17.7466399|-64.677364|||0.0|0.0
 1613765|Cabes Point|Cape|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||182023N|0645101W|18.3396764|-64.8501406|||0.0|0.0
@@ -109,7 +109,7 @@
 1613791|Caret Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981||Official|Board Decision|01/01/1958|182220N|0645906W|18.3721778|-64.984869|||0.0|0.0
 1613792|Caret Bay Estate|Populated Place|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|06/07/2022||||182150N|0645834W|18.3638447|-64.9759801|||0.0|0.0
 1613793|Caret Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|05/13/2011|Official|Board Decision|01/01/1958|182222N|0645855W|18.3727333|-64.9818132|||0.0|0.0
-1613795|Carlton|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174210N|0645060W|17.7027529|-64.8498684|||0.0|0.0
+1613795|Carlton|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174210N|0645100W|17.7027529|-64.8498684|||0.0|0.0
 1613796|Carol Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981||Official|Board Decision|01/01/1958|181909N|0645647W|18.3191225|-64.9462568|||0.0|0.0
 1613797|Carolina|Populated Place|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|06/07/2022||||182050N|0644317W|18.3471762|-64.7215254|||0.0|0.0
 1613798|Carolina Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|||||181935N|0645658W|18.3263451|-64.9493127|||0.0|0.0
@@ -228,7 +228,7 @@
 1613925|Flamingo Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||181842N|0645736W|18.3116222|-64.9598684|||0.0|0.0
 1613926|Flamingo Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||181824N|0645727W|18.306622|-64.9573682|||0.0|0.0
 1613927|Flanagan Island|Island|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||181936N|0643900W|18.3266217|-64.6501351|||0.0|0.0
-1613929|Flat Cays|Island|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||181860N|0645923W|18.3166218|-64.9895919|||0.0|0.0
+1613929|Flat Cays|Island|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||181900N|0645923W|18.3166218|-64.9895919|||0.0|0.0
 1613930|Footer Point|Cape|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||182041N|0645142W|18.3446764|-64.8615299|||0.0|0.0
 1613931|Fort Christian (historical)|Military|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|05/31/2022||||174450N|0644207W|17.7471953|-64.7018087|||0.0|0.0
 1613932|Fort Christian|Populated Place|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|06/07/2022||||182027N|0645547W|18.3407892|-64.9295895|||0.0|0.0
@@ -236,7 +236,7 @@
 1613935|Fortsberg|Summit|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|08/24/2017|Official|Board Decision|01/01/1958|182040N|0644221W|18.3444975|-64.7057154|||0.0|0.0
 1613936|Fortuna Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|||||182033N|0650106W|18.3424551|-65.0182044|||0.0|0.0
 1613937|Fortuna Hill|Summit|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|08/23/2017||||182107N|0650019W|18.3520711|-65.0053646|||0.0|0.0
-1613938|Fountain|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174460N|0644940W|17.7499731|-64.8276457|||0.0|0.0
+1613938|Fountain|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174500N|0644940W|17.7499731|-64.8276457|||0.0|0.0
 1613939|Francis Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981||Official|Board Decision|01/01/1958|182153N|0644458W|18.3646755|-64.7495817|||0.0|0.0
 1613940|Frank Bay|Bay|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|||||181942N|0644756W|18.3282875|-64.7990275|||0.0|0.0
 1613941|Fredensborg|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174406N|0644654W|17.7349735|-64.7815339|||0.0|0.0
@@ -270,10 +270,10 @@
 1613971|Grapetree Bay|Bay|United States Virgin Islands|78|St. Croix|010|Grass Point|01/26/1981|||||174448N|0643529W|17.7466403|-64.5915274|||0.0|0.0
 1613972|Grapetree Point|Cape|United States Virgin Islands|78|St. Croix|010|Grass Point|01/26/1981|||||174444N|0643555W|17.7455292|-64.5984723|||0.0|0.0
 1613973|Grass Cay|Island|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||182133N|0644958W|18.3591203|-64.8326399|||0.0|0.0
-1613974|Grass Point|Cape|United States Virgin Islands|78|St. Croix|010|Grass Point|01/26/1981|||||174360N|0643639W|17.7333072|-64.6106952|||0.0|0.0
+1613974|Grass Point|Cape|United States Virgin Islands|78|St. Croix|010|Grass Point|01/26/1981|||||174400N|0643639W|17.7333072|-64.6106952|||0.0|0.0
 1613975|Great Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||181917N|0645016W|18.3213433|-64.8376402|||0.0|0.0
 1613976|Great Cruz Bay|Bay|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|05/13/2011|Official|Board Decision|01/01/1960|181915N|0644722W|18.3207878|-64.7895828|||0.0|0.0
-1613977|Great Lameshur Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981||Official|Board Decision|01/01/1960|181860N|0644322W|18.3166218|-64.7229142|||0.0|0.0
+1613977|Great Lameshur Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981||Official|Board Decision|01/01/1960|181900N|0644322W|18.3166218|-64.7229142|||0.0|0.0
 1613978|Great Pond|Lake|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|||||174332N|0643925W|17.7255295|-64.6568085|||0.0|0.0
 1613979|Great Pond|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174328N|0643856W|17.7244184|-64.6487528|||0.0|0.0
 1613980|Great Pond Bay|Bay|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|||||174306N|0643914W|17.7183074|-64.653753|||0.0|0.0
@@ -351,7 +351,7 @@
 1614061|La Vallee|Populated Place|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/26/1981|06/07/2022||||174640N|0644811W|17.7777778|-64.8030556|||0.0|0.0
 1614062|Lagoon Point|Cape|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981||Official|Board Decision|01/01/1958|181950N|0644201W|18.3305102|-64.7004138|||0.0|0.0
 1614063|Lameshur|Populated Place|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|06/07/2022|Official|Board Decision|01/01/1958|181914N|0644328W|18.3205105|-64.7245809|||0.0|0.0
-1614064|Lang Peak|Summit|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|03/30/2018||||174360N|0644054W|17.7333043|-64.6815332|||0.0|0.0
+1614064|Lang Peak|Summit|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|03/30/2018||||174400N|0644054W|17.7333043|-64.6815332|||0.0|0.0
 1614065|Langmath|Summit|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|08/24/2017||||182005N|0645225W|18.3348496|-64.8736724|||0.0|0.0
 1614067|Laprey Valley|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174335N|0644111W|17.7263627|-64.6862536|||0.0|0.0
 1614068|Leduck Island|Island|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981||Official|Board Decision|01/01/1958|181859N|0644116W|18.3163441|-64.6879134|||0.0|0.0
@@ -376,7 +376,7 @@
 1614087|Little Fountain|Populated Place|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/26/1981|06/07/2022||||174506N|0644738W|17.7516397|-64.7937563|||0.0|0.0
 1614088|Little Hans Lollik Island|Island|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|01/26/1981|||||182433N|0645429W|18.4091202|-64.9079201|||0.0|0.0
 1614090|Little Lameshur Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981||Official|Board Decision|01/01/1960|181908N|0644336W|18.3188439|-64.7268032|||0.0|0.0
-1614092|Little Saint James Island|Island|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||181760N|0644931W|18.2999548|-64.8251397|||0.0|0.0
+1614092|Little Saint James Island|Island|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||181800N|0644931W|18.2999548|-64.8251397|||0.0|0.0
 1614093|Little Saint Thomas|Cape|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|||||182121N|0650229W|18.3557889|-65.0412614|||0.0|0.0
 1614094|Lizard Rocks|Island|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|01/26/1981|||||182309N|0645924W|18.3857888|-64.9898687|||0.0|0.0
 1614095|Long Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||182006N|0644033W|18.3349546|-64.6759689|||0.0|0.0
@@ -391,7 +391,7 @@
 1614105|Louisenhoj|Populated Place|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|06/07/2022||||182104N|0645530W|18.3510668|-64.924867|||0.0|0.0
 1614106|Lovango Cay|Island|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|||||182145N|0644814W|18.3624533|-64.80375|||0.0|0.0
 1614107|Lovango Channel|Channel|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|||||182142N|0644749W|18.36162|-64.7970831|||0.0|0.0
-1614108|Lovenlund Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||182160N|0645448W|18.3666213|-64.913199|||0.0|0.0
+1614108|Lovenlund Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||182200N|0645448W|18.3666213|-64.913199|||0.0|0.0
 1614109|Lovenlund|Populated Place|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|06/07/2022||||182133N|0645440W|18.3591214|-64.9109768|||0.0|0.0
 1614110|Lower Love|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174320N|0644828W|17.7221965|-64.8076457|||0.0|0.0
 1614111|Lowrys Hill|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174421N|0644021W|17.7391402|-64.6723641|||0.0|0.0
@@ -488,11 +488,11 @@
 1614214|Peters Rest|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174331N|0644420W|17.7252516|-64.7387553|||0.0|0.0
 1614216|Peterson Hill|Summit|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|08/24/2017||||182035N|0645304W|18.343193|-64.884461|||0.0|0.0
 1614217|Petronella|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174339N|0644005W|17.7274738|-64.6679198|||0.0|0.0
-1614218|Picara Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|01/26/1981|||||182260N|0645626W|18.3832885|-64.9404223|||0.0|0.0
+1614218|Picara Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|01/26/1981|||||182300N|0645626W|18.3832885|-64.9404223|||0.0|0.0
 1614219|Pillsbury Sound|Channel|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981||Official|Board Decision|01/01/1958|181953N|0644859W|18.331343|-64.8162505|||0.0|0.0
 1614220|Pleasant Vale|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174457N|0645141W|17.7491398|-64.8612571|||0.0|0.0
 1614221|Mount Pleasant|Summit|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|08/24/2017||||182039N|0645159W|18.3442735|-64.8664273|||0.0|0.0
-1614222|Plessen|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174260N|0644914W|17.7166411|-64.8204236|||0.0|0.0
+1614222|Plessen|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174300N|0644914W|17.7166411|-64.8204236|||0.0|0.0
 1614223|Point Cudejarre|Cape|United States Virgin Islands|78|St. Croix|010|Buck Island|01/26/1981|||||174505N|0643406W|17.7513623|-64.5684707|||0.0|0.0
 1614224|Pond Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||181954N|0644030W|18.3316214|-64.6751356|||0.0|0.0
 1614225|Popilleau Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||182052N|0644218W|18.3477317|-64.7051363|||0.0|0.0
@@ -537,7 +537,7 @@
 1614266|Richmond|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|06/07/2022||||174443N|0644258W|17.7452508|-64.7159761|||0.0|0.0
 1614268|Robe Hill|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174254N|0645105W|17.7149746|-64.8512573|||0.0|0.0
 1614269|Robin Bay|Bay|United States Virgin Islands|78|St. Croix|010|Christiansted|01/26/1981|||||174344N|0643743W|17.7288628|-64.6284739|||0.0|0.0
-1614270|Rod Bay|Bay|United States Virgin Islands|78|St. Croix|010|Grass Point|01/26/1981|||||174360N|0643705W|17.7333072|-64.6179178|||0.0|0.0
+1614270|Rod Bay|Bay|United States Virgin Islands|78|St. Croix|010|Grass Point|01/26/1981|||||174400N|0643705W|17.7333072|-64.6179178|||0.0|0.0
 1614271|Roman Hill|Summit|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|08/24/2017||||181918N|0644702W|18.3216182|-64.7837514|||0.0|0.0
 1614272|Romney Point|Cape|United States Virgin Islands|78|St. Croix|010|Buck Island|01/26/1981|||||174526N|0643603W|17.7571957|-64.6006946|||0.0|0.0
 1614273|Rose Hill|Summit|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/26/1981|03/28/2018||||174510N|0645130W|17.7527685|-64.8582872|||0.0|0.0
@@ -628,7 +628,7 @@
 1614373|Susannaberg|Populated Place|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|06/07/2022||||182029N|0644622W|18.3413428|-64.7729157|||0.0|0.0
 1614374|Tague Bay|Bay|United States Virgin Islands|78|St. Croix|010|Buck Island|01/26/1981|||||174522N|0643618W|17.7560846|-64.6048615|||0.0|0.0
 1614375|Tague Point|Cape|United States Virgin Islands|78|St. Croix|010|Buck Island|01/26/1981|||||174540N|0643646W|17.7610845|-64.6126396|||0.0|0.0
-1614376|Target Rock|Pillar|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|||||182136N|0650160W|18.3599556|-65.0332052|||0.0|0.0
+1614376|Target Rock|Pillar|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|||||182136N|0650200W|18.3599556|-65.0332052|||0.0|0.0
 1614377|Teagues Bay|Populated Place|United States Virgin Islands|78|St. Croix|010|Buck Island|01/26/1981|06/07/2022||||174507N|0643618W|17.751918|-64.6048615|||0.0|0.0
 1614378|Testman|Populated Place|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/26/1981|06/07/2022||||174519N|0644011W|17.7552508|-64.6695859|||0.0|0.0
 1614379|Thatch Cay|Island|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||182133N|0645140W|18.3591205|-64.8609742|||0.0|0.0
@@ -656,7 +656,7 @@
 1614404|Vessup Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981||Official|Board Decision|01/01/1958|181931N|0645101W|18.3252322|-64.8501406|||0.0|0.0
 1614407|Virgin Point|Cape|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981||Official|Board Decision|01/01/1958|182009N|0650506W|18.3357887|-65.0848752|||0.0|0.0
 1614408|Vluck Point|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||182220N|0645926W|18.3721777|-64.9904246|||0.0|0.0
-1614409|Waldberggaard|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174260N|0645040W|17.7166412|-64.8443127|||0.0|0.0
+1614409|Waldberggaard|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174300N|0645040W|17.7166412|-64.8443127|||0.0|0.0
 1614411|Water Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|01/26/1981|||||182051N|0645150W|18.3474541|-64.8637523|||0.0|0.0
 1614412|Water Creek|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||182054N|0644124W|18.3482874|-64.690136|||0.0|0.0
 1614413|Water Island|Island|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||181915N|0645705W|18.3207894|-64.9512572|||0.0|0.0
@@ -668,14 +668,14 @@
 1614419|West Gregerie Channel|Channel|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/26/1981|||||181935N|0645717W|18.326345|-64.9545907|||0.0|0.0
 1614420|Westend Saltpond|Lake|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/26/1981|||||174125N|0645330W|17.6902534|-64.8915355|||0.0|0.0
 1614421|Wheel of Fortune|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174244N|0645216W|17.712197|-64.8709796|||0.0|0.0
-1614422|Whim|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174160N|0645144W|17.6999752|-64.8620907|||0.0|0.0
+1614422|Whim|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174200N|0645144W|17.6999752|-64.8620907|||0.0|0.0
 1614423|Whistling Cay|Island|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|||||182213N|0644513W|18.3702308|-64.7537486|||0.0|0.0
 1614424|White Cliffs|Cliff|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||181902N|0644414W|18.3171773|-64.737359|||0.0|0.0
 1614425|White Point|Cape|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|||||181851N|0644355W|18.3141218|-64.732081|||0.0|0.0
 1614426|Whites Bay|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174118N|0645226W|17.6883091|-64.8737576|||0.0|0.0
 1614427|William|Populated Place|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/26/1981|06/07/2022||||174404N|0645320W|17.7344182|-64.8887574|||0.0|0.0
 1614428|William Head|Summit|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/26/1981|08/23/2017||||182039N|0650132W|18.344119|-65.0254292|||0.0|0.0
-1614429|Williams Delight|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174160N|0645008W|17.6999751|-64.8354238|||0.0|0.0
+1614429|Williams Delight|Populated Place|United States Virgin Islands|78|St. Croix|010|Long Point|01/26/1981|06/07/2022||||174200N|0645008W|17.6999751|-64.8354238|||0.0|0.0
 1614430|Windberg|Populated Place|United States Virgin Islands|78|St. John|020|Coral Bay|01/26/1981|06/07/2022||||182125N|0644425W|18.356898|-64.7404148|||0.0|0.0
 1614431|Windsor|Populated Place|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/26/1981|06/07/2022||||174531N|0644626W|17.7585837|-64.7737555|||0.0|0.0
 1614432|Windward Passage|Channel|United States Virgin Islands|78|St. John|020|Cruz Bay|01/26/1981|||||182123N|0644758W|18.3563424|-64.7995832|||0.0|0.0
@@ -832,7 +832,7 @@
 1993620|Pleasant Point|Cape|United States Virgin Islands|78|St. John|020|Coral Bay|01/01/2000|||||182144N|0644138W|18.3621758|-64.6940249|||0.0|0.0
 1993621|Pole Hill|Summit|United States Virgin Islands|78|St. Croix|010|Christiansted|01/01/2000|03/30/2018||||174453N|0643843W|17.748161|-64.6451602|||0.0|0.0
 1993622|Pope Point|Cape|United States Virgin Islands|78|St. John|020|Coral Bay|01/01/2000|||||182041N|0644137W|18.3446764|-64.6937471|||0.0|0.0
-1993623|Powell Point|Cape|United States Virgin Islands|78|St. Croix|010|Buck Island|01/01/2000|||||174541N|0643660W|17.7613622|-64.6165286|||0.0|0.0
+1993623|Powell Point|Cape|United States Virgin Islands|78|St. Croix|010|Buck Island|01/01/2000|||||174541N|0643700W|17.7613622|-64.6165286|||0.0|0.0
 1993625|Prune Beach|Beach|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/01/2000|||||174543N|0643907W|17.7619175|-64.6518078|||0.0|0.0
 1993626|Punch Hill|Summit|United States Virgin Islands|78|St. Croix|010|Long Point|01/01/2000|03/30/2018||||174432N|0645229W|17.742152|-64.8747192|||0.0|0.0
 1993628|Rainbow Beach|Beach|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/01/2000|||||174404N|0645322W|17.7344182|-64.8893129|||0.0|0.0
@@ -855,7 +855,7 @@
 1993662|Sonofa Beach|Beach|United States Virgin Islands|78|St. Croix|010|Christiansted|01/01/2000|||||174224N|0644051W|17.7066411|-64.6806985|||0.0|0.0
 1993663|Southgate|Populated Place|United States Virgin Islands|78|St. Croix|010|Buck Island|01/01/2000|06/07/2022||||174528N|0643603W|17.7577512|-64.6006946|||0.0|0.0
 1993666|Stumpy Bay Beach|Beach|United States Virgin Islands|78|St. Thomas|030|Savana Passage|01/01/2000|||||182149N|0650023W|18.3635665|-65.006259|||0.0|0.0
-1993667|Sugar Beach|Beach|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/01/2000|||||174511N|0644260W|17.7530283|-64.7165314|||0.0|0.0
+1993667|Sugar Beach|Beach|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/01/2000|||||174511N|0644300W|17.7530283|-64.7165314|||0.0|0.0
 1993668|Sugarbird Beach|Beach|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|||||181846N|0645738W|18.3127333|-64.9604239|||0.0|0.0
 1993669|Sunny Isle|Populated Place|United States Virgin Islands|78|St. Croix|010|Christiansted|01/01/2000|06/07/2022||||174337N|0644455W|17.7269182|-64.7484778|||0.0|0.0
 1993673|Tamarind Reef Beach|Beach|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/01/2000|||||174540N|0644002W|17.7610841|-64.6670858|||0.0|0.0
@@ -897,7 +897,7 @@
 1993810|Deckbay|Bay|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|||||181838N|0645709W|18.3105111|-64.952368|||0.0|0.0
 1993813|Ditleff Beach|Beach|United States Virgin Islands|78|St. John|020|Cruz Bay|01/01/2000|||||181858N|0644600W|18.316066|-64.7668042|||0.0|0.0
 1993815|Doubloon Hill|Summit|United States Virgin Islands|78|St. John|020|Cruz Bay|01/01/2000|08/24/2017||||182001N|0644524W|18.333494|-64.7567418|||0.0|0.0
-1993825|Erins Point|Cape|United States Virgin Islands|78|St. John|020|Coral Bay|01/01/2000|||||182060N|0644026W|18.349954|-64.6740245|||0.0|0.0
+1993825|Erins Point|Cape|United States Virgin Islands|78|St. John|020|Coral Bay|01/01/2000|||||182100N|0644026W|18.349954|-64.6740245|||0.0|0.0
 1993834|Flamingo Pond|Lake|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|||||181843N|0645722W|18.3119|-64.9559793|||0.0|0.0
 1993835|Flat Cay|Island|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|||||181859N|0645924W|18.316344|-64.9898697|||0.0|0.0
 1993839|Fort Frederick (historical)|Military|United States Virgin Islands|78|St. John|020|Coral Bay|01/01/2000|05/31/2022||||182039N|0644220W|18.3441208|-64.7056918|||0.0|0.0
@@ -1155,7 +1155,7 @@
 1994302|Estate Mount Retreat|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|01/01/2000|09/23/2010||||174353N|0643744W|17.7313627|-64.6287517|||0.0|0.0
 1994303|Estate Southgate|Civil|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/01/2000|08/11/2010||||174508N|0643943W|17.7521955|-64.6618081|||0.0|0.0
 1994304|Estate Mount Stewart|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|01/01/2000|09/23/2010||||174443N|0645039W|17.7452511|-64.8440347|||0.0|0.0
-1994305|Estate Mount Victory|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/01/2000|09/23/2010||||174460N|0645204W|17.749973|-64.8676461|||0.0|0.0
+1994305|Estate Mount Victory|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/01/2000|09/23/2010||||174500N|0645204W|17.749973|-64.8676461|||0.0|0.0
 1994306|Estate Washington Hill|Civil|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/01/2000|10/15/2020||||174447N|0645257W|17.746362|-64.8823684|||0.0|0.0
 1994307|Mount Welcome Estate|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|01/01/2000|||||174448N|0644144W|17.7466398|-64.6954197|||0.0|0.0
 1994308|Estate Mount Welcome|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|01/01/2000|09/23/2010||||174413N|0644139W|17.7369179|-64.6940311|||0.0|0.0
@@ -1181,7 +1181,7 @@
 1994328|Estate Parasol|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|01/01/2000|08/09/2010||||174518N|0644859W|17.7549729|-64.8162566|||0.0|0.0
 1994330|Estate Parcel of Concordia|Civil|United States Virgin Islands|78|St. John|020|Coral Bay|01/01/2000|08/09/2010||||181816N|0644213W|18.3044001|-64.7037471|||0.0|0.0
 1994331|Estate Gifft and Regenback|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|01/01/2000|09/15/2020||||181931N|0644621W|18.3252322|-64.7726379|||0.0|0.0
-1994332|Estate Pastory|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|01/01/2000|09/23/2010||||181960N|0644649W|18.3332875|-64.7804159|||0.0|0.0
+1994332|Estate Pastory|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|01/01/2000|09/23/2010||||182000N|0644649W|18.3332875|-64.7804159|||0.0|0.0
 1994333|Patience Grove Estate|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|01/01/2000|||||174338N|0644844W|17.7271963|-64.8120901|||0.0|0.0
 1994334|Estate Pearl|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|09/23/2010||||182151N|0645847W|18.3641224|-64.9795913|||0.0|0.0
 1994335|Estate Peter Bay|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|01/01/2000|09/23/2010||||182103N|0644602W|18.3507871|-64.76736|||0.0|0.0
@@ -1293,21 +1293,21 @@
 2414184|Town of Charlotte Amalie|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|03/14/2008|08/10/2023||||182031N|0645559W|18.3418811|-64.9331853|||0.0|0.0
 2414185|Town of Christiansted|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|03/14/2008|08/10/2023||||174438N|0644223W|17.7439296|-64.7063795|||0.0|0.0
 2414186|Town of Frederiksted|Civil|United States Virgin Islands|78|St. Croix|010|Frederiksted|03/14/2008|08/10/2023||||174244N|0645255W|17.7123261|-64.8818548|||0.0|0.0
-2575364|Beverhoutberg|Summit|United States Virgin Islands|78|St. John|020|Cruz Bay|01/21/2010|08/24/2017|Official|Board Decision|12/07/1921|181959N|0644560W|18.3329841|-64.7665401|||0.0|0.0
+2575364|Beverhoutberg|Summit|United States Virgin Islands|78|St. John|020|Cruz Bay|01/21/2010|08/24/2017|Official|Board Decision|12/07/1921|181959N|0644600W|18.3329841|-64.7665401|||0.0|0.0
 2575365|Coconut Bay|Bay|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|01/21/2010|||||182338N|0645414W|18.3938889|-64.9038889|||0.0|0.0
 2575366|Cross Channel|Channel|United States Virgin Islands|78|St. Croix|010|Long Point|01/21/2010|||||174121N|0644534W|17.6891667|-64.7594444|||0.0|0.0
-2575367|Grambokola Peninsula|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|||||181960N|0645800W|18.3333333|-64.9666667|||0.0|0.0
+2575367|Grambokola Peninsula|Cape|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|||||182000N|0645800W|18.3333333|-64.9666667|||0.0|0.0
 2575368|Krause Lagoon Channel|Channel|United States Virgin Islands|78|St. Croix|010|Long Point|01/21/2010|05/19/2013|Official|Board Decision|11/14/1972|174140N|0644551W|17.6943586|-64.7641897|||0.0|0.0
 2575369|Lameshur Bay|Bay|United States Virgin Islands|78|St. John|020|Coral Bay|01/21/2010|05/13/2011|Official|Board Decision|07/14/1960|181858N|0644338W|18.3161111|-64.7272222|||0.0|0.0
 2575370|Lilliendahl Col|Gap|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|||||182100N|0645700W|18.35|-64.95|||0.0|0.0
-2575371|Lilliendahl Ravine|Valley|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|04/19/2021||||182203N|0645760W|18.3674549|-64.9666203|182156N|0645760W|18.3654318|-64.9665784
-2575372|Rohde Bank|Levee|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|05/13/2011|Official|Board Decision|02/27/1958|181900N|0645560W|18.3166667|-64.9333333|||0.0|0.0
+2575371|Lilliendahl Ravine|Valley|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|04/19/2021||||182203N|0645800W|18.3674549|-64.9666203|182156N|0645800W|18.3654318|-64.9665784
+2575372|Rohde Bank|Levee|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/21/2010|05/13/2011|Official|Board Decision|02/27/1958|181900N|0645600W|18.3166667|-64.9333333|||0.0|0.0
 2575373|Southgate Pond|Lake|United States Virgin Islands|78|St. Croix|010|Beauregard Bay|01/21/2010|||||174539N|0643957W|17.7608333|-64.6658333|||0.0|0.0
-2575374|Southwest Cape|Cape|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/21/2010|05/13/2011|Official|Board Decision|05/27/1958|174060N|0645400W|17.6833333|-64.9|||0.0|0.0
+2575374|Southwest Cape|Cape|United States Virgin Islands|78|St. Croix|010|Frederiksted|01/21/2010|05/13/2011|Official|Board Decision|05/27/1958|174100N|0645400W|17.6833333|-64.9|||0.0|0.0
 2575375|White Horseface Reef|Bar|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|01/21/2010|||||182321N|0645406W|18.3891667|-64.9016667|||0.0|0.0
 2631792|Estate Barren Spot East|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|09/15/2020||||174231N|0644424W|17.7085998|-64.7400295|||0.0|0.0
 2631793|Estate Bellevue|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|||||174444N|0644355W|17.7454352|-64.7320452|||0.0|0.0
-2631795|Estate Bonne Esperance North|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|08/30/2010|09/15/2020||||174555N|0644660W|17.7653224|-64.7832817|||0.0|0.0
+2631795|Estate Bonne Esperance North|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|08/30/2010|09/15/2020||||174555N|0644700W|17.7653224|-64.7832817|||0.0|0.0
 2631796|Estate Canaan|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|08/30/2010|09/24/2010||||174538N|0644758W|17.7605221|-64.7995441|||0.0|0.0
 2631797|Estate Cane Garden|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|||||174218N|0644329W|17.7048771|-64.7246978|||0.0|0.0
 2631798|Estate Cane Valley|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|08/30/2010|||||174309N|0645055W|17.7190822|-64.8487233|||0.0|0.0
@@ -1329,7 +1329,7 @@
 2631815|Estate Mon Bijou and Blue Mountain|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|08/30/2010|09/15/2020||||174510N|0644748W|17.7527827|-64.7966052|||0.0|0.0
 2631816|Estate Morning Star North|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|08/30/2010|||||174615N|0644541W|17.7709065|-64.7614352|||0.0|0.0
 2631817|Estate North Hall|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|08/30/2010|||||174456N|0645224W|17.748864|-64.8733129|||0.0|0.0
-2631818|Estate Pearl|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|||||174309N|0644360W|17.7190822|-64.7333188|||0.0|0.0
+2631818|Estate Pearl|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|||||174309N|0644400W|17.7190822|-64.7333188|||0.0|0.0
 2631819|Estate Peters Rest|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|||||174333N|0644419W|17.7259434|-64.7385881|||0.0|0.0
 2631820|Estate Rattan and Belvedere|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|09/21/2020||||174458N|0644458W|17.7493539|-64.7494833|||0.0|0.0
 2631821|Estate Retreat|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|08/30/2010|||||174237N|0644329W|17.7101673|-64.7247957|||0.0|0.0
@@ -1372,7 +1372,7 @@
 2813495|Estate Bellevue|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||181937N|0645516W|18.3270419|-64.9210426|||0.0|0.0
 2813496|Estate Ben Runnells Gut|Civil|United States Virgin Islands|78|St. John|020|Coral Bay|09/14/2020|||||182001N|0644245W|18.3337132|-64.7124922|||0.0|0.0
 2813497|Estate Bethesda|Civil|United States Virgin Islands|78|St. Thomas|030|Savana Passage|09/14/2020|||||182120N|0650030W|18.3555266|-65.0084408|||0.0|0.0
-2813498|Estate Big Flat Cay|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||181860N|0645924W|18.316551|-64.989862|||0.0|0.0
+2813498|Estate Big Flat Cay|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||181900N|0645924W|18.316551|-64.989862|||0.0|0.0
 2813499|Estate Body Slob|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|09/14/2020|||||174403N|0644636W|17.7340457|-64.7765485|||0.0|0.0
 2813500|Estate Bovoni Cay|Civil|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|09/14/2020|||||181854N|0645221W|18.315072|-64.872434|||0.0|0.0
 2813501|Estate Buck Island|Civil|United States Virgin Islands|78|St. John|020|Coral Bay|09/14/2020|||||181859N|0644118W|18.3164|-64.6884|||0.0|0.0
@@ -1393,8 +1393,8 @@
 2813516|Estate Concordia South|Civil|United States Virgin Islands|78|St. Croix|010|Frederiksted|09/14/2020|||||174114N|0645235W|17.6871928|-64.8764298|||0.0|0.0
 2813517|Estate Congo Cay|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|09/14/2020|||||182204N|0644810W|18.3679|-64.8029|||0.0|0.0
 2813518|Estate Contant 7A|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182038N|0645732W|18.3438067|-64.9589639|||0.0|0.0
-2813519|Estate Contant 7b|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182060N|0645730W|18.3499385|-64.9583561|||0.0|0.0
-2813520|Estate Contant 7B|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182019N|0645660W|18.3385769|-64.9499912|||0.0|0.0
+2813519|Estate Contant 7b|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182100N|0645730W|18.3499385|-64.9583561|||0.0|0.0
+2813520|Estate Contant 7B|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182019N|0645700W|18.3385769|-64.9499912|||0.0|0.0
 2813521|Estate Contant 7BA|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182032N|0645710W|18.3420963|-64.9528765|||0.0|0.0
 2813522|Estate Contant 7Bb|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182023N|0645702W|18.3397615|-64.9504816|||0.0|0.0
 2813523|Estate Coopers|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|09/14/2020|||||174143N|0644835W|17.6952025|-64.8095992|||0.0|0.0
@@ -1428,7 +1428,7 @@
 2813566|Estate Little Hans Lollik Island|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie OE N|09/14/2020|||||182435N|0645425W|18.409607|-64.907046|||0.0|0.0
 2813567|Estate Little Mount Pleasant|Civil|United States Virgin Islands|78|St. Croix|010|Baron Bluff|09/14/2020|||||174542N|0644716W|17.7617494|-64.787786|||0.0|0.0
 2813568|Estate Little Plantation|Civil|United States Virgin Islands|78|St. John|020|Coral Bay|09/14/2020|||||182017N|0644259W|18.3380496|-64.7162791|||0.0|0.0
-2813569|Estate Little Thatch Key|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|09/14/2020|09/21/2020||||182131N|0644960W|18.3585|-64.8332|||0.0|0.0
+2813569|Estate Little Thatch Key|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|09/14/2020|09/21/2020||||182131N|0645000W|18.3585|-64.8332|||0.0|0.0
 2813570|Estate Liver Pool|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|09/21/2020||||181947N|0645526W|18.3298355|-64.9238732|||0.0|0.0
 2813571|Estate Long Bay|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182014N|0645511W|18.337123|-64.919756|||0.0|0.0
 2813572|Estate Long Bay|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|09/21/2020||||182014N|0645511W|18.3371234|-64.9197566|||0.0|0.0
@@ -1459,7 +1459,7 @@
 2813597|Estate Sorgenfri Western Portion|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182155N|0645914W|18.3652651|-64.9872227|||0.0|0.0
 2813598|Estate Steven Cay|Civil|United States Virgin Islands|78|St. John|020|Cruz Bay|09/14/2020|||||181948N|0644827W|18.3301|-64.8074|||0.0|0.0
 2813599|Estate Stoney Ground West|Civil|United States Virgin Islands|78|St. Croix|010|Frederiksted|09/14/2020|||||174106N|0645344W|17.6849715|-64.8956112|||0.0|0.0
-2813600|Estate Subbase and Crown Bay|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182006N|0645660W|18.3350672|-64.9499689|||0.0|0.0
+2813600|Estate Subbase and Crown Bay|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182006N|0645700W|18.3350672|-64.9499689|||0.0|0.0
 2813601|Estate Sugar|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182021N|0645504W|18.3390675|-64.9178129|||0.0|0.0
 2813602|Estate Taarneberg|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|09/14/2020|||||182024N|0645525W|18.3399428|-64.9237142|||0.0|0.0
 2813603|Estate Thatch Cay|Civil|United States Virgin Islands|78|St. Thomas|030|Cruz Bay|09/14/2020|||||182133N|0645133W|18.3591353|-64.859261|||0.0|0.0

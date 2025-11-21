@@ -252,7 +252,7 @@
 205358|Beardsley Pond Brook|Stream|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|||||415310N|0732919W|41.8862041|-73.4887346|415315N|0732631W|41.8875|-73.4419444
 205360|Beattie Pond|Lake|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|03/29/2023||||411605N|0724157W|41.2680341|-72.6992982|||0.0|0.0
 205361|Beaver Bog|Swamp|Connecticut|09|Western Connecticut|190|Brewster|09/12/1979|09/01/2012||||412952N|0733035W|41.4978443|-73.5097508|||0.0|0.0
-205363|Beaver Bog Mountain|Summit|Connecticut|09|Western Connecticut|190|Brewster|09/12/1979|03/21/2023||||412955N|0733060W|41.4985473|-73.5165977|||0.0|0.0
+205363|Beaver Bog Mountain|Summit|Connecticut|09|Western Connecticut|190|Brewster|09/12/1979|03/21/2023||||412955N|0733100W|41.4985473|-73.5165977|||0.0|0.0
 205364|Beaver Brook|Stream|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|||||411129N|0730644W|41.191486|-73.1123309|411402N|0730509W|41.2338889|-73.0858333
 205365|Beaver Brook|Stream|Connecticut|09|Western Connecticut|190|Westport|09/12/1979|||||411133N|0732129W|41.1925962|-73.3581739|411329N|0732228W|41.2247222|-73.3744444
 205366|Beaver Brook|Stream|Connecticut|09|Naugatuck Valley|140|Ansonia|04/18/2023|04/18/2023||||411959N|0730438W|41.33313|-73.077214|412213N|0730331W|41.370162|-73.058717
@@ -279,7 +279,7 @@
 205389|Beaverdam Pond|Lake|Connecticut|09|Capitol|110|Avon|09/12/1979|03/30/2023||||414619N|0725030W|41.7720096|-72.8416319|||0.0|0.0
 205390|Bebbington Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Spring Hill|09/12/1979|||||415051N|0720959W|41.8475978|-72.1664661|415147N|0720754W|41.8630556|-72.1316667
 205391|Becar Hill|Summit|Connecticut|09|Naugatuck Valley|140|Southington|09/12/1979|03/21/2023||||413714N|0725916W|41.6206446|-72.9878817|||0.0|0.0
-205392|Becket Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|09/12/1979|03/21/2023||||412221N|0721760W|41.3724085|-72.2998934|||0.0|0.0
+205392|Becket Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|09/12/1979|03/21/2023||||412221N|0721800W|41.3724085|-72.2998934|||0.0|0.0
 205393|Beckettville|Populated Place|Connecticut|09|Western Connecticut|190|Danbury|09/12/1979|06/07/2022||||412335N|0732821W|41.3931504|-73.4726229|||0.0|0.0
 205394|Beckley Pond|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|03/30/2023|Official|Board Decision|01/01/1904|415752N|0730940W|41.9643535|-73.1610417|||0.0|0.0
 205395|Beckley Pond Brook|Stream|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|||||415700N|0730936W|41.9500946|-73.1601117|415847N|0730930W|41.9797222|-73.1583333
@@ -312,7 +312,7 @@
 205429|Belden Hill Brook|Stream|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|||||410911N|0732651W|41.1531519|-73.4476209|411019N|0732700W|41.1719444|-73.45
 205430|Belden Island|Island|Connecticut|09|South Central Connecticut|170|Branford|09/12/1979|||||411547N|0724542W|41.2631525|-72.761764|||0.0|0.0
 205431|Belding Brook|Stream|Connecticut|09|Capitol|110|Ellington|09/12/1979|||||415310N|0722828W|41.8862088|-72.4745294|415302N|0722744W|41.8838889|-72.4622222
-205432|Bell Cedar Swamp|Swamp|Connecticut|09|Southeastern Connecticut|180|Ashaway|09/12/1979|03/29/2023||||412626N|0714960W|41.4404971|-71.8332455|||0.0|0.0
+205432|Bell Cedar Swamp|Swamp|Connecticut|09|Southeastern Connecticut|180|Ashaway|09/12/1979|03/29/2023||||412626N|0715000W|41.4404971|-71.8332455|||0.0|0.0
 205434|Bell Hill|Summit|Connecticut|09|Northwest Hills|160|New Preston|09/12/1979|03/21/2023||||413753N|0731742W|41.6314922|-73.2949882|||0.0|0.0
 205435|Bell Island|Island|Connecticut|09|Western Connecticut|190|Norwalk South|09/12/1979|||||410330N|0732603W|41.0584303|-73.4342859|||0.0|0.0
 205436|Bell Shop Pond|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/12/1979|09/26/2024||||412928N|0723423W|41.491108|-72.573109|||0.0|0.0
@@ -590,7 +590,7 @@
 205796|Buckingham|Populated Place|Connecticut|09|Capitol|110|Glastonbury|09/12/1979|06/07/2022||||414244N|0723120W|41.7123215|-72.5223093|||0.0|0.0
 205797|Buckingham Reservoir|Reservoir|Connecticut|09|Capitol|110|Marlborough|09/12/1979|03/29/2023||||414316N|0722946W|41.7210908|-72.4960684|||0.0|0.0
 205798|Buckland Pond|Lake|Connecticut|09|Capitol|110|Glastonbury|09/12/1979|03/29/2023||||414439N|0723403W|41.7442771|-72.5675115|||0.0|0.0
-205799|Buckley Hill|Summit|Connecticut|09|Southeastern Connecticut|180|Colchester|09/12/1979|03/21/2023||||413300N|0722060W|41.550042|-72.3499976|||0.0|0.0
+205799|Buckley Hill|Summit|Connecticut|09|Southeastern Connecticut|180|Colchester|09/12/1979|03/21/2023||||413300N|0722100W|41.550042|-72.3499976|||0.0|0.0
 205801|Buckley Pond|Reservoir|Connecticut|09|Northeastern Connecticut|150|Westford|09/12/1979|03/29/2023||||415928N|0720955W|41.9911116|-72.1652554|||0.0|0.0
 205803|Bucks Hill|Summit|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|03/21/2023||||412909N|0731025W|41.4857938|-73.1736735|||0.0|0.0
 205804|Bucks Hill|Summit|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/21/2023||||413636N|0730118W|41.6101018|-73.0216971|||0.0|0.0
@@ -605,7 +605,7 @@
 205819|Bull Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Putnam|09/12/1979|03/21/2023||||415739N|0715546W|41.9609252|-71.9294509|||0.0|0.0
 205821|Bull Mountain|Summit|Connecticut|09|Northwest Hills|160|Kent|09/12/1979|03/21/2023||||414131N|0732743W|41.6918325|-73.4618673|||0.0|0.0
 205822|Bull Mountain Brook|Stream|Connecticut|09|Western Connecticut|190|Kent|09/12/1979|||||413842N|0732849W|41.6450941|-73.4804014|414211N|0732734W|41.7030556|-73.4594444
-205823|Bull Pond|Lake|Connecticut|09|Northwest Hills|160|Torrington|09/12/1979|03/30/2023||||414552N|0730260W|41.7644215|-73.0499486|||0.0|0.0
+205823|Bull Pond|Lake|Connecticut|09|Northwest Hills|160|Torrington|09/12/1979|03/30/2023||||414552N|0730300W|41.7644215|-73.0499486|||0.0|0.0
 205825|Bullet Hill|Summit|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|03/21/2023||||412847N|0731147W|41.4798098|-73.1965008|||0.0|0.0
 205826|Bullet Hill Brook|Stream|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|||||412900N|0731321W|41.4834291|-73.2226142|412943N|0731045W|41.4952778|-73.1791667
 205827|Bulls Bridge|Populated Place|Connecticut|09|Northwest Hills|160|Dover Plains|09/12/1979|06/07/2022||||414032N|0733026W|41.6756496|-73.5073469|||0.0|0.0
@@ -617,7 +617,7 @@
 205835|Bunker Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|03/21/2023||||412541N|0723742W|41.4281399|-72.6283407|||0.0|0.0
 205836|Bunker Hill|Summit|Connecticut|09|Capitol|110|Columbia|09/12/1979|03/21/2023||||414414N|0722048W|41.7372006|-72.3465362|||0.0|0.0
 205837|Bunker Hill Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|||||412442N|0723752W|41.411765|-72.6312043|412609N|0723605W|41.4359318|-72.6014809
-205839|Bunnell Brook|Stream|Connecticut|09|Northwest Hills|160|Collinsville|08/27/2002||Official|Board Decision|01/01/2003|414658N|0725520W|41.7828761|-72.9223245|414631N|0725860W|41.7752778|-72.9833333
+205839|Bunnell Brook|Stream|Connecticut|09|Northwest Hills|160|Collinsville|08/27/2002||Official|Board Decision|01/01/2003|414658N|0725520W|41.7828761|-72.9223245|414631N|0725900W|41.7752778|-72.9833333
 205841|Bunnells Pond|Reservoir|Connecticut|09|Greater Bridgeport|120|Bridgeport|09/12/1979|03/29/2023||||411235N|0731110W|41.2097711|-73.1860959|||0.0|0.0
 205843|Burgess Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/12/1979|||||413915N|0721311W|41.6542653|-72.2198011|414026N|0721424W|41.6738889|-72.24
 205844|Burial Hill Beach|Beach|Connecticut|09|Western Connecticut|190|Sherwood Point|09/12/1979|||||410700N|0731853W|41.1167635|-73.3148382|||0.0|0.0
@@ -672,7 +672,7 @@
 205906|Byram River|Stream|Connecticut|09|Western Connecticut|190|Mamaroneck|09/12/1979|02/24/2020||||405901N|0733918W|40.9837089|-73.6551276|410919N|0734132W|41.1553735|-73.6923523
 205908|Cabin Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Colchester|09/12/1979|||||413336N|0722027W|41.5600987|-72.3409162|413235N|0721902W|41.5430556|-72.3172222
 205909|Cady Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|||||415417N|0714949W|41.9048204|-71.8303486|415423N|0714614W|41.9063889|-71.7705556
-205910|Cady Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|03/29/2023||||415427N|0714860W|41.9075554|-71.8165452|||0.0|0.0
+205910|Cady Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|03/29/2023||||415427N|0714900W|41.9075554|-71.8165452|||0.0|0.0
 205911|Mount Caesar|Summit|Connecticut|09|Southeastern Connecticut|180|Niantic|09/12/1979|03/21/2023||||412050N|0721312W|41.3471827|-72.2199256|||0.0|0.0
 205912|Caiglo Pond|Lake|Connecticut|09|Capitol|110|Glastonbury|09/12/1979|03/29/2023||||414413N|0723413W|41.7369761|-72.5701421|||0.0|0.0
 205913|Cains Hill|Summit|Connecticut|09|Western Connecticut|190|Bethel|09/12/1979|03/21/2023||||411727N|0732759W|41.2907613|-73.4662766|||0.0|0.0
@@ -734,7 +734,7 @@
 206047|Carson Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Oneco|04/18/2023|04/18/2023|Official|Board Decision|01/01/1972|413754N|0714738W|41.631551|-71.793895|414030N|0714738W|41.675028|-71.794002
 206048|Carson Pond|Lake|Connecticut|09|Capitol|110|Southwick|09/12/1979|||||420138N|0725042W|42.027317|-72.8450981|||0.0|0.0
 206049|Carter Hill|Summit|Connecticut|09|Capitol|110|Marlborough|09/12/1979|06/15/2024||||413736N|0722757W|41.626645|-72.46581|||0.0|0.0
-206051|Carter Swamp|Swamp|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/29/2023||||410860N|0732731W|41.1499174|-73.4586718|||0.0|0.0
+206051|Carter Swamp|Swamp|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/29/2023||||410900N|0732731W|41.1499174|-73.4586718|||0.0|0.0
 206052|Carting Island|Island|Connecticut|09|Greater Bridgeport|120|Milford|09/12/1979|||||411248N|0730647W|41.2134303|-73.1131645|||0.0|0.0
 206054|Case Pond|Lake|Connecticut|09|Capitol|110|Rockville|09/12/1979|03/29/2023||||414551N|0722908W|41.7642915|-72.4856842|||0.0|0.0
 206055|Case Pond|Reservoir|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|03/30/2023||||414703N|0732739W|41.7842697|-73.4607915|||0.0|0.0
@@ -956,7 +956,7 @@
 206360|Colburn Hill|Summit|Connecticut|09|Capitol|110|Monson|09/12/1979|03/21/2023||||420015N|0721549W|42.0041926|-72.2634995|||0.0|0.0
 206361|Colchester|Populated Place|Connecticut|09|Southeastern Connecticut|180|Colchester|09/12/1979|06/07/2022||||413432N|0721955W|41.5756543|-72.3320269|||0.0|0.0
 206362|Cold Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Norwich|09/12/1979|||||413628N|0720356W|41.6078761|-72.065632|413501N|0720448W|41.5836111|-72.08
-206363|Cold Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Willimantic|04/18/2023|04/18/2023||||413960N|0720849W|41.66655|-72.147045|413856N|0721010W|41.648858|-72.169361
+206363|Cold Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Willimantic|04/18/2023|04/18/2023||||414000N|0720849W|41.66655|-72.147045|413856N|0721010W|41.648858|-72.169361
 206364|Cold Brook|Stream|Connecticut|09|Capitol|110|Glastonbury|09/12/1979|||||414017N|0723304W|41.6714882|-72.5511997|413941N|0723212W|41.6613889|-72.5366667
 206365|Cold Brook Reservoir|Reservoir|Connecticut|09|Capitol|110|Glastonbury|09/12/1979|03/29/2023||||414010N|0723257W|41.6695087|-72.5490973|||0.0|0.0
 206366|Cold Spring Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||411642N|0722458W|41.2784322|-72.4161973|411746N|0722553W|41.2961111|-72.4313889
@@ -990,7 +990,7 @@
 206409|Compo Hill|Summit|Connecticut|09|Western Connecticut|190|Sherwood Point|09/12/1979|03/21/2023||||410650N|0732059W|41.1139773|-73.3498381|||0.0|0.0
 206410|Compounce Lake|Reservoir|Connecticut|09|Capitol|110|Bristol|09/12/1979|03/29/2023||||413812N|0725522W|41.6367071|-72.9228314|||0.0|0.0
 206411|Compounce Mountain|Summit|Connecticut|09|Naugatuck Valley|140|Bristol|09/12/1979|03/22/2023||||413755N|0725621W|41.6320338|-72.9392688|||0.0|0.0
-206412|Comstock Brook|Stream|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|||||411148N|0732600W|41.1967628|-73.4334543|411360N|0732823W|41.2333333|-73.4730556
+206412|Comstock Brook|Stream|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|||||411148N|0732600W|41.1967628|-73.4334543|411400N|0732823W|41.2333333|-73.4730556
 206413|Comstock Hill|Summit|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/21/2023||||410842N|0732713W|41.1449672|-73.4536032|||0.0|0.0
 206414|Comstock Hill|Summit|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|03/21/2023||||412905N|0720836W|41.484619|-72.1433916|||0.0|0.0
 206415|Comstock Knoll|Summit|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/21/2023||||411222N|0732744W|41.2061502|-73.4622594|||0.0|0.0
@@ -1048,7 +1048,7 @@
 206495|Cranberry Bottoms|Bend|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|09/12/1979|||||412116N|0721822W|41.3545425|-72.306193|||0.0|0.0
 206496|Cranberry Hill|Summit|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|03/22/2023||||412136N|0723919W|41.3598803|-72.6551679|||0.0|0.0
 206497|Cranberry Ledge|Bench|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|09/12/1979|||||412135N|0721824W|41.3598203|-72.3067485|||0.0|0.0
-206498|Cranberry Meadow Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Hamburg|04/18/2023|04/18/2023||||412543N|0722026W|41.428697|-72.340636|412660N|0722145W|41.449874|-72.362373
+206498|Cranberry Meadow Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Hamburg|04/18/2023|04/18/2023||||412543N|0722026W|41.428697|-72.340636|412700N|0722145W|41.449874|-72.362373
 206499|Cranberry Meadow Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|||||412407N|0721323W|41.4020423|-72.223135|412617N|0721505W|41.4381536|-72.2514691
 206500|Cranberry Pond|Lake|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/29/2023||||411554N|0730708W|41.2651117|-73.1189141|||0.0|0.0
 206501|Cranberry Pond|Lake|Connecticut|09|Capitol|110|Springfield South|09/12/1979|03/29/2023||||420133N|0723229W|42.0258335|-72.541471|||0.0|0.0
@@ -1059,7 +1059,7 @@
 206506|Crandall Hill|Summit|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|03/21/2023||||412716N|0720740W|41.4543208|-72.1277045|||0.0|0.0
 206507|Crane Reef|Bar|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||411506N|0722520W|41.2517657|-72.4223087|||0.0|0.0
 206508|Crams Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Eastford|08/27/2002|||||415256N|0720458W|41.8823198|-72.0828535|415350N|0720513W|41.8972222|-72.0869444
-206509|Cream Hill|Summit|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|03/21/2023||||415360N|0731918W|41.8999739|-73.3216782|||0.0|0.0
+206509|Cream Hill|Summit|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|03/21/2023||||415400N|0731918W|41.8999739|-73.3216782|||0.0|0.0
 206510|Cream Hill Lake|Lake|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|03/29/2023|Official|Board Decision|01/01/1967|415302N|0731819W|41.8838576|-73.3052834|||0.0|0.0
 206511|Cream Hollow|Valley|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|03/21/2023||||415410N|0731831W|41.9027443|-73.3085186|415358N|0731802W|41.8995234|-73.3004182
 206512|Cream Pot Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|||||412734N|0724057W|41.4595424|-72.6825949|412643N|0724004W|41.4452778|-72.6677778
@@ -1112,7 +1112,7 @@
 206568|Curtiss Brook|Stream|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|||||411914N|0730551W|41.3206523|-73.0976088|411806N|0730724W|41.3016667|-73.1233333
 206570|Cussgutter Brook|Stream|Connecticut|09|Capitol|110|Bristol|09/12/1979|||||413811N|0725503W|41.636487|-72.9176026|413826N|0725630W|41.6405556|-72.9416667
 206571|Cut in Two Island|Island|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|09/05/2014||||411517N|0724457W|41.2547601|-72.7491944|||0.0|0.0
-206576|Daly Swamp|Swamp|Connecticut|09|Capitol|110|Marlborough|09/12/1979|03/29/2023||||414260N|0722516W|41.7165674|-72.4210009|||0.0|0.0
+206576|Daly Swamp|Swamp|Connecticut|09|Capitol|110|Marlborough|09/12/1979|03/29/2023||||414300N|0722516W|41.7165674|-72.4210009|||0.0|0.0
 206577|Dam Brook|Stream|Connecticut|09|Capitol|110|Columbia|09/12/1979|||||414134N|0721742W|41.6928766|-72.2950805|414219N|0721850W|41.7052778|-72.3138889
 206580|Danbury|Populated Place|Connecticut|09|Western Connecticut|190|Danbury|09/12/1979|06/07/2022||||412341N|0732714W|41.394817|-73.4540111|||0.0|0.0
 206581|Danbury Bay|Bay|Connecticut|09|Western Connecticut|190|Danbury|09/12/1979|||||412627N|0732722W|41.4409279|-73.4562335|||0.0|0.0
@@ -1166,7 +1166,7 @@
 206644|Deep Creek|Stream|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|09/12/1979|||||412130N|0722147W|41.3584318|-72.3631395|412201N|0722117W|41.3669444|-72.3547222
 206645|Deep Hollow Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|||||412551N|0721032W|41.4309314|-72.1756342|412738N|0721144W|41.4605556|-72.1955556
 206646|Deep Hollow Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|||||412611N|0722843W|41.4364881|-72.4786991|412521N|0722833W|41.4225|-72.4758333
-206647|Deep Hollow Reservoir|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|03/29/2023||||412460N|0722913W|41.4166001|-72.4870756|||0.0|0.0
+206647|Deep Hollow Reservoir|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|03/29/2023||||412500N|0722913W|41.4166001|-72.4870756|||0.0|0.0
 206648|Deep Lake|Reservoir|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|03/30/2023||||415704N|0732758W|41.9510818|-73.4662384|||0.0|0.0
 206649|Deep River|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|06/07/2022||||412308N|0722608W|41.3856546|-72.4356422|||0.0|0.0
 206650|Deep River|Stream|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|||||412405N|0722553W|41.4014879|-72.4314753|412243N|0722955W|41.3786111|-72.4986111
@@ -1385,7 +1385,7 @@
 206945|Elmwood|Populated Place|Connecticut|09|Capitol|110|Hartford South|09/12/1979|06/07/2022||||414359N|0724321W|41.7331558|-72.7225949|||0.0|0.0
 206949|Elmwood Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|03/21/2023||||415539N|0714835W|41.9275448|-71.809793|||0.0|0.0
 206951|Ely Mound|Summit|Connecticut|09|Capitol|110|Avon|09/12/1979|03/21/2023||||414730N|0724810W|41.7917735|-72.8027681|||0.0|0.0
-206952|Ely Pond|Lake|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414740N|0724760W|41.794552|-72.7999832|||0.0|0.0
+206952|Ely Pond|Lake|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414740N|0724800W|41.794552|-72.7999832|||0.0|0.0
 206956|Emery Pond|Lake|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|03/29/2023||||411558N|0724337W|41.2660271|-72.72705|||0.0|0.0
 206961|Emmons Pond|Lake|Connecticut|09|Northwest Hills|160|New Preston|09/12/1979|03/29/2023||||414125N|0731532W|41.6902354|-73.2588397|||0.0|0.0
 206962|Emmons Pond|Lake|Connecticut|09|Northwest Hills|160|West Granville|09/12/1979|03/29/2023||||420056N|0725448W|42.0156482|-72.9132189|||0.0|0.0
@@ -1535,7 +1535,7 @@
 207160|Foster Pond|Lake|Connecticut|09|Capitol|110|Stafford Springs|09/12/1979|03/29/2023||||415740N|0721652W|41.961207|-72.2811638|||0.0|0.0
 207161|Fosters Pond|Lake|Connecticut|09|Northwest Hills|160|West Granville|09/12/1979|03/29/2023||||420027N|0725901W|42.0076258|-72.9835712|||0.0|0.0
 207162|Foster Pond|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Clinton|09/12/1979|03/30/2023|Official|Board Decision|01/01/1975|412127N|0723505W|41.3575307|-72.5846402|||0.0|0.0
-207165|Fountain Lake Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/30/2023||||412119N|0730560W|41.3552963|-73.0999767|||0.0|0.0
+207165|Fountain Lake Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/30/2023||||412119N|0730600W|41.3552963|-73.0999767|||0.0|0.0
 207167|Four Corners|Populated Place|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|06/07/2022||||412658N|0721141W|41.4495425|-72.1948014|||0.0|0.0
 207169|Fourmile Brook|Stream|Massachusetts|25|Hampden|013|Springfield South|09/12/1979|07/08/2015||||420220N|0723707W|42.0389843|-72.6187007|415956N|0723822W|41.9989603|-72.6395576
 207170|Fourmile Brook|Stream|Connecticut|09|Naugatuck Valley|140|Long Hill|09/12/1979|||||412151N|0730825W|41.3642631|-73.1403885|412348N|0730650W|41.3967632|-73.1139986
@@ -1544,7 +1544,7 @@
 207173|Fowler Island|Island|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|||||411413N|0730608W|41.2370413|-73.1023309|||0.0|0.0
 207174|Fowler Mountain|Summit|Connecticut|09|South Central Connecticut|170|Durham|09/12/1979|03/21/2023||||412633N|0724428W|41.4426095|-72.7410793|||0.0|0.0
 207176|Fowley Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|||||412840N|0724030W|41.4778759|-72.6750946|412734N|0724000W|41.4594444|-72.6666667
-207177|Fox Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|||||412753N|0720909W|41.4648204|-72.1525785|412712N|0721060W|41.4533333|-72.1833333
+207177|Fox Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|||||412753N|0720909W|41.4648204|-72.1525785|412712N|0721100W|41.4533333|-72.1833333
 207178|Fox Brook|Stream|Connecticut|09|Northwest Hills|160|West Torrington|09/12/1979|||||414957N|0731237W|41.8325957|-73.2103916|415209N|0731353W|41.8691667|-73.2313889
 207179|Fox Brook|Stream|Connecticut|09|Capitol|110|Southwick|09/12/1979|10/19/2015||||420130N|0725136W|42.0250948|-72.8600988|420235N|0725331W|42.0429928|-72.8918852
 207180|Fox Brook|Stream|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|||||415318N|0730815W|41.8884288|-73.1376109|415405N|0730725W|41.9014843|-73.1237214
@@ -1617,7 +1617,7 @@
 207284|Germantown|Populated Place|Connecticut|09|Western Connecticut|190|Danbury|09/12/1979|06/07/2022||||412429N|0732632W|41.4081504|-73.4423441|||0.0|0.0
 207285|Gerow Brook|Stream|New York|36|Putnam|079|Brewster|09/12/1979|||||412950N|0733159W|41.4973161|-73.5331805|412851N|0733031W|41.4808333|-73.5086111
 207286|Gerow Millpond|Lake|Connecticut|09|Western Connecticut|190|Brewster|09/12/1979|09/26/2024||||412924N|0733145W|41.4899389|-73.5290527|||0.0|0.0
-207289|Ghilds Pond|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|03/30/2023||||415760N|0731333W|41.9665318|-73.2257361|||0.0|0.0
+207289|Ghilds Pond|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|03/30/2023||||415800N|0731333W|41.9665318|-73.2257361|||0.0|0.0
 207291|Giants Neck|Populated Place|Connecticut|09|Southeastern Connecticut|180|Niantic|09/12/1979|06/07/2022||||411801N|0721357W|41.3003753|-72.232579|||0.0|0.0
 207292|Gibson Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Oneco|09/12/1979|03/21/2023||||414320N|0714735W|41.7221952|-71.7931069|||0.0|0.0
 207293|Giffords Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Columbia|04/18/2023|04/18/2023||||414128N|0721628W|41.69121|-72.274524|414114N|0721928W|41.687271|-72.324457
@@ -1736,7 +1736,7 @@
 207438|Great Falls|Falls|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|||||415746N|0732215W|41.962871|-73.3709525|||0.0|0.0
 207439|Great Flat|Flat|Connecticut|09|South Central Connecticut|170|Ansonia|09/12/1979|||||411535N|0730509W|41.259819|-73.0859413|||0.0|0.0
 207440|Great Hammock Beach|Beach|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||411628N|0722346W|41.2745431|-72.3961965|||0.0|0.0
-207441|Great Hill|Summit|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/21/2023||||412150N|0730660W|41.3637918|-73.116625|||0.0|0.0
+207441|Great Hill|Summit|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/21/2023||||412150N|0730700W|41.3637918|-73.116625|||0.0|0.0
 207442|Great Hill|Summit|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|03/21/2023||||412351N|0720852W|41.3975896|-72.1478546|||0.0|0.0
 207443|Great Hill|Summit|Connecticut|09|Western Connecticut|190|Newtown|09/12/1979|03/21/2023||||412407N|0732049W|41.4020313|-73.3470618|||0.0|0.0
 207444|Great Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/12/1979|03/21/2023||||412816N|0723023W|41.4712224|-72.5063263|||0.0|0.0
@@ -1826,14 +1826,14 @@
 207554|Guild Pond|Reservoir|Connecticut|09|Capitol|110|Broad Brook|09/12/1979|03/29/2023||||415729N|0723727W|41.9581132|-72.624197|||0.0|0.0
 207555|Guilford|Populated Place|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|06/07/2022||||411720N|0724054W|41.2889866|-72.6817616|||0.0|0.0
 207556|Guilford Harbor|Bay|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|||||411551N|0724000W|41.2642645|-72.6667612|||0.0|0.0
-207558|Guilford Lakes|Reservoir|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|03/29/2023|Official|Board Decision|01/01/1968|411960N|0724102W|41.333307|-72.6838958|||0.0|0.0
+207558|Guilford Lakes|Reservoir|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|03/29/2023|Official|Board Decision|01/01/1968|412000N|0724102W|41.333307|-72.6838958|||0.0|0.0
 207560|Guilford Point|Cape|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|07/06/2018||||411558N|0724003W|41.2661364|-72.6675507|||0.0|0.0
 207562|Guinea Brook|Stream|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|||||414851N|0732236W|41.8142613|-73.3767866|414841N|0732645W|41.8113889|-73.4458333
 207563|Gulf Beach|Beach|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|||||411227N|0730235W|41.2075973|-73.0431613|||0.0|0.0
 207564|Gulf Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Westford|09/12/1979|||||415842N|0720828W|41.9784298|-72.1411878|415952N|0720833W|41.9977778|-72.1425
 207565|Gulf Brook|Stream|Connecticut|09|South Central Connecticut|170|Wallingford|09/12/1979|||||412301N|0724728W|41.3837083|-72.7912096|412355N|0724503W|41.3986111|-72.7508333
 207566|Gulf Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|03/21/2023||||413559N|0723316W|41.5997807|-72.554429|||0.0|0.0
-207567|Gulf Pond|Lake|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|03/30/2023||||411260N|0730228W|41.21655|-73.0410257|||0.0|0.0
+207567|Gulf Pond|Lake|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|03/30/2023||||411300N|0730228W|41.21655|-73.0410257|||0.0|0.0
 207568|Gulf Stream|Stream|Connecticut|09|Capitol|110|Ellington|09/12/1979|||||415907N|0722825W|41.9853743|-72.473696|415743N|0722423W|41.9619444|-72.4063889
 207569|Gulf Stream|Stream|Connecticut|09|Northwest Hills|160|Torrington|09/12/1979|||||414727N|0730702W|41.7909301|-73.1173324|414658N|0730919W|41.7828745|-73.1553894
 207570|Gull Rock|Island|Connecticut|09|South Central Connecticut|170|Clinton|09/12/1979|||||411602N|0723553W|41.2673208|-72.5981481|||0.0|0.0
@@ -1890,8 +1890,8 @@
 207650|Hampton Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Hampton|09/12/1979|||||414816N|0720324W|41.8045426|-72.0567421|414909N|0720438W|41.8191667|-72.0772222
 207651|Hampton Reservoir|Reservoir|Connecticut|09|Northeastern Connecticut|150|Hampton|09/12/1979|03/30/2023||||414933N|0720333W|41.8258934|-72.0591277|||0.0|0.0
 207653|Hams Pond|Lake|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/29/2023||||410801N|0732652W|41.1335742|-73.4476545|||0.0|0.0
-207654|Hancock Brook|Stream|Connecticut|09|Naugatuck Valley|140|Waterbury|04/18/2023|04/18/2023||||413447N|0730260W|41.579719|-73.049941|413844N|0725843W|41.645531|-72.978573
-207656|Hancock Brook Lake|Reservoir|Connecticut|09|Naugatuck Valley|140|Thomaston|09/12/1979|03/29/2023|Official|Board Decision|01/01/1972|413736N|0730160W|41.626767|-73.0332374|||0.0|0.0
+207654|Hancock Brook|Stream|Connecticut|09|Naugatuck Valley|140|Waterbury|04/18/2023|04/18/2023||||413447N|0730300W|41.579719|-73.049941|413844N|0725843W|41.645531|-72.978573
+207656|Hancock Brook Lake|Reservoir|Connecticut|09|Naugatuck Valley|140|Thomaston|09/12/1979|03/29/2023|Official|Board Decision|01/01/1972|413736N|0730200W|41.626767|-73.0332374|||0.0|0.0
 207657|Hancock Pond|Lake|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/30/2023||||413537N|0730254W|41.5937198|-73.0484329|||0.0|0.0
 207659|Hanging Hills|Range|Connecticut|09|South Central Connecticut|170|Meriden|11/09/2023|10/02/2024||||413346N|0725040W|41.5626441|-72.8444404|||0.0|0.0
 207661|Hanks Hill Pond|Lake|Connecticut|09|Capitol|110|Spring Hill|09/12/1979|03/29/2023||||414805N|0721320W|41.8014616|-72.2222349|||0.0|0.0
@@ -1956,7 +1956,7 @@
 207742|Haycock Rock|Island|Connecticut|09|Western Connecticut|190|Sherwood Point|09/12/1979|||||410450N|0732128W|41.0806526|-73.3578947|||0.0|0.0
 207744|Hayestown|Populated Place|Connecticut|09|Western Connecticut|190|Danbury|09/12/1979|06/07/2022||||412512N|0732713W|41.4200947|-73.4537334|||0.0|0.0
 207746|Haystack Mountain|Summit|Connecticut|09|Northwest Hills|160|South Sandisfield|09/12/1979|03/21/2023||||420017N|0731230W|42.0046797|-73.2082523|||0.0|0.0
-207748|Hayward Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/12/1979|09/26/2024||||413937N|0721260W|41.66025|-72.21661|||0.0|0.0
+207748|Hayward Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/12/1979|09/26/2024||||413937N|0721300W|41.66025|-72.21661|||0.0|0.0
 207749|Lake Hayward|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Colchester|09/12/1979|03/29/2023||||413114N|0721945W|41.5206138|-72.329223|||0.0|0.0
 207750|Hazard Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Oneco|09/12/1979|03/29/2023|Official|Board Decision|01/01/1930|413745N|0714732W|41.629233|-71.7922935|||0.0|0.0
 207751|Hazardville|Populated Place|Connecticut|09|Capitol|110|Broad Brook|09/12/1979|06/07/2022||||415914N|0723241W|41.9873187|-72.5448093|||0.0|0.0
@@ -2176,7 +2176,7 @@
 208077|Indian Lake|Lake|Connecticut|09|South Central Connecticut|170|Ansonia|09/12/1979|03/29/2023||||411502N|0730037W|41.2504904|-73.0103754|||0.0|0.0
 208078|Indian Lake Creek|Stream|New York|36|Dutchess|027|Amenia|09/12/1979|||||415223N|0733009W|41.8731486|-73.502624|415438N|0732942W|41.9106484|-73.4951235
 208079|Indian Meadow|Swamp|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|03/30/2023||||415704N|0730502W|41.95117|-73.0837702|||0.0|0.0
-208080|Indian Meadow Brook|Stream|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|||||415546N|0730441W|41.9295397|-73.078164|415808N|0730460W|41.9688889|-73.0833333
+208080|Indian Meadow Brook|Stream|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|||||415546N|0730441W|41.9295397|-73.078164|415808N|0730500W|41.9688889|-73.0833333
 208081|Indian Mountain|Summit|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|03/21/2023||||415557N|0732915W|41.9324627|-73.4874502|||0.0|0.0
 208083|Indian Neck|Cape|Connecticut|09|South Central Connecticut|170|Branford|09/12/1979|||||411519N|0724840W|41.2553747|-72.8112099|||0.0|0.0
 208084|Indian Neck|Populated Place|Connecticut|09|South Central Connecticut|170|Branford|09/12/1979|06/07/2022||||411540N|0724802W|41.261208|-72.800654|||0.0|0.0
@@ -2257,7 +2257,7 @@
 208181|Johnson Brothers Pond|Lake|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/29/2023||||413730N|0730130W|41.6249936|-73.025089|||0.0|0.0
 208183|Johnsons Creek|Stream|Connecticut|09|Greater Bridgeport|120|Bridgeport|09/12/1979||Official|Board Decision|01/01/1971|410958N|0730950W|41.1662081|-73.1639996|411039N|0730922W|41.1775|-73.1561111
 208184|Johnson Hollow|Valley|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|03/21/2023||||415315N|0731719W|41.8874017|-73.2886331|415052N|0731836W|41.8477624|-73.3099141
-208185|Johnson Island|Island|Connecticut|09|South Central Connecticut|170|Guilford OE S|09/12/1979|09/05/2014|Official|Board Decision|01/01/1971|411450N|0724460W|41.2471763|-72.7498929|||0.0|0.0
+208185|Johnson Island|Island|Connecticut|09|South Central Connecticut|170|Guilford OE S|09/12/1979|09/05/2014|Official|Board Decision|01/01/1971|411450N|0724500W|41.2471763|-72.7498929|||0.0|0.0
 208187|Johnson Millpond|Lake|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|03/29/2023||||412944N|0722752W|41.4954697|-72.4643603|||0.0|0.0
 208188|Johnson Pond|Lake|Connecticut|09|Southeastern Connecticut|180|Uncasville|09/12/1979|||||412718N|0720652W|41.4550982|-72.114522|||0.0|0.0
 208189|Johnson Pond|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|03/30/2023||||411811N|0722627W|41.3030999|-72.4408145|||0.0|0.0
@@ -2322,7 +2322,7 @@
 208267|Kent|Populated Place|Connecticut|09|Northwest Hills|160|Kent|09/12/1979|06/07/2022||||414329N|0732837W|41.7248164|-73.4770682|||0.0|0.0
 208268|Kent Falls Brook|Stream|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|||||414637N|0732509W|41.7770389|-73.4192883|414538N|0732155W|41.7606508|-73.3653975
 208270|Kent Hollow|Valley|Connecticut|09|Western Connecticut|190|Kent|09/12/1979|03/21/2023||||414006N|0732326W|41.6682198|-73.390554|414255N|0732341W|41.7153965|-73.3948171
-208273|Kent Mountain|Summit|Connecticut|09|Northwest Hills|160|Kent|09/12/1979|03/21/2023||||414423N|0732560W|41.7397818|-73.4332785|||0.0|0.0
+208273|Kent Mountain|Summit|Connecticut|09|Northwest Hills|160|Kent|09/12/1979|03/21/2023||||414423N|0732600W|41.7397818|-73.4332785|||0.0|0.0
 208274|Kents Pond|Lake|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/29/2023||||411246N|0732824W|41.2128733|-73.473364|||0.0|0.0
 208275|Kentuck Ledges|Bench|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|||||415300N|0714822W|41.8834317|-71.8061815|||0.0|0.0
 208276|Ketch Brook|Stream|Connecticut|09|Capitol|110|Broad Brook|09/12/1979||Official|Board Decision|01/01/1904|415250N|0723449W|41.8806535|-72.5803664|415229N|0723017W|41.87482|-72.5048081
@@ -2351,7 +2351,7 @@
 208307|Kings Corner|Populated Place|Connecticut|09|Capitol|110|Broad Brook|09/12/1979|06/07/2022||||415640N|0723608W|41.9445414|-72.6023114|||0.0|0.0
 208309|Kings Island|Island|Connecticut|09|Capitol|110|Broad Brook|09/12/1979|||||415717N|0723645W|41.9548191|-72.6125896|||0.0|0.0
 208310|Kingsbury Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|03/29/2023||||415947N|0714844W|41.996426|-71.8121872|||0.0|0.0
-208313|Kinney Pond|Reservoir|Connecticut|09|Northeastern Connecticut|150|Westford|09/12/1979|09/29/2024||||415827N|0720860W|41.974041|-72.149899|||0.0|0.0
+208313|Kinney Pond|Reservoir|Connecticut|09|Northeastern Connecticut|150|Westford|09/12/1979|09/29/2024||||415827N|0720900W|41.974041|-72.149899|||0.0|0.0
 208315|Kinneytown Brook|Stream|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|||||412145N|0730535W|41.3625966|-73.0931643|412244N|0730553W|41.3789855|-73.0981646
 208317|Kirby Brook|Stream|Connecticut|09|Northwest Hills|160|Roxbury|09/12/1979|||||413658N|0731922W|41.6162065|-73.3228957|413754N|0731816W|41.6317623|-73.3045618
 208318|Kissawaug Swamp|Swamp|Connecticut|09|Naugatuck Valley|140|Woodbury|09/12/1979|03/30/2023||||413018N|0730854W|41.5049339|-73.1484465|||0.0|0.0
@@ -2426,7 +2426,7 @@
 208430|Ledyard Reservoir|Reservoir|Connecticut|09|Southeastern Connecticut|180|Uncasville|09/12/1979|03/30/2023||||412407N|0720210W|41.4020369|-72.035994|||0.0|0.0
 208432|Lee Brook|Stream|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|||||412558N|0731339W|41.4328737|-73.2276144|412701N|0731303W|41.4502778|-73.2175
 208433|Lee Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Old Mystic|09/12/1979|||||412627N|0715828W|41.4409318|-71.9745188|412557N|0715959W|41.4325984|-71.9997973
-208435|Lee Pond|Reservoir|Connecticut|09|Western Connecticut|190|Westport|09/12/1979|03/29/2023||||410933N|0732160W|41.1592466|-73.3665871|||0.0|0.0
+208435|Lee Pond|Reservoir|Connecticut|09|Western Connecticut|190|Westport|09/12/1979|03/29/2023||||410933N|0732200W|41.1592466|-73.3665871|||0.0|0.0
 208436|Lees Pond|Lake|Connecticut|09|Western Connecticut|190|Bethel|09/12/1979|03/30/2023||||412217N|0732812W|41.3714744|-73.4698612|||0.0|0.0
 208437|Lees Pond Brook|Stream|Connecticut|09|Western Connecticut|190|Danbury|09/12/1979|||||412231N|0732839W|41.3753726|-73.4776231|412142N|0732734W|41.3617617|-73.4595669
 208438|Leetes Island|Cape|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|||||411545N|0724258W|41.2625972|-72.7162072|||0.0|0.0
@@ -2733,9 +2733,9 @@
 208861|Middle Cove|Bay|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||412101N|0722322W|41.3503765|-72.3895294|||0.0|0.0
 208863|Middle Haddam|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|06/07/2022||||413314N|0723300W|41.5539879|-72.5500896|||0.0|0.0
 208864|Middle Pond|Reservoir|Connecticut|09|Naugatuck Valley|140|Thomaston|09/12/1979|03/30/2023||||414059N|0730117W|41.6830746|-73.0214686|||0.0|0.0
-208865|Middle Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/29/2023||||412160N|0730339W|41.3666502|-73.060705|||0.0|0.0
+208865|Middle Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Ansonia|09/12/1979|03/29/2023||||412200N|0730339W|41.3666502|-73.060705|||0.0|0.0
 208866|Middle Reservoir|Reservoir|Connecticut|09|Northeastern Connecticut|150|East Killingly|09/12/1979|03/29/2023||||415114N|0714827W|41.8537526|-71.8075367|||0.0|0.0
-208867|Middle River|Stream|Connecticut|09|Capitol|110|Monson|04/18/2023|04/18/2023||||415707N|0721810W|41.95207|-72.302806|420055N|0721860W|42.015388|-72.316647
+208867|Middle River|Stream|Connecticut|09|Capitol|110|Monson|04/18/2023|04/18/2023||||415707N|0721810W|41.95207|-72.302806|420055N|0721900W|42.015388|-72.316647
 208868|Middle Rock|Island|Connecticut|09|South Central Connecticut|170|Woodmont|09/12/1979|||||411407N|0725426W|41.235375|-72.9073237|||0.0|0.0
 208869|Middle Rock|Island|Connecticut|09|South Central Connecticut|170|Branford|09/12/1979|||||411505N|0724657W|41.2514858|-72.782598|||0.0|0.0
 208870|Middle Rock|Island|Connecticut|09|Southeastern Connecticut|180|New London|09/12/1979|||||411808N|0720559W|41.3023205|-72.0997982|||0.0|0.0
@@ -2974,7 +2974,7 @@
 209202|Neff Hill|Summit|Connecticut|09|Capitol|110|Stafford Springs|09/12/1979|03/21/2023||||415554N|0722046W|41.9317423|-72.3461329|||0.0|0.0
 209203|Freeman Brook|Stream|Connecticut|09|Greater Bridgeport|120|Milford|08/27/2002||Official|Board Decision|01/01/1999|411422N|0730619W|41.2395412|-73.1053865|411518N|0730647W|41.2550967|-73.1131648
 209204|Old Stone Mill Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Norwich|09/12/1979||Official|Board Decision|01/01/1978|413713N|0720226W|41.6203761|-72.0406315|413944N|0720157W|41.6623206|-72.0325756
-209205|Freeman Hill Brook|Stream|Connecticut|09|Naugatuck Valley|140|Bristol|09/12/1979|02/13/2020|Official|Board Decision|02/13/2020|414219N|0725507W|41.7053764|-72.9187135|414360N|0725933W|41.7333333|-72.9925
+209205|Freeman Hill Brook|Stream|Connecticut|09|Naugatuck Valley|140|Bristol|09/12/1979|02/13/2020|Official|Board Decision|02/13/2020|414219N|0725507W|41.7053764|-72.9187135|414400N|0725933W|41.7333333|-72.9925
 209207|Nelkin Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Colchester|09/12/1979|||||413336N|0722027W|41.5600987|-72.3409162|413235N|0721902W|41.5430556|-72.3172222
 209208|Nells Island|Island|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|||||411105N|0730658W|41.1848193|-73.11622|||0.0|0.0
 209209|Nelson Brook|Stream|Connecticut|09|Naugatuck Valley|140|Long Hill|09/12/1979|||||412010N|0731013W|41.3362074|-73.1703897|412033N|0731120W|41.3425|-73.1888889
@@ -3020,7 +3020,7 @@
 209278|Niantic River|Stream|Connecticut|09|Southeastern Connecticut|180|Niantic|09/12/1979|||||411920N|0721039W|41.3223201|-72.1775779|412317N|0721208W|41.3881535|-72.2023011
 209279|Nibbling Brook|Stream|Connecticut|09|Naugatuck Valley|140|Thomaston|09/12/1979|||||413742N|0730413W|41.6284304|-73.0703861|413836N|0730247W|41.6433333|-73.0463889
 209282|Nichols Hill|Summit|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/21/2023||||413424N|0730513W|41.573229|-73.0869926|||0.0|0.0
-209283|Nichols Pond|Lake|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|03/30/2023||||412460N|0730813W|41.4165729|-73.1368228|||0.0|0.0
+209283|Nichols Pond|Lake|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|03/30/2023||||412500N|0730813W|41.4165729|-73.1368228|||0.0|0.0
 209284|Nickel Mine Brook|Stream|Connecticut|09|Naugatuck Valley|140|Naugatuck|09/12/1979|||||412234N|0730456W|41.3762078|-73.0823306|412255N|0730556W|41.3819444|-73.0988889
 209285|Nickel Mine Brook|Stream|Connecticut|09|Northwest Hills|160|West Torrington|09/12/1979|||||414912N|0730844W|41.8200963|-73.1456668|415001N|0731145W|41.8336111|-73.1958333
 209286|Nickerson Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Hamburg|09/12/1979|03/21/2023||||412353N|0721936W|41.3981455|-72.3267484|||0.0|0.0
@@ -3305,7 +3305,7 @@
 209726|Pettee Brook|Stream|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|||||415826N|0732519W|41.9739817|-73.4220652|415956N|0732758W|41.9988889|-73.4661111
 209727|Pewterpot Brook|Stream|Connecticut|09|Capitol|110|Hartford South|04/18/2023|04/18/2023||||414339N|0723806W|41.727383|-72.634993|414529N|0723333W|41.757982|-72.559161
 209728|Pfeiffer Pond|Lake|Connecticut|09|Greater Bridgeport|120|Westport|09/12/1979|||||411322N|0731923W|41.2228739|-73.3231732|||0.0|0.0
-209729|Phelps Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Old Mystic|09/12/1979|||||412754N|0715442W|41.4650987|-71.9117394|412860N|0715406W|41.4833333|-71.9016667
+209729|Phelps Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Old Mystic|09/12/1979|||||412754N|0715442W|41.4650987|-71.9117394|412900N|0715406W|41.4833333|-71.9016667
 209730|Phelps Brook|Stream|Connecticut|09|Northwest Hills|160|Collinsville|09/12/1979|||||414812N|0725712W|41.8034311|-72.9534368|414712N|0725956W|41.7866667|-72.9988889
 209731|Phelps Brook|Stream|Connecticut|09|Capitol|110|Windsor Locks|09/12/1979|||||415320N|0724003W|41.8889868|-72.6675918|415248N|0724128W|41.88|-72.6911111
 209733|Phelps Pond|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|03/29/2023||||415950N|0730744W|41.9971055|-73.1288404|||0.0|0.0
@@ -3326,7 +3326,7 @@
 209750|Pigeon Hill|Summit|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|03/21/2023||||412459N|0721408W|41.4165021|-72.2355497|||0.0|0.0
 209751|Pigeon Swamp|Swamp|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/12/1979|03/29/2023||||413938N|0721113W|41.6605398|-72.1868357|||0.0|0.0
 209752|Pigeon Swamp Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/12/1979|||||414003N|0721031W|41.6675986|-72.1753557|414024N|0721113W|41.6733333|-72.1869444
-209754|Pin Oak Pond|Lake|Connecticut|09|South Central Connecticut|170|Ansonia|09/12/1979|03/30/2023||||411760N|0730108W|41.2998615|-73.0188843|||0.0|0.0
+209754|Pin Oak Pond|Lake|Connecticut|09|South Central Connecticut|170|Ansonia|09/12/1979|03/30/2023||||411800N|0730108W|41.2998615|-73.0188843|||0.0|0.0
 209755|Pin Shop Pond|Reservoir|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/29/2023||||413514N|0730512W|41.5873234|-73.0865469|||0.0|0.0
 209756|Pine Acres Lake|Lake|Connecticut|09|Northeastern Connecticut|150|Hampton|09/12/1979|03/29/2023||||414702N|0720501W|41.7838088|-72.0836628|||0.0|0.0
 209757|Pine Bridge|Populated Place|Connecticut|09|Naugatuck Valley|140|Naugatuck|09/12/1979|06/07/2022||||412541N|0730403W|41.4281523|-73.0676081|||0.0|0.0
@@ -3385,7 +3385,7 @@
 209821|Pisgah Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Eastford|09/12/1979|03/21/2023||||415307N|0720317W|41.8853668|-72.0547966|||0.0|0.0
 209822|Mount Pisgah|Summit|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|03/21/2023||||412624N|0731022W|41.4400877|-73.1728888|||0.0|0.0
 209823|Mount Pisgah|Summit|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|03/21/2023||||412648N|0724024W|41.446788|-72.6734054|||0.0|0.0
-209824|Pistapaug Mountain|Summit|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|03/21/2023||||412560N|0724413W|41.4332358|-72.7369114|||0.0|0.0
+209824|Pistapaug Mountain|Summit|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/12/1979|03/21/2023||||412600N|0724413W|41.4332358|-72.7369114|||0.0|0.0
 209825|Pistapaug Pond|Reservoir|Connecticut|09|South Central Connecticut|170|Durham|09/12/1979|10/01/2024||||412549N|0724437W|41.430291|-72.74359|||0.0|0.0
 209826|Pitch Brook|Stream|Connecticut|09|Northwest Hills|160|Litchfield|09/12/1979|||||414220N|0730940W|41.7056525|-73.1612231|414348N|0731004W|41.73|-73.1677778
 209827|Pitch Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Litchfield|09/12/1979|03/30/2023||||414152N|0730919W|41.6976918|-73.155203|||0.0|0.0
@@ -3487,7 +3487,7 @@
 209946|Porter Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Oneco|09/12/1979|03/29/2023||||413847N|0714915W|41.6465209|-71.8209235|||0.0|0.0
 209947|Porter Reservoir|Reservoir|Connecticut|09|Capitol|110|Rockville|09/12/1979|03/29/2023||||414634N|0722906W|41.776097|-72.4849805|||0.0|0.0
 209949|Portland|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Middletown|09/12/1979|06/07/2022||||413422N|0723826W|41.5728766|-72.6406483|||0.0|0.0
-209952|Portland Reservoir|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|03/29/2023||||413660N|0723358W|41.6165324|-72.566215|||0.0|0.0
+209952|Portland Reservoir|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|03/29/2023||||413700N|0723358W|41.6165324|-72.566215|||0.0|0.0
 209953|Post Cove|Bay|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|||||412306N|0722505W|41.3850989|-72.4181415|||0.0|0.0
 209954|Post Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|03/21/2023||||412148N|0722853W|41.3633436|-72.4815204|||0.0|0.0
 209955|Post Hill|Summit|Connecticut|09|Capitol|110|Columbia|09/12/1979|03/21/2023||||414017N|0722019W|41.6712709|-72.3385215|||0.0|0.0
@@ -3779,7 +3779,7 @@
 210341|Ruby Lake|Reservoir|Connecticut|09|Capitol|110|Stafford Springs|09/12/1979|03/30/2023||||415452N|0721536W|41.9145059|-72.2601253|||0.0|0.0
 210342|Rucum Hill|Summit|Connecticut|09|Northwest Hills|160|Roxbury|09/12/1979|03/21/2023||||413159N|0731607W|41.5331439|-73.26863|||0.0|0.0
 210343|Rugg Brook|Stream|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|||||415636N|0730655W|41.9434282|-73.1153877|415432N|0730741W|41.9089842|-73.128166
-210344|Rugg Brook Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|03/30/2023||||415616N|0730660W|41.9378261|-73.1165953|||0.0|0.0
+210344|Rugg Brook Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|03/30/2023||||415616N|0730700W|41.9378261|-73.1165953|||0.0|0.0
 210345|Rugg Hill|Summit|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|03/21/2023||||415407N|0732041W|41.9020139|-73.3446202|||0.0|0.0
 210348|Ruscoe Ridge|Ridge|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|03/21/2023||||411115N|0732938W|41.1875263|-73.4939472|||0.0|0.0
 210349|Ruscom Pond|Lake|Connecticut|09|South Central Connecticut|170|Durham|09/12/1979|03/29/2023||||412403N|0724112W|41.400851|-72.6866659|||0.0|0.0
@@ -3793,7 +3793,7 @@
 210379|Safford Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Eastford|09/12/1979|||||415520N|0720339W|41.9223195|-72.0609087|415724N|0720147W|41.9566667|-72.0297222
 210380|Safstrom Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Moodus|09/12/1979||Official|Board Decision|01/01/1968|413123N|0722844W|41.5231547|-72.4789762|413348N|0722857W|41.5633333|-72.4825
 210381|Sage Pond|Lake|Connecticut|09|Capitol|110|Middletown|09/12/1979|03/29/2023||||413635N|0724438W|41.609639|-72.7437575|||0.0|0.0
-210382|Sages Ravine|Valley|Connecticut|09|Northwest Hills|160|Bash Bish Falls|09/12/1979|11/11/2023||||420260N|0732534W|42.0498994|-73.4260972|420330N|0732733W|42.0582543|-73.4591301
+210382|Sages Ravine|Valley|Connecticut|09|Northwest Hills|160|Bash Bish Falls|09/12/1979|11/11/2023||||420300N|0732534W|42.0498994|-73.4260972|420330N|0732733W|42.0582543|-73.4591301
 210437|Saint Helena Island|Island|Connecticut|09|South Central Connecticut|170|Branford|09/12/1979|||||411550N|0724615W|41.2639858|-72.7709309|||0.0|0.0
 210459|Saint Johns Ledges|Bench|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|||||414519N|0732722W|41.7553722|-73.4562342|||0.0|0.0
 210460|Saint Johns Peak|Summit|Connecticut|09|Northwest Hills|160|Kent|09/12/1979|03/21/2023||||414452N|0732540W|41.747768|-73.4278963|||0.0|0.0
@@ -3814,7 +3814,7 @@
 210625|Sammis Brook|Stream|Connecticut|09|Greater Bridgeport|120|Long Hill|09/12/1979|||||412154N|0731335W|41.365096|-73.2265032|412122N|0731410W|41.3561111|-73.2361111
 210626|Samp Mortar Reservoir|Reservoir|Connecticut|09|Greater Bridgeport|120|Westport|09/12/1979|03/29/2023||||411109N|0731533W|41.1858497|-73.2591158|||0.0|0.0
 210627|Sampson Pond|Reservoir|Connecticut|09|Northeastern Connecticut|150|Putnam|09/12/1979|03/29/2023||||415834N|0715738W|41.9761461|-71.9605194|||0.0|0.0
-210628|Sanborn Brook|Stream|Connecticut|09|Capitol|110|Windsor Locks|09/12/1979|||||415735N|0724254W|41.9598189|-72.7150931|415609N|0724360W|41.9358333|-72.7333333
+210628|Sanborn Brook|Stream|Connecticut|09|Capitol|110|Windsor Locks|09/12/1979|||||415735N|0724254W|41.9598189|-72.7150931|415609N|0724400W|41.9358333|-72.7333333
 210630|Sanders Hill Brook|Stream|Connecticut|09|Northwest Hills|160|Cornwall|09/12/1979|||||414500N|0731950W|41.7500957|-73.3306741|414651N|0732130W|41.7809284|-73.3584528
 210632|Sandy Beach|Populated Place|Connecticut|09|Northwest Hills|160|Litchfield|09/12/1979|06/07/2022||||414140N|0731310W|41.6945409|-73.2195588|||0.0|0.0
 210633|Sandy Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Danielson|09/12/1979|||||414836N|0715906W|41.8100982|-71.9850742|414754N|0720055W|41.7984316|-72.0153525
@@ -3921,7 +3921,7 @@
 210761|Sevenmile Brook|Stream|Connecticut|09|Naugatuck Valley|140|Southbury|09/12/1979|||||412511N|0730934W|41.4198184|-73.1595561|412555N|0730853W|41.4319444|-73.1480556
 210762|Sexton Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|03/21/2023||||413117N|0723043W|41.5214795|-72.5120319|||0.0|0.0
 210763|Seymour|Populated Place|Connecticut|09|Naugatuck Valley|140|Naugatuck|09/12/1979|06/07/2022||||412348N|0730433W|41.3967634|-73.0759416|||0.0|0.0
-210764|Seymour Hollow|Valley|Connecticut|09|Capitol|110|Windsor Locks|09/12/1979|03/21/2023||||415460N|0724046W|41.9166353|-72.679409|415529N|0724031W|41.924727|-72.6752899
+210764|Seymour Hollow|Valley|Connecticut|09|Capitol|110|Windsor Locks|09/12/1979|03/21/2023||||415500N|0724046W|41.9166353|-72.679409|415529N|0724031W|41.924727|-72.6752899
 210765|Seymour Point|Cape|Connecticut|09|Western Connecticut|190|Sherwood Point|09/12/1979|||||410544N|0732204W|41.0956524|-73.3678952|||0.0|0.0
 210766|Seymour Rock|Summit|Connecticut|09|Western Connecticut|190|Sherwood Point|09/12/1979|12/18/2023||||410550N|0732141W|41.0971772|-73.3614203|||0.0|0.0
 210767|Shack Hill|Summit|Connecticut|09|Southeastern Connecticut|180|New London|09/12/1979|03/21/2023||||412154N|0720309W|41.3650176|-72.0524435|||0.0|0.0
@@ -3999,7 +3999,7 @@
 210859|Silver Falls|Falls|Connecticut|09|Southeastern Connecticut|180|Palmertown|09/12/1979|03/21/2023||||412445N|0721308W|41.4124819|-72.2188033|||0.0|0.0
 210860|Silver Hill|Summit|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|03/21/2023||||414903N|0732336W|41.8174225|-73.3932037|||0.0|0.0
 210861|Silver Lake|Lake|Connecticut|09|Capitol|110|Meriden|09/12/1979|03/29/2023||||413446N|0724623W|41.5793113|-72.7729253|||0.0|0.0
-210862|Silver Lake|Reservoir|Connecticut|09|Naugatuck Valley|140|Naugatuck|09/12/1979|03/29/2023||||412438N|0730360W|41.4105062|-73.0666187|||0.0|0.0
+210862|Silver Lake|Reservoir|Connecticut|09|Naugatuck Valley|140|Naugatuck|09/12/1979|03/29/2023||||412438N|0730400W|41.4105062|-73.0666187|||0.0|0.0
 210864|Silver Sands Beach|Beach|Connecticut|09|South Central Connecticut|170|Woodmont|09/12/1979|||||411440N|0725239W|41.2445414|-72.8776006|||0.0|0.0
 210865|Silver Spring Brook|Stream|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|||||411351N|0732901W|41.230929|-73.4837341|411457N|0732953W|41.2491667|-73.4980556
 210867|Silvermine|Populated Place|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|06/07/2022||||410905N|0732642W|41.1514852|-73.4451208|||0.0|0.0
@@ -4028,7 +4028,7 @@
 210902|Sled Haul Brook|Stream|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|||||413257N|0730334W|41.5492635|-73.0595525|413213N|0730341W|41.5369444|-73.0613889
 210907|Slopers Pond|Reservoir|Connecticut|09|Capitol|110|Meriden|09/12/1979|03/30/2023||||413528N|0725020W|41.5911342|-72.8387965|||0.0|0.0
 210908|Slovik Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Hampton|09/12/1979||Official|Board Decision|01/01/1980|415059N|0720541W|41.84982|-72.0947983|415039N|0720626W|41.8441667|-72.1072222
-210909|Sluice Creek|Stream|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|||||411619N|0723951W|41.2720422|-72.6642611|411660N|0724035W|41.2833333|-72.6763889
+210909|Sluice Creek|Stream|Connecticut|09|South Central Connecticut|170|Guilford|09/12/1979|||||411619N|0723951W|41.2720422|-72.6642611|411700N|0724035W|41.2833333|-72.6763889
 210912|Smith Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Scotland|09/12/1979|||||414001N|0720320W|41.6670429|-72.0556315|414053N|0720354W|41.6813889|-72.065
 210913|Smith Brook|Stream|Connecticut|09|Capitol|110|Glastonbury|09/12/1979|||||414117N|0723631W|41.6881551|-72.6087018|414132N|0723318W|41.6922222|-72.555
 210914|Smith Cove|Bay|Connecticut|09|Western Connecticut|190|Stamford|09/12/1979||Official|Board Decision|01/01/1937|410044N|0733711W|41.0123196|-73.6198482|||0.0|0.0
@@ -4273,7 +4273,7 @@
 211258|Strong Island|Island|Connecticut|09|Northwest Hills|160|Winsted|09/12/1979|||||415406N|0730545W|41.9017622|-73.0959425|||0.0|0.0
 211259|Strong Pond|Lake|Connecticut|09|Capitol|110|Moodus|09/12/1979|03/29/2023||||413713N|0722908W|41.6201592|-72.48554|||0.0|0.0
 211262|Strongs Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Hamburg|09/12/1979|||||412631N|0721954W|41.4420428|-72.3317496|412755N|0721837W|41.4652778|-72.3102778
-211263|Stuart Hill|Summit|Connecticut|09|Southeastern Connecticut|180|New London|09/12/1979|03/21/2023||||411940N|0720660W|41.3277624|-72.1166362|||0.0|0.0
+211263|Stuart Hill|Summit|Connecticut|09|Southeastern Connecticut|180|New London|09/12/1979|03/21/2023||||411940N|0720700W|41.3277624|-72.1166362|||0.0|0.0
 211264|Stub Pond|Reservoir|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414839N|0725036W|41.8108471|-72.8434505|||0.0|0.0
 211265|Stubby Plain Brook|Stream|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|||||411335N|0730213W|41.2264861|-73.03705|411339N|0730246W|41.2275|-73.0461111
 211266|Stubby Plain Brook|Stream|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|||||411357N|0730301W|41.2325971|-73.0503839|411610N|0730214W|41.2695414|-73.0373281
@@ -4306,13 +4306,13 @@
 211296|Sunset Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Hampton|09/12/1979|03/22/2023||||414743N|0720446W|41.7953676|-72.0795645|||0.0|0.0
 211297|Sunset Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Thompson|09/12/1979|03/21/2023||||415819N|0715147W|41.9720335|-71.8631262|||0.0|0.0
 211298|Sunset Hill Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Putnam|09/12/1979|||||415810N|0715309W|41.969542|-71.8859053|415904N|0715120W|41.984542|-71.8556269
-211299|Sunset Pond|Lake|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|03/29/2023||||412110N|0722360W|41.3526535|-72.399875|||0.0|0.0
+211299|Sunset Pond|Lake|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|03/29/2023||||412110N|0722400W|41.3526535|-72.399875|||0.0|0.0
 211300|Sunset Ridge|Ridge|Connecticut|09|Capitol|110|Manchester|09/12/1979|03/21/2023||||414616N|0723529W|41.7711747|-72.5914117|||0.0|0.0
 211303|Lake Susan|Lake|Connecticut|09|Western Connecticut|190|Pound Ridge|09/12/1979|03/29/2023||||410952N|0733510W|41.1644372|-73.5860226|||0.0|0.0
 211304|Susquehanna Plains|Flat|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/12/1979|||||413942N|0720804W|41.6617652|-72.1345218|||0.0|0.0
 211305|Susquetonscut Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Fitchville|09/12/1979|||||413356N|0720758W|41.5656539|-72.1328557|414046N|0721333W|41.6795431|-72.2259121
 211306|Sutliffe Brook|Stream|Connecticut|09|Naugatuck Valley|140|Thomaston|09/12/1979|||||413852N|0730335W|41.647875|-73.0598302|413953N|0730336W|41.6647222|-73.06
-211308|Swain Johnson Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/12/1979|||||412943N|0723150W|41.4953768|-72.5306449|412860N|0723249W|41.4833333|-72.5469444
+211308|Swain Johnson Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/12/1979|||||412943N|0723150W|41.4953768|-72.5306449|412900N|0723249W|41.4833333|-72.5469444
 211309|Swamp Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Middletown|09/12/1979|||||413545N|0724025W|41.5959322|-72.673705|413516N|0724038W|41.5877778|-72.6772222
 211310|Swamp Brook|Stream|Connecticut|09|Northwest Hills|160|South Canaan|09/12/1979|||||415835N|0732047W|41.9764821|-73.3465071|420014N|0731951W|42.0039819|-73.3309509
 211312|Swan Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|09/12/1979|||||411700N|0721648W|41.2834309|-72.2800806|411830N|0721644W|41.3083333|-72.2788889
@@ -4672,7 +4672,7 @@
 211806|Wapping|Populated Place|Connecticut|09|Capitol|110|Manchester|09/12/1979|06/07/2022||||414938N|0723311W|41.8273207|-72.5531433|||0.0|0.0
 211808|Wappoquia Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Danielson|09/12/1979|||||415133N|0715720W|41.8592647|-71.955629|415436N|0715857W|41.9100976|-71.982574
 211809|Lake Waramaug|Lake|Connecticut|09|Northwest Hills|160|New Preston|09/12/1979|03/29/2023||||414152N|0732144W|41.6977611|-73.3621928|||0.0|0.0
-211810|Ward Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||412116N|0722502W|41.3545433|-72.4173083|412224N|0722560W|41.3733333|-72.4333333
+211810|Ward Brook|Stream|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||412116N|0722502W|41.3545433|-72.4173083|412224N|0722600W|41.3733333|-72.4333333
 211813|Wards Millpond|Reservoir|Connecticut|09|South Central Connecticut|170|Branford|09/12/1979|03/29/2023||||411745N|0724727W|41.2959327|-72.7907123|||0.0|0.0
 211814|Wardwell Pond|Lake|Connecticut|09|Western Connecticut|190|Norwalk North|09/12/1979|10/09/2024||||410914N|0732716W|41.154|-73.45455|||0.0|0.0
 211815|Warehouse Point|Populated Place|Connecticut|09|Capitol|110|Broad Brook|09/12/1979|06/07/2022||||415545N|0723705W|41.9292639|-72.6181454|||0.0|0.0
@@ -4686,7 +4686,7 @@
 211824|Warrenville|Populated Place|Connecticut|09|Northeastern Connecticut|150|Spring Hill|09/12/1979|06/07/2022||||415148N|0720945W|41.8634309|-72.1625772|||0.0|0.0
 211826|Wash Brook|Stream|Connecticut|09|Capitol|110|Hartford North|09/12/1979|||||414840N|0724326W|41.8112104|-72.7239832|415221N|0724344W|41.8725|-72.7288889
 211827|Washinee Lake|Lake|Connecticut|09|Northwest Hills|160|Bash Bish Falls|09/12/1979|03/30/2023|Official|Board Decision|01/01/1960|420101N|0732332W|42.0168584|-73.3921334|||0.0|0.0
-211830|Washington Hill|Summit|Connecticut|09|Northwest Hills|160|New Hartford|09/12/1979|03/21/2023||||415707N|0725460W|41.9518218|-72.9166059|||0.0|0.0
+211830|Washington Hill|Summit|Connecticut|09|Northwest Hills|160|New Hartford|09/12/1979|03/21/2023||||415707N|0725500W|41.9518218|-72.9166059|||0.0|0.0
 211846|Washining Lake|Lake|Connecticut|09|Northwest Hills|160|Bash Bish Falls|09/12/1979|03/30/2023|Official|Board Decision|01/01/1960|420144N|0732300W|42.0288159|-73.3833526|||0.0|0.0
 211848|Wataba Lake|Reservoir|Connecticut|09|Western Connecticut|190|Bethel|09/12/1979|03/29/2023||||412030N|0732942W|41.3415288|-73.4950324|||0.0|0.0
 211849|Watchaug Brook|Stream|Connecticut|09|Capitol|110|Hampden|09/12/1979|07/08/2015||||420050N|0722750W|42.013985|-72.4639735|420410N|0722550W|42.0694686|-72.4304567
@@ -4821,7 +4821,7 @@
 212047|Whaleback Rock|Island|Connecticut|09|Southeastern Connecticut|180|Mystic|09/12/1979|||||411841N|0715906W|41.3114879|-71.9850733|||0.0|0.0
 212048|Whalebone Creek|Stream|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|||||412505N|0722536W|41.4181545|-72.4267528|412434N|0722355W|41.4094444|-72.3986111
 212050|Whaples Brook|Stream|Connecticut|09|Capitol|110|Manchester|09/12/1979|||||414907N|0723451W|41.8187098|-72.5809222|414743N|0723404W|41.7952778|-72.5677778
-212051|Wharton Brook|Stream|Connecticut|09|South Central Connecticut|170|Wallingford|09/12/1979|||||412538N|0725008W|41.4273195|-72.8356555|412755N|0724660W|41.4652778|-72.7833333
+212051|Wharton Brook|Stream|Connecticut|09|South Central Connecticut|170|Wallingford|09/12/1979|||||412538N|0725008W|41.4273195|-72.8356555|412755N|0724700W|41.4652778|-72.7833333
 212053|Wheatons Brook|Stream|Connecticut|09|Northeastern Connecticut|150|Putnam|09/12/1979|||||415515N|0715520W|41.9209311|-71.922295|415738N|0715529W|41.9605556|-71.9247222
 212054|Wheatons Pond|Lake|Connecticut|09|Northeastern Connecticut|150|Putnam|09/12/1979|03/29/2023||||415256N|0715254W|41.8822285|-71.8817847|||0.0|0.0
 212055|Whedons Pond|Lake|Connecticut|09|South Central Connecticut|170|Clinton|09/12/1979|03/30/2023||||411817N|0723512W|41.3048102|-72.5867628|||0.0|0.0
@@ -4882,7 +4882,7 @@
 212131|Wildcat Mountain|Summit|Connecticut|09|Northwest Hills|160|Collinsville|09/12/1979|03/21/2023||||414501N|0725614W|41.750368|-72.937324|||0.0|0.0
 212132|Wildcat Swamp|Swamp|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|03/30/2023||||415453N|0731423W|41.9147025|-73.2397511|||0.0|0.0
 212133|Wildermere Beach|Populated Place|Connecticut|09|South Central Connecticut|170|Milford|09/12/1979|06/07/2022||||411122N|0730514W|41.1895417|-73.0873298|||0.0|0.0
-212134|Wilford Pond|Lake|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|03/29/2023||||414760N|0732323W|41.7999083|-73.3896035|||0.0|0.0
+212134|Wilford Pond|Lake|Connecticut|09|Northwest Hills|160|Ellsworth|09/12/1979|03/29/2023||||414800N|0732323W|41.7999083|-73.3896035|||0.0|0.0
 212135|Will Cone Pond|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Hamburg|09/12/1979|03/29/2023||||412839N|0722143W|41.4775144|-72.3619002|||0.0|0.0
 212136|Willard Bay|Bay|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/12/1979|||||411547N|0722243W|41.2631541|-72.3786957|||0.0|0.0
 212137|Willard Island|Island|Connecticut|09|South Central Connecticut|170|Clinton|09/12/1979|||||411520N|0723240W|41.2556548|-72.5445354|||0.0|0.0
@@ -4960,7 +4960,7 @@
 212237|Woodridge Lake|Reservoir|Connecticut|09|Northwest Hills|160|Cornwall|09/12/1979|03/30/2023|Official|Board Decision|05/13/2021|414818N|0731502W|41.8051388|-73.2506672|||0.0|0.0
 212238|Woodbury|Populated Place|Connecticut|09|Naugatuck Valley|140|Woodbury|09/12/1979|06/07/2022||||413240N|0731232W|41.5445404|-73.2090025|||0.0|0.0
 212239|Woodbury Mountain|Summit|Connecticut|09|Northwest Hills|160|Cornwall|09/12/1979|03/21/2023||||414754N|0732055W|41.7984198|-73.3487289|||0.0|0.0
-212240|Woodbury Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Woodbury|09/12/1979|03/30/2023||||413060N|0731107W|41.516645|-73.1853692|||0.0|0.0
+212240|Woodbury Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Woodbury|09/12/1979|03/30/2023||||413100N|0731107W|41.516645|-73.1853692|||0.0|0.0
 212241|Woodchuck Hill|Summit|Connecticut|09|Northeastern Connecticut|150|Scotland|09/12/1979|03/22/2023||||414012N|0720202W|41.6699617|-72.0337931|||0.0|0.0
 212243|Woodings Pond|Lake|Connecticut|09|South Central Connecticut|170|Wallingford|09/12/1979|||||412831N|0724951W|41.4753752|-72.8309333|||0.0|0.0
 212247|Woodmont|Populated Place|Connecticut|09|South Central Connecticut|170|Woodmont|09/12/1979|06/07/2022||||411341N|0725929W|41.228153|-72.9914925|||0.0|0.0
@@ -5274,7 +5274,7 @@
 212626|Green Brook|Stream|Connecticut|09|Capitol|110|Coventry|09/12/1979||Official|Board Decision|01/01/1978|415137N|0721823W|41.8603754|-72.3064691|415206N|0722005W|41.8683333|-72.3347222
 212628|Halls Pond|Reservoir|Connecticut|09|Capitol|110|Coventry|09/12/1979|03/30/2023||||415132N|0721749W|41.8588241|-72.2968338|||0.0|0.0
 212629|Hemlock Brook|Stream|Connecticut|09|Capitol|110|Coventry|09/12/1979|||||414623N|0722151W|41.7731544|-72.3642486|414733N|0722306W|41.7925986|-72.3850826
-212630|Lee Brook|Stream|Connecticut|09|Capitol|110|Coventry|09/12/1979|||||414741N|0722106W|41.7948207|-72.3517482|414751N|0721960W|41.7975|-72.3333333
+212630|Lee Brook|Stream|Connecticut|09|Capitol|110|Coventry|09/12/1979|||||414741N|0722106W|41.7948207|-72.3517482|414751N|0722000W|41.7975|-72.3333333
 212631|Mansfield Four Corners|Populated Place|Connecticut|09|Capitol|110|Coventry|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|414938N|0721558W|41.8273201|-72.2661903|||0.0|0.0
 212632|Mansfield Depot|Populated Place|Connecticut|09|Capitol|110|Coventry|09/12/1979|06/07/2022|Official|Board Decision|01/01/1978|414805N|0721823W|41.8014872|-72.3064691|||0.0|0.0
 212633|Mason Brook|Stream|Connecticut|09|Capitol|110|Spring Hill|09/12/1979|||||414950N|0721432W|41.8306535|-72.2423008|414933N|0721536W|41.8259313|-72.260079
@@ -5455,7 +5455,7 @@
 212886|Sachem Head Harbor|Bay|Connecticut|09|South Central Connecticut|170|Guilford OE S|09/12/1979|||||411457N|0724223W|41.249264|-72.7064846|||0.0|0.0
 212887|Sanfords Pond|Lake|Connecticut|09|Western Connecticut|190|Brewster|09/12/1979|03/29/2023|Official|Board Decision|01/01/1960|412340N|0733209W|41.3944286|-73.5358869|||0.0|0.0
 212888|Sarah Ledge|Bar|Connecticut|09|Southeastern Connecticut|180|New London|09/12/1979||Official|Board Decision|01/01/1891|411744N|0720523W|41.295654|-72.0897979|||0.0|0.0
-212889|Scovill Rock|Summit|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|03/21/2023|Official|Board Decision|01/01/1891|413060N|0723336W|41.5165599|-72.5600619|||0.0|0.0
+212889|Scovill Rock|Summit|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|09/12/1979|03/21/2023|Official|Board Decision|01/01/1891|413100N|0723336W|41.5165599|-72.5600619|||0.0|0.0
 212890|Shepard Brook|Stream|Connecticut|09|South Central Connecticut|170|New Haven|09/12/1979||Official|Board Decision|01/01/1968|412222N|0725427W|41.3728749|-72.9076021|412436N|0725618W|41.4100971|-72.9384366
 212891|Sherwood Point|Cape|Connecticut|09|Western Connecticut|190|Sherwood Point|09/12/1979||Official|Board Decision|01/01/1891|410637N|0731948W|41.1103746|-73.3301165|||0.0|0.0
 212892|Smith Reef|Bar|Connecticut|09|Western Connecticut|190|Norwalk South|09/12/1979||Official|Board Decision|01/01/1891|410134N|0732931W|41.0262082|-73.4920652|||0.0|0.0
@@ -5481,14 +5481,14 @@
 212914|Bristol Reservoir Number 4|Reservoir|Connecticut|09|Northwest Hills|160|Thomaston|09/12/1979|03/30/2023||||414442N|0730113W|41.7450794|-73.020213|||0.0|0.0
 212915|Bristol Reservoir Number Two|Reservoir|Connecticut|09|Northwest Hills|160|Thomaston|09/12/1979|03/30/2023|Official|Board Decision|10/08/1974|414325N|0730128W|41.7236865|-73.024435|||0.0|0.0
 212921|Mount Carmel|Populated Place|Connecticut|09|South Central Connecticut|170|Mount Carmel|09/12/1979|06/07/2022||||412527N|0725419W|41.4242638|-72.90538|||0.0|0.0
-212932|Hartford Reservoir Number 1|Reservoir|Connecticut|09|Capitol|110|New Britain|09/12/1979|03/29/2023||||414460N|0724642W|41.7499591|-72.7782619|||0.0|0.0
+212932|Hartford Reservoir Number 1|Reservoir|Connecticut|09|Capitol|110|New Britain|09/12/1979|03/29/2023||||414500N|0724642W|41.7499591|-72.7782619|||0.0|0.0
 212933|Hartford Reservoir Number 2|Reservoir|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414606N|0724707W|41.7682756|-72.7852276|||0.0|0.0
 212934|Hartford Reservoir Number 3|Reservoir|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414528N|0724721W|41.7578518|-72.7891224|||0.0|0.0
-212935|Hartford Reservoir Number 5|Reservoir|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414535N|0724660W|41.7595947|-72.7832409|||0.0|0.0
+212935|Hartford Reservoir Number 5|Reservoir|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414535N|0724700W|41.7595947|-72.7832409|||0.0|0.0
 212936|Hartford Reservoir Number 6|Reservoir|Connecticut|09|Capitol|110|Avon|09/12/1979|03/29/2023||||414813N|0724700W|41.8036239|-72.7833557|||0.0|0.0
 212939|Hills Pond Number 1|Lake|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/30/2023||||413131N|0730129W|41.525397|-73.0247118|||0.0|0.0
 212940|Hills Pond Number 2|Lake|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/30/2023||||413119N|0730134W|41.521967|-73.0260098|||0.0|0.0
-212942|Lakeville Reservoir Number 1|Reservoir|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|03/30/2023||||415860N|0732816W|41.9833004|-73.4710567|||0.0|0.0
+212942|Lakeville Reservoir Number 1|Reservoir|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|03/30/2023||||415900N|0732816W|41.9833004|-73.4710567|||0.0|0.0
 212943|Lakeville Reservoir Number 2|Reservoir|Connecticut|09|Northwest Hills|160|Sharon|09/12/1979|03/29/2023||||415835N|0732823W|41.9764735|-73.4730748|||0.0|0.0
 212954|New Milford Reservoir Number 1|Reservoir|Connecticut|09|Western Connecticut|190|New Milford|09/12/1979|03/29/2023||||413532N|0732333W|41.5922516|-73.3924884|||0.0|0.0
 212962|Pakovitch Ponds Number 1|Lake|Connecticut|09|Naugatuck Valley|140|Waterbury|09/12/1979|03/29/2023||||413105N|0730451W|41.5181873|-73.0809108|||0.0|0.0
@@ -5567,7 +5567,7 @@
 213415|Town of Danbury|Civil|Connecticut|09|Western Connecticut|190|Danbury|09/01/1995|08/11/2023||||412405N|0732815W|41.4014319|-73.4709616|||0.0|0.0
 213416|Town of Darien|Civil|Connecticut|09|Western Connecticut|190|Norwalk South|09/01/1995|08/11/2023||||410307N|0732845W|41.051993|-73.479097|||0.0|0.0
 213417|Town of Deep River|Civil|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/01/1995|08/11/2023|Vacated|Board Decision|01/01/1965|412208N|0722744W|41.368936|-72.4622926|||0.0|0.0
-213418|Town of Derby|Civil|Connecticut|09|Naugatuck Valley|140|Ansonia|09/01/1995|08/11/2023||||411935N|0730460W|41.3265067|-73.0833063|||0.0|0.0
+213418|Town of Derby|Civil|Connecticut|09|Naugatuck Valley|140|Ansonia|09/01/1995|08/11/2023||||411935N|0730500W|41.3265067|-73.0833063|||0.0|0.0
 213419|Town of Durham|Civil|Connecticut|09|Lower Connecticut River Valley|130|Durham|09/01/1995|08/11/2023||||412744N|0724058W|41.4622245|-72.6828815|||0.0|0.0
 213420|Town of Eastford|Civil|Connecticut|09|Northeastern Connecticut|150|Eastford|09/01/1995|08/11/2023||||415329N|0720531W|41.8914247|-72.0920166|||0.0|0.0
 213421|Town of East Granby|Civil|Connecticut|09|Capitol|110|Windsor Locks|09/01/1995|08/11/2023||||415633N|0724427W|41.9423801|-72.7409284|||0.0|0.0
@@ -5576,7 +5576,7 @@
 213425|Town of East Haven|Civil|Connecticut|09|South Central Connecticut|170|Branford|09/01/1995|08/11/2023||||411743N|0725132W|41.2953294|-72.8590049|||0.0|0.0
 213426|Town of East Lyme|Civil|Connecticut|09|Southeastern Connecticut|180|Niantic|09/01/1995|08/11/2023||||412120N|0721354W|41.3555485|-72.2315944|||0.0|0.0
 213427|Town of Easton|Civil|Connecticut|09|Greater Bridgeport|120|Botsford|09/01/1995|08/11/2023||||411554N|0731800W|41.2649352|-73.3001073|||0.0|0.0
-213428|Town of Essex|Civil|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/01/1995|08/11/2023||||412060N|0722452W|41.3499547|-72.4145426|||0.0|0.0
+213428|Town of Essex|Civil|Connecticut|09|Lower Connecticut River Valley|130|Essex|09/01/1995|08/11/2023||||412100N|0722452W|41.3499547|-72.4145426|||0.0|0.0
 213429|Town of Fairfield|Civil|Connecticut|09|Greater Bridgeport|120|Westport|09/01/1995|08/11/2023||||411034N|0731623W|41.1761951|-73.2731524|||0.0|0.0
 213430|Town of Farmington|Civil|Connecticut|09|Capitol|110|New Britain|09/01/1995|08/11/2023||||414344N|0725027W|41.7288039|-72.8407266|||0.0|0.0
 213431|Town of Franklin|Civil|Connecticut|09|Southeastern Connecticut|180|Fitchville|09/01/1995|08/11/2023||||413657N|0720835W|41.615848|-72.1431232|||0.0|0.0
@@ -5595,7 +5595,7 @@
 213444|Town of Harwinton|Civil|Connecticut|09|Northwest Hills|160|Torrington|09/01/1995|08/11/2023||||414518N|0730330W|41.755051|-73.0582683|||0.0|0.0
 213445|Town of Hebron|Civil|Connecticut|09|Capitol|110|Marlborough|09/01/1995|08/11/2023||||413934N|0722326W|41.6593502|-72.3904801|||0.0|0.0
 213446|Town of Kent|Civil|Connecticut|09|Northwest Hills|160|Kent|09/01/1995|08/11/2023||||414348N|0732714W|41.729912|-73.4539827|||0.0|0.0
-213447|Town of Killingly|Civil|Connecticut|09|Northeastern Connecticut|150|East Killingly|09/01/1995|08/11/2023||||414952N|0715060W|41.830999|-71.8499073|||0.0|0.0
+213447|Town of Killingly|Civil|Connecticut|09|Northeastern Connecticut|150|East Killingly|09/01/1995|08/11/2023||||414952N|0715100W|41.830999|-71.8499073|||0.0|0.0
 213448|Town of Killingworth|Civil|Connecticut|09|Lower Connecticut River Valley|130|Haddam|09/01/1995|08/11/2023||||412245N|0723442W|41.3792151|-72.578452|||0.0|0.0
 213449|Town of Lebanon|Civil|Connecticut|09|Southeastern Connecticut|180|Willimantic|09/01/1995|08/11/2023||||413753N|0721425W|41.6312816|-72.2401751|||0.0|0.0
 213450|Town of Ledyard|Civil|Connecticut|09|Southeastern Connecticut|180|Uncasville|09/01/1995|08/11/2023||||412624N|0720100W|41.4400307|-72.0166945|||0.0|0.0
@@ -5757,7 +5757,7 @@
 1770500|Dodson Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Hamburg|01/06/1998|03/30/2023||||412325N|0721633W|41.3901682|-72.2759623|||0.0|0.0
 1770504|Plants Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Colchester|01/06/1998|03/29/2023||||413037N|0721549W|41.5103241|-72.2635223|||0.0|0.0
 1770506|Eagleville Lake|Reservoir|Connecticut|09|Capitol|110|Coventry|01/06/1998|03/29/2023||||414727N|0721713W|41.7907722|-72.2868941|||0.0|0.0
-1770514|Whetstone Brook Reservoir|Reservoir|Connecticut|09|Northeastern Connecticut|150|East Killingly|01/06/1998|03/29/2023||||414960N|0715218W|41.833224|-71.8717534|||0.0|0.0
+1770514|Whetstone Brook Reservoir|Reservoir|Connecticut|09|Northeastern Connecticut|150|East Killingly|01/06/1998|03/29/2023||||415000N|0715218W|41.833224|-71.8717534|||0.0|0.0
 1770518|Whetstone Brook Reservoir|Reservoir|Connecticut|09|Northeastern Connecticut|150|East Killingly|01/06/1998|||||415030N|0714946W|41.8417653|-71.8295153|||0.0|0.0
 1770522|Lake Albert|Reservoir|Connecticut|09|Northeastern Connecticut|150|East Killingly|01/06/1998|03/29/2023||||414911N|0714827W|41.8198564|-71.8075197|||0.0|0.0
 1770524|Rogers Corporation Pond|Reservoir|Connecticut|09|Northeastern Connecticut|150|Danielson|01/06/1998|||||415030N|0715452W|41.841765|-71.9145171|||0.0|0.0
@@ -5819,7 +5819,7 @@
 1770940|Pages Millpond|Reservoir|Connecticut|09|South Central Connecticut|170|Branford|01/06/1998|03/29/2023||||412027N|0724852W|41.3409479|-72.8145209|||0.0|0.0
 1770950|Lockwood Lake|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Clinton|01/06/1998|03/29/2023||||411814N|0723106W|41.3039704|-72.5184502|||0.0|0.0
 1770964|Naugatuck River Reservoir|Reservoir|Connecticut|09|Naugatuck Valley|140|Naugatuck|01/06/1998|||||412336N|0730440W|41.39343|-73.077886|||0.0|0.0
-1770966|Lake Hammonasset|Reservoir|Connecticut|09|South Central Connecticut|170|Clinton|01/06/1998|03/30/2023||||412214N|0723660W|41.3704729|-72.6165725|||0.0|0.0
+1770966|Lake Hammonasset|Reservoir|Connecticut|09|South Central Connecticut|170|Clinton|01/06/1998|03/30/2023||||412214N|0723700W|41.3704729|-72.6165725|||0.0|0.0
 1770976|Murray Pond Number 2|Reservoir|Connecticut|09|Lower Connecticut River Valley|130|Haddam|01/06/1998|03/29/2023||||412257N|0723236W|41.3824201|-72.5433525|||0.0|0.0
 1770986|Guilford Lake|Reservoir|Connecticut|09|South Central Connecticut|170|Guilford|01/06/1998|03/30/2023||||411947N|0724104W|41.3297161|-72.6844685|||0.0|0.0
 1770990|Upper Guilford Lake|Reservoir|Connecticut|09|South Central Connecticut|170|Guilford|01/06/1998|03/30/2023||||412024N|0724056W|41.3399229|-72.6821042|||0.0|0.0
@@ -5843,7 +5843,7 @@
 1771125|Whiting River Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Ashley Falls|01/06/1998|03/30/2023||||420232N|0731514W|42.0422337|-73.2537814|||0.0|0.0
 1771127|Westside Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|01/06/1998|||||415836N|0731222W|41.9767607|-73.2062246|||0.0|0.0
 1771129|Norfolk Brook Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|01/06/1998|||||415906N|0731116W|41.985094|-73.1878905|||0.0|0.0
-1771131|Wood Creek Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|01/06/1998|03/29/2023||||415959N|0731160W|41.9997799|-73.199904|||0.0|0.0
+1771131|Wood Creek Reservoir|Reservoir|Connecticut|09|Northwest Hills|160|Norfolk|01/06/1998|03/29/2023||||415959N|0731200W|41.9997799|-73.199904|||0.0|0.0
 1771133|South Reservoir|Reservoir|Connecticut|09|Capitol|110|New Britain|01/06/1998|03/29/2023||||414435N|0724656W|41.7430717|-72.7823318|||0.0|0.0
 1771135|Burnt Hill Reservoir|Reservoir|Connecticut|09|Capitol|110|New Britain|01/06/1998|||||414400N|0724634W|41.7334334|-72.7762081|||0.0|0.0
 1771137|Talcott Reservoir|Reservoir|Connecticut|09|Capitol|110|Avon|01/06/1998|||||414712N|0724704W|41.7867663|-72.7845414|||0.0|0.0
@@ -5989,7 +5989,7 @@
 1923654|Arrow Point|Cape|Connecticut|09|Lower Connecticut River Valley|130|Moodus|06/15/2001|||||413604N|0722949W|41.6012103|-72.4970316|||0.0|0.0
 1923655|Ayers Point|Cape|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|06/15/2001|||||412007N|0722145W|41.3353763|-72.362584|||0.0|0.0
 1923656|Bailey Beach|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Deep River|06/15/2001|06/07/2022||||412943N|0722526W|41.4953767|-72.4239748|||0.0|0.0
-1923658|Barton Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|06/15/2001|03/21/2023||||413426N|0723060W|41.5740213|-72.516588|||0.0|0.0
+1923658|Barton Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|06/15/2001|03/21/2023||||413426N|0723100W|41.5740213|-72.516588|||0.0|0.0
 1923662|Bear Swamp|Swamp|Connecticut|09|Lower Connecticut River Valley|130|Moodus|06/15/2001|03/29/2023||||413502N|0722906W|41.583833|-72.4849329|||0.0|0.0
 1923664|Benvenue (historical)|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Middle Haddam|06/15/2001|06/07/2022||||413338N|0723453W|41.5606545|-72.5814795|||0.0|0.0
 1923668|Big Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Haddam|06/15/2001|03/21/2023||||412952N|0723318W|41.4977671|-72.5550451|||0.0|0.0
@@ -6181,7 +6181,7 @@
 1930670|Burch Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Ashaway|08/07/2001|03/29/2023||||412721N|0714919W|41.4558773|-71.8220589|||0.0|0.0
 1930675|Byron Brook|Stream|Connecticut|09|Southeastern Connecticut|180|Norwich|08/07/2001|||||413620N|0720337W|41.6056539|-72.0603541|413425N|0720408W|41.5736111|-72.0688889
 1930682|Calves Island Bar|Island|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|08/07/2001|||||411952N|0722100W|41.3312095|-72.3500835|||0.0|0.0
-1930684|Calvin Wilcox Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Jewett City|08/07/2001|03/29/2023||||413260N|0715443W|41.549947|-71.9118991|||0.0|0.0
+1930684|Calvin Wilcox Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Jewett City|08/07/2001|03/29/2023||||413300N|0715443W|41.549947|-71.9118991|||0.0|0.0
 1930701|Cedar Hill|Summit|Connecticut|09|Lower Connecticut River Valley|130|Hamburg|08/07/2001|03/21/2023||||412505N|0721819W|41.4181453|-72.3053588|||0.0|0.0
 1930724|Chester-Hadlyme Ferry|Crossing|Connecticut|09|Lower Connecticut River Valley|130|Deep River|08/07/2001|03/29/2021||||412511N|0722551W|41.4198212|-72.4309197|||0.0|0.0
 1930740|Clubhouse Point|Cape|Connecticut|09|Southeastern Connecticut|180|New London|08/07/2001|||||411823N|0720018W|41.3064878|-72.0050739|||0.0|0.0
@@ -6536,7 +6536,7 @@
 1933926|Huzzle Guzzle Hill|Summit|Connecticut|09|South Central Connecticut|170|Clinton|08/07/2001|03/21/2023||||411807N|0723502W|41.3020149|-72.5838975|||0.0|0.0
 1933938|Indian Neck|Cape|Connecticut|09|South Central Connecticut|170|Milford|08/07/2001|||||411319N|0730228W|41.2220416|-73.0412169|||0.0|0.0
 1933987|Iris Pond|Reservoir|Connecticut|09|South Central Connecticut|170|New Haven|08/07/2001|||||411923N|0725729W|41.3231527|-72.9581588|||0.0|0.0
-1933990|Ives Pond (historical)|Reservoir|Connecticut|09|South Central Connecticut|170|Meriden|08/07/2001|02/20/2015||||413029N|0724660W|41.508|-72.7833|||0.0|0.0
+1933990|Ives Pond (historical)|Reservoir|Connecticut|09|South Central Connecticut|170|Meriden|08/07/2001|02/20/2015||||413029N|0724700W|41.508|-72.7833|||0.0|0.0
 1934002|Jacobs Public Beach|Beach|Connecticut|09|South Central Connecticut|170|Guilford|08/07/2001|||||411557N|0724007W|41.2659311|-72.6687058|||0.0|0.0
 1934014|Johnson Point|Cape|Connecticut|09|South Central Connecticut|170|Branford OE S|08/07/2001|||||411452N|0725125W|41.2478748|-72.8570444|||0.0|0.0
 1934016|Jones Hill|Summit|Connecticut|09|South Central Connecticut|170|Woodmont|08/07/2001|03/21/2023||||411451N|0725832W|41.2475888|-72.9756577|||0.0|0.0
@@ -6890,7 +6890,7 @@
 2377854|Putnam Census Designated Place|Census|Connecticut|09|Northeastern Connecticut|150|Putnam|02/11/2008|08/08/2023||||415504N|0715439W|41.9178668|-71.9108218|||0.0|0.0
 2377855|Quinebaug Census Designated Place|Census|Connecticut|09|Northeastern Connecticut|150|Webster|02/11/2008|08/08/2023||||420038N|0715613W|42.0106523|-71.9370043|||0.0|0.0
 2377856|Ridgefield Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Bethel|02/11/2008|08/09/2023||||411615N|0732943W|41.2707063|-73.495239|||0.0|0.0
-2377857|Rockville Census Designated Place|Census|Connecticut|09|Capitol|110|Rockville|02/11/2008|08/09/2023||||415160N|0722705W|41.8665662|-72.4514993|||0.0|0.0
+2377857|Rockville Census Designated Place|Census|Connecticut|09|Capitol|110|Rockville|02/11/2008|08/09/2023||||415200N|0722705W|41.8665662|-72.4514993|||0.0|0.0
 2377858|Salmon Brook Census Designated Place|Census|Connecticut|09|Capitol|110|Tariffville|02/11/2008|08/09/2023||||415727N|0724731W|41.9574868|-72.7918967|||0.0|0.0
 2377859|Saybrook Manor Census Designated Place|Census|Connecticut|09|Lower Connecticut River Valley|130|Essex|02/11/2008|08/09/2023||||411654N|0722423W|41.2815703|-72.4065075|||0.0|0.0
 2377860|Sherwood Manor Census Designated Place|Census|Connecticut|09|Capitol|110|Springfield South|02/11/2008|08/09/2023||||420037N|0723400W|42.0101781|-72.566678|||0.0|0.0
@@ -6908,7 +6908,7 @@
 2377872|Terryville Census Designated Place|Census|Connecticut|09|Naugatuck Valley|140|Thomaston|02/11/2008|08/09/2023||||414042N|0730023W|41.6783697|-73.0064677|||0.0|0.0
 2377873|Thompsonville Census Designated Place|Census|Connecticut|09|Capitol|110|Broad Brook|02/11/2008|08/09/2023||||415930N|0723547W|41.9916074|-72.5964765|||0.0|0.0
 2377874|Trumbull Census Designated Place (historical)|Census|Connecticut|09|Greater Bridgeport|120|Long Hill|02/11/2008|12/19/2019||||411537N|0731230W|41.2602442|-73.208364|||0.0|0.0
-2377875|Wallingford Center Census Designated Place|Census|Connecticut|09|South Central Connecticut|170|Wallingford|02/11/2008|08/08/2023||||412660N|0724908W|41.4499132|-72.8188584|||0.0|0.0
+2377875|Wallingford Center Census Designated Place|Census|Connecticut|09|South Central Connecticut|170|Wallingford|02/11/2008|08/08/2023||||412700N|0724908W|41.4499132|-72.8188584|||0.0|0.0
 2377876|Wauregan Census Designated Place|Census|Connecticut|09|Northeastern Connecticut|150|Plainfield|02/11/2008|08/08/2023||||414459N|0715449W|41.7497964|-71.9137302|||0.0|0.0
 2377877|Weatogue Census Designated Place|Census|Connecticut|09|Capitol|110|Avon|02/11/2008|08/08/2023||||415045N|0724946W|41.8458736|-72.8294212|||0.0|0.0
 2377878|Westbrook Center Census Designated Place|Census|Connecticut|09|Lower Connecticut River Valley|130|Essex|02/11/2008|08/08/2023||||411649N|0722631W|41.2801643|-72.4420692|||0.0|0.0
@@ -6927,7 +6927,7 @@
 2378270|City of Bristol|Civil|Connecticut|09|Naugatuck Valley|140|Bristol|02/11/2008|08/10/2023||||414052N|0725626W|41.681165|-72.9406827|||0.0|0.0
 2378271|City of Danbury|Civil|Connecticut|09|Western Connecticut|190|Danbury|02/11/2008|08/10/2023||||412405N|0732815W|41.4014319|-73.4709616|||0.0|0.0
 2378272|Borough of Danielson|Civil|Connecticut|09|Northeastern Connecticut|150|Danielson|02/11/2008|08/10/2023||||414831N|0715308W|41.8085621|-71.8855546|||0.0|0.0
-2378273|City of Derby|Civil|Connecticut|09|Naugatuck Valley|140|Ansonia|02/11/2008|08/10/2023||||411935N|0730460W|41.3265067|-73.0833063|||0.0|0.0
+2378273|City of Derby|Civil|Connecticut|09|Naugatuck Valley|140|Ansonia|02/11/2008|08/10/2023||||411935N|0730500W|41.3265067|-73.0833063|||0.0|0.0
 2378274|Borough of Fenwick|Civil|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|02/11/2008|08/10/2023||||411616N|0722117W|41.2710696|-72.3545851|||0.0|0.0
 2378275|City of Groton|Civil|Connecticut|09|Southeastern Connecticut|180|New London|02/11/2008|08/10/2023||||411930N|0720414W|41.3251069|-72.0704624|||0.0|0.0
 2378276|Borough of Groton Long Point|Civil|Connecticut|09|Southeastern Connecticut|180|New London|02/11/2008|08/09/2023||||411853N|0720031W|41.3145891|-72.0086837|||0.0|0.0
@@ -6946,7 +6946,7 @@
 2378289|City of Norwich|Civil|Connecticut|09|Southeastern Connecticut|180|Norwich|02/11/2008|08/10/2023||||413258N|0720518W|41.5494781|-72.0882714|||0.0|0.0
 2378290|City of Shelton|Civil|Connecticut|09|Naugatuck Valley|140|Long Hill|02/11/2008|08/10/2023||||411822N|0730818W|41.305985|-73.1382765|||0.0|0.0
 2378291|City of Stamford|Civil|Connecticut|09|Western Connecticut|190|Stamford|02/11/2008|08/10/2023||||410442N|0733259W|41.0781951|-73.5497964|||0.0|0.0
-2378292|Borough of Stonington|Civil|Connecticut|09|Southeastern Connecticut|180|Mystic|02/11/2008|08/10/2023||||411960N|0715408W|41.3333161|-71.9022286|||0.0|0.0
+2378292|Borough of Stonington|Civil|Connecticut|09|Southeastern Connecticut|180|Mystic|02/11/2008|08/10/2023||||412000N|0715408W|41.3333161|-71.9022286|||0.0|0.0
 2378293|City of Torrington|Civil|Connecticut|09|Northwest Hills|160|West Torrington|02/11/2008|08/10/2023||||415006N|0730741W|41.8349498|-73.1281498|||0.0|0.0
 2378294|City of Waterbury|Civil|Connecticut|09|Naugatuck Valley|140|Waterbury|02/11/2008|08/09/2023||||413330N|0730210W|41.5582522|-73.0360691|||0.0|0.0
 2378295|City of West Haven|Civil|Connecticut|09|South Central Connecticut|170|New Haven|02/11/2008|08/10/2023||||411626N|0725801W|41.2738505|-72.9669592|||0.0|0.0
@@ -7013,9 +7013,9 @@
 2764357|Weir Pond|Lake|Connecticut|09|Western Connecticut|190|Bethel|07/26/2014|03/29/2023||||411534N|0732706W|41.2595821|-73.4517089|||0.0|0.0
 2764817|Norton Pond|Lake|Connecticut|09|Greater Bridgeport|120|Westport|10/12/2014|03/29/2023|Official|Board Decision|10/09/2014|411428N|0731934W|41.2409795|-73.3260842|||0.0|0.0
 2785166|Seymour Reservoirs|Reservoir|Connecticut|09|Naugatuck Valley|140|Naugatuck|09/26/2016|||||412636N|0730521W|41.4433981|-73.089284|||0.0|0.0
-2786775|Johnsonville (historical)|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Deep River|05/31/2017|||||412942N|0722760W|41.4950447|-72.4665704|||0.0|0.0
+2786775|Johnsonville (historical)|Populated Place|Connecticut|09|Lower Connecticut River Valley|130|Deep River|05/31/2017|||||412942N|0722800W|41.4950447|-72.4665704|||0.0|0.0
 2787914|York Hill|Summit|Connecticut|09|South Central Connecticut|170|Mount Carmel|09/25/2017|03/21/2023||||412457N|0725443W|41.4157543|-72.912063|||0.0|0.0
-2791039|Stratford Shoal|Bar|Connecticut|09|Greater Bridgeport|120||02/22/2018|03/02/2020||||410400N|0730460W|41.0666667|-73.0833333|||0.0|0.0
+2791039|Stratford Shoal|Bar|Connecticut|09|Greater Bridgeport|120||02/22/2018|03/02/2020||||410400N|0730500W|41.0666667|-73.0833333|||0.0|0.0
 2803693|Shippee Pond|Lake|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|04/13/2019|03/29/2023|Official|Board Decision|04/11/2019|411849N|0722038W|41.3135733|-72.3438142|||0.0|0.0
 2805053|Darien Downtown Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Norwalk South|12/19/2019|08/08/2023||||410436N|0732812W|41.0767823|-73.4698773|||0.0|0.0
 2805054|Noroton Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Norwalk South|12/19/2019|08/08/2023||||410328N|0732931W|41.0578617|-73.4920486|||0.0|0.0
@@ -7026,7 +7026,7 @@
 2805068|Oronoque Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Ansonia|12/19/2019|08/08/2023||||411510N|0730632W|41.2526575|-73.1090084|||0.0|0.0
 2805069|Trumbull Center Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Bridgeport|12/19/2019|08/09/2023||||411430N|0731101W|41.2415355|-73.1836103|||0.0|0.0
 2805070|Daniels Farm Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Long Hill|12/19/2019|08/09/2023||||411640N|0731208W|41.2778544|-73.202197|||0.0|0.0
-2805071|Long Hill Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Long Hill|12/19/2019|08/08/2023||||411560N|0731342W|41.266596|-73.2283632|||0.0|0.0
+2805071|Long Hill Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Long Hill|12/19/2019|08/08/2023||||411600N|0731342W|41.266596|-73.2283632|||0.0|0.0
 2805072|Tashua Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Botsford|12/19/2019|08/08/2023||||411634N|0731513W|41.2761483|-73.2537399|||0.0|0.0
 2805087|Coleytown Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Westport|12/19/2019|08/09/2023||||411027N|0732046W|41.1741926|-73.3460572|||0.0|0.0
 2805088|Compo Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Sherwood Point|12/19/2019|08/08/2023||||410722N|0732105W|41.1227591|-73.3515277|||0.0|0.0
@@ -7077,7 +7077,7 @@
 2805966|Sail Harbor|Populated Place|Connecticut|09|Western Connecticut|190|New Milford|03/18/2020|||||413147N|0732759W|41.5296585|-73.466378|||0.0|0.0
 2805967|Sandy Hook Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Southbury|03/18/2020|08/08/2023||||412446N|0731438W|41.412738|-73.2439567|||0.0|0.0
 2805968|Sherman Census Designated Place|Census|Connecticut|09|Western Connecticut|190|New Milford|03/18/2020|08/08/2023||||413429N|0732945W|41.5746239|-73.4957247|||0.0|0.0
-2805969|South Wilton Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Norwalk North|03/18/2020|08/08/2023||||411023N|0732460W|41.1729995|-73.4166379|||0.0|0.0
+2805969|South Wilton Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Norwalk North|03/18/2020|08/08/2023||||411023N|0732500W|41.1729995|-73.4166379|||0.0|0.0
 2805970|Stepney Census Designated Place|Census|Connecticut|09|Greater Bridgeport|120|Botsford|03/18/2020|08/08/2023||||411932N|0731603W|41.3255943|-73.2673956|||0.0|0.0
 2805971|Taylor Corners Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Brewster|03/18/2020|||||412647N|0733143W|41.4464133|-73.5286873|||0.0|0.0
 2805972|Topstone Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Bethel|03/18/2020|08/08/2023||||411747N|0732648W|41.2963081|-73.4465704|||0.0|0.0
@@ -7091,7 +7091,7 @@
 2805981|Cornwall Bridge Census Designated Place|Census|Connecticut|09|Northwest Hills|160|Ellsworth|03/18/2020|08/09/2023||||414819N|0732307W|41.8053891|-73.3852298|||0.0|0.0
 2805982|Gaylordsville Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Kent|03/18/2020|08/08/2023||||413828N|0732857W|41.6409804|-73.4825563|||0.0|0.0
 2805983|Pleasant Valley Census Designated Place|Census|Connecticut|09|Northwest Hills|160|New Hartford|03/18/2020|08/08/2023||||415430N|0725932W|41.9083273|-72.992311|||0.0|0.0
-2805984|Riverton Census Designated Place|Census|Connecticut|09|Northwest Hills|160|Winsted|03/18/2020|08/08/2023||||415747N|0730060W|41.9631415|-73.0165584|||0.0|0.0
+2805984|Riverton Census Designated Place|Census|Connecticut|09|Northwest Hills|160|Winsted|03/18/2020|08/08/2023||||415747N|0730100W|41.9631415|-73.0165584|||0.0|0.0
 2805985|West Cornwall Census Designated Place|Census|Connecticut|09|Northwest Hills|160|Cornwall|03/18/2020|08/09/2023||||415151N|0732139W|41.864206|-73.3607879|||0.0|0.0
 2805986|Northford Census Designated Place|Census|Connecticut|09|South Central Connecticut|170|Wallingford|03/18/2020|08/08/2023||||412342N|0724657W|41.3949164|-72.7826156|||0.0|0.0
 2805987|Quinnipiac University Census Designated Place|Census|Connecticut|09|South Central Connecticut|170|Mount Carmel|03/18/2020|08/08/2023||||412508N|0725334W|41.419016|-72.8928473|||0.0|0.0
@@ -7125,4 +7125,4 @@
 2832648|Bradley International Airport|Military|Connecticut|09|Capitol|110|Windsor Locks|08/20/2025|08/20/2025||||415606N|0724204W|41.93507|-72.7012374|||0.0|0.0
 2832770|National Guard Camp Hartell|Military|Connecticut|09|Capitol|110|Windsor Locks|08/20/2025|08/20/2025||||415632N|0723956W|41.9421257|-72.6656787|||0.0|0.0
 2832771|National Guard Camp Nett|Military|Connecticut|09|Southeastern Connecticut|180|Niantic|08/20/2025|08/20/2025||||411953N|0721116W|41.3313899|-72.1879102|||0.0|0.0
-2832839|National Guard Stones Ranch Military Reservation|Military|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|08/20/2025|08/20/2025||||412160N|0721656W|41.366582|-72.282256|||0.0|0.0
+2832839|National Guard Stones Ranch Military Reservation|Military|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|08/20/2025|08/20/2025||||412200N|0721656W|41.366582|-72.282256|||0.0|0.0

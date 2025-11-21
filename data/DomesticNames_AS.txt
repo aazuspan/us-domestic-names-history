@@ -152,7 +152,7 @@
 1388780|Fagaone Point|Cape|American Samoa|60|Western|050|Tutuila Island OE W|01/23/2024|01/23/2024||||141953S|1704900W|-14.331357|-170.816803|||0.0|0.0
 1388781|Fagaoo Point|Cape|American Samoa|60|Western|050|Tutuila Island OE W|02/06/2024|02/06/2024||||141929S|1705015W|-14.3248234|-170.8374415|||0.0|0.0
 1388782|Fagasā|Populated Place|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|03/25/2024||||141712S|1704306W|-14.28653|-170.71842|||0.0|0.0
-1388783|Fagasā|Bay|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|03/25/2024||||141660S|1704343W|-14.283328|-170.728483|||0.0|0.0
+1388783|Fagasā|Bay|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|03/25/2024||||141700S|1704343W|-14.283328|-170.728483|||0.0|0.0
 1388784|Fagasa Point|Cape|American Samoa|60|Eastern|010|Tutuila Island OE NE|03/21/2024|03/21/2024||||141458S|1703350W|-14.249329|-170.56401|||0.0|0.0
 1388785|Fagatele|Populated Place|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|03/25/2024||||141723S|1704329W|-14.289711|-170.724621|||0.0|0.0
 1388786|Fagatele Bay|Bay|American Samoa|60|Western|050|Tutuila Island OE W|01/17/2024|01/17/2024||||142151S|1704552W|-14.364224|-170.764425|||0.0|0.0
@@ -168,7 +168,7 @@
 1388796|Faiga Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island|03/27/2024|08/26/2025||||141534S|1704106W|-14.2593608|-170.6848762|||0.0|0.0
 1388797|Faigatoa Stream|Stream|American Samoa|60|Eastern|010|Tutuila Island|02/06/1981|||||141544S|1704043W|-14.2622222|-170.6786111|141544S|1704043W|-14.2622222|-170.6786111
 1388798|Failolo|Populated Place|American Samoa|60|Western|050|Tutuila Island OE W|02/06/1981|06/07/2022||||142001S|1704933W|-14.3336111|-170.8258333|||0.0|0.0
-1388799|Faimulivai Marsh|Swamp|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|03/21/2024||||141660S|1703300W|-14.283247|-170.550128|||0.0|0.0
+1388799|Faimulivai Marsh|Swamp|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|03/21/2024||||141700S|1703300W|-14.283247|-170.550128|||0.0|0.0
 1388800|Faiumuolegau Rocks|Island|American Samoa|60|Eastern|010|Tutuila Island OE E|03/20/2024|03/20/2024||||141702S|1703620W|-14.28391|-170.605466|||0.0|0.0
 1388801|Falaseeitoafa Point|Cape|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|03/21/2024||||141636S|1703513W|-14.276655|-170.587035|||0.0|0.0
 1388802|Faleapoi Point|Cape|American Samoa|60|Western|050|Tutuila Island OE W|01/17/2024|01/17/2024||||142107S|1704707W|-14.3520447|-170.7851976|||0.0|0.0
@@ -189,7 +189,7 @@
 1388817|Fatuelo Point|Cape|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|03/25/2024||||141655S|1704353W|-14.28181|-170.731251|||0.0|0.0
 1388818|Fatugau Rock|Island|American Samoa|60|Western|050|Tutuila Island|12/20/2023|12/20/2023||||142155S|1704427W|-14.3652818|-170.7407514|||0.0|0.0
 1388819|Fatumafuti|Populated Place|American Samoa|60|Eastern|010|Tutuila Island|02/06/1981|06/07/2022||||141805S|1704038W|-14.3013889|-170.6772222|||0.0|0.0
-1388820|Fatumaga Rocks|Island|American Samoa|60|Eastern|010|Tutuila Island OE NE|03/21/2024|03/21/2024||||141460S|1703450W|-14.249974|-170.580662|||0.0|0.0
+1388820|Fatumaga Rocks|Island|American Samoa|60|Eastern|010|Tutuila Island OE NE|03/21/2024|03/21/2024||||141500S|1703450W|-14.249974|-170.580662|||0.0|0.0
 1388821|Fatutea Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|08/22/2025||||141536S|1703424W|-14.2600414|-170.5732788|||0.0|0.0
 1388822|Fatutea Spring|Spring|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|03/21/2024||||141542S|1703433W|-14.2616494|-170.5759068|||0.0|0.0
 1388823|Fatutoaga Rock|Island|American Samoa|60|Eastern|010|Tutuila Island|12/19/2023|12/19/2023||||141723S|1703905W|-14.2897461|-170.6515154|||0.0|0.0
@@ -228,7 +228,7 @@
 1388856|Happy Valley|Valley|American Samoa|60|Eastern|010|Tutuila Island|03/26/2024|03/26/2024||||141633S|1704154W|-14.2757571|-170.69834|141633S|1704154W|-14.2757571|-170.69834
 1388857|Iliʻili|Populated Place|American Samoa|60|Western|050|Tutuila Island|04/08/2024|04/08/2024||||142051S|1704451W|-14.347365|-170.747602|||0.0|0.0
 1388858|Imoa Point|Cape|American Samoa|60|Manu'a|020|Manua Islands|02/06/1981|||||141016S|1693630W|-14.1711111|-169.6083333|||0.0|0.0
-1388859|Judds Crater|Crater|American Samoa|60|Manu'a|020|Manua Islands OE E|02/06/1981|11/26/2010||||141347S|1692560W|-14.2297222|-169.4333333|||0.0|0.0
+1388859|Judds Crater|Crater|American Samoa|60|Manu'a|020|Manua Islands OE E|02/06/1981|11/26/2010||||141347S|1692600W|-14.2297222|-169.4333333|||0.0|0.0
 1388860|Lafiga Point|Cape|American Samoa|60|Eastern|010|Tutuila Island|03/19/2024|03/19/2024||||141719S|1703905W|-14.2887154|-170.6514104|||0.0|0.0
 1388861|Lafogaufi Point|Cape|American Samoa|60|Manu'a|020|Manua Islands OE E|02/06/1981|||||141524S|1692751W|-14.2566667|-169.4641667|||0.0|0.0
 1388862|Lago Spring|Spring|American Samoa|60|Western|050|Tutuila Island OE W|04/10/2024|04/10/2024||||141906S|1704545W|-14.318234|-170.7624548|||0.0|0.0
@@ -270,7 +270,7 @@
 1388899|Leatutoga Point|Cape|American Samoa|60|Manu'a|020|Manua Islands OE SE|02/06/1981|||||141632S|1692854W|-14.2755556|-169.4816667|||0.0|0.0
 1388900|Leau Stream|Stream|American Samoa|60|Eastern|010|Tutuila Island|02/06/1981|||||141707S|1704234W|-14.2852778|-170.7094444|141707S|1704234W|-14.2852778|-170.7094444
 1388901|Leauga Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|08/22/2025||||141611S|1703446W|-14.2696581|-170.5793783|||0.0|0.0
-1388902|Leauga Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|08/22/2025||||141643S|1703560W|-14.2785343|-170.5999089|||0.0|0.0
+1388902|Leauga Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|08/22/2025||||141643S|1703600W|-14.2785343|-170.5999089|||0.0|0.0
 1388903|Faumasili Point|Cape|American Samoa|60|Manu'a|020|Manua Islands|02/06/1981|08/24/2009||||140937S|1693638W|-14.1602778|-169.6105556|||0.0|0.0
 1388904|Leaute Stream|Stream|American Samoa|60|Western|050|Tutuila Island OE W|02/06/1981|||||142003S|1704927W|-14.3341667|-170.8241667|142003S|1704927W|-14.3341667|-170.8241667
 1388905|Leaveave Stream|Stream|American Samoa|60|Western|050|Tutuila Island OE W|02/06/1981|||||141802S|1704504W|-14.3005556|-170.7511111|141802S|1704504W|-14.3005556|-170.7511111
@@ -387,7 +387,7 @@
 1389017|Matautuloa Point|Cape|American Samoa|60|Western|050|Tutuila Island OE W|01/17/2024|01/17/2024||||142223S|1704531W|-14.373037|-170.758481|||0.0|0.0
 1389018|Matautuloa Ridge|Ridge|American Samoa|60|Western|050|Tutuila Island OE W|01/17/2024|08/27/2025||||142157S|1704526W|-14.3658659|-170.7571846|||0.0|0.0
 1389019|Matautuotafuna Point|Cape|American Samoa|60|Western|050|Tutuila Island|12/19/2023|12/19/2023||||142007S|1704244W|-14.3351525|-170.7123511|||0.0|0.0
-1389020|Mataututele Point|Cape|American Samoa|60|Western|050|Tutuila Island OE W|03/20/2024|03/20/2024||||141716S|1704660W|-14.287777|-170.783286|||0.0|0.0
+1389020|Mataututele Point|Cape|American Samoa|60|Western|050|Tutuila Island OE W|03/20/2024|03/20/2024||||141716S|1704700W|-14.287777|-170.783286|||0.0|0.0
 1389021|Matavai Point|Cape|American Samoa|60|Manu'a|020|Manua Islands|02/06/1981|||||141443S|1693031W|-14.2452778|-169.5086111|||0.0|0.0
 1389022|Matavai Stream|Stream|American Samoa|60|Western|050|Tutuila Island OE W|02/06/1981|||||141813S|1704835W|-14.3036111|-170.8097222|141813S|1704835W|-14.3036111|-170.8097222
 1389023|Matavalu Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island|03/20/2024|08/22/2025||||141547S|1704018W|-14.2629868|-170.6717808|||0.0|0.0
@@ -445,10 +445,10 @@
 1389076|Nuuosina Rock|Island|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|03/25/2024||||141650S|1704357W|-14.280479|-170.732496|||0.0|0.0
 1389077|Nuupule Rock|Island|American Samoa|60|Manu'a|020|Manua Islands OE W|02/06/1981|||||141042S|1694039W|-14.1783333|-169.6775|||0.0|0.0
 1389078|Nuusetoga Island|Island|American Samoa|60|Eastern|010|Tutuila Island OE NE|03/19/2024|03/19/2024||||141458S|1703723W|-14.249472|-170.623019|||0.0|0.0
-1389079|Nuusilaelae Island|Island|American Samoa|60|Manu'a|020|Manua Islands OE W|02/06/1981|||||141035S|1694060W|-14.1763889|-169.6833333|||0.0|0.0
+1389079|Nuusilaelae Island|Island|American Samoa|60|Manu'a|020|Manua Islands OE W|02/06/1981|||||141035S|1694100W|-14.1763889|-169.6833333|||0.0|0.0
 1389080|Nuutai Rock|Island|American Samoa|60|Western|050|Tutuila Island OE W|01/23/2024|01/23/2024||||141959S|1704815W|-14.3331826|-170.8040661|||0.0|0.0
 1389081|Nuutavana Rock|Island|American Samoa|60|Western|050|Tutuila Island OE W|03/20/2024|03/20/2024||||141716S|1704605W|-14.287861|-170.767922|||0.0|0.0
-1389082|Nuʻutele Island|Island|American Samoa|60|Manu'a|020|Manua Islands OE W|02/06/1981|11/02/2018||||141019S|1694060W|-14.1719444|-169.6833333|||0.0|0.0
+1389082|Nuʻutele Island|Island|American Samoa|60|Manu'a|020|Manua Islands OE W|02/06/1981|11/02/2018||||141019S|1694100W|-14.1719444|-169.6833333|||0.0|0.0
 1389083|Nuutele Rocks|Island|American Samoa|60|Eastern|010|Tutuila Island OE NE|03/21/2024|03/21/2024||||141448S|1703407W|-14.246688|-170.568559|||0.0|0.0
 1389084|Nuutoga Point|Cape|American Samoa|60|Eastern|010|Tutuila Island OE N|03/27/2024|03/27/2024||||141514S|1704152W|-14.253902|-170.697691|||0.0|0.0
 1389085|Nuutoga Stream|Stream|American Samoa|60|Eastern|010|Tutuila Island|02/06/1981|||||141531S|1704153W|-14.2586111|-170.6980556|141531S|1704153W|-14.2586111|-170.6980556
@@ -493,7 +493,7 @@
 1389124|Pala Lagoon|Lake|American Samoa|60|Western|050|Tutuila Island OE W|02/06/1981|||||142031S|1704709W|-14.3419444|-170.7858333|||0.0|0.0
 1389125|Pala Lake|Lake|American Samoa|60|Eastern|010|Tutuila Island OE E|02/06/1981|||||141706S|1703310W|-14.285|-170.5527778|||0.0|0.0
 1389126|Palapala Mountain|Summit|American Samoa|60|Eastern|010|Tutuila Island|03/19/2024|08/21/2025||||141609S|1703824W|-14.2690912|-170.6400968|||0.0|0.0
-1389127|Palapala Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island|03/19/2024|08/23/2025||||141560S|1703733W|-14.2665467|-170.6257057|||0.0|0.0
+1389127|Palapala Ridge|Ridge|American Samoa|60|Eastern|010|Tutuila Island|03/19/2024|08/23/2025||||141600S|1703733W|-14.2665467|-170.6257057|||0.0|0.0
 1389128|Palapalaloa Marsh|Swamp|American Samoa|60|Eastern|010|Tutuila Island OE E|03/21/2024|03/21/2024||||141656S|1703324W|-14.2821493|-170.5566288|||0.0|0.0
 1389129|Palapalaloa Mountain|Summit|American Samoa|60|Eastern|010|Tutuila Island|03/25/2024|08/21/2025||||141716S|1704211W|-14.2876858|-170.7031266|||0.0|0.0
 1389130|Palau Point|Cape|American Samoa|60|Eastern|010|Tutuila Island OE NE|03/21/2024|03/21/2024||||141516S|1703511W|-14.254466|-170.586305|||0.0|0.0
@@ -783,7 +783,7 @@
 1966511|Alegā Valley|Valley|American Samoa|60|Eastern|010|Tutuila Island|11/25/2002|08/02/2009||||141705S|1703811W|-14.2847222|-170.6363889|141705S|1703811W|-14.2847222|-170.6363889
 1966513|Amalau Valley|Valley|American Samoa|60|Eastern|010|Tutuila Island OE N|11/25/2002|||||141528S|1703926W|-14.2577778|-170.6572222|141601S|1703939W|-14.2669444|-170.6608333
 1966516|ʻAoa Valley|Valley|American Samoa|60|Eastern|010|Tutuila Island OE E|11/25/2002|12/12/2018||||141600S|1703508W|-14.2666667|-170.5855556|141600S|1703508W|-14.2666667|-170.5855556
-1966522|East Vaifanua County (historical)|Civil|American Samoa|60|Eastern|010|Tutuila Island OE E|11/25/2002|10/28/2014||||141632S|1703460W|-14.2755556|-170.5833333|||0.0|0.0
+1966522|East Vaifanua County (historical)|Civil|American Samoa|60|Eastern|010|Tutuila Island OE E|11/25/2002|10/28/2014||||141632S|1703500W|-14.2755556|-170.5833333|||0.0|0.0
 1966523|Fagaʻalu Bay|Bay|American Samoa|60|Eastern|010|Tutuila Island|03/27/2024|03/27/2024||||141728S|1704052W|-14.291084|-170.681105|||0.0|0.0
 1966526|Fagalele|Populated Place|American Samoa|60|Western|050|Tutuila Island OE W|11/25/2002|06/07/2022||||142048S|1704704W|-14.3466667|-170.7844444|||0.0|0.0
 1966527|Fagamalo (historical)|Populated Place|American Samoa|60|Manu‘a District|020|Manua Islands|11/25/2002|06/07/2022||||141502S|1693008W|-14.2505556|-169.5022222|||0.0|0.0

@@ -64,7 +64,7 @@
 1390355|Dagu|Basin|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150827N|1454325E|15.1408333|145.7236111|||0.0|0.0
 1390356|Laderan Dagu|Cliff|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|||||145946N|1453917E|14.9961111|145.6547222|||0.0|0.0
 1390357|Laderan Dagu|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150809N|1454348E|15.1358333|145.73|||0.0|0.0
-1390358|Dandan|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150813N|1454360E|15.1369444|145.7333333|||0.0|0.0
+1390358|Dandan|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150813N|1454400E|15.1369444|145.7333333|||0.0|0.0
 1390359|Laderan Dandan|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150914N|1454349E|15.1538889|145.7302778|||0.0|0.0
 1390360|Puntan Dandan|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE S|01/01/2000|||||150718N|1454507E|15.1216667|145.7519444|||0.0|0.0
 1390361|Sabanan Dandan|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150929N|1454414E|15.1580556|145.7372222|||0.0|0.0
@@ -80,7 +80,7 @@
 1390371|East Island|Island|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Maug Island|01/01/2000||Official|Board Decision|01/01/1944|200119N|1451407E|20.0219444|145.2352778|||0.0|0.0
 1390372|Esong|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140908N|1450852E|14.1522222|145.1477778|||0.0|0.0
 1390373|Kannat I Etdot|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150922N|1454343E|15.1561111|145.7286111|150922N|1454343E|15.1561111|145.7286111
-1390374|Laderan I Etdot|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151044N|1454360E|15.1788889|145.7333333|||0.0|0.0
+1390374|Laderan I Etdot|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151044N|1454400E|15.1788889|145.7333333|||0.0|0.0
 1390375|Sabanan Etdot|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151014N|1454402E|15.1705556|145.7338889|||0.0|0.0
 1390376|I Fadang|Bench|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|||||150711N|1454339E|15.1197222|145.7275|||0.0|0.0
 1390377|Falagon|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140753N|1450748E|14.1313889|145.13|||0.0|0.0
@@ -172,7 +172,7 @@
 1390466|Laolao|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||150950N|1454501E|15.1638889|145.7502778|||0.0|0.0
 1390467|Laolao Kattan|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151023N|1454653E|15.1730556|145.7813889|||0.0|0.0
 1390468|Puntan Laolao Kattan|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||150955N|1454738E|15.1652778|145.7938889|||0.0|0.0
-1390469|Unai Laolao Kattan|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151024N|1454660E|15.1733333|145.7833333|||0.0|0.0
+1390469|Unai Laolao Kattan|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151024N|1454700E|15.1733333|145.7833333|||0.0|0.0
 1390470|Bahia Laolao|Bay|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|03/03/2020||||150839N|1454536E|15.1440386|145.7601157|||0.0|0.0
 1390471|Chalan Laolao|Populated Place|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|06/07/2022||||151013N|1454254E|15.1702778|145.715|||0.0|0.0
 1390472|Kannat Laolao|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150932N|1454452E|15.1588889|145.7477778|150932N|1454452E|15.1588889|145.7477778
@@ -200,7 +200,7 @@
 1390494|Maga|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000||Official|Board Decision|01/01/1955|150305N|1453706E|15.0513889|145.6183333|||0.0|0.0
 1390495|Mahalang|Slope|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150248N|1453719E|15.0466667|145.6219444|||0.0|0.0
 1390496|Laderan Mahalang|Cliff|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150310N|1453710E|15.0527778|145.6194444|||0.0|0.0
-1390497|As Mahettok|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151360N|1454508E|15.2333333|145.7522222|||0.0|0.0
+1390497|As Mahettok|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151400N|1454508E|15.2333333|145.7522222|||0.0|0.0
 1390498|Isleta Maigo Fahang|Island|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151522N|1454840E|15.2561111|145.8111111|||0.0|0.0
 1390499|Kanadan Makpo'|Basin|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|||||145833N|1453833E|14.9758333|145.6425|||0.0|0.0
 1390500|Saddock Mames|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151358N|1454518E|15.2327778|145.755|151358N|1454518E|15.2327778|145.755
@@ -228,7 +228,7 @@
 1390524|Puntan Muchot|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151305N|1454251E|15.2180556|145.7141667|||0.0|0.0
 1390525|Mulatu|Basin|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150223N|1453624E|15.0397222|145.6066667|||0.0|0.0
 1390526|Naftan|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000||Official|Board Decision|01/01/1955|150633N|1454447E|15.1091667|145.7463889|||0.0|0.0
-1390527|Naftan Rock|Island|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Aguijan|01/01/2000||Official|Board Decision|01/01/1944|144960N|1453149E|14.8333333|145.5302778|||0.0|0.0
+1390527|Naftan Rock|Island|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Aguijan|01/01/2000||Official|Board Decision|01/01/1944|145000N|1453149E|14.8333333|145.5302778|||0.0|0.0
 1390528|I Naftan|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|||||150644N|1454443E|15.1122222|145.7452778|||0.0|0.0
 1390529|Laderan I Naftan|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|||||150627N|1454454E|15.1075|145.7483333|||0.0|0.0
 1390530|Puntan I Naftan|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|||||150528N|1454446E|15.0911111|145.7461111|||0.0|0.0
@@ -280,7 +280,7 @@
 1390578|Sabaneta|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151659N|1454813E|15.2830556|145.8036111|||0.0|0.0
 1390579|Puntan Sabaneta|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151716N|1454832E|15.2877778|145.8088889|||0.0|0.0
 1390580|Saddok Tasi|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151334N|1454414E|15.2261111|145.7372222|||0.0|0.0
-1390581|Sagua Pakpak|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140760N|1451010E|14.1333333|145.1694444|||0.0|0.0
+1390581|Sagua Pakpak|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140800N|1451010E|14.1333333|145.1694444|||0.0|0.0
 1390582|Sailigai Hulo'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/13/2012||||140902N|1450928E|14.1505556|145.1577778|||0.0|0.0
 1390583|Saipan Island|Island|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151133N|1454453E|15.1925|145.7480556|||0.0|0.0
 1390584|Saipan Channel|Channel|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|01/01/2000||Official|Board Decision|01/01/1944|150529N|1454031E|15.0913889|145.6752778|||0.0|0.0
@@ -449,7 +449,7 @@
 1927038|District 2|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|07/17/2001|02/04/2009||||140825N|1450824E|14.1402778|145.14|||0.0|0.0
 1927039|District 2|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|07/17/2001|08/14/2023||||150843N|1454233E|15.1452986|145.7092171|||0.0|0.0
 1927040|District 2|Civil|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|07/17/2001|02/04/2009||||150234N|1453713E|15.0427778|145.6202778|||0.0|0.0
-1927041|District 3|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|07/17/2001|02/04/2009||||140760N|1450548E|14.1333333|145.0966667|||0.0|0.0
+1927041|District 3|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|07/17/2001|02/04/2009||||140800N|1450548E|14.1333333|145.0966667|||0.0|0.0
 1927042|District 3|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|07/17/2001|02/04/2009||||150841N|1454215E|15.1447222|145.7041667|||0.0|0.0
 1927043|District 4|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|07/17/2001|02/04/2009||||140704N|1451233E|14.1177778|145.2091667|||0.0|0.0
 1927044|District 4|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|07/17/2001|08/14/2023||||151430N|1454708E|15.241757|145.7854507|||0.0|0.0
@@ -477,7 +477,7 @@
 1945651|Ogo Stream|Stream|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140651N|1451108E|14.1141667|145.1855556|140651N|1451108E|14.1141667|145.1855556
 1945664|Rugi (historical)|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|06/07/2022||||141025N|1451600E|14.1736111|145.2666667|||0.0|0.0
 1945668|Shinaparu (historical)|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|06/07/2022||||141001N|1451428E|14.1669444|145.2411111|||0.0|0.0
-1945669|Sinapalo|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|06/07/2022||||140954N|1451360E|14.165|145.2333333|||0.0|0.0
+1945669|Sinapalo|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|06/07/2022||||140954N|1451400E|14.165|145.2333333|||0.0|0.0
 1945671|Takucho (historical)|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|06/07/2022||||140954N|1450945E|14.165|145.1625|||0.0|0.0
 1945672|Taruga (historical)|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|06/07/2022||||141028N|1451232E|14.1744444|145.2088889|||0.0|0.0
 1945673|Tatgua (historical)|Populated Place|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|06/07/2022||||141027N|1451153E|14.1741667|145.1980556|||0.0|0.0
@@ -620,7 +620,7 @@
 2631757|Village of Navy Hill|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|08/30/2010|08/10/2023||||151245N|1454355E|15.2125978|145.7320239|||0.0|0.0
 2631758|Village of Northern Tinian|Civil|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|08/30/2010|08/10/2023||||150342N|1453754E|15.0615838|145.6315464|||0.0|0.0
 2631759|Village of Opyan|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|08/30/2010|08/10/2023||||150634N|1454324E|15.1095635|145.723338|||0.0|0.0
-2631760|Village of Pagan|Civil|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Pagan Island|08/30/2010|08/10/2023||||180660N|1454600E|18.1165824|145.7667667|||0.0|0.0
+2631760|Village of Pagan|Civil|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Pagan Island|08/30/2010|08/10/2023||||180700N|1454600E|18.1165824|145.7667667|||0.0|0.0
 2631761|Village of Papago|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|08/30/2010|08/11/2023||||151038N|1454453E|15.1771846|145.7481608|||0.0|0.0
 2631762|Village of Pekngasu|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|08/30/2010|08/10/2023||||141139N|1451432E|14.1940447|145.2421726|||0.0|0.0
 2631763|Village of Pidos Kahalo|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|08/30/2010|08/10/2023||||151627N|1454825E|15.2741141|145.8069937|||0.0|0.0
@@ -633,7 +633,7 @@
 2631770|Village of San Jose (Tinian Municipality)|Civil|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE SW|08/30/2010|08/10/2023||||145809N|1453729E|14.9692365|145.6247067|||0.0|0.0
 2631771|Village of San Roque|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|08/30/2010|08/10/2023||||151455N|1454633E|15.2485732|145.7757068|||0.0|0.0
 2631772|Village of San Vicente|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|08/30/2010|08/10/2023||||150912N|1454425E|15.1534577|145.740228|||0.0|0.0
-2631773|Village of Sayan Gigani|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|08/30/2010|08/10/2023||||141060N|1451254E|14.1833304|145.215131|||0.0|0.0
+2631773|Village of Sayan Gigani|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|08/30/2010|08/10/2023||||141100N|1451254E|14.1833304|145.215131|||0.0|0.0
 2631774|Village of Sinapalo|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|08/30/2010|08/10/2023||||141032N|1451404E|14.1754844|145.2345704|||0.0|0.0
 2631775|Village of Songsong|Civil|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|08/30/2010|08/10/2023||||140826N|1450830E|14.1406035|145.1415975|||0.0|0.0
 2631776|Village of Susupe|Civil|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|08/30/2010|08/09/2023||||150925N|1454233E|15.1568093|145.7090484|||0.0|0.0

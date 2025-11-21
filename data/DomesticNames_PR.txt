@@ -85,7 +85,7 @@
 1609546|Arrecife Media Luna|Bar|Puerto Rico|72|Lajas|079|Parguera|02/13/1981|||||175619N|0670246W|17.938578|-67.0460107|||0.0|0.0
 1609547|Arrecife Peregrina|Bar|Puerto Rico|72|Rincón|117|Rincon|02/13/1981|||||181806N|0671440W|18.301616|-67.2443475|||0.0|0.0
 1609548|Arrecife Ratones|Bar|Puerto Rico|72|Ponce|113|Punta Cucharas|02/13/1981|08/10/2015||||175706N|0664044W|17.9516348|-66.6787849|||0.0|0.0
-1609549|Arrecife Romero|Bar|Puerto Rico|72|Lajas|079|Guanica|02/13/1981|08/10/2015||||175660N|0665924W|17.9499668|-66.9898989|||0.0|0.0
+1609549|Arrecife Romero|Bar|Puerto Rico|72|Lajas|079|Guanica|02/13/1981|08/10/2015||||175700N|0665924W|17.9499668|-66.9898989|||0.0|0.0
 1609550|Arrecife Roncador|Bar|Puerto Rico|72|Fajardo|053|Cayo Icacos|02/13/1981|04/29/2011|Official|Board Decision|01/01/1958|182032N|0653653W|18.3421751|-65.6146058|||0.0|0.0
 1609551|Arrecife Sargent|Bar|Puerto Rico|72|Maunabo|095|Punta Tuna|02/13/1981|||||175901N|0655249W|17.9835788|-65.880162|||0.0|0.0
 1609552|Arrecife Unitas|Bar|Puerto Rico|72|Guayanilla|059|Punta Verraco|02/13/1981|04/29/2011|Official|Board Decision|01/01/1958|175751N|0664649W|17.9641341|-66.7801749|||0.0|0.0
@@ -122,7 +122,7 @@
 1609584|Bahía Tamarindo|Bay|Puerto Rico|72|Culebra|049|Culebra|02/13/1981|||||181903N|0651914W|18.3174559|-65.3204361|||0.0|0.0
 1609585|Bahía Yoye|Bay|Puerto Rico|72|Vieques|147|Isla De Vieques East OE S|02/13/1981|||||180705N|0652015W|18.1180198|-65.3373799|||0.0|0.0
 1609586|Bairoa|Populated Place|Puerto Rico|72|Caguas|025|Aguas Buenas|02/13/1981|01/29/2011||||181533N|0660226W|18.2591206|-66.0404432|||0.0|0.0
-1609587|Bajadero|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|06/07/2022||||182536N|0664060W|18.4266134|-66.6832302|||0.0|0.0
+1609587|Bajadero|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|06/07/2022||||182536N|0664100W|18.4266134|-66.6832302|||0.0|0.0
 1609588|Bajandas|Populated Place|Puerto Rico|72|Humacao|069|Humacao|02/13/1981|06/07/2022||||180928N|0654654W|18.1577384|-65.7815509|||0.0|0.0
 1609589|Bajo Casabe|Bar|Puerto Rico|72|Cabo Rojo|023|Cabo Rojo|02/13/1981|04/29/2011|Official|Board Decision|01/01/1958|175821N|0671325W|17.9724645|-67.2235132|||0.0|0.0
 1609590|Bajo Enmedio|Bar|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|04/29/2011|Official|Board Decision|01/01/1958|180121N|0671227W|18.0224624|-67.2074021|||0.0|0.0
@@ -155,7 +155,7 @@
 1609617|Bayamoncito|Populated Place|Puerto Rico|72|Comerío|045|Comerio|02/13/1981|06/07/2022||||181412N|0661013W|18.2366222|-66.1701673|||0.0|0.0
 1609618|Bayaney|Populated Place|Puerto Rico|72|Hatillo|065|Bayaney|02/13/1981|06/07/2022||||182209N|0664736W|18.369116|-66.7932313|||0.0|0.0
 1609619|Beatriz|Populated Place|Puerto Rico|72|Cayey|035|Caguas|02/13/1981|06/07/2022||||180928N|0660546W|18.1577366|-66.0959992|||0.0|0.0
-1609620|Beltrán|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|06/07/2022||||182027N|0653760W|18.3407862|-65.633217|||0.0|0.0
+1609620|Beltrán|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|06/07/2022||||182027N|0653800W|18.3407862|-65.633217|||0.0|0.0
 1609621|Belvedere|Populated Place|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|06/07/2022||||180529N|0671108W|18.0913483|-67.1854576|||0.0|0.0
 1609622|Benitez|Populated Place|Puerto Rico|72|Loíza|087|Gurabo|02/13/1981|06/07/2022||||181622N|0655255W|18.2727318|-65.8818304|||0.0|0.0
 1609623|Berio|Populated Place|Puerto Rico|72|Corozal|047|Corozal|02/13/1981|06/07/2022||||181614N|0662039W|18.2705097|-66.3440584|||0.0|0.0
@@ -202,7 +202,7 @@
 1609668|Cabo Noroeste|Cape|Puerto Rico|72|Mayagüez|097|Isla de Mona|02/13/1981|||||180711N|0675432W|18.1196768|-67.9087975|||0.0|0.0
 1609669|Cabo Rojo|Cape|Puerto Rico|72|Cabo Rojo|023|Cabo Rojo|02/13/1981|||||175616N|0671123W|17.9377439|-67.1896238|||0.0|0.0
 1609670|Cabo Rojo|Populated Place|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|06/07/2022||||180512N|0670845W|18.0866265|-67.1457347|||0.0|0.0
-1609671|Cabo San Juan|Cape|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|||||182160N|0653738W|18.3666184|-65.6271059|||0.0|0.0
+1609671|Cabo San Juan|Cape|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|||||182200N|0653738W|18.3666184|-65.6271059|||0.0|0.0
 1609672|Cabra de Tierra|Cape|Puerto Rico|72|Ceiba|037|Isla De Vieques West|02/13/1981|||||181240N|0653640W|18.2110697|-65.6109943|||0.0|0.0
 1609673|Cacao|Populated Place|Puerto Rico|72|Coamo|043|Coamo|02/13/1981|06/07/2022||||180654N|0662041W|18.1149604|-66.3446139|||0.0|0.0
 1609674|Caguas|Populated Place|Puerto Rico|72|Caguas|025|Caguas|02/13/1981|06/07/2022||||181403N|0660255W|18.2341217|-66.0484989|||0.0|0.0
@@ -276,7 +276,7 @@
 1609743|Caño Matos|Canal|Puerto Rico|72|Barceloneta|017|Barceloneta|02/13/1981|||||182805N|0663340W|18.4680008|-66.5610058|||0.0|0.0
 1609744|Caño Media Luna|Valley|Puerto Rico|72|Aguadilla|005|Aguadilla|02/13/1981|02/14/2017||||182405N|0670826W|18.4013508|-67.1405322|182422N|0670820W|18.4061176|-67.1389162
 1609745|Caño Merle|Stream|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981|||||181048N|0670950W|18.1799555|-67.1637909|181006N|0670819W|18.1682896|-67.138513
-1609746|Caño Norberto|Stream|Puerto Rico|72|Loíza|087|Carolina|02/13/1981|||||182415N|0655427W|18.4041144|-65.9073869|182360N|0655346W|18.399948|-65.8959979
+1609746|Caño Norberto|Stream|Puerto Rico|72|Loíza|087|Carolina|02/13/1981|||||182415N|0655427W|18.4041144|-65.9073869|182400N|0655346W|18.399948|-65.8959979
 1609747|Caño Palúdica|Stream|Puerto Rico|72|Loíza|087|Carolina|02/13/1981|||||182529N|0655327W|18.4246691|-65.8907201|182435N|0655212W|18.4096699|-65.8698865
 1609748|Caño Rodríguez|Stream|Puerto Rico|72|Río Grande|119|Rio Grande|02/13/1981|||||182418N|0654746W|18.4049484|-65.7959968|182305N|0654612W|18.3846719|-65.7698853
 1609749|Caño Salado|Gut|Puerto Rico|72|Manatí|091|Barceloneta|02/13/1981|||||182701N|0663139W|18.4502239|-66.5273942|||0.0|0.0
@@ -355,7 +355,7 @@
 1609887|Cerrillos|Populated Place|Puerto Rico|72|Ponce|113|Ponce|02/13/1981|01/29/2011||||180402N|0663412W|18.067185|-66.5698948|||0.0|0.0
 1609888|Cerrillos|Populated Place|Puerto Rico|72|Cabo Rojo|023|Mayaguez|02/13/1981|06/07/2022||||180806N|0670854W|18.1349576|-67.1482351|||0.0|0.0
 1609889|Cerro de la Bandera|Summit|Puerto Rico|72|Manatí|091|Ciales|02/13/1981|03/20/2018||||182218N|0662748W|18.3717355|-66.463289|||0.0|0.0
-1609890|Cerro de la Bandera|Summit|Puerto Rico|72|Isabela|071|Quebradillas|02/13/1981|03/10/2018||||182351N|0665860W|18.3976001|-66.98332|||0.0|0.0
+1609890|Cerro de la Bandera|Summit|Puerto Rico|72|Isabela|071|Quebradillas|02/13/1981|03/10/2018||||182351N|0665900W|18.3976001|-66.98332|||0.0|0.0
 1609891|Cerro de la Candelaria|Summit|Puerto Rico|72|San Germán|125|Rosario|02/13/1981|03/10/2018||||180850N|0670111W|18.1473609|-67.0196245|||0.0|0.0
 1609892|Cerro de la Tabla|Summit|Puerto Rico|72|Guayama|057|Cayey|02/13/1981|03/21/2018||||180306N|0660730W|18.0516068|-66.1251045|||0.0|0.0
 1609893|Cerro de las Avispas|Summit|Puerto Rico|72|Patillas|109|Yabucoa|02/13/1981|03/10/2018||||180103N|0655823W|18.0175567|-65.973093|||0.0|0.0
@@ -427,7 +427,7 @@
 1609959|Cerro Farallón|Summit|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|03/10/2018||||181420N|0661824W|18.2388439|-66.3065393|||0.0|0.0
 1609960|Cerro Franchón|Summit|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|03/10/2018||||180257N|0665642W|18.0493024|-66.9451354|||0.0|0.0
 1609961|Cerro Garau|Summit|Puerto Rico|72|Guayama|057|Cayey|02/13/1981|03/20/2018||||180113N|0661039W|18.0202597|-66.1775397|||0.0|0.0
-1609962|Cerro Garrote|Summit|Puerto Rico|72|Peñuelas|111|Penuelas|01/01/2000|02/12/2025||||180728N|0664160W|18.1244046|-66.6998963|||0.0|0.0
+1609962|Cerro Garrote|Summit|Puerto Rico|72|Peñuelas|111|Penuelas|01/01/2000|02/12/2025||||180728N|0664200W|18.1244046|-66.6998963|||0.0|0.0
 1609963|Cerro Garzas|Summit|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|03/13/2018||||181016N|0664501W|18.1710461|-66.7502836|||0.0|0.0
 1609964|Cerro Goden|Summit|Puerto Rico|72|Las Marías|083|Central La Plata|02/13/1981|03/20/2018||||181503N|0670256W|18.2508246|-67.048919|||0.0|0.0
 1609965|Cerro Gordo|Populated Place|Puerto Rico|72|Ciales|039|Ciales|02/13/1981|06/07/2022||||181808N|0662903W|18.3021747|-66.4840603|||0.0|0.0
@@ -462,7 +462,7 @@
 1609994|Cerro La Torre|Summit|Puerto Rico|72|Lares|081|Monte Guilarte|02/13/1981|03/21/2018||||181458N|0665128W|18.249396|-66.85786|||0.0|0.0
 1609995|Cerro La Torrecilla|Summit|Puerto Rico|72|Patillas|109|Yabucoa|02/13/1981|03/10/2018||||180240N|0655908W|18.0445534|-65.9855922|||0.0|0.0
 1609996|Cerro La Tuna|Summit|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|03/10/2018|Official|Board Decision|01/01/1958|180232N|0664659W|18.042191|-66.7830178|||0.0|0.0
-1609997|Cerro Lajara|Summit|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|03/17/2018||||175816N|0665660W|17.9710543|-66.9498796|||0.0|0.0
+1609997|Cerro Lajara|Summit|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|03/17/2018||||175816N|0665700W|17.9710543|-66.9498796|||0.0|0.0
 1609998|Cerro Lambedora|Summit|Puerto Rico|72|Patillas|109|Patillas|02/13/1981|03/13/2018||||180258N|0660009W|18.0493522|-66.002396|||0.0|0.0
 1609999|Cerro Las Piñas|Summit|Puerto Rico|72|Cayey|035|Caguas|02/13/1981|03/21/2018||||180909N|0660449W|18.1523894|-66.0803573|||0.0|0.0
 1610000|Cerro Lazo|Summit|Puerto Rico|72|Comerío|045|Comerio|02/13/1981|03/17/2018||||181252N|0661256W|18.2143369|-66.2155329|||0.0|0.0
@@ -573,7 +573,7 @@
 1610105|Coamo|Populated Place|Puerto Rico|72|Coamo|043|Coamo|02/13/1981|06/07/2022||||180448N|0662129W|18.0799617|-66.3579473|||0.0|0.0
 1610106|Coco|Populated Place|Puerto Rico|72|Salinas|123|Coamo|02/13/1981|06/07/2022||||180026N|0661534W|18.0071869|-66.2593344|||0.0|0.0
 1610134|Colinas de la Parguera|Populated Place|Puerto Rico|72|Lajas|079|Parguera|02/13/1981|06/07/2022||||175838N|0670330W|17.9771875|-67.0582333|||0.0|0.0
-1610135|College Park|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182260N|0660517W|18.3832824|-66.0879439|||0.0|0.0
+1610135|College Park|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182300N|0660517W|18.3832824|-66.0879439|||0.0|0.0
 1610136|Collores|Populated Place|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|06/07/2022||||180532N|0663230W|18.0921839|-66.5415612|||0.0|0.0
 1610137|Collores|Populated Place|Puerto Rico|72|Jayuya|073|Jayuya|02/13/1981|06/07/2022||||181154N|0663720W|18.1982904|-66.6221176|||0.0|0.0
 1610138|Coloso|Populated Place|Puerto Rico|72|Aguada|003|Aguadilla|02/13/1981|06/07/2022||||182255N|0670937W|18.3818915|-67.1601808|||0.0|0.0
@@ -607,7 +607,7 @@
 1610168|Coto Norte|Populated Place|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|06/07/2022||||182551N|0662624W|18.4307804|-66.4398929|||0.0|0.0
 1610170|Coto Sur|Populated Place|Puerto Rico|72|Manatí|091|Manati|02/13/1981|06/07/2022||||182508N|0662750W|18.4188364|-66.4637821|||0.0|0.0
 1610171|Country Club|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182410N|0660016W|18.4027254|-66.0043322|||0.0|0.0
-1610172|Cristina|Populated Place|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|06/07/2022||||180255N|0662960W|18.0485741|-66.4998945|||0.0|0.0
+1610172|Cristina|Populated Place|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|06/07/2022||||180255N|0663000W|18.0485741|-66.4998945|||0.0|0.0
 1610173|Cruce Dávila|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|02/13/1981|06/07/2022||||182551N|0663356W|18.4307801|-66.5654503|||0.0|0.0
 1610174|Cruce Magueyes|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|02/13/1981|06/07/2022||||182505N|0663417W|18.4180027|-66.5712837|||0.0|0.0
 1610175|Cuarta de Tierra|Populated Place|Puerto Rico|72|Ponce|113|Ponce|02/13/1981|06/07/2022||||180030N|0663217W|18.0082982|-66.5379497|||0.0|0.0
@@ -630,11 +630,11 @@
 1610192|Cuesta de las Piedras|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981|06/07/2022||||181059N|0670835W|18.1830111|-67.1429573|||0.0|0.0
 1610193|Cueva de la Julia|Bay|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|||||175747N|0665538W|17.9630223|-66.9271204|||0.0|0.0
 1610197|Culebra|Populated Place|Puerto Rico|72|Culebra|049|Culebra|02/13/1981|08/05/2011|Official|Board Decision|01/01/1950|181811N|0651804W|18.3030119|-65.3009914|||0.0|0.0
-1610198|Daguao|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181335N|0654060W|18.2263463|-65.6832172|||0.0|0.0
+1610198|Daguao|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181335N|0654100W|18.2263463|-65.6832172|||0.0|0.0
 1610199|De Diego|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182239N|0660412W|18.377449|-66.0698882|||0.0|0.0
 1610200|Delicias|Populated Place|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|06/07/2022||||180611N|0670921W|18.1030146|-67.155735|||0.0|0.0
 1610201|Descalabrado|Populated Place|Puerto Rico|72|Santa Isabel|133|Rio Descalabrado|02/13/1981|06/07/2022||||180023N|0662605W|18.0063534|-66.4346151|||0.0|0.0
-1610203|Desvío Dolores|Populated Place|Puerto Rico|72|Río Grande|119|Rio Grande|02/13/1981|06/07/2022||||182260N|0655122W|18.3832823|-65.8559973|||0.0|0.0
+1610203|Desvío Dolores|Populated Place|Puerto Rico|72|Río Grande|119|Rio Grande|02/13/1981|06/07/2022||||182300N|0655122W|18.3832823|-65.8559973|||0.0|0.0
 1610204|Divisoria|Populated Place|Puerto Rico|72|Orocovis|107|Jayuya|02/13/1981|06/07/2022||||180943N|0663038W|18.1619032|-66.5104498|||0.0|0.0
 1610205|Domingo Ruíz|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|06/07/2022||||182644N|0664055W|18.4455017|-66.6818414|||0.0|0.0
 1610206|Dominguito|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|06/07/2022||||182516N|0664453W|18.4210584|-66.7479532|||0.0|0.0
@@ -684,7 +684,7 @@
 1610250|El Pajuil|Populated Place|Puerto Rico|72|Hatillo|065|Camuy|02/13/1981|06/07/2022||||182542N|0664717W|18.4282803|-66.7879535|||0.0|0.0
 1610251|El Peñon|Summit|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|03/17/2018||||175920N|0665625W|17.9888108|-66.9402862|||0.0|0.0
 1610252|El Polvorín|Populated Place|Puerto Rico|72|Dorado|051|Vega Alta|02/13/1981|06/07/2022||||182548N|0661701W|18.4299471|-66.283502|||0.0|0.0
-1610253|El Portón|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|02/13/1981|06/07/2022||||182021N|0661160W|18.3391177|-66.1998898|||0.0|0.0
+1610253|El Portón|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|02/13/1981|06/07/2022||||182021N|0661200W|18.3391177|-66.1998898|||0.0|0.0
 1610254|El Pueblito|Populated Place|Puerto Rico|72|Manatí|091|Manati|02/13/1981|06/07/2022||||182543N|0662653W|18.4285583|-66.4479485|||0.0|0.0
 1610255|El Pueblo del Niño|Populated Place|Puerto Rico|72|Río Grande|119|Rio Grande|02/13/1981|06/07/2022||||182251N|0655114W|18.3807824|-65.8537751|||0.0|0.0
 1610256|El Pulguero|Populated Place|Puerto Rico|72|Manatí|091|Manati|02/13/1981|06/07/2022||||182736N|0662815W|18.4599457|-66.4707266|||0.0|0.0
@@ -698,7 +698,7 @@
 1610265|Cerro El Sombreito|Summit|Puerto Rico|72|Maunabo|095|Yabucoa|02/13/1981|03/10/2018||||180115N|0655252W|18.0207353|-65.8810401|||0.0|0.0
 1610266|El Torito|Summit|Puerto Rico|72|Cayey|035|Cayey|02/13/1981|03/20/2018||||180458N|0660918W|18.0826426|-66.1551253|||0.0|0.0
 1610267|El Toro|Summit|Puerto Rico|72|Las Piedras|085|El Yunque|02/13/1981|03/17/2018||||181620N|0654945W|18.2721128|-65.829246|||0.0|0.0
-1610268|El Tumbao|Populated Place|Puerto Rico|72|Guánica|055|Sabana Grande|11/01/2023|11/01/2023||||180018N|0665360W|18.004965|-66.8998984|||0.0|0.0
+1610268|El Tumbao|Populated Place|Puerto Rico|72|Guánica|055|Sabana Grande|11/01/2023|11/01/2023||||180018N|0665400W|18.004965|-66.8998984|||0.0|0.0
 1610269|El Valle|Populated Place|Puerto Rico|72|Lajas|079|San German|02/13/1981|06/07/2022||||180228N|0670320W|18.0410736|-67.055456|||0.0|0.0
 1610270|El Verde|Populated Place|Puerto Rico|72|Caguas|025|Caguas|02/13/1981|06/07/2022||||181329N|0660310W|18.2246778|-66.0526656|||0.0|0.0
 1610271|El Verde|Populated Place|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|06/07/2022||||182020N|0654933W|18.3388401|-65.825719|||0.0|0.0
@@ -818,7 +818,7 @@
 1610901|Hacienda Chesari|Populated Place|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|06/07/2022||||180656N|0664633W|18.1155159|-66.7757307|||0.0|0.0
 1610902|Hacienda Cintrona Primera|Populated Place|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|06/07/2022||||180057N|0663109W|18.0157976|-66.519061|||0.0|0.0
 1610903|Hacienda Cipriano|Populated Place|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|06/07/2022||||181420N|0670347W|18.2388427|-67.0629569|||0.0|0.0
-1610904|Hacienda Clavell|Populated Place|Puerto Rico|72|Salinas|123|Cayey|02/13/1981|06/07/2022||||180207N|0661260W|18.0352414|-66.2165561|||0.0|0.0
+1610904|Hacienda Clavell|Populated Place|Puerto Rico|72|Salinas|123|Cayey|02/13/1981|06/07/2022||||180207N|0661300W|18.0352414|-66.2165561|||0.0|0.0
 1610905|Hacienda Colom|Populated Place|Puerto Rico|72|Ciales|039|Florida|02/13/1981|06/07/2022||||181634N|0663112W|18.2760647|-66.5198943|||0.0|0.0
 1610906|Hacienda Concepción|Populated Place|Puerto Rico|72|Yauco|153|Monte Guilarte|02/13/1981|06/07/2022||||180758N|0664925W|18.1327372|-66.8235093|||0.0|0.0
 1610907|Hacienda Constancia|Populated Place|Puerto Rico|72|Las Marías|083|Maricao|02/13/1981|06/07/2022||||181243N|0665630W|18.2119002|-66.9415662|||0.0|0.0
@@ -887,7 +887,7 @@
 1610971|Hacienda Lamberti|Populated Place|Puerto Rico|72|Las Marías|083|Central La Plata|02/13/1981|06/07/2022||||181541N|0670353W|18.2613417|-67.0646236|||0.0|0.0
 1610972|Hacienda Las Magas|Populated Place|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|06/07/2022||||180615N|0663219W|18.1041278|-66.5385057|||0.0|0.0
 1610973|Hacienda Las Piñas|Populated Place|Puerto Rico|72|Yauco|153|Monte Guilarte|02/13/1981|06/07/2022||||180807N|0665154W|18.1352369|-66.8648988|||0.0|0.0
-1610974|Hacienda Lealtad|Populated Place|Puerto Rico|72|Lares|081|Maricao|02/13/1981|06/07/2022||||181360N|0665303W|18.2332883|-66.8840655|||0.0|0.0
+1610974|Hacienda Lealtad|Populated Place|Puerto Rico|72|Lares|081|Maricao|02/13/1981|06/07/2022||||181400N|0665303W|18.2332883|-66.8840655|||0.0|0.0
 1610975|Hacienda Leonor|Populated Place|Puerto Rico|72|Yauco|153|Monte Guilarte|02/13/1981|06/07/2022||||180756N|0664959W|18.1321817|-66.8329538|||0.0|0.0
 1610976|Hacienda Limón|Populated Place|Puerto Rico|72|Jayuya|073|Florida|02/13/1981|06/07/2022||||181644N|0663538W|18.2788422|-66.5937841|||0.0|0.0
 1610977|Hacienda Limón|Populated Place|Puerto Rico|72|Villalba|149|Orocovis|02/13/1981|06/07/2022||||180928N|0662643W|18.1577366|-66.4451713|||0.0|0.0
@@ -943,7 +943,7 @@
 1611028|Hacienda Rolón|Populated Place|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|06/07/2022||||181137N|0670218W|18.193567|-67.0382345|||0.0|0.0
 1611029|Hacienda Rosalí|Populated Place|Puerto Rico|72|Ponce|113|Jayuya|02/13/1981|06/07/2022||||180724N|0663440W|18.1232938|-66.5776727|||0.0|0.0
 1611030|Hacienda Rosario|Populated Place|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|06/07/2022||||180833N|0664643W|18.1424592|-66.7785085|||0.0|0.0
-1611031|Hacienda Salomé|Populated Place|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|06/07/2022||||181434N|0670460W|18.2427313|-67.0832349|||0.0|0.0
+1611031|Hacienda Salomé|Populated Place|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|06/07/2022||||181434N|0670500W|18.2427313|-67.0832349|||0.0|0.0
 1611032|Hacienda San Alberto|Populated Place|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|06/07/2022||||181235N|0664908W|18.2096783|-66.8187869|||0.0|0.0
 1611033|Hacienda San Antonio|Populated Place|Puerto Rico|72|Maricao|093|Maricao|02/13/1981|06/07/2022||||181116N|0665956W|18.1877342|-66.9987893|||0.0|0.0
 1611034|Hacienda San Carlos|Populated Place|Puerto Rico|72|Juana Díaz|075|Jayuya|02/13/1981|06/07/2022||||180810N|0663331W|18.1360711|-66.5585058|||0.0|0.0
@@ -1033,12 +1033,12 @@
 1611186|Isla Magueyes|Island|Puerto Rico|72|Lajas|079|Parguera|02/13/1981||Official|Board Decision|01/01/1967|175808N|0670239W|17.9688545|-67.0440663|||0.0|0.0
 1611187|Isla Matei|Island|Puerto Rico|72|Lajas|079|Parguera|02/13/1981|||||175804N|0670028W|17.9677437|-67.0076771|||0.0|0.0
 1611188|Isla de Mona|Island|Puerto Rico|72|Mayagüez|097|Isla de Mona|02/13/1981||Official|Board Decision|01/01/1970|180453N|0675329W|18.081345|-67.8912971|||0.0|0.0
-1611189|Isla Morrillito|Island|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|07/09/2011||||175256N|0663160W|17.8821924|-66.533226|||0.0|0.0
+1611189|Isla Morrillito|Island|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|07/09/2011||||175256N|0663200W|17.8821924|-66.533226|||0.0|0.0
 1611190|Isla Palominitos|Island|Puerto Rico|72|Fajardo|053|Cayo Icacos|02/13/1981|||||182020N|0653402W|18.3388424|-65.5671055|||0.0|0.0
 1611191|Isla Palominos|Island|Puerto Rico|72|Fajardo|053|Cayo Icacos|02/13/1981|||||182055N|0653405W|18.3485643|-65.5679389|||0.0|0.0
 1611192|Isla Piedra|Island|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182753N|0660242W|18.464667|-66.0448879|||0.0|0.0
 1611193|Isla Puerca|Island|Puerto Rico|72|Santa Isabel|133|Salinas|02/13/1981|||||175733N|0662148W|17.9591336|-66.3632247|||0.0|0.0
-1611194|Isla Verde|Island|Puerto Rico|72|Carolina|031|San Juan|02/13/1981|||||182653N|0660060W|18.4480011|-66.0165543|||0.0|0.0
+1611194|Isla Verde|Island|Puerto Rico|72|Carolina|031|San Juan|02/13/1981|||||182653N|0660100W|18.4480011|-66.0165543|||0.0|0.0
 1611195|Isleta|Populated Place|Puerto Rico|72|Moca|099|Moca|02/13/1981|06/07/2022||||182225N|0670631W|18.3735586|-67.1085134|||0.0|0.0
 1611196|Isletas de Garzas|Island|Puerto Rico|72|Vega Baja|145|Vega Alta|02/13/1981|06/01/2011|Official|Board Decision|01/01/1958|182923N|0662229W|18.4896667|-66.3746142|||0.0|0.0
 1611197|Islote|Populated Place|Puerto Rico|72|Arecibo|013|Barceloneta|02/13/1981|06/07/2022||||182909N|0663549W|18.4858161|-66.5969646|||0.0|0.0
@@ -1062,7 +1062,7 @@
 1611215|Jobos|Populated Place|Puerto Rico|72|Guayama|057|Central Aguirre|02/13/1981|06/07/2022||||175719N|0660956W|17.9552449|-66.1654442|||0.0|0.0
 1611216|Jobos|Populated Place|Puerto Rico|72|Aguadilla|005|Moca|02/13/1981|06/07/2022||||182949N|0670418W|18.4968873|-67.0715691|||0.0|0.0
 1611217|José Mercado|Populated Place|Puerto Rico|72|Caguas|025|Caguas|02/13/1981|06/07/2022||||181303N|0660126W|18.2174559|-66.0237761|||0.0|0.0
-1611218|Josefa|Populated Place|Puerto Rico|72|Guayama|057|Central Aguirre|02/13/1981|06/07/2022||||175660N|0660921W|17.9499674|-66.1557218|||0.0|0.0
+1611218|Josefa|Populated Place|Puerto Rico|72|Guayama|057|Central Aguirre|02/13/1981|06/07/2022||||175700N|0660921W|17.9499674|-66.1557218|||0.0|0.0
 1611219|Josefa|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|06/07/2022||||181844N|0653859W|18.3121765|-65.649606|||0.0|0.0
 1611220|Josefa|Populated Place|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|06/07/2022||||181633N|0670716W|18.2757852|-67.1210131|||0.0|0.0
 1611221|Joya de los Santos|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|06/07/2022||||182757N|0664412W|18.4657787|-66.7365641|||0.0|0.0
@@ -1087,7 +1087,7 @@
 1611241|La Changa|Populated Place|Puerto Rico|72|Caguas|025|Aguas Buenas|02/13/1981|06/07/2022||||181752N|0660343W|18.2977301|-66.0618325|||0.0|0.0
 1611242|La Chorrera|Valley|Puerto Rico|72|Ciales|039|Ciales|02/13/1981|02/23/2017||||181734N|0662904W|18.2926723|-66.4845079|181755N|0662920W|18.2986018|-66.4889104
 1611243|La Cordillera|Island|Puerto Rico|72|Fajardo|053|Cayo Icacos OE N|02/13/1981|||||182253N|0653359W|18.3813406|-65.5662725|||0.0|0.0
-1611244|La Covana|Valley|Puerto Rico|72|Yauco|153|Punta Verraco|02/13/1981|03/17/2018||||175856N|0665126W|17.9822949|-66.8572244|175852N|0665060W|17.980987|-66.8499598
+1611244|La Covana|Valley|Puerto Rico|72|Yauco|153|Punta Verraco|02/13/1981|03/17/2018||||175856N|0665126W|17.9822949|-66.8572244|175852N|0665100W|17.980987|-66.8499598
 1611245|La Cuchilla|Ridge|Puerto Rico|72|Cabo Rojo|023|San German|02/13/1981|03/21/2018||||180344N|0670652W|18.0621806|-67.1145818|||0.0|0.0
 1611246|La Cuesta|Populated Place|Puerto Rico|72|Hatillo|065|Camuy|02/13/1981|06/07/2022||||182507N|0664859W|18.4185584|-66.8162872|||0.0|0.0
 1611247|La Cumbre|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|02/13/1981|06/07/2022||||182136N|0660433W|18.3599498|-66.0757216|||0.0|0.0
@@ -1129,7 +1129,7 @@
 1611283|La Puntilla|Cape|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182733N|0660659W|18.459112|-66.1162774|||0.0|0.0
 1611284|La Quinta|Populated Place|Puerto Rico|72|Yauco|153|Yauco|02/13/1981|06/07/2022||||180135N|0665145W|18.0263532|-66.8623983|||0.0|0.0
 1611285|La Rambla|Populated Place|Puerto Rico|72|Ponce|113|Ponce|02/13/1981|06/07/2022||||180136N|0663601W|18.0266315|-66.6001727|||0.0|0.0
-1611286|La Romana|Populated Place|Puerto Rico|72|Arecibo|013|Barceloneta|02/13/1981|06/07/2022||||182415N|0663560W|18.404114|-66.5998952|||0.0|0.0
+1611286|La Romana|Populated Place|Puerto Rico|72|Arecibo|013|Barceloneta|02/13/1981|06/07/2022||||182415N|0663600W|18.404114|-66.5998952|||0.0|0.0
 1611287|La Silla|Summit|Puerto Rico|72|Gurabo|063|Gurabo|02/13/1981|03/17/2018||||181816N|0655915W|18.3043935|-65.9876224|||0.0|0.0
 1611288|La Silla de Calderon|Gap|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|||||180911N|0664824W|18.1530142|-66.8065645|||0.0|0.0
 1611289|La Soledad|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981|06/07/2022||||181430N|0670812W|18.2416198|-67.1365685|||0.0|0.0
@@ -1139,7 +1139,7 @@
 1611293|La Torrecilla|Summit|Puerto Rico|72|Lares|081|Monte Guilarte|02/13/1981|03/13/2018||||181418N|0665129W|18.2382649|-66.858038|||0.0|0.0
 1611294|La Tosca|Populated Place|Puerto Rico|72|Añasco|011|Rincon|02/13/1981|06/07/2022||||181752N|0671232W|18.2977279|-67.2087923|||0.0|0.0
 1611295|La Trocha|Populated Place|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|06/07/2022||||182628N|0662254W|18.4410578|-66.3815587|||0.0|0.0
-1611296|La Vega|Populated Place|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|06/07/2022||||181118N|0661860W|18.1882909|-66.316558|||0.0|0.0
+1611296|La Vega|Populated Place|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|06/07/2022||||181118N|0661900W|18.1882909|-66.316558|||0.0|0.0
 1611297|La Vega|Populated Place|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|06/07/2022||||182054N|0654608W|18.3482847|-65.768774|||0.0|0.0
 1611298|La Vega|Populated Place|Puerto Rico|72|Isabela|071|Moca|02/13/1981|06/07/2022||||182409N|0670009W|18.4024469|-67.0024009|||0.0|0.0
 1611299|La Zanja|Populated Place|Puerto Rico|72|Salinas|123|Coamo|02/13/1981|06/07/2022||||180154N|0661847W|18.0316303|-66.3129463|||0.0|0.0
@@ -1188,7 +1188,7 @@
 1611342|Laguna Rica|Lake|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|||||182707N|0662536W|18.4518905|-66.4265593|||0.0|0.0
 1611343|Laguna San José|Lake|Puerto Rico|72|Carolina|031|San Juan|02/13/1981|||||182530N|0660130W|18.4249466|-66.0248878|||0.0|0.0
 1611344|Laguna Tortuguero|Lake|Puerto Rico|72|Manatí|091|Manati|02/13/1981|||||182748N|0662629W|18.463279|-66.4412818|||0.0|0.0
-1611345|Lajas|Populated Place|Puerto Rico|72|Lajas|079|San German|02/13/1981|06/07/2022||||180260N|0670334W|18.049962|-67.059345|||0.0|0.0
+1611345|Lajas|Populated Place|Puerto Rico|72|Lajas|079|San German|02/13/1981|06/07/2022||||180300N|0670334W|18.049962|-67.059345|||0.0|0.0
 1611346|Lajas Arriba|Populated Place|Puerto Rico|72|Lajas|079|San German|02/13/1981|06/07/2022||||180215N|0670040W|18.0374628|-67.011011|||0.0|0.0
 1611347|Lamboglia|Populated Place|Puerto Rico|72|Patillas|109|Punta Tuna|02/13/1981|06/07/2022||||175853N|0655909W|17.9813556|-65.9857188|||0.0|0.0
 1611348|Lares|Populated Place|Puerto Rico|72|Lares|081|San Sebastian|02/13/1981|06/07/2022||||181741N|0665238W|18.2946746|-66.8771211|||0.0|0.0
@@ -1237,17 +1237,17 @@
 1611391|Las Piedras Chiquitas|Ridge|Puerto Rico|72|Coamo|043|Coamo|02/13/1981|03/21/2018||||180410N|0661633W|18.0695826|-66.2758335|||0.0|0.0
 1611392|Las Piñas|Populated Place|Puerto Rico|72|Juncos|077|Gurabo|02/13/1981|06/07/2022||||181506N|0655504W|18.2516214|-65.9176638|||0.0|0.0
 1611394|Las Tetas|Summit|Puerto Rico|72|Salinas|123|Cayey|02/13/1981|03/20/2018||||180536N|0661353W|18.0932918|-66.2312805|||0.0|0.0
-1611395|Las Torres|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|02/13/1981|06/07/2022||||181309N|0654960W|18.2191237|-65.8332187|||0.0|0.0
+1611395|Las Torres|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|02/13/1981|06/07/2022||||181309N|0655000W|18.2191237|-65.8332187|||0.0|0.0
 1611396|Las Tres Palmas|Summit|Puerto Rico|72|Jayuya|073|Jayuya|02/13/1981|03/17/2018||||181313N|0663303W|18.220298|-66.5506954|||0.0|0.0
 1611397|Las Tres T|Populated Place|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|06/07/2022||||182136N|0654820W|18.3599504|-65.8054411|||0.0|0.0
 1611398|Las Vegas|Populated Place|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|06/07/2022||||181107N|0670151W|18.185234|-67.0307344|||0.0|0.0
 1611399|Las Vegas|Populated Place|Puerto Rico|72|Cataño|033|Bayamon|02/13/1981|06/07/2022||||182553N|0660843W|18.4313356|-66.1451667|||0.0|0.0
 1611400|Las Viudas|Populated Place|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|06/07/2022||||180307N|0663139W|18.0519076|-66.5273945|||0.0|0.0
 1611401|Laura|Populated Place|Puerto Rico|72|Yabucoa|151|Yabucoa|02/13/1981|06/07/2022||||180417N|0655320W|18.0713524|-65.8887735|||0.0|0.0
-1611402|Lavadero|Populated Place|Puerto Rico|72|Hormigueros|067|Rosario|02/13/1981|06/07/2022||||180748N|0670560W|18.1299582|-67.0999017|||0.0|0.0
+1611402|Lavadero|Populated Place|Puerto Rico|72|Hormigueros|067|Rosario|02/13/1981|06/07/2022||||180748N|0670600W|18.1299582|-67.0999017|||0.0|0.0
 1611403|Lechuga|Populated Place|Puerto Rico|72|Hatillo|065|Camuy|02/13/1981|06/07/2022||||182705N|0664812W|18.4513349|-66.8032315|||0.0|0.0
 1611404|Leprocomio|Populated Place|Puerto Rico|72|Trujillo Alto|139|Aguas Buenas|02/13/1981|06/07/2022||||182135N|0660143W|18.3596717|-66.0284989|||0.0|0.0
-1611405|Levittown|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|02/13/1981|06/07/2022||||182660N|0661054W|18.4499458|-66.1815558|||0.0|0.0
+1611405|Levittown|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|02/13/1981|06/07/2022||||182700N|0661054W|18.4499458|-66.1815558|||0.0|0.0
 1611406|Limas|Populated Place|Puerto Rico|72|Yauco|153|Yauco|02/13/1981|06/07/2022||||180007N|0664958W|18.0019101|-66.8326756|||0.0|0.0
 1611407|Limón|Populated Place|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|06/07/2022||||181114N|0670415W|18.1871782|-67.070735|||0.0|0.0
 1611408|Limones|Populated Place|Puerto Rico|72|Naguabo|103|Fajardo|02/13/1981|06/07/2022||||181503N|0654225W|18.2507897|-65.7068285|||0.0|0.0
@@ -1275,12 +1275,12 @@
 1611430|Los Indios|Populated Place|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|06/07/2022||||180010N|0664817W|18.0027433|-66.8046198|||0.0|0.0
 1611431|Los Llanos|Populated Place|Puerto Rico|72|Coamo|043|Rio Descalabrado|02/13/1981|06/07/2022||||180319N|0662421W|18.0552406|-66.4057259|||0.0|0.0
 1611432|Los Maestros|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182421N|0660205W|18.4057809|-66.0346101|||0.0|0.0
-1611433|Los Magos|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|02/13/1981|06/07/2022||||182560N|0661121W|18.43328|-66.189056|||0.0|0.0
+1611433|Los Magos|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|02/13/1981|06/07/2022||||182600N|0661121W|18.43328|-66.189056|||0.0|0.0
 1611434|Los Molinos|Populated Place|Puerto Rico|72|Manatí|091|Manati|02/13/1981|06/07/2022||||182811N|0662910W|18.4696677|-66.4860046|||0.0|0.0
 1611435|Los Muertos|Populated Place|Puerto Rico|72|Arecibo|013|Utuado|02/13/1981|06/07/2022||||182213N|0663955W|18.3702268|-66.6651741|||0.0|0.0
 1611436|Los Naranjos|Populated Place|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|06/07/2022||||182820N|0662341W|18.4721675|-66.3946144|||0.0|0.0
 1611437|Los Negritos|Island|Puerto Rico|72|Arecibo|013|Barceloneta|02/13/1981|||||182936N|0663617W|18.4932775|-66.6046177|||0.0|0.0
-1611438|Los Pámpanos|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|02/13/1981|06/07/2022||||175954N|0663760W|17.9982997|-66.6332285|||0.0|0.0
+1611438|Los Pámpanos|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|02/13/1981|06/07/2022||||175954N|0663800W|17.9982997|-66.6332285|||0.0|0.0
 1611439|Los Peñas|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182348N|0660121W|18.3966146|-66.0223879|||0.0|0.0
 1611440|Los Penones|Summit|Puerto Rico|72|San Germán|125|Rosario|02/13/1981|03/10/2018||||180907N|0670404W|18.1519602|-67.0676596|||0.0|0.0
 1611441|Los Perros|Populated Place|Puerto Rico|72|Humacao|069|Humacao|02/13/1981|06/07/2022||||180945N|0654656W|18.1624603|-65.7821065|||0.0|0.0
@@ -1293,14 +1293,14 @@
 1611448|Lucchetti|Populated Place|Puerto Rico|72|Yauco|153|Yauco|02/13/1981|06/07/2022||||180201N|0665041W|18.0335753|-66.8446204|||0.0|0.0
 1611449|Luis Cintrón|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|06/07/2022||||181810N|0653834W|18.3027324|-65.6426615|||0.0|0.0
 1611450|Luis Llorens Torres|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182653N|0660230W|18.448001|-66.0415544|||0.0|0.0
-1611451|Luquillo|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|06/07/2022||||182221N|0654260W|18.3724507|-65.7165511|||0.0|0.0
+1611451|Luquillo|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|06/07/2022||||182221N|0654300W|18.3724507|-65.7165511|||0.0|0.0
 1611452|Luyando|Populated Place|Puerto Rico|72|Aguada|003|Rincon|02/13/1981|06/07/2022||||182152N|0670927W|18.3643923|-67.1574031|||0.0|0.0
 1611453|Mabí|Populated Place|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|06/07/2022||||182207N|0654644W|18.3685615|-65.7787742|||0.0|0.0
 1611454|Mabí|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|06/07/2022||||181838N|0654105W|18.3105097|-65.6846062|||0.0|0.0
 1611455|Macaná|Populated Place|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|06/07/2022||||180321N|0664625W|18.0557963|-66.7735086|||0.0|0.0
 1611456|Machuchal|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|06/07/2022||||180240N|0665638W|18.0444075|-66.9437878|||0.0|0.0
 1611457|Macún|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|02/13/1981|06/07/2022||||182416N|0661252W|18.4043925|-66.2143342|||0.0|0.0
-1611458|Magas Abajo|Populated Place|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|06/07/2022||||180113N|0664660W|18.0202425|-66.7832308|||0.0|0.0
+1611458|Magas Abajo|Populated Place|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|06/07/2022||||180113N|0664700W|18.0202425|-66.7832308|||0.0|0.0
 1611459|Magas Arriba|Populated Place|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|06/07/2022||||180103N|0664609W|18.0174648|-66.7690639|||0.0|0.0
 1611460|Magdalena|Populated Place|Puerto Rico|72|Salinas|123|Salinas|02/13/1981|06/07/2022||||175819N|0661649W|17.9719107|-66.2801681|||0.0|0.0
 1611461|Magnolia Gardens|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|02/13/1981|06/07/2022||||182235N|0661005W|18.3763382|-66.1679448|||0.0|0.0
@@ -1332,7 +1332,7 @@
 1611487|Martorell|Populated Place|Puerto Rico|72|Yabucoa|151|Yabucoa|02/13/1981|06/07/2022||||180434N|0655354W|18.0760744|-65.898218|||0.0|0.0
 1611488|Marueño|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|02/13/1981|06/07/2022||||180456N|0664003W|18.0821842|-66.6673958|||0.0|0.0
 1611489|Mata Redonda|Island|Puerto Rico|72|Guayama|057|Central Aguirre|02/13/1981|||||175703N|0661222W|17.9508006|-66.2060004|||0.0|0.0
-1611490|Mata y Orsini|Populated Place|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|06/07/2022||||181560N|0670447W|18.2666192|-67.0796237|||0.0|0.0
+1611490|Mata y Orsini|Populated Place|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|06/07/2022||||181600N|0670447W|18.2666192|-67.0796237|||0.0|0.0
 1611491|Matias|Populated Place|Puerto Rico|72|Aguada|003|Rincon|02/13/1981|06/07/2022||||182211N|0671328W|18.369669|-67.2243475|||0.0|0.0
 1611492|Matilde|Populated Place|Puerto Rico|72|Lares|081|Bayaney|02/13/1981|06/07/2022||||181605N|0665036W|18.2680091|-66.8432317|||0.0|0.0
 1611493|Matojillo|Populated Place|Puerto Rico|72|Camuy|027|Camuy|02/13/1981|06/07/2022||||182550N|0665051W|18.4305021|-66.8473987|||0.0|0.0
@@ -1359,7 +1359,7 @@
 1611517|Monserrate|Populated Place|Puerto Rico|72|Vega Baja|145|Vega Alta|02/13/1981|06/07/2022||||182612N|0662135W|18.4366136|-66.3596141|||0.0|0.0
 1611518|Montaña|Populated Place|Puerto Rico|72|Aguadilla|005|Moca|02/13/1981|06/07/2022||||182917N|0670557W|18.4879986|-67.0990695|||0.0|0.0
 1611519|Montaña|Populated Place|Puerto Rico|72|Arecibo|013|Florida|02/13/1981|06/07/2022||||182141N|0663624W|18.3613382|-66.6065619|||0.0|0.0
-1611520|Moñtanas Aymamón|Range|Puerto Rico|72|Isabela|071|Quebradillas|02/13/1981|03/23/2018||||182460N|0665817W|18.4166272|-66.9713708|||0.0|0.0
+1611520|Moñtanas Aymamón|Range|Puerto Rico|72|Isabela|071|Quebradillas|02/13/1981|03/23/2018||||182500N|0665817W|18.4166272|-66.9713708|||0.0|0.0
 1611521|Montañas de Corozal|Range|Puerto Rico|72|Corozal|047|Corozal|02/13/1981|03/22/2018||||181713N|0661955W|18.2869385|-66.3319118|||0.0|0.0
 1611522|Montanas de Juan Gonzalez|Range|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|03/22/2018||||181142N|0661908W|18.1950099|-66.319023|||0.0|0.0
 1611523|Montanas de Uroyan|Range|Puerto Rico|72|Las Marías|083|Rosario|02/13/1981|04/09/2020||||181333N|0670230W|18.2258396|-67.0416795|||0.0|0.0
@@ -1501,7 +1501,7 @@
 1611675|Piragua de Adentro|Island|Puerto Rico|72|Ceiba|037|Cayo Icacos|02/13/1981|||||181606N|0653153W|18.2682902|-65.5312716|||0.0|0.0
 1611676|Piragua de Afuera|Island|Puerto Rico|72|Ceiba|037|Cayo Icacos|02/13/1981|||||181622N|0653033W|18.2727346|-65.5090492|||0.0|0.0
 1611677|Pitahaya|Populated Place|Puerto Rico|72|Humacao|069|Humacao|02/13/1981|06/07/2022||||181055N|0654932W|18.1819034|-65.8254405|||0.0|0.0
-1611678|Pitahaya|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|06/07/2022||||182032N|0654260W|18.3421746|-65.716551|||0.0|0.0
+1611678|Pitahaya|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|06/07/2022||||182032N|0654300W|18.3421746|-65.716551|||0.0|0.0
 1611679|Pitahaya|Populated Place|Puerto Rico|72|Arroyo|015|Guayama|02/13/1981|06/07/2022||||175939N|0660304W|17.9941326|-66.0509978|||0.0|0.0
 1611680|Plan Bonito|Populated Place|Puerto Rico|72|Cabo Rojo|023|Mayaguez|02/13/1981|06/07/2022||||180833N|0670949W|18.1424572|-67.1635132|||0.0|0.0
 1611684|Plantaje|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|02/13/1981|06/07/2022||||182635N|0661024W|18.4430017|-66.1732225|||0.0|0.0
@@ -1517,7 +1517,7 @@
 1611694|Playa de Jaboncillo|Beach|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|||||175710N|0665416W|17.9527449|-66.9043424|||0.0|0.0
 1611695|Playa de Jauca|Beach|Puerto Rico|72|Santa Isabel|133|Salinas|02/13/1981|||||175806N|0662147W|17.9682999|-66.3629468|||0.0|0.0
 1611696|Playa de Luquillo|Beach|Puerto Rico|72|Luquillo|089|Fajardo OE N|02/13/1981|||||182310N|0654347W|18.3860611|-65.729607|||0.0|0.0
-1611697|Playa de Naguabo|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181125N|0654260W|18.1902368|-65.7165503|||0.0|0.0
+1611697|Playa de Naguabo|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181125N|0654300W|18.1902368|-65.7165503|||0.0|0.0
 1611698|Playa de Ponce|Populated Place|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|06/07/2022||||175855N|0663715W|17.9819114|-66.6207283|||0.0|0.0
 1611699|Playa de Salinas|Populated Place|Puerto Rico|72|Santa Isabel|133|Salinas|02/13/1981|06/07/2022||||175745N|0661802W|17.9624666|-66.3004461|||0.0|0.0
 1611700|Playa de Santa Isabel|Populated Place|Puerto Rico|72|Santa Isabel|133|Santa Isabel|02/13/1981|06/07/2022||||175719N|0662434W|17.9552446|-66.4093364|||0.0|0.0
@@ -1585,7 +1585,7 @@
 1611768|Punta Batería|Cape|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|06/10/2011|Official|Board Decision|02/06/1958|182038N|0653751W|18.3438416|-65.630717|||0.0|0.0
 1611769|Punta Boca Juana|Cape|Puerto Rico|72|Dorado|051|Vega Alta|02/13/1981|06/25/2011|Official|Board Decision|01/01/1958|182837N|0661517W|18.4768896|-66.2546123|||0.0|0.0
 1611770|Punta Boca Morena|Cape|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981||Official|Board Decision|01/01/1966|181245N|0670932W|18.2124541|-67.1587909|||0.0|0.0
-1611771|Punta Boquilla|Cape|Puerto Rico|72|Manatí|091|Manati|02/13/1981|03/21/2013||||182837N|0662960W|18.4768896|-66.4998937|||0.0|0.0
+1611771|Punta Boquilla|Cape|Puerto Rico|72|Manatí|091|Manati|02/13/1981|03/21/2013||||182837N|0663000W|18.4768896|-66.4998937|||0.0|0.0
 1611772|Punta Borinquen|Cape|Puerto Rico|72|Aguadilla|005|Aguadilla|02/13/1981|||||182843N|0671008W|18.4785538|-67.1687922|||0.0|0.0
 1611773|Punta Brava|Populated Place|Puerto Rico|72|Ponce|113|Ponce|02/13/1981|06/07/2022||||180021N|0663201W|18.0057983|-66.5335054|||0.0|0.0
 1611774|Punta Brava|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|02/13/1981|06/07/2022||||182419N|0661012W|18.4052258|-66.1698892|||0.0|0.0
@@ -1594,7 +1594,7 @@
 1611777|Punta Brea|Cape|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|08/10/2015||||175555N|0665511W|17.9319125|-66.9196202|||0.0|0.0
 1611778|Punta Caballo|Cape|Puerto Rico|72|Vieques|147|Isla De Vieques West|02/13/1981|||||180809N|0653012W|18.1357959|-65.503215|||0.0|0.0
 1611779|Punta Cabullones|Cape|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|08/10/2015|Official|Board Decision|01/01/1979|175743N|0663504W|17.9619121|-66.5843386|||0.0|0.0
-1611780|Punta Cadena|Cape|Puerto Rico|72|Rincón|117|Rincon|02/13/1981|||||181760N|0671407W|18.2999496|-67.235181|||0.0|0.0
+1611780|Punta Cadena|Cape|Puerto Rico|72|Rincón|117|Rincon|02/13/1981|||||181800N|0671407W|18.2999496|-67.235181|||0.0|0.0
 1611781|Punta Caigo o no Caigo|Cape|Puerto Rico|72|Mayagüez|097|Isla de Mona|02/13/1981|09/06/2013||||180313N|0675349W|18.0534788|-67.896924|||0.0|0.0
 1611782|Punta Candelero|Cape|Puerto Rico|72|Humacao|069|Punta Guayanes|02/13/1981|||||180528N|0654722W|18.091075|-65.7893279|||0.0|0.0
 1611783|Punta Cangrejos|Cape|Puerto Rico|72|Loíza|087|Carolina|02/13/1981|||||182735N|0655928W|18.4596674|-65.9909987|||0.0|0.0
@@ -1614,7 +1614,7 @@
 1611797|Punta Cueva de Ayala|Cape|Puerto Rico|72|Lajas|079|Parguera|02/13/1981|||||175733N|0670440W|17.9591323|-67.0776779|||0.0|0.0
 1611798|Punta Embarcadero|Cape|Puerto Rico|72|Luquillo|089|Fajardo OE N|02/13/1981|||||182321N|0654344W|18.3891165|-65.7287737|||0.0|0.0
 1611799|Punta Ensenada|Cape|Puerto Rico|72|Rincón|117|Rincon OE W|02/13/1981|||||182040N|0671538W|18.3443916|-67.2604583|||0.0|0.0
-1611800|Punta Escambron|Cape|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182760N|0660512W|18.4666115|-66.0865548|||0.0|0.0
+1611800|Punta Escambron|Cape|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182800N|0660512W|18.4666115|-66.0865548|||0.0|0.0
 1611801|Punta Este|Cape|Puerto Rico|72|Mayagüez|097|Isla de Mona OE E|02/13/1981|03/21/2013||||180451N|0675105W|18.0808755|-67.8513908|||0.0|0.0
 1611802|Punta Fajardo|Cape|Puerto Rico|72|Fajardo|053|Fajardo|02/13/1981|09/06/2011|Official|Board Decision|01/01/1958|181954N|0653737W|18.3316199|-65.6268281|||0.0|0.0
 1611803|Punta Figueras|Cape|Puerto Rico|72|Ceiba|037|Cayo Icacos|02/13/1981|||||181650N|0653730W|18.280511|-65.6248836|||0.0|0.0
@@ -1665,7 +1665,7 @@
 1611848|Punta Peñones|Cape|Puerto Rico|72|Lajas|079|Parguera|02/13/1981|||||175740N|0670010W|17.9610775|-67.0026769|||0.0|0.0
 1611849|Punta Pera|Cape|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|||||175755N|0665535W|17.9652444|-66.9262871|||0.0|0.0
 1611850|Punta Percha|Cape|Puerto Rico|72|Río Grande|119|Rio Grande|02/13/1981|||||182352N|0654545W|18.3977269|-65.7623853|||0.0|0.0
-1611851|Punta Pescadores|Cape|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|08/10/2015||||175660N|0665435W|17.9499672|-66.9096202|||0.0|0.0
+1611851|Punta Pescadores|Cape|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|08/10/2015||||175700N|0665435W|17.9499672|-66.9096202|||0.0|0.0
 1611852|Punta Petrona|Cape|Puerto Rico|72|Santa Isabel|133|Santa Isabel|02/13/1981|||||175619N|0662311W|17.9385788|-66.3862806|||0.0|0.0
 1611853|Punta Picua|Cape|Puerto Rico|72|Río Grande|119|Rio Grande|02/13/1981|||||182433N|0654630W|18.4091151|-65.7748855|||0.0|0.0
 1611854|Punta Piedrita|Cape|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182726N|0660357W|18.4571674|-66.0657213|||0.0|0.0
@@ -1685,7 +1685,7 @@
 1611868|Punta Tuna|Cape|Puerto Rico|72|Maunabo|095|Punta Tuna|02/13/1981|||||175918N|0655306W|17.9883007|-65.8848843|||0.0|0.0
 1611869|Punta Uvero|Cape|Puerto Rico|72|Loíza|087|Rio Grande|02/13/1981|||||182558N|0655014W|18.4327244|-65.8371084|||0.0|0.0
 1611870|Punta Vacia Talega|Cape|Puerto Rico|72|Loíza|087|Carolina|02/13/1981|||||182707N|0655422W|18.45189|-65.9059981|||0.0|0.0
-1611871|Punta Vaquero|Cape|Puerto Rico|72|Guayanilla|059|Punta Verraco|02/13/1981|08/10/2015||||175660N|0665019W|17.9499679|-66.8385084|||0.0|0.0
+1611871|Punta Vaquero|Cape|Puerto Rico|72|Guayanilla|059|Punta Verraco|02/13/1981|08/10/2015||||175700N|0665019W|17.9499679|-66.8385084|||0.0|0.0
 1611872|Punta Ventana|Cape|Puerto Rico|72|Guayanilla|059|Punta Verraco|02/13/1981|08/10/2015||||175747N|0664838W|17.963023|-66.8104528|||0.0|0.0
 1611873|Punta Verraco|Cape|Puerto Rico|72|Guayanilla|059|Punta Verraco|02/13/1981|08/10/2015||||175831N|0664730W|17.9752446|-66.7915639|||0.0|0.0
 1611874|Punta Viento|Cape|Puerto Rico|72|Patillas|109|Punta Tuna|02/13/1981|||||175805N|0655836W|17.9680229|-65.976552|||0.0|0.0
@@ -1761,7 +1761,7 @@
 1611944|Quebrada Algarrobo|Valley|Puerto Rico|72|Coamo|043|Coamo|02/13/1981|02/24/2017||||180511N|0661621W|18.0865163|-66.2726259|180637N|0661639W|18.1101572|-66.2775598
 1611945|Quebrada Algarrobo|Valley|Puerto Rico|72|Caguas|025|Caguas|02/13/1981|02/17/2017||||181412N|0660346W|18.2367818|-66.0628951|181321N|0660416W|18.2224389|-66.071104
 1611946|Quebrada Alicia|Valley|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|02/15/2017||||181022N|0661632W|18.1727396|-66.2756571|180847N|0661539W|18.1463675|-66.2609088
-1611947|Quebrada Alto Sano|Valley|Puerto Rico|72|San Sebastián|131|Central La Plata|02/13/1981|02/22/2017||||181733N|0670219W|18.2925652|-67.0386421|181760N|0670120W|18.2998983|-67.0222039
+1611947|Quebrada Alto Sano|Valley|Puerto Rico|72|San Sebastián|131|Central La Plata|02/13/1981|02/22/2017||||181733N|0670219W|18.2925652|-67.0386421|181800N|0670120W|18.2998983|-67.0222039
 1611948|Quebrada Amoros|Valley|Puerto Rico|72|Salinas|123|Central Aguirre|02/13/1981|02/22/2017||||175802N|0661230W|17.9671826|-66.2082613|175843N|0661230W|17.97863|-66.2083164
 1611949|Quebrada Anón|Valley|Puerto Rico|72|Lares|081|Bayaney|02/13/1981|02/17/2017||||181758N|0665226W|18.2995025|-66.8737702|181626N|0665240W|18.2739653|-66.8777656
 1611950|Quebrada Anón|Valley|Puerto Rico|72|Luquillo|089|El Yunque|02/13/1981|02/24/2017||||182148N|0654605W|18.3632697|-65.76802|182128N|0654504W|18.3577345|-65.7512373
@@ -1771,7 +1771,7 @@
 1611954|Quebrada Arenas|Valley|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|03/02/2017||||182250N|0662343W|18.3804177|-66.3953668|182236N|0662412W|18.3767341|-66.4032389
 1611955|Quebrada Arenas|Valley|Puerto Rico|72|Juncos|077|Juncos|02/13/1981|03/02/2017||||181354N|0655300W|18.2315824|-65.8833494|181130N|0655122W|18.1917336|-65.8559915
 1611956|Quebrada Arenas|Valley|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|03/10/2017||||181533N|0664319W|18.259082|-66.7220067|181441N|0664200W|18.2448495|-66.7000756
-1611957|Quebrada Arenas|Valley|Puerto Rico|72|Dorado|051|Vega Alta|02/13/1981|03/10/2017||||182302N|0661619W|18.3840275|-66.2720051|182060N|0661648W|18.349988|-66.280032
+1611957|Quebrada Arenas|Valley|Puerto Rico|72|Dorado|051|Vega Alta|02/13/1981|03/10/2017||||182302N|0661619W|18.3840275|-66.2720051|182100N|0661648W|18.349988|-66.280032
 1611958|Quebrada Arenas|Valley|Puerto Rico|72|Maunabo|095|Punta Tuna|02/13/1981|03/07/2017||||175927N|0655347W|17.990735|-65.8963479|180157N|0655349W|18.0325727|-65.8970468
 1611959|Quebrada Arenas Chiquita|Valley|Puerto Rico|72|San Lorenzo|129|Yabucoa|02/13/1981|03/02/2017||||180728N|0655854W|18.1244095|-65.9817763|180653N|0655801W|18.1147491|-65.9668087
 1611960|Quebrada Arriba|Valley|Puerto Rico|72|Patillas|109|Patillas|02/13/1981|03/04/2017||||180308N|0660257W|18.0522577|-66.0492273|180322N|0660511W|18.0562035|-66.0863718
@@ -1792,9 +1792,9 @@
 1611975|Quebrada Bocaforma|Valley|Puerto Rico|72|Canóvanas|029|Carolina|02/13/1981|02/22/2017||||182302N|0655417W|18.3838915|-65.9048521|182135N|0655429W|18.3598205|-65.908007
 1611976|Quebrada Bocana|Valley|Puerto Rico|72|Cidra|041|Comerio|02/13/1981|02/24/2017||||180853N|0661136W|18.147999|-66.1934061|180932N|0661129W|18.1587622|-66.1913426
 1611977|Quebrada Boquerón|Valley|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|03/07/2017||||180127N|0671023W|18.0240407|-67.1731616|180208N|0670828W|18.0356876|-67.1410487
-1611978|Quebrada Botija|Valley|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|03/03/2017||||181160N|0654132W|18.1999847|-65.6922809|181340N|0654321W|18.2277523|-65.7224032
+1611978|Quebrada Botija|Valley|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|03/03/2017||||181200N|0654132W|18.1999847|-65.6922809|181340N|0654321W|18.2277523|-65.7224032
 1611979|Quebrada Brujas|Valley|Puerto Rico|72|Lares|081|San Sebastian|02/13/1981|03/09/2017||||181623N|0665428W|18.273179|-66.9078628|181609N|0665427W|18.2691889|-66.9074251
-1611980|Quebrada Buena Vista|Valley|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|03/09/2017||||182408N|0660360W|18.4022819|-66.0665867|182237N|0660414W|18.3769371|-66.070626
+1611980|Quebrada Buena Vista|Valley|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|03/09/2017||||182408N|0660400W|18.4022819|-66.0665867|182237N|0660414W|18.3769371|-66.070626
 1611981|Quebrada Burgos|Valley|Puerto Rico|72|Bayamón|021|Naranjito|02/13/1981|03/03/2017||||182101N|0660923W|18.3502741|-66.1563037|182026N|0660927W|18.3406027|-66.1575506
 1611982|Quebrada Caguabo|Valley|Puerto Rico|72|Añasco|011|Rincon|02/13/1981|03/08/2017||||181748N|0671314W|18.2967704|-67.2204472|181819N|0671244W|18.3052327|-67.2121987
 1611983|Quebrada Caimital|Valley|Puerto Rico|72|Guayama|057|Guayama|02/13/1981|03/01/2017||||175917N|0660522W|17.9880483|-66.0893103|180111N|0660530W|18.0197851|-66.0917978
@@ -1813,7 +1813,7 @@
 1611996|Quebrada Caracoles|Valley|Puerto Rico|72|Yauco|153|Yauco|02/13/1981|03/10/2017||||180645N|0664954W|18.1124506|-66.8316405|180755N|0665010W|18.1319123|-66.836116
 1611997|Quebrada Caricosa|Valley|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|03/08/2017||||181223N|0670725W|18.2065063|-67.1235891|181117N|0670513W|18.1881584|-67.0869661
 1611998|Quebrada Carmen|Valley|Puerto Rico|72|Cayey|035|Cayey|02/13/1981|02/22/2017||||180255N|0661152W|18.0485902|-66.1976471|180213N|0660850W|18.0370186|-66.1473214
-1611999|Quebrada Casanga|Valley|Puerto Rico|72|San Germán|125|San German|02/13/1981|03/09/2017||||180618N|0670160W|18.1049776|-67.033255|180621N|0670038W|18.1058694|-67.0104303
+1611999|Quebrada Casanga|Valley|Puerto Rico|72|San Germán|125|San German|02/13/1981|03/09/2017||||180618N|0670200W|18.1049776|-67.033255|180621N|0670038W|18.1058694|-67.0104303
 1612000|Quebrada Casanova|Valley|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|03/08/2017||||181401N|0670711W|18.2335637|-67.1195895|181327N|0670610W|18.2242861|-67.1026506
 1612001|Quebrada Cataño|Valley|Puerto Rico|72|Humacao|069|Humacao|02/13/1981|03/01/2017||||180803N|0654813W|18.134053|-65.8035142|180642N|0655028W|18.111699|-65.841239
 1612002|Quebrada Cedrito|Valley|Puerto Rico|72|Comerío|045|Naranjito|02/13/1981|03/03/2017||||181558N|0661220W|18.2662054|-66.2055388|181550N|0661126W|18.263779|-66.1904749
@@ -1832,10 +1832,10 @@
 1612015|Quebrada Chiquita|Valley|Puerto Rico|72|Añasco|011|Rincon|02/13/1981|03/08/2017||||181540N|0670807W|18.2610978|-67.1352204|181459N|0670650W|18.2496701|-67.1137786
 1612016|Quebrada Chorrera|Valley|Puerto Rico|72|Juana Díaz|075|Ponce|02/13/1981|03/07/2017||||180442N|0663031W|18.0783033|-66.5085918|180439N|0663107W|18.0776315|-66.5185973
 1612017|Quebrada Ciénaga|Valley|Puerto Rico|72|Naranjito|105|Naranjito|02/13/1981|03/03/2017||||181626N|0661310W|18.2739469|-66.2195632|181516N|0661411W|18.2543299|-66.2365195
-1612018|Quebrada Cimarrona|Valley|Puerto Rico|72|Manatí|091|Barceloneta|02/13/1981|02/15/2017||||182535N|0663137W|18.4264365|-66.5269272|182260N|0663417W|18.3833325|-66.5712994
+1612018|Quebrada Cimarrona|Valley|Puerto Rico|72|Manatí|091|Barceloneta|02/13/1981|02/15/2017||||182535N|0663137W|18.4264365|-66.5269272|182300N|0663417W|18.3833325|-66.5712994
 1612019|Quebrada Cimarrona|Valley|Puerto Rico|72|Guayama|057|Central Aguirre|02/13/1981|02/22/2017||||175836N|0661039W|17.9766061|-66.1774612|180102N|0661033W|18.0171789|-66.1757333
 1612020|Quebrada Cojo Vales|Valley|Puerto Rico|72|Ciales|039|Ciales|02/13/1981|02/23/2017||||181945N|0662757W|18.3290926|-66.4658029|181853N|0662817W|18.3146334|-66.4715274
-1612021|Quebrada Cojolla|Valley|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|03/08/2017||||181360N|0670558W|18.2332624|-67.0995184|181324N|0670504W|18.2232809|-67.0843295
+1612021|Quebrada Cojolla|Valley|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|03/08/2017||||181400N|0670558W|18.2332624|-67.0995184|181324N|0670504W|18.2232809|-67.0843295
 1612022|Quebrada Collao|Valley|Puerto Rico|72|Salinas|123|Cayey|02/13/1981|02/22/2017||||180521N|0661300W|18.0892202|-66.2166805|180603N|0661349W|18.100699|-66.2301856
 1612023|Quebrada Collazo|Valley|Puerto Rico|72|San Sebastián|131|San Sebastian|02/13/1981|03/09/2017||||181939N|0665821W|18.3275236|-66.9725186|182003N|0665646W|18.3341799|-66.946013
 1612024|Quebrada Collera|Valley|Puerto Rico|72|Las Marías|083|Central La Plata|02/13/1981|02/23/2017||||181624N|0670119W|18.2734473|-67.0219554|181553N|0670145W|18.2646094|-67.0290793
@@ -1877,7 +1877,7 @@
 1612060|Quebrada El Salto|Valley|Puerto Rico|72|Manatí|091|Manati|02/13/1981|03/02/2017||||182329N|0662711W|18.3913512|-66.4529657|182228N|0662722W|18.3744218|-66.4561157
 1612061|Quebrada El Salto|Valley|Puerto Rico|72|Moca|099|Central La Plata|02/13/1981|02/23/2017||||182103N|0670251W|18.3509218|-67.0476041|182327N|0670143W|18.3909112|-67.0286304
 1612062|Quebrada El Toro|Valley|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|03/02/2017||||182312N|0662344W|18.3867413|-66.3956656|182234N|0662426W|18.376122|-66.4071419
-1612063|Quebrada Emajagua|Valley|Puerto Rico|72|Maunabo|095|Punta Guayanes|02/13/1981|03/07/2017||||180024N|0655160W|18.0065902|-65.8665526|180132N|0655158W|18.0254829|-65.8661429
+1612063|Quebrada Emajagua|Valley|Puerto Rico|72|Maunabo|095|Punta Guayanes|02/13/1981|03/07/2017||||180024N|0655200W|18.0065902|-65.8665526|180132N|0655158W|18.0254829|-65.8661429
 1612064|Quebrada Emajagua|Valley|Puerto Rico|72|Ponce|113|Jayuya|02/13/1981|03/02/2017||||180821N|0663440W|18.1391018|-66.5777686|180904N|0663311W|18.1509863|-66.5531853
 1612065|Quebrada Escarcha|Valley|Puerto Rico|72|Toa Alta|135|Bayamon|02/13/1981|02/15/2017||||182257N|0661248W|18.3826142|-66.2134692|182221N|0661157W|18.3723747|-66.1991595
 1612066|Quebrada Eugenia|Valley|Puerto Rico|72|Añasco|011|Rincon|02/13/1981|03/08/2017||||181755N|0671102W|18.2985567|-67.1839187|181830N|0671103W|18.3083006|-67.1840521
@@ -1901,7 +1901,7 @@
 1612084|Quebrada Grande|Valley|Puerto Rico|72|San Lorenzo|129|Juncos|02/13/1981|03/02/2017||||180923N|0655728W|18.1562825|-65.9578875|180936N|0655634W|18.1599727|-65.9427299
 1612085|Quebrada Grande|Valley|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|02/15/2017||||181310N|0661617W|18.2193109|-66.271272|181203N|0661708W|18.2008445|-66.2856813
 1612086|Quebrada Grande|Valley|Puerto Rico|72|Orocovis|107|Ciales|02/13/1981|02/23/2017||||181625N|0662255W|18.2736926|-66.3820665|181550N|0662348W|18.2638673|-66.3967222
-1612087|Quebrada Grande|Valley|Puerto Rico|72|San Sebastián|131|San Sebastian|02/13/1981|03/09/2017||||181750N|0665560W|18.2970912|-66.9333115|181809N|0665520W|18.3023945|-66.9221866
+1612087|Quebrada Grande|Valley|Puerto Rico|72|San Sebastián|131|San Sebastian|02/13/1981|03/09/2017||||181750N|0665600W|18.2970912|-66.9333115|181809N|0665520W|18.3023945|-66.9221866
 1612088|Quebrada Grande|Valley|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|03/10/2017||||181757N|0670247W|18.2990949|-67.0464664|181825N|0670334W|18.3070275|-67.0595408
 1612089|Quebrada Grande|Valley|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|02/28/2017||||181829N|0655021W|18.3079691|-65.8390464|181726N|0654902W|18.2905413|-65.8173382
 1612090|Quebrada Grande|Valley|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|02/28/2017||||182113N|0654916W|18.3537124|-65.8210827|181855N|0654743W|18.3153005|-65.7953247
@@ -1922,7 +1922,7 @@
 1612105|Quebrada Guayabo|Valley|Puerto Rico|72|Yabucoa|151|Yabucoa|02/13/1981|03/10/2017||||180255N|0655528W|18.0485935|-65.9243144|180325N|0655715W|18.0569715|-65.9541286
 1612106|Quebrada Guifen|Valley|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981|03/03/2017||||181051N|0670833W|18.180697|-67.142399|181027N|0670733W|18.1741198|-67.1258969
 1612107|Quebrada Hayales|Valley|Puerto Rico|72|Coamo|043|Barranquitas|02/13/1981|02/15/2017||||180924N|0662142W|18.1565485|-66.3616435|181006N|0662256W|18.168346|-66.382267
-1612108|Quebrada Helechal|Valley|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|02/15/2017||||181004N|0661860W|18.1679106|-66.316528|181028N|0662015W|18.1744581|-66.3375267
+1612108|Quebrada Helechal|Valley|Puerto Rico|72|Barranquitas|019|Barranquitas|02/13/1981|02/15/2017||||181004N|0661900W|18.1679106|-66.316528|181028N|0662015W|18.1744581|-66.3375267
 1612109|Quebrada Hicatea|Valley|Puerto Rico|72|Vega Baja|145|Manati|02/13/1981|03/02/2017||||182312N|0662455W|18.3866475|-66.4152157|182223N|0662611W|18.3730726|-66.43651
 1612110|Quebrada Higüera|Valley|Puerto Rico|72|Patillas|109|Punta Tuna|02/13/1981|03/07/2017||||175918N|0655802W|17.9883341|-65.9670925|175944N|0655710W|17.9956792|-65.9527453
 1612111|Quebrada Higüera|Valley|Puerto Rico|72|Comerío|045|Comerio|02/13/1981|02/24/2017||||181407N|0661253W|18.2353371|-66.2146982|181432N|0661602W|18.2422119|-66.2671301
@@ -1976,7 +1976,7 @@
 1612159|Quebrada La Mina|Valley|Puerto Rico|72|Cayey|035|Cayey|02/13/1981|02/22/2017||||180342N|0661053W|18.0616571|-66.1814144|180425N|0661122W|18.0736402|-66.1895517
 1612160|Quebrada La Mocha|Valley|Puerto Rico|72|Ponce|113|Jayuya|02/13/1981|03/02/2017||||180735N|0663705W|18.126505|-66.6180603|180740N|0663824W|18.1278896|-66.6398615
 1612161|Quebrada La Mona|Valley|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|02/23/2017||||181746N|0670250W|18.2960327|-67.0470865|181824N|0670251W|18.3065731|-67.0475725
-1612162|Quebrada La Mota|Valley|Puerto Rico|72|Las Marías|083|Central La Plata|02/13/1981|02/23/2017||||181523N|0670160W|18.2565219|-67.0332334|181449N|0670146W|18.2468369|-67.0294883
+1612162|Quebrada La Mota|Valley|Puerto Rico|72|Las Marías|083|Central La Plata|02/13/1981|02/23/2017||||181523N|0670200W|18.2565219|-67.0332334|181449N|0670146W|18.2468369|-67.0294883
 1612163|Quebrada La Palma|Valley|Puerto Rico|72|Salinas|123|Cayey|02/13/1981|02/22/2017||||180334N|0661423W|18.0595006|-66.2395959|180421N|0661213W|18.072394|-66.2036636
 1612164|Quebrada La Palma|Valley|Puerto Rico|72|Mayagüez|097|Rosario|02/13/1981|03/08/2017||||181027N|0670305W|18.1741982|-67.0514472|180959N|0670115W|18.1662787|-67.0208834
 1612165|Quebrada La Piedra|Valley|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|03/07/2017||||180534N|0670804W|18.0926689|-67.1343449|180410N|0670756W|18.0693104|-67.132273
@@ -1991,7 +1991,7 @@
 1612174|Quebrada Laja|Valley|Puerto Rico|72|Yabucoa|151|Punta Guayanes|02/13/1981|03/07/2017||||180307N|0655103W|18.0518739|-65.8508587|180141N|0655152W|18.0280951|-65.8644389
 1612175|Quebrada Lajas|Valley|Puerto Rico|72|San Sebastián|131|San Sebastian|02/13/1981|03/09/2017||||181840N|0665725W|18.3112317|-66.956975|181906N|0665627W|18.3182359|-66.9408531
 1612176|Quebrada Lajas|Valley|Puerto Rico|72|San Lorenzo|129|Yabucoa|02/13/1981|03/10/2017||||180653N|0655919W|18.1147354|-65.9885108|180554N|0660053W|18.0982224|-66.0146151
-1612177|Quebrada Larga|Valley|Puerto Rico|72|Añasco|011|Rincon|02/13/1981|03/08/2017||||181659N|0671019W|18.2829887|-67.1719152|181860N|0670936W|18.316622|-67.1599106
+1612177|Quebrada Larga|Valley|Puerto Rico|72|Añasco|011|Rincon|02/13/1981|03/08/2017||||181659N|0671019W|18.2829887|-67.1719152|181900N|0670936W|18.316622|-67.1599106
 1612178|Quebrada Los Canales|Valley|Puerto Rico|72|Guayanilla|059|Monte Guilarte|02/13/1981|03/03/2017||||180733N|0664705W|18.1258968|-66.784609|180809N|0664701W|18.1357614|-66.7836718
 1612179|Quebrada Las Cañas|Valley|Puerto Rico|72|San Sebastián|131|San Sebastian|02/13/1981|03/09/2017||||181617N|0665634W|18.2714894|-66.9426982|181703N|0665653W|18.2842923|-66.9480586
 1612180|Quebrada Las Chorreras|Valley|Puerto Rico|72|Aguas Buenas|007|Naranjito|02/13/1981|03/03/2017||||181647N|0660838W|18.2796365|-66.1438761|181634N|0660905W|18.2760757|-66.1513405
@@ -2097,7 +2097,7 @@
 1612280|Quebrada Palmar|Valley|Puerto Rico|72|Orocovis|107|Jayuya|02/13/1981|03/02/2017||||181350N|0663027W|18.2304841|-66.5073872|181320N|0663006W|18.2222809|-66.5017588
 1612281|Quebrada Palmarejo|Valley|Puerto Rico|72|Arroyo|015|Patillas|02/13/1981|02/12/2025||||180058N|0660319W|18.0160039|-66.0553989|180156N|0660351W|18.0322836|-66.0642913
 1612282|Quebrada Palmas Bajas|Valley|Puerto Rico|72|Guayama|057|Patillas|02/13/1981|03/06/2017||||180032N|0660658W|18.0089571|-66.1160903|180215N|0660801W|18.0375475|-66.1336752
-1612283|Quebrada Pasto|Valley|Puerto Rico|72|Utuado|141|Bayaney|02/13/1981|02/17/2017||||181839N|0664543W|18.3109543|-66.761834|181660N|0664511W|18.2832029|-66.7530448
+1612283|Quebrada Pasto|Valley|Puerto Rico|72|Utuado|141|Bayaney|02/13/1981|02/17/2017||||181839N|0664543W|18.3109543|-66.761834|181700N|0664511W|18.2832029|-66.7530448
 1612284|Quebrada Pasto Colón|Valley|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|03/03/2017||||181329N|0664659W|18.2248518|-66.7830429|181252N|0664650W|18.2144626|-66.7804942
 1612285|Quebrada Pasto Viejo|Valley|Puerto Rico|72|Cayey|035|Cayey|02/13/1981|02/22/2017||||180447N|0661256W|18.0796786|-66.2155036|180614N|0661314W|18.1037792|-66.2204547
 1612286|Quebrada Pastrana|Valley|Puerto Rico|72|Carolina|031|Gurabo|02/13/1981|03/17/2018||||182148N|0655730W|18.3633152|-65.9583312|181907N|0655706W|18.3187368|-65.9515965
@@ -2138,7 +2138,7 @@
 1612321|Quebrada Roncador|Valley|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|03/10/2017||||181513N|0664406W|18.253708|-66.7351357|181557N|0664457W|18.2659341|-66.7490636
 1612322|Quebrada Rosales|Valley|Puerto Rico|72|Ponce|113|Jayuya|02/13/1981|03/02/2017||||180820N|0663644W|18.1388259|-66.6122198|180850N|0663725W|18.1472966|-66.6235737
 1612323|Quebrada Sábalos|Valley|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981|03/03/2017||||181103N|0670940W|18.1841293|-67.1612296|181039N|0670857W|18.1775616|-67.1491905
-1612324|Quebrada Sabana Llana|Valley|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|03/10/2017||||182339N|0660019W|18.3942919|-66.0052006|182260N|0660128W|18.3832022|-66.0243734
+1612324|Quebrada Sabana Llana|Valley|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|03/10/2017||||182339N|0660019W|18.3942919|-66.0052006|182300N|0660128W|18.3832022|-66.0243734
 1612325|Quebrada Salada|Valley|Puerto Rico|72|Guayama|057|Guayama|02/13/1981|03/01/2017||||175758N|0660412W|17.9662294|-66.0700772|175858N|0660421W|17.9828982|-66.0725118
 1612326|Quebrada Salada|Valley|Puerto Rico|72|San Sebastián|131|San Sebastian|02/13/1981|03/09/2017||||181809N|0665520W|18.3025671|-66.9222288|181811N|0665442W|18.3030934|-66.9116297
 1612327|Quebrada Salada|Valley|Puerto Rico|72|San Sebastián|131|Central La Plata|02/13/1981|02/23/2017||||182050N|0670135W|18.3471928|-67.0265022|182201N|0670139W|18.3670392|-67.0274463
@@ -2158,7 +2158,7 @@
 1612341|Quebrada Seca|Populated Place|Puerto Rico|72|Ceiba|037|Naguabo|02/13/1981|06/07/2022||||181412N|0653954W|18.2366236|-65.664884|||0.0|0.0
 1612342|Quebrada Seca|Valley|Puerto Rico|72|Arecibo|013|Camuy|02/13/1981|02/22/2017||||182857N|0664548W|18.4826164|-66.763295|182803N|0664648W|18.4675644|-66.7799066
 1612343|Quebrada Solano|Valley|Puerto Rico|72|Cidra|041|Comerio|02/13/1981|02/24/2017||||181220N|0660823W|18.2055706|-66.1396113|181143N|0660952W|18.195409|-66.1643466
-1612344|Quebrada Sonadora|Valley|Puerto Rico|72|Patillas|109|Patillas|02/13/1981|03/06/2017||||180350N|0660255W|18.0639626|-66.0486856|180449N|0660160W|18.0803607|-66.0333256
+1612344|Quebrada Sonadora|Valley|Puerto Rico|72|Patillas|109|Patillas|02/13/1981|03/06/2017||||180350N|0660255W|18.0639626|-66.0486856|180449N|0660200W|18.0803607|-66.0333256
 1612345|Quebrada Sonadora|Valley|Puerto Rico|72|Caguas|025|Caguas|02/13/1981|02/22/2017||||181040N|0660355W|18.1778284|-66.0653828|180907N|0660411W|18.1520359|-66.069594
 1612346|Quebrada Sonadora|Valley|Puerto Rico|72|Naguabo|103|Humacao|02/13/1981|03/02/2017||||181258N|0654746W|18.2161026|-65.7962369|181440N|0654857W|18.2443637|-65.8158867
 1612347|Quebrada Sonadora|Valley|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|02/28/2017||||181937N|0654923W|18.3270465|-65.8230187|181845N|0654750W|18.3124422|-65.7971387
@@ -2215,9 +2215,9 @@
 1612400|Represa de San Germán|Reservoir|Puerto Rico|72|San Germán|125|Rosario|02/13/1981|11/18/2014||||180733N|0670024W|18.1258825|-67.0067174|||0.0|0.0
 1612401|Represa de San Juan|Reservoir|Puerto Rico|72|Aguas Buenas|007|Naranjito|02/13/1981|||||181640N|0660822W|18.2777315|-66.1393336|||0.0|0.0
 1612403|Reunión|Populated Place|Puerto Rico|72|Guayama|057|Central Aguirre|02/13/1981|06/07/2022||||175720N|0660834W|17.9555228|-66.1426661|||0.0|0.0
-1612404|Rexmanor|Populated Place|Puerto Rico|72|Guayama|057|Guayama|02/13/1981|06/07/2022||||175860N|0660613W|17.9832995|-66.1034986|||0.0|0.0
+1612404|Rexmanor|Populated Place|Puerto Rico|72|Guayama|057|Guayama|02/13/1981|06/07/2022||||175900N|0660613W|17.9832995|-66.1034986|||0.0|0.0
 1612405|Rincón|Populated Place|Puerto Rico|72|Ponce|113|Ponce|02/13/1981|06/07/2022||||180253N|0663238W|18.048019|-66.5437835|||0.0|0.0
-1612406|Rincón|Populated Place|Puerto Rico|72|Rincón|117|Rincon|02/13/1981|06/07/2022||||182025N|0671460W|18.3402252|-67.2499027|||0.0|0.0
+1612406|Rincón|Populated Place|Puerto Rico|72|Rincón|117|Rincon|02/13/1981|06/07/2022||||182025N|0671500W|18.3402252|-67.2499027|||0.0|0.0
 1612407|Rincón Grande|Summit|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|03/21/2018||||182819N|0663903W|18.4720086|-66.6508378|||0.0|0.0
 1612408|Río|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|02/13/1981|06/07/2022||||181341N|0655132W|18.228012|-65.8587746|||0.0|0.0
 1612409|Rio de la Ciénaga|Stream|Puerto Rico|72|Adjuntas|001|Adjuntas|02/13/1981|||||180920N|0664252W|18.1555144|-66.7143408|180809N|0664209W|18.135793|-66.7023962
@@ -2227,7 +2227,7 @@
 1612413|Río de las Vacas|Stream|Puerto Rico|72|Ciales|039|Florida|02/13/1981|||||181516N|0663320W|18.254399|-66.5554503|181519N|0663237W|18.2552323|-66.5435058
 1612414|Río de las Vegas|Stream|Puerto Rico|72|San Lorenzo|129|Yabucoa|02/13/1981|||||180625N|0655637W|18.1069061|-65.9434965|180549N|0655835W|18.0969065|-65.9762748
 1612415|Río de Aibonito|Stream|Puerto Rico|72|Aibonito|009|Barranquitas|02/13/1981|||||180956N|0661734W|18.165514|-66.2926688|180709N|0661413W|18.1191269|-66.2368344
-1612416|Río de Apeadero|Stream|Puerto Rico|72|Patillas|109|Guayama|02/13/1981|||||175929N|0660028W|17.991355|-66.0076637|180160N|0655852W|18.0332981|-65.9809969
+1612416|Río de Apeadero|Stream|Puerto Rico|72|Patillas|109|Guayama|02/13/1981|||||175929N|0660028W|17.991355|-66.0076637|180200N|0655852W|18.0332981|-65.9809969
 1612417|Río de Caguana|Stream|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|||||181802N|0664220W|18.3005078|-66.7054521|181617N|0664529W|18.2713424|-66.7579527
 1612418|Río del Cristal|Stream|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|||||181851N|0654346W|18.3141202|-65.7293289|181746N|0654421W|18.2960654|-65.7390512
 1612419|Río del Ingenio|Stream|Puerto Rico|72|Yabucoa|151|Punta Guayanes|02/13/1981|||||180347N|0654943W|18.0630204|-65.8284949|180716N|0655313W|18.1210724|-65.8868293
@@ -2240,7 +2240,7 @@
 1612426|Río Arenas|Stream|Puerto Rico|72|Yabucoa|151|Yabucoa|02/13/1981|||||180437N|0655654W|18.0769076|-65.9482188|180315N|0655810W|18.0541307|-65.9693302
 1612427|Río Arenas|Stream|Puerto Rico|72|Las Marías|083|Central La Plata|02/13/1981|||||181644N|0670025W|18.2788413|-67.006845|181318N|0670005W|18.2216216|-67.0012893
 1612428|Río Arroyata|Stream|Puerto Rico|72|Cidra|041|Comerio|02/13/1981|||||181422N|0661232W|18.2394|-66.2087789|180941N|0661021W|18.1613475|-66.1723891
-1612429|Río Bairoa|Stream|Puerto Rico|72|Caguas|025|Aguas Buenas|02/13/1981|||||181552N|0660053W|18.2643982|-66.0146095|181460N|0660728W|18.2499548|-66.1243334
+1612429|Río Bairoa|Stream|Puerto Rico|72|Caguas|025|Aguas Buenas|02/13/1981|||||181552N|0660053W|18.2643982|-66.0146095|181500N|0660728W|18.2499548|-66.1243334
 1612430|Río Barbas|Stream|Puerto Rico|72|Ciales|039|Florida|02/13/1981|||||181749N|0663119W|18.2968971|-66.5218387|181537N|0663219W|18.2602321|-66.5385057
 1612431|Río Bauta|Stream|Puerto Rico|72|Morovis|101|Ciales|02/13/1981|||||181816N|0662724W|18.3043969|-66.4565599|181033N|0662230W|18.1757915|-66.3748924
 1612432|Río Bayagán|Stream|Puerto Rico|72|Ponce|113|Ponce|02/13/1981|||||180237N|0663509W|18.0435751|-66.5857282|180610N|0663635W|18.102739|-66.6096173
@@ -2250,7 +2250,7 @@
 1612436|Río Blanco|Stream|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|||||181107N|0654344W|18.1852372|-65.7287727|181508N|0654708W|18.2521781|-65.7854406
 1612437|Río Bonelli|Stream|Puerto Rico|72|Maricao|093|Maricao|02/13/1981|||||181057N|0665730W|18.1824568|-66.9582331|180833N|0665814W|18.1424585|-66.9704554
 1612438|Río Botijas|Stream|Puerto Rico|72|Orocovis|107|Orocovis|02/13/1981|||||181421N|0662246W|18.2391222|-66.3793367|181030N|0662218W|18.1749581|-66.3715589
-1612439|Río Bucaná|Stream|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|||||175807N|0663560W|17.9685786|-66.5998946|180236N|0663509W|18.0432973|-66.5857282
+1612439|Río Bucaná|Stream|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|||||175807N|0663600W|17.9685786|-66.5998946|180236N|0663509W|18.0432973|-66.5857282
 1612440|Río Bucarabones|Stream|Puerto Rico|72|Maricao|093|Maricao|02/13/1981|||||181323N|0665638W|18.2230108|-66.9437885|180944N|0665402W|18.16218|-66.9004548
 1612441|Río Bucarabones|Stream|Puerto Rico|72|Toa Alta|135|Bayamon|02/13/1981|||||182312N|0661440W|18.3866157|-66.2443347|182018N|0661133W|18.3382845|-66.1923897
 1612442|Río de Caguanita|Stream|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|||||181808N|0664237W|18.3021744|-66.7101744|181719N|0664304W|18.288564|-66.7176745
@@ -2288,7 +2288,7 @@
 1612474|Río Coabey|Stream|Puerto Rico|72|Utuado|141|Bayaney|02/13/1981|||||181454N|0664741W|18.2482878|-66.7946198|181352N|0664821W|18.2310663|-66.8057311
 1612475|Río Coamo|Stream|Puerto Rico|72|Santa Isabel|133|Santa Isabel|02/13/1981|||||175734N|0662542W|17.959411|-66.4282256|180906N|0662022W|18.1516257|-66.3393361
 1612476|Río Cocal|Stream|Puerto Rico|72|Dorado|051|Bayamon|02/13/1981|||||182805N|0661154W|18.4680007|-66.1982227|182718N|0661546W|18.4549459|-66.2626682
-1612477|Río Coco|Stream|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|||||180412N|0665642W|18.0699618|-66.9448991|180454N|0665460W|18.0816281|-66.9165656
+1612477|Río Coco|Stream|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|||||180412N|0665642W|18.0699618|-66.9448991|180454N|0665500W|18.0816281|-66.9165656
 1612478|Río Corcho|Stream|Puerto Rico|72|Adjuntas|001|Adjuntas|02/13/1981|||||180810N|0664034W|18.1360709|-66.6760069|180919N|0664102W|18.1552367|-66.6837848
 1612479|Río Corozal|Stream|Puerto Rico|72|Corozal|047|Corozal|02/13/1981|||||182101N|0662003W|18.3502284|-66.3340582|181723N|0661948W|18.2896755|-66.3298915
 1612480|Río Criminales|Stream|Puerto Rico|72|Utuado|141|Bayaney|02/13/1981|||||181813N|0664925W|18.3035632|-66.8235093|181443N|0664849W|18.2452323|-66.813509
@@ -2319,9 +2319,9 @@
 1612505|Río Grande|Stream|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|||||180413N|0665717W|18.0702395|-66.9546214|180853N|0665558W|18.1480139|-66.9326774
 1612506|Río Grande de Arecibo|Stream|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|||||182822N|0664238W|18.4727228|-66.7104527|181046N|0664410W|18.1794023|-66.7360078
 1612507|Río Grande de Jayuya|Stream|Puerto Rico|72|Jayuya|073|Adjuntas|02/13/1981|||||181308N|0663826W|18.218845|-66.6404511|181306N|0663525W|18.2182896|-66.5901729
-1612508|Río Grande de Manati|Stream|Puerto Rico|72|Manatí|091|Barceloneta|02/13/1981|||||182854N|0663160W|18.4816115|-66.5332275|181159N|0661949W|18.1996794|-66.3301695
+1612508|Río Grande de Manati|Stream|Puerto Rico|72|Manatí|091|Barceloneta|02/13/1981|||||182854N|0663200W|18.4816115|-66.5332275|181159N|0661949W|18.1996794|-66.3301695
 1612509|Río Grande de Patillas|Stream|Puerto Rico|72|Patillas|109|Guayama|02/13/1981|||||175846N|0660059W|17.9794111|-66.0162749|180641N|0660314W|18.1113498|-66.0537762
-1612510|Río Grande de Añasco|Stream|Puerto Rico|72|Mayagüez|097|Rincon|02/13/1981|||||181560N|0671117W|18.2666183|-67.1879583|181507N|0665427W|18.2518986|-66.9073992
+1612510|Río Grande de Añasco|Stream|Puerto Rico|72|Mayagüez|097|Rincon|02/13/1981|||||181600N|0671117W|18.2666183|-67.1879583|181507N|0665427W|18.2518986|-66.9073992
 1612511|Río Guaba|Stream|Puerto Rico|72|Las Marías|083|San Sebastian|02/13/1981|||||181512N|0665552W|18.2532874|-66.9310106|180857N|0665326W|18.149125|-66.8904547
 1612512|Río Guadiana|Stream|Puerto Rico|72|Naranjito|105|Naranjito|02/13/1981|||||181925N|0661355W|18.3235629|-66.2318346|181506N|0661519W|18.2516215|-66.2551684
 1612513|Río Guajataca|Stream|Puerto Rico|72|Isabela|071|Quebradillas|02/13/1981|||||182953N|0665728W|18.4979984|-66.9576792|181453N|0665039W|18.2480099|-66.844065
@@ -2349,7 +2349,7 @@
 1612535|Río Humacao|Stream|Puerto Rico|72|Humacao|069|Punta Guayanes|02/13/1981|||||180712N|0654652W|18.1199624|-65.7809949|180809N|0655456W|18.1357937|-65.9154407
 1612536|Río Humata|Stream|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|||||181658N|0670622W|18.2827294|-67.106013|181901N|0670747W|18.3168944|-67.1296247
 1612537|Río Icacos|Stream|Puerto Rico|72|Naguabo|103|El Yunque|02/13/1981|03/21/2013|Official|Board Decision|01/01/1968|181508N|0654709W|18.2521781|-65.7857184|181734N|0654725W|18.2926954|-65.790277
-1612538|Río Inabón|Stream|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|||||175808N|0663330W|17.9688559|-66.558227|180960N|0663430W|18.1666253|-66.5748949
+1612538|Río Inabón|Stream|Puerto Rico|72|Ponce|113|Playa De Ponce|02/13/1981|||||175808N|0663330W|17.9688559|-66.558227|181000N|0663430W|18.1666253|-66.5748949
 1612539|Río Indio|Stream|Puerto Rico|72|Vega Baja|145|Vega Alta|02/13/1981|||||182627N|0662206W|18.4407801|-66.3682253|182220N|0662345W|18.372172|-66.3957257
 1612540|Río Ingenio|Stream|Puerto Rico|72|Aguada|003|Aguadilla|02/13/1981|||||182254N|0671228W|18.3816131|-67.207681|181938N|0671005W|18.3271716|-67.1679586
 1612541|Río Jacaboa|Stream|Puerto Rico|72|Patillas|109|Punta Tuna|02/13/1981|||||175825N|0655755W|17.9735783|-65.965163|180139N|0655752W|18.027465|-65.9643299
@@ -2369,10 +2369,10 @@
 1612555|Río Limaní|Stream|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|||||181154N|0664749W|18.19829|-66.796842|180857N|0664756W|18.1491255|-66.7987867
 1612556|Río Limón|Stream|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|||||181920N|0663919W|18.3221735|-66.6551738|181425N|0663621W|18.240233|-66.6057286
 1612557|Río Limones|Stream|Puerto Rico|72|Yabucoa|151|Yabucoa|02/13/1981|||||180344N|0655250W|18.0621863|-65.88044|180634N|0655515W|18.1094061|-65.9207185
-1612558|Río Loco|Stream|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|||||175816N|0665518W|17.9710775|-66.9215649|180747N|0665460W|18.1296815|-66.9165659
+1612558|Río Loco|Stream|Puerto Rico|72|Guánica|055|Guanica|02/13/1981|||||175816N|0665518W|17.9710775|-66.9215649|180747N|0665500W|18.1296815|-66.9165659
 1612559|Río Macaná|Stream|Puerto Rico|72|Guayanilla|059|Yauco|02/13/1981|||||180023N|0664607W|18.0063542|-66.7685084|180513N|0664609W|18.086906|-66.769064
-1612560|Río Mameyes|Stream|Puerto Rico|72|Luquillo|089|Fajardo OE N|02/13/1981|||||182307N|0654460W|18.3852276|-65.7498851|181701N|0654606W|18.2835657|-65.7682182
-1612561|Río Maricao|Stream|Puerto Rico|72|Maricao|093|Rosario|02/13/1981|||||181105N|0670153W|18.1846785|-67.03129|180903N|0665860W|18.1507914|-66.9832334
+1612560|Río Mameyes|Stream|Puerto Rico|72|Luquillo|089|Fajardo OE N|02/13/1981|||||182307N|0654500W|18.3852276|-65.7498851|181701N|0654606W|18.2835657|-65.7682182
+1612561|Río Maricao|Stream|Puerto Rico|72|Maricao|093|Rosario|02/13/1981|||||181105N|0670153W|18.1846785|-67.03129|180903N|0665900W|18.1507914|-66.9832334
 1612562|Río Marín|Stream|Puerto Rico|72|Patillas|109|Patillas|02/13/1981|||||180149N|0660042W|18.0302424|-66.0115528|180354N|0660033W|18.0649632|-66.0090529
 1612563|Río Matilde|Stream|Puerto Rico|72|Ponce|113|Punta Cucharas|02/13/1981|||||175855N|0663816W|17.9819114|-66.6376731|180007N|0663825W|18.0019106|-66.6401731
 1612564|Río Matón|Stream|Puerto Rico|72|Cayey|035|Comerio|02/13/1981|||||180824N|0661237W|18.1399594|-66.2101674|180513N|0660943W|18.0869061|-66.1618332
@@ -2391,7 +2391,7 @@
 1612577|Río Palmarejo|Stream|Puerto Rico|72|Utuado|141|Florida|02/13/1981|||||181728N|0663653W|18.2910639|-66.6146176|181551N|0663728W|18.2641207|-66.6243399
 1612578|Río Pastillo|Stream|Puerto Rico|72|Ponce|113|Penuelas|02/13/1981|||||180007N|0663826W|18.0019106|-66.6404508|180650N|0664054W|18.1138494|-66.6815626
 1612579|Río Pellejas|Stream|Puerto Rico|72|Utuado|141|Adjuntas|02/13/1981|||||181349N|0664304W|18.2302333|-66.7176743|180930N|0664058W|18.1582922|-66.6826737
-1612580|Rio Piedras|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182351N|0660260W|18.397448|-66.049888|||0.0|0.0
+1612580|Rio Piedras|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182351N|0660300W|18.397448|-66.049888|||0.0|0.0
 1612581|Río Piedras|Stream|Puerto Rico|72|Añasco|011|Central La Plata|02/13/1981|||||181735N|0670635W|18.2930067|-67.1096242|181822N|0670502W|18.3060618|-67.0837906
 1612582|Río Piedras|Stream|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182520N|0660453W|18.4221694|-66.0812771|181920N|0660404W|18.3221736|-66.067666
 1612583|Río Piedras|Stream|Puerto Rico|72|Utuado|141|Bayaney|02/13/1981|||||181641N|0664949W|18.2780087|-66.830176|181359N|0664857W|18.2330106|-66.8157312
@@ -2405,7 +2405,7 @@
 1612591|Río Prieto|Stream|Puerto Rico|72|Lares|081|San Sebastian|02/13/1981|||||181512N|0665427W|18.2532874|-66.9073992|180828N|0664716W|18.1410704|-66.7876754
 1612592|Río Puerto Nuevo|Stream|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|||||182620N|0660455W|18.4388351|-66.0818326|182526N|0660558W|18.4238361|-66.0993328
 1612593|Río Roncador|Stream|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|||||181514N|0664407W|18.2538433|-66.7351746|181425N|0664558W|18.2402327|-66.7660083
-1612594|Río Rosario|Stream|Puerto Rico|72|Hormigueros|067|Mayaguez|02/13/1981|||||180746N|0670760W|18.1294025|-67.1332351|181105N|0670154W|18.1846785|-67.0315677
+1612594|Río Rosario|Stream|Puerto Rico|72|Hormigueros|067|Mayaguez|02/13/1981|||||180746N|0670800W|18.1294025|-67.1332351|181105N|0670154W|18.1846785|-67.0315677
 1612595|Río Sabana|Stream|Puerto Rico|72|Naguabo|103|El Yunque|02/13/1981|||||181537N|0654740W|18.2602332|-65.7943296|181708N|0654842W|18.2855096|-65.811552
 1612596|Río Sabana|Stream|Puerto Rico|72|Cidra|041|Comerio|02/13/1981|||||181024N|0660858W|18.1732915|-66.1493333|180933N|0660809W|18.1591254|-66.1357219
 1612597|Río Sabana|Stream|Puerto Rico|72|Luquillo|089|Fajardo OE N|02/13/1981|||||182229N|0654247W|18.374673|-65.71294|181635N|0654550W|18.2763437|-65.7637738
@@ -2422,7 +2422,7 @@
 1612608|Río Sonador|Stream|Puerto Rico|72|San Sebastián|131|Central La Plata|02/13/1981|||||182040N|0670121W|18.3443938|-67.022401|181720N|0665708W|18.2888412|-66.9521221
 1612609|Río Tallaboa|Stream|Puerto Rico|72|Peñuelas|111|Punta Cucharas|02/13/1981|||||175925N|0664410W|17.990244|-66.736008|180751N|0664255W|18.1307932|-66.7151743
 1612610|Río Tanamá|Stream|Puerto Rico|72|Arecibo|013|Arecibo|02/13/1981|||||182537N|0664213W|18.4268913|-66.7035082|181212N|0664504W|18.2032901|-66.7510081
-1612611|Río Toa Vaca|Stream|Puerto Rico|72|Villalba|149|Rio Descalabrado|02/13/1981|||||180560N|0662921W|18.0999611|-66.4890608|181013N|0662259W|18.1702361|-66.382948
+1612611|Río Toa Vaca|Stream|Puerto Rico|72|Villalba|149|Rio Descalabrado|02/13/1981|||||180600N|0662921W|18.0999611|-66.4890608|181013N|0662259W|18.1702361|-66.382948
 1612612|Río Toro|Stream|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|||||181112N|0664615W|18.186624|-66.7707306|181003N|0664512W|18.1674583|-66.7532303
 1612613|Río Toro|Stream|Puerto Rico|72|Maricao|093|Maricao|02/13/1981|||||181007N|0665229W|18.1685688|-66.8746211|180916N|0665301W|18.1544026|-66.8835102
 1612614|Río Toro Negro|Stream|Puerto Rico|72|Ciales|039|Ciales|02/13/1981|||||181743N|0662735W|18.2952306|-66.4596156|180917N|0663241W|18.1546814|-66.5446168
@@ -2438,7 +2438,7 @@
 1612624|Río Yahuecas|Stream|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|||||181030N|0664805W|18.1749576|-66.8012867|180806N|0664619W|18.1349595|-66.7718417
 1612625|Río Yauco|Stream|Puerto Rico|72|Guayanilla|059|Punta Verraco|02/13/1981|||||175855N|0664756W|17.981911|-66.7987863|180913N|0665459W|18.1535693|-66.9162883
 1612626|Río Yunes|Stream|Puerto Rico|72|Utuado|141|Florida|02/13/1981|||||181921N|0663641W|18.3224512|-66.6112843|181439N|0663453W|18.2441217|-66.5812839
-1612627|Río Zamas|Stream|Puerto Rico|72|Jayuya|073|Jayuya|02/13/1981|||||181236N|0663660W|18.2099565|-66.6165619|181031N|0663555W|18.175236|-66.5985062
+1612627|Río Zamas|Stream|Puerto Rico|72|Jayuya|073|Jayuya|02/13/1981|||||181236N|0663700W|18.2099565|-66.6165619|181031N|0663555W|18.175236|-66.5985062
 1612628|Rivera y Lomas|Populated Place|Puerto Rico|72|Naranjito|105|Corozal|02/13/1981|06/07/2022||||181939N|0661612W|18.3274516|-66.2698907|||0.0|0.0
 1612629|Riverview|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|02/13/1981|06/07/2022||||182454N|0661023W|18.4149475|-66.1729447|||0.0|0.0
 1612631|Robles|Populated Place|Puerto Rico|72|Aibonito|009|Comerio|02/13/1981|06/07/2022||||180801N|0661455W|18.1335708|-66.2485013|||0.0|0.0
@@ -2484,7 +2484,7 @@
 1612671|Jobos Saltillo|Falls|Puerto Rico|72|Utuado|141|Utuado|02/13/1981|||||181919N|0664043W|18.3218957|-66.6785074|||0.0|0.0
 1612672|Salto de Doña Juana|Falls|Puerto Rico|72|Orocovis|107|Jayuya|02/13/1981|||||181058N|0663043W|18.1827356|-66.5118387|||0.0|0.0
 1612673|Salto de Inabón|Gap|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/13/1981|12/15/2016||||180911N|0664825W|18.1529565|-66.8068456|||0.0|0.0
-1612674|Salto Máquina|Gap|Puerto Rico|72|Hatillo|065|Camuy|02/13/1981|||||182560N|0664933W|18.4332799|-66.8257317|||0.0|0.0
+1612674|Salto Máquina|Gap|Puerto Rico|72|Hatillo|065|Camuy|02/13/1981|||||182600N|0664933W|18.4332799|-66.8257317|||0.0|0.0
 1612675|Samuel Davila|Populated Place|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|06/07/2022||||182059N|0654914W|18.3496731|-65.8204412|||0.0|0.0
 1612676|San Agustín|Populated Place|Puerto Rico|72|San Germán|125|Rosario|02/13/1981|06/07/2022||||180738N|0670426W|18.1271807|-67.0737905|||0.0|0.0
 1612677|San Agustín|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182341N|0660218W|18.3946703|-66.0382213|||0.0|0.0
@@ -2492,7 +2492,7 @@
 1612679|San Antonio|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|02/13/1981|06/07/2022||||180020N|0663758W|18.0055215|-66.632673|||0.0|0.0
 1612680|San Antonio|Populated Place|Puerto Rico|72|Dorado|051|Vega Alta|02/13/1981|06/07/2022||||182656N|0661810W|18.4488351|-66.302669|||0.0|0.0
 1612681|San Antonio|Populated Place|Puerto Rico|72|Aguadilla|005|Moca|02/13/1981|06/07/2022||||182932N|0670555W|18.4921651|-67.098514|||0.0|0.0
-1612682|San Cristóbal|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181260N|0654341W|18.2166245|-65.7279396|||0.0|0.0
+1612682|San Cristóbal|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181300N|0654341W|18.2166245|-65.7279396|||0.0|0.0
 1612683|San Diego|Populated Place|Puerto Rico|72|Coamo|043|Coamo|02/13/1981|06/07/2022||||180553N|0662014W|18.0980166|-66.3371138|||0.0|0.0
 1612684|San Eladio|Populated Place|Puerto Rico|72|Naguabo|103|Humacao|02/13/1981|06/07/2022||||181249N|0654707W|18.2135689|-65.7851625|||0.0|0.0
 1612685|San Felipe|Populated Place|Puerto Rico|72|Salinas|123|Central Aguirre|02/13/1981|06/07/2022||||175813N|0661255W|17.9702441|-66.2151672|||0.0|0.0
@@ -2558,12 +2558,12 @@
 1612746|Segui|Populated Place|Puerto Rico|72|Ciales|039|Florida|02/13/1981|06/07/2022||||181833N|0663402W|18.3091186|-66.5671171|||0.0|0.0
 1612747|Segundo Castillo|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|02/13/1981|06/07/2022||||180952N|0670859W|18.1644008|-67.1496241|||0.0|0.0
 1612748|Selgas|Populated Place|Puerto Rico|72|Barceloneta|017|Florida|02/13/1981|06/07/2022||||182140N|0663359W|18.3610607|-66.5662836|||0.0|0.0
-1612749|Semil|Populated Place|Puerto Rico|72|Villalba|149|Ponce|02/13/1981|06/07/2022||||180721N|0663060W|18.1224603|-66.516561|||0.0|0.0
-1612751|Serrano|Populated Place|Puerto Rico|72|Juana Díaz|075|Playa De Ponce|02/13/1981|06/07/2022||||175933N|0662960W|17.9924647|-66.4998943|||0.0|0.0
+1612749|Semil|Populated Place|Puerto Rico|72|Villalba|149|Ponce|02/13/1981|06/07/2022||||180721N|0663100W|18.1224603|-66.516561|||0.0|0.0
+1612751|Serrano|Populated Place|Puerto Rico|72|Juana Díaz|075|Playa De Ponce|02/13/1981|06/07/2022||||175933N|0663000W|17.9924647|-66.4998943|||0.0|0.0
 1612752|Shanghai|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181228N|0654441W|18.207736|-65.7446063|||0.0|0.0
 1612753|Sierra de Naranjal|Range|Puerto Rico|72|Las Marías|083|Maricao|02/13/1981|03/23/2018||||181407N|0665940W|18.2353822|-66.9943869|||0.0|0.0
 1612754|Sierra Bayamón|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|02/13/1981|06/07/2022||||182406N|0661012W|18.4016148|-66.1698892|||0.0|0.0
-1612755|Sierra Brava|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|02/13/1981|06/07/2022||||182060N|0660537W|18.3499504|-66.0934996|||0.0|0.0
+1612755|Sierra Brava|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|02/13/1981|06/07/2022||||182100N|0660537W|18.3499504|-66.0934996|||0.0|0.0
 1612756|Sierra de Jájome|Range|Puerto Rico|72|Guayama|057|Cayey|02/13/1981|03/22/2018||||180247N|0660943W|18.046275|-66.1620403|||0.0|0.0
 1612757|Sierra de Luquillo|Range|Puerto Rico|72|Río Grande|119|El Yunque|02/13/1981|03/23/2018||||181732N|0654752W|18.2923034|-65.7978693|||0.0|0.0
 1612758|Sierra Linda|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|02/13/1981|06/07/2022||||182253N|0661053W|18.381338|-66.1812783|||0.0|0.0
@@ -2574,10 +2574,10 @@
 1612763|Sumidero|Populated Place|Puerto Rico|72|Aguas Buenas|007|Comerio|02/13/1981|06/07/2022||||181307N|0660744W|18.2185674|-66.1287777|||0.0|0.0
 1612764|Summit Hills|Populated Place|Puerto Rico|72|San Juan|127|San Juan|02/13/1981|06/07/2022||||182359N|0660611W|18.3996708|-66.102944|||0.0|0.0
 1612765|Suromar|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181116N|0654337W|18.187737|-65.7268282|||0.0|0.0
-1612766|Susúa|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|06/07/2022||||180160N|0665441W|18.0332971|-66.9112876|||0.0|0.0
+1612766|Susúa|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|02/13/1981|06/07/2022||||180200N|0665441W|18.0332971|-66.9112876|||0.0|0.0
 1612767|Tablonal|Populated Place|Puerto Rico|72|Aguada|003|Aguadilla|02/13/1981|06/07/2022||||182346N|0671001W|18.3960575|-67.1668474|||0.0|0.0
 1612768|Tablones|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181428N|0654443W|18.2410678|-65.7451624|||0.0|0.0
-1612769|Tabonuco|Populated Place|Puerto Rico|72|Lares|081|San Sebastian|02/13/1981|06/07/2022||||181660N|0665317W|18.2832861|-66.8879546|||0.0|0.0
+1612769|Tabonuco|Populated Place|Puerto Rico|72|Lares|081|San Sebastian|02/13/1981|06/07/2022||||181700N|0665317W|18.2832861|-66.8879546|||0.0|0.0
 1612770|Tallaboa|Populated Place|Puerto Rico|72|Peñuelas|111|Punta Cucharas|02/13/1981|06/07/2022||||175942N|0664259W|17.9949661|-66.7162855|||0.0|0.0
 1612771|Tallaboa Alta|Populated Place|Puerto Rico|72|Peñuelas|111|Penuelas|02/13/1981|06/07/2022||||180304N|0664201W|18.0510743|-66.7001742|||0.0|0.0
 1612772|Tallaboa Poniente|Populated Place|Puerto Rico|72|Peñuelas|111|Penuelas|02/13/1981|06/07/2022||||180155N|0664403W|18.0319086|-66.7340635|||0.0|0.0
@@ -2657,7 +2657,7 @@
 1612864|Vistamar|Populated Place|Puerto Rico|72|Carolina|031|Carolina|02/13/1981|06/07/2022||||182539N|0655844W|18.4274465|-65.9787765|||0.0|0.0
 1612865|Volcán|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|02/13/1981|06/07/2022||||182433N|0661106W|18.4091144|-66.1848894|||0.0|0.0
 1612866|Yabucoa|Populated Place|Puerto Rico|72|Yabucoa|151|Yabucoa|02/13/1981|06/07/2022||||180302N|0655246W|18.0505201|-65.8793288|||0.0|0.0
-1612867|Yauco|Populated Place|Puerto Rico|72|Yauco|153|Yauco|02/13/1981|06/07/2022||||180206N|0665060W|18.034964|-66.8498983|||0.0|0.0
+1612867|Yauco|Populated Place|Puerto Rico|72|Yauco|153|Yauco|02/13/1981|06/07/2022||||180206N|0665100W|18.034964|-66.8498983|||0.0|0.0
 1612868|Yeguada|Populated Place|Puerto Rico|72|Camuy|027|Quebradillas|02/13/1981|06/07/2022||||182845N|0665257W|18.4791109|-66.8824002|||0.0|0.0
 1612869|Yuquiyú|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|06/07/2022||||182046N|0654343W|18.3460631|-65.7284957|||0.0|0.0
 1612870|Zanja Barra|Canal|Puerto Rico|72|Yabucoa|151|Punta Guayanes|02/13/1981|||||180327N|0655130W|18.0574644|-65.8582175|||0.0|0.0
@@ -2843,7 +2843,7 @@
 1613079|Chuchilla de Bucarabones|Ridge|Puerto Rico|72|Maricao|093|Maricao|02/13/1981|03/23/2018||||181010N|0665427W|18.1693275|-66.9076326|||0.0|0.0
 1613080|Chuchilla de Hato Nuevo|Ridge|Puerto Rico|72|Gurabo|063|Gurabo|02/13/1981|03/21/2018||||181642N|0655622W|18.2782624|-65.9393107|||0.0|0.0
 1613081|Cuchilla El Duque|Ridge|Puerto Rico|72|Naguabo|103|El Yunque|02/13/1981|03/21/2018||||181607N|0654532W|18.268646|-65.7588482|||0.0|0.0
-1613082|Cuchilla Naranjo|Ridge|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|03/21/2018||||181717N|0654360W|18.2881866|-65.7333066|||0.0|0.0
+1613082|Cuchilla Naranjo|Ridge|Puerto Rico|72|Luquillo|089|Fajardo|02/13/1981|03/21/2018||||181717N|0654400W|18.2881866|-65.7333066|||0.0|0.0
 1613084|El Alto de Breñas|Summit|Puerto Rico|72|Vega Alta|143|Vega Alta|02/13/1981|03/10/2018||||182850N|0661952W|18.4804377|-66.3311064|||0.0|0.0
 1613118|Estación Naguabo|Populated Place|Puerto Rico|72|Naguabo|103|Naguabo|02/13/1981|06/07/2022||||181215N|0654347W|18.2041251|-65.7296062|||0.0|0.0
 1613119|Estación Santa Isabel|Populated Place|Puerto Rico|72|Santa Isabel|133|Santa Isabel|02/13/1981|06/07/2022||||175907N|0662359W|17.9852433|-66.3996142|||0.0|0.0
@@ -2949,7 +2949,7 @@
 1613232|Quebrada Cintrona|Valley|Puerto Rico|72|Las Marías|083|San Sebastian|02/13/1981|03/09/2017||||181630N|0665916W|18.2750736|-66.98769|181536N|0665918W|18.2599787|-66.9883132
 1613233|Quebrada Cofresí|Valley|Puerto Rico|72|Vieques|147|Isla De Vieques Central|02/13/1981|03/02/2017||||180903N|0652627W|18.1508204|-65.4407666|180821N|0652553W|18.1392011|-65.4312808
 1613234|Quebrada Colorada|Valley|Puerto Rico|72|Trujillo Alto|139|Aguas Buenas|02/13/1981|02/15/2017||||182103N|0660025W|18.3508254|-66.0069877|181936N|0660158W|18.326729|-66.0328842
-1613235|Quebrada Doña Elena|Valley|Puerto Rico|72|Comerío|045|Comerio|02/13/1981|03/03/2017||||181460N|0661227W|18.249885|-66.2074608|181501N|0661404W|18.2502418|-66.2343594
+1613235|Quebrada Doña Elena|Valley|Puerto Rico|72|Comerío|045|Comerio|02/13/1981|03/03/2017||||181500N|0661227W|18.249885|-66.2074608|181501N|0661404W|18.2502418|-66.2343594
 1613236|Quebrada El Revés|Valley|Puerto Rico|72|Orocovis|107|Barranquitas|02/13/1981|02/15/2017||||181357N|0662136W|18.2325446|-66.3600621|181438N|0662153W|18.2439906|-66.3646744
 1613237|Quebrada Farallón|Valley|Puerto Rico|72|Patillas|109|Patillas|02/13/1981|03/06/2017||||180151N|0660146W|18.0308607|-66.0294428|180244N|0660119W|18.0454884|-66.0218758
 1613238|Quebrada Fránquez|Valley|Puerto Rico|72|Morovis|101|Ciales|02/13/1981|02/23/2017||||182132N|0662542W|18.3588172|-66.4282999|181955N|0662639W|18.3318804|-66.4441432
@@ -2979,7 +2979,7 @@
 1613263|Valle de Lajas|Valley|Puerto Rico|72|Cabo Rojo|023|Puerto Real|02/13/1981|03/10/2018||||180040N|0670904W|18.0110484|-67.1510816|175932N|0665512W|17.9921823|-66.9198985
 1613264|Valle de Yabucoa|Valley|Puerto Rico|72|Yabucoa|151|Punta Guayanes|02/13/1981|03/07/2017||||180323N|0654936W|18.0563165|-65.8265826|180327N|0655515W|18.0574203|-65.9209082
 1613316|Quebrada Grande|Valley|Puerto Rico|72|Cayey|035|Patillas|02/13/1981|03/06/2017||||180609N|0660651W|18.1026134|-66.114058|180621N|0660430W|18.105815|-66.0749384
-1613317|Canal del Sur|Channel|Puerto Rico|72|Culebra|049|Culebra OE E|01/01/2000|12/06/2024||||181727N|0651460W|18.290931|-65.249949|||0.0|0.0
+1613317|Canal del Sur|Channel|Puerto Rico|72|Culebra|049|Culebra OE E|01/01/2000|12/06/2024||||181727N|0651500W|18.290931|-65.249949|||0.0|0.0
 1613318|Tlerra a Medio|Channel|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181848N|0651420W|18.3132894|-65.2387674|||0.0|0.0
 1613319|Punta Arenisca|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181840N|0651345W|18.3110673|-65.2290449|||0.0|0.0
 1613320|Bajo Camaron|Bar|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181707N|0651531W|18.2852347|-65.25849|||0.0|0.0
@@ -3012,19 +3012,19 @@
 1613355|Anegado Channel|Channel|Puerto Rico|72|Bayamón|021|San Juan|01/01/2000|||||182758N|0660614W|18.4660562|-66.1037773|||0.0|0.0
 1613356|Isla San Juan|Island|Puerto Rico|72|Bayamón|021|San Juan|01/01/2000|06/01/2011|Official|Board Decision|05/27/1958|182758N|0660614W|18.4660562|-66.1037773|||0.0|0.0
 1613357|Bajo Grouper|Bar|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181652N|0651431W|18.2810682|-65.241823|||0.0|0.0
-1613358|Bahia de Ponce|Bay|Puerto Rico|72|Ponce|113|Punta Cucharas|01/01/2000|||||175826N|0663760W|17.9738561|-66.6332285|||0.0|0.0
+1613358|Bahia de Ponce|Bay|Puerto Rico|72|Ponce|113|Punta Cucharas|01/01/2000|||||175826N|0663800W|17.9738561|-66.6332285|||0.0|0.0
 1613360|Bajo Snapper|Bay|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181734N|0651607W|18.2927344|-65.2684903|||0.0|0.0
 1613361|Canal del Oeste|Channel|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181644N|0651619W|18.2788461|-65.2718238|||0.0|0.0
 1613362|San Ildefonso|Populated Place|Puerto Rico|72|Culebra|049|Culebra OE E|01/01/2000|06/07/2022||||181827N|0651447W|18.3074562|-65.2462675|||0.0|0.0
 1613363|Canal Tiempo|Channel|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||182009N|0651415W|18.3357889|-65.2373785|||0.0|0.0
 1613364|Punta Trulla|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|06/30/2011||||182005N|0651445W|18.3346778|-65.2457119|||0.0|0.0
 1613365|Bahía de Oleaje|Bay|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|08/29/2013||||181959N|0651707W|18.3331399|-65.2852678|||0.0|0.0
-1613366|Bahía de Marejada|Bay|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181960N|0651801W|18.3332888|-65.3001581|||0.0|0.0
+1613366|Bahía de Marejada|Bay|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||182000N|0651801W|18.3332888|-65.3001581|||0.0|0.0
 1613367|Canal Pledra Stevens|Channel|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||182124N|0652021W|18.3566214|-65.3390477|||0.0|0.0
 1613368|Punta Manchita|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|08/05/2011|Official|Board Decision|06/28/1950|181930N|0651547W|18.3249557|-65.2629346|||0.0|0.0
 1613369|Roca Speck|Island|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181935N|0651550W|18.3263446|-65.263768|||0.0|0.0
 1613370|Punta Camenterio|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181827N|0651712W|18.3074562|-65.2865464|||0.0|0.0
-1613371|Punta Colorado|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|02/16/2015||||181735N|0651660W|18.2931865|-65.2832087|||0.0|0.0
+1613371|Punta Colorado|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|02/16/2015||||181735N|0651700W|18.2931865|-65.2832087|||0.0|0.0
 1613373|Playa Dinero|Beach|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|09/09/2011|Official|Board Decision|09/14/1950|181713N|0651704W|18.2869014|-65.2843241|||0.0|0.0
 1613374|Punta Aloe|Cape|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181749N|0651744W|18.296901|-65.2954356|||0.0|0.0
 1613375|Bahía Linda|Bay|Puerto Rico|72|Culebra|049|Culebra|01/01/2000|||||181747N|0651804W|18.2963455|-65.3009914|||0.0|0.0
@@ -3042,7 +3042,7 @@
 1613389|Bajo del Río|Bar|Puerto Rico|72|Fajardo|053|Fajardo|01/01/2000|04/29/2011|Official|Board Decision|02/06/1958|181949N|0653734W|18.3302311|-65.6259948|||0.0|0.0
 1613390|Piragua de Afuera|Island|Puerto Rico|72|Ceiba|037|Cayo Icacos|01/01/2000|||||181622N|0653032W|18.2727346|-65.5087715|||0.0|0.0
 1613391|Piedra del Carabinero|Cape|Puerto Rico|72|Mayagüez|097|Isla de Mona|01/01/2000||Official|Board Decision|01/01/1970|180406N|0675534W|18.0682898|-67.9260196|||0.0|0.0
-1613392|Turrumoto I|Bar|Puerto Rico|72|Lajas|079|Parguera|01/01/2000|||||175560N|0670118W|17.9333006|-67.0215658|||0.0|0.0
+1613392|Turrumoto I|Bar|Puerto Rico|72|Lajas|079|Parguera|01/01/2000|||||175600N|0670118W|17.9333006|-67.0215658|||0.0|0.0
 1613393|Bajo Chinchorro del Norte|Bar|Puerto Rico|72|Ceiba|037|Cayo Icacos|01/01/2000|||||181516N|0653045W|18.254402|-65.5123825|||0.0|0.0
 1613394|Bajo Chinchorro del Sur|Bar|Puerto Rico|72|Ceiba|037|Isla De Vieques West|01/01/2000|||||181412N|0653054W|18.2366249|-65.5148824|||0.0|0.0
 1613395|Pico Santa Ana|Summit|Puerto Rico|72|Maricao|093|Maricao|01/01/2000|03/13/2018||||180853N|0665751W|18.1481546|-66.964067|||0.0|0.0
@@ -3085,7 +3085,7 @@
 1804512|Gurabo Municipio|Civil|Puerto Rico|72|Gurabo|063|Gurabo|02/01/1999|08/09/2023||||181559N|0655845W|18.2664114|-65.9792692|||0.0|0.0
 1804513|Hatillo Municipio|Civil|Puerto Rico|72|Hatillo|065|Camuy|02/01/1999|08/09/2023||||182628N|0664752W|18.4410293|-66.7977151|||0.0|0.0
 1804514|Hormigueros Municipio|Civil|Puerto Rico|72|Hormigueros|067|Rosario|02/01/1999|08/09/2023||||180803N|0670650W|18.1341807|-67.1140223|||0.0|0.0
-1804515|Humacao Municipio|Civil|Puerto Rico|72|Humacao|069|Humacao|02/01/1999|08/09/2023||||180760N|0654716W|18.1332083|-65.7877942|||0.0|0.0
+1804515|Humacao Municipio|Civil|Puerto Rico|72|Humacao|069|Humacao|02/01/1999|08/09/2023||||180800N|0654716W|18.1332083|-65.7877942|||0.0|0.0
 1804516|Isabela Municipio|Civil|Puerto Rico|72|Isabela|071|Moca|02/01/1999|08/09/2023||||182859N|0670051W|18.4830556|-67.0141617|||0.0|0.0
 1804517|Jayuya Municipio|Civil|Puerto Rico|72|Jayuya|073|Jayuya|02/01/1999|08/09/2023||||181238N|0663518W|18.2106459|-66.5884453|||0.0|0.0
 1804518|Juana Díaz Municipio|Civil|Puerto Rico|72|Juana Díaz|075|Santa Isabel|02/01/1999|08/09/2023||||175950N|0662925W|17.9972184|-66.4903715|||0.0|0.0
@@ -3204,7 +3204,7 @@
 1990496|Altavilla|Populated Place|Puerto Rico|72|Trujillo Alto|139|Gurabo|01/01/2000|06/07/2022||||182104N|0655956W|18.351061|-65.9987764|||0.0|0.0
 1990498|Alturas de Adjuntas|Populated Place|Puerto Rico|72|Adjuntas|001|Naguabo|01/01/2000|06/07/2022||||180923N|0654311W|18.1563498|-65.7196058|||0.0|0.0
 1990499|Alturas de Aguada|Populated Place|Puerto Rico|72|Aguadilla|005|Aguadilla|01/01/2000|06/07/2022||||182250N|0671156W|18.3805022|-67.1987922|||0.0|0.0
-1990500|Alturas de Berwind|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182316N|0660060W|18.3877261|-66.0165544|||0.0|0.0
+1990500|Alturas de Berwind|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182316N|0660100W|18.3877261|-66.0165544|||0.0|0.0
 1990501|Alturas de Boriquen|Populated Place|Puerto Rico|72|Aguas Buenas|007|Aguas Buenas|01/01/2000|06/07/2022||||182125N|0660407W|18.3568943|-66.0684993|||0.0|0.0
 1990502|Alturas de Cana|Populated Place|Puerto Rico|72|Naranjito|105|Naranjito|01/01/2000|06/07/2022||||182125N|0661113W|18.3568947|-66.186834|||0.0|0.0
 1990503|Alturas de Ciales|Populated Place|Puerto Rico|72|Ciales|039|Ciales|01/01/2000|06/07/2022||||182101N|0662827W|18.3502281|-66.47406|||0.0|0.0
@@ -3284,7 +3284,7 @@
 1990636|Barriada Tomei|Populated Place|Puerto Rico|72|Lajas|079|San German|01/01/2000|06/07/2022||||180236N|0670335W|18.0432957|-67.0596227|||0.0|0.0
 1990637|Barriada Vega|Populated Place|Puerto Rico|72|Adjuntas|001|Adjuntas|01/01/2000|06/07/2022||||180937N|0664305W|18.1602364|-66.7179519|||0.0|0.0
 1990638|Barriada Viera|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|01/01/2000|06/07/2022||||182006N|0653915W|18.3349531|-65.6540504|||0.0|0.0
-1990639|Barrrio Catalana|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|01/01/2000|06/07/2022||||182660N|0663224W|18.4499461|-66.5398944|||0.0|0.0
+1990639|Barrrio Catalana|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|01/01/2000|06/07/2022||||182700N|0663224W|18.4499461|-66.5398944|||0.0|0.0
 1990640|Barrio Colo|Populated Place|Puerto Rico|72|Carolina|031|Carolina|01/01/2000|06/07/2022||||182345N|0655935W|18.3957813|-65.9929432|||0.0|0.0
 1990641|Barrio Guayabo|Populated Place|Puerto Rico|72|Aguada|003|Aguadilla|01/01/2000|06/07/2022||||182228N|0671201W|18.3743914|-67.2001812|||0.0|0.0
 1990642|Barrio Guaypao|Populated Place|Puerto Rico|72|Guánica|055|Guanica|01/01/2000|06/07/2022||||175742N|0665557W|17.9616334|-66.9323982|||0.0|0.0
@@ -3299,7 +3299,7 @@
 1990652|Bastion de Santa Elena (historical)|Military|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|05/31/2022||||182807N|0660725W|18.4685561|-66.1234997|||0.0|0.0
 1990653|Bastion de Santa Rosa (historical)|Military|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|05/31/2022||||182811N|0660715W|18.4696671|-66.1207219|||0.0|0.0
 1990654|Bastion de Santo Domingo (historical)|Military|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|05/31/2022||||182805N|0660712W|18.4680005|-66.1198886|||0.0|0.0
-1990655|Bateria de San Gabriel (historical)|Military|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|05/31/2022||||182760N|0660719W|18.4666116|-66.121833|||0.0|0.0
+1990655|Bateria de San Gabriel (historical)|Military|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|05/31/2022||||182800N|0660719W|18.4666116|-66.121833|||0.0|0.0
 1990656|Bateria San Fernando (historical)|Military|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|05/31/2022||||182807N|0660728W|18.4685561|-66.124333|||0.0|0.0
 1990662|Municipio de Bayamon|Civil|Puerto Rico|72|Bayamón|021|Bayamon|01/01/2000|||||182355N|0660921W|18.3985595|-66.1557224|||0.0|0.0
 1990664|Belisa|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182311N|0660401W|18.3863375|-66.0668326|||0.0|0.0
@@ -3467,11 +3467,11 @@
 1991317|Estancias de Cerro Gordo|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|01/01/2000|06/07/2022||||182047N|0661106W|18.3463396|-66.1848896|||0.0|0.0
 1991318|Estancias de Degetau I|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181330N|0660330W|18.2249555|-66.0582212|||0.0|0.0
 1991319|Estancias de Degetau II|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181341N|0660320W|18.228011|-66.0554434|||0.0|0.0
-1991320|Estancias de Florida|Populated Place|Puerto Rico|72|Florida|054|Florida|01/01/2000|06/07/2022||||182160N|0663411W|18.3666159|-66.569617|||0.0|0.0
+1991320|Estancias de Florida|Populated Place|Puerto Rico|72|Florida|054|Florida|01/01/2000|06/07/2022||||182200N|0663411W|18.3666159|-66.569617|||0.0|0.0
 1991321|Estancias de San Lorenzo|Populated Place|Puerto Rico|72|San Lorenzo|129|Juncos|01/01/2000|06/07/2022||||181122N|0655811W|18.1894019|-65.9696083|||0.0|0.0
 1991322|Estancias de Turabo|Populated Place|Puerto Rico|72|Caguas|025|Aguas Buenas|01/01/2000|06/07/2022||||181553N|0660246W|18.2646759|-66.0459989|||0.0|0.0
 1991324|Estancias del Camino|Populated Place|Puerto Rico|72|Trujillo Alto|139|Gurabo|01/01/2000|06/07/2022||||182208N|0655935W|18.3688379|-65.992943|||0.0|0.0
-1991325|Estancias Del Llano|Populated Place|Puerto Rico|72|Aibonito|009|Barranquitas|01/01/2000|06/07/2022||||180860N|0661616W|18.149959|-66.2710017|||0.0|0.0
+1991325|Estancias Del Llano|Populated Place|Puerto Rico|72|Aibonito|009|Barranquitas|01/01/2000|06/07/2022||||180900N|0661616W|18.149959|-66.2710017|||0.0|0.0
 1991326|Estancias del Rocio|Populated Place|Puerto Rico|72|Quebradillas|115|Quebradillas|01/01/2000|06/07/2022||||182845N|0665633W|18.4791105|-66.942401|||0.0|0.0
 1991327|Estancias Hatillo|Populated Place|Puerto Rico|72|Hatillo|065|Camuy|01/01/2000|06/07/2022||||182916N|0664902W|18.487722|-66.8171211|||0.0|0.0
 1991329|Extension Alturas de Cibuco|Populated Place|Puerto Rico|72|Corozal|047|Corozal|01/01/2000|06/07/2022||||182044N|0661957W|18.3455064|-66.3323915|||0.0|0.0
@@ -3489,14 +3489,14 @@
 1991341|Extension O'Neill|Populated Place|Puerto Rico|72|Manatí|091|Manati|01/01/2000|06/07/2022||||182533N|0662845W|18.4257806|-66.4790601|||0.0|0.0
 1991342|Extension Padre Quiones|Populated Place|Puerto Rico|72|Aguas Buenas|007|Aguas Buenas|01/01/2000|06/07/2022||||181531N|0660622W|18.2585655|-66.1059998|||0.0|0.0
 1991343|Extension Roig|Populated Place|Puerto Rico|72|Humacao|069|Humacao|01/01/2000|06/07/2022||||180919N|0654943W|18.155238|-65.8284959|||0.0|0.0
-1991344|Extension San Jose|Populated Place|Puerto Rico|72|Ciales|039|Ciales|01/01/2000|06/07/2022||||181960N|0662821W|18.3332845|-66.4723934|||0.0|0.0
+1991344|Extension San Jose|Populated Place|Puerto Rico|72|Ciales|039|Ciales|01/01/2000|06/07/2022||||182000N|0662821W|18.3332845|-66.4723934|||0.0|0.0
 1991345|Extension Santa Maria|Populated Place|Puerto Rico|72|Ceiba|037|Fajardo|01/01/2000|06/07/2022||||181621N|0653934W|18.2724556|-65.6593284|||0.0|0.0
 1991346|Extension Santa Paula|Populated Place|Puerto Rico|72|Guaynabo|061|Aguas Buenas|01/01/2000|06/07/2022||||182116N|0660613W|18.3543948|-66.1034997|||0.0|0.0
 1991347|Extension Sierra Bayamon|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|01/01/2000|06/07/2022||||182427N|0660932W|18.4074479|-66.158778|||0.0|0.0
 1991348|Extension Vista Mar|Populated Place|Puerto Rico|72|Carolina|031|Carolina|01/01/2000|06/07/2022||||182556N|0655838W|18.4321686|-65.9771098|||0.0|0.0
 1991352|Fajardo Gardens|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|01/01/2000|06/07/2022||||182045N|0653933W|18.3457859|-65.6590504|||0.0|0.0
 1991356|Felicia I|Populated Place|Puerto Rico|72|Santa Isabel|133|Santa Isabel|01/01/2000|06/07/2022||||175801N|0662358W|17.9669108|-66.3993363|||0.0|0.0
-1991357|Felix Cordova Davila|Populated Place|Puerto Rico|72|Manatí|091|Manati|01/01/2000|06/07/2022||||182523N|0662860W|18.423003|-66.4832268|||0.0|0.0
+1991357|Felix Cordova Davila|Populated Place|Puerto Rico|72|Manatí|091|Manati|01/01/2000|06/07/2022||||182523N|0662900W|18.423003|-66.4832268|||0.0|0.0
 1991358|Fernandez|Populated Place|Puerto Rico|72|Cidra|041|Comerio|01/01/2000|06/07/2022||||181038N|0660937W|18.1771802|-66.1601668|||0.0|0.0
 1991360|Filial Amor (historical)|Populated Place|Puerto Rico|72|San Germán|125|San German|01/01/2000|06/07/2022||||180618N|0670508W|18.1049593|-67.0854568|||0.0|0.0
 1991363|Flamboyan|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||181056N|0670846W|18.1821778|-67.1460129|||0.0|0.0
@@ -3586,7 +3586,7 @@
 1991577|Jardines del Noreste|Populated Place|Puerto Rico|72|Isabela|071|Isabela|01/01/2000|06/07/2022||||183007N|0670147W|18.501887|-67.0296241|||0.0|0.0
 1991578|Jardines Los Almendros|Populated Place|Puerto Rico|72|Maunabo|095|Yabucoa|01/01/2000|06/07/2022||||180106N|0655422W|18.0182991|-65.9059957|||0.0|0.0
 1991581|Jimenez (historical)|Populated Place|Puerto Rico|72|Aguadilla|005|Aguadilla|01/01/2000|06/07/2022||||182740N|0670854W|18.4610552|-67.1482366|||0.0|0.0
-1991582|Jmari Ramos|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||181160N|0670750W|18.1999549|-67.1304574|||0.0|0.0
+1991582|Jmari Ramos|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||181200N|0670750W|18.1999549|-67.1304574|||0.0|0.0
 1991583|Jose Delgado|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181404N|0660121W|18.2343996|-66.0223873|||0.0|0.0
 1991584|Jose M Mendez|Populated Place|Puerto Rico|72|Yabucoa|151|Punta Guayanes|01/01/2000|06/07/2022||||180228N|0655225W|18.0410762|-65.8734953|||0.0|0.0
 1991585|Jose S Quinones|Populated Place|Puerto Rico|72|Loíza|087|Carolina|01/01/2000|06/07/2022||||182306N|0655742W|18.3849483|-65.9615539|||0.0|0.0
@@ -3690,7 +3690,7 @@
 1991712|Mar Azul|Populated Place|Puerto Rico|72|Hatillo|065|Camuy|01/01/2000|06/07/2022||||182924N|0664854W|18.4899441|-66.8148988|||0.0|0.0
 1991713|Mar Chiquita|Bay|Puerto Rico|72|Manatí|091|Manati|01/01/2000|||||182826N|0662907W|18.4738341|-66.4851713|||0.0|0.0
 1991714|Marian I|Populated Place|Puerto Rico|72|Patillas|109|Patillas|01/01/2000|06/07/2022||||180026N|0660038W|18.0071877|-66.0104415|||0.0|0.0
-1991716|Marina|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||181160N|0670908W|18.1999547|-67.152124|||0.0|0.0
+1991716|Marina|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||181200N|0670908W|18.1999547|-67.152124|||0.0|0.0
 1991717|Marina Bahia|Populated Place|Puerto Rico|72|Cataño|033|Bayamon|01/01/2000|06/07/2022||||182707N|0660849W|18.4518901|-66.1468332|||0.0|0.0
 1991720|Marquez|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|01/01/2000|06/07/2022||||182812N|0664340W|18.4699451|-66.7276752|||0.0|0.0
 1991721|Martin Gonzales|Populated Place|Puerto Rico|72|Trujillo Alto|139|Carolina|01/01/2000|06/07/2022||||182234N|0655831W|18.3760599|-65.9751652|||0.0|0.0
@@ -3751,7 +3751,7 @@
 1991844|Paseo de Dorado|Populated Place|Puerto Rico|72|Dorado|051|Vega Alta|01/01/2000|06/07/2022||||182745N|0661703W|18.4624457|-66.2840574|||0.0|0.0
 1991845|Paseo de la Fuentes|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182116N|0660348W|18.3543944|-66.0632215|||0.0|0.0
 1991846|Paseo del Prado|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182040N|0660337W|18.3443947|-66.0601659|||0.0|0.0
-1991847|Paseo la Sultana|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||180960N|0670816W|18.166623|-67.1376797|||0.0|0.0
+1991847|Paseo la Sultana|Populated Place|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|06/07/2022||||181000N|0670816W|18.166623|-67.1376797|||0.0|0.0
 1991848|Paseo Las Brisa|Populated Place|Puerto Rico|72|Aguas Buenas|007|Aguas Buenas|01/01/2000|06/07/2022||||182048N|0660344W|18.3466169|-66.0621103|||0.0|0.0
 1991849|Paseo Las Vistas|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182055N|0660333W|18.3485612|-66.0590547|||0.0|0.0
 1991850|Paseo Mayor|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182115N|0660330W|18.3541165|-66.0582214|||0.0|0.0
@@ -3798,7 +3798,7 @@
 1991912|Ponce Harbor|Bay|Puerto Rico|72|Ponce|113|Punta Cucharas|01/01/2000|||||175829N|0663809W|17.9746895|-66.6357285|||0.0|0.0
 1991917|Porta Coeli|Populated Place|Puerto Rico|72|San Germán|125|San German|01/01/2000|06/07/2022||||180452N|0670201W|18.0810719|-67.0335117|||0.0|0.0
 1991918|Portales Reales|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181339N|0660143W|18.2274554|-66.0284985|||0.0|0.0
-1991921|Pradera|Populated Place|Puerto Rico|72|Toa Alta|135|Bayamon|01/01/2000|06/07/2022||||182560N|0661022W|18.43328|-66.172667|||0.0|0.0
+1991921|Pradera|Populated Place|Puerto Rico|72|Toa Alta|135|Bayamon|01/01/2000|06/07/2022||||182600N|0661022W|18.43328|-66.172667|||0.0|0.0
 1991924|Primavera|Populated Place|Puerto Rico|72|Trujillo Alto|139|Gurabo|01/01/2000|06/07/2022||||182038N|0655924W|18.343839|-65.9898873|||0.0|0.0
 1991926|Punta Ostiones|Cape|Puerto Rico|72|Cabo Rojo|023|Puerto Real|01/01/2000|||||180453N|0671149W|18.0813487|-67.1968466|||0.0|0.0
 1991928|Puerta de Tierra|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182742N|0660547W|18.4616118|-66.0962772|||0.0|0.0
@@ -3806,9 +3806,9 @@
 1991931|Puerto de Las Mareas-Jobos|Bay|Puerto Rico|72|Guayama|057|Central Aguirre|01/01/2000|||||175553N|0661108W|17.931357|-66.1854444|||0.0|0.0
 1991933|Puerto Maunabo|Bay|Puerto Rico|72|Maunabo|095|Punta Tuna|01/01/2000|||||175910N|0655449W|17.9860782|-65.9134957|||0.0|0.0
 1991939|Punta Guilarte Beach|Beach|Puerto Rico|72|Arroyo|015|Guayama|01/01/2000|||||175742N|0660209W|17.9616341|-66.0357196|||0.0|0.0
-1991940|Puntas Arenas Beach|Beach|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|||||180938N|0671060W|18.1605119|-67.1832357|||0.0|0.0
+1991940|Puntas Arenas Beach|Beach|Puerto Rico|72|Mayagüez|097|Mayaguez|01/01/2000|||||180938N|0671100W|18.1605119|-67.1832357|||0.0|0.0
 1991941|Quebrada Colorado|Populated Place|Puerto Rico|72|Trujillo Alto|139|Aguas Buenas|01/01/2000|06/07/2022||||182056N|0660052W|18.3488388|-66.014332|||0.0|0.0
-1991942|Quebrada Lajas (historical)|Populated Place|Puerto Rico|72|Río Grande|119|Rio Grande|01/01/2000|06/07/2022||||182260N|0655042W|18.3832824|-65.8448861|||0.0|0.0
+1991942|Quebrada Lajas (historical)|Populated Place|Puerto Rico|72|Río Grande|119|Rio Grande|01/01/2000|06/07/2022||||182300N|0655042W|18.3832824|-65.8448861|||0.0|0.0
 1991945|Quinta de Monserrate|Populated Place|Puerto Rico|72|Ponce|113|Ponce|01/01/2000|06/07/2022||||180250N|0663541W|18.0471861|-66.5946172|||0.0|0.0
 1991946|Quintas de Country Club|Populated Place|Puerto Rico|72|Carolina|031|Carolina|01/01/2000|06/07/2022||||182508N|0655931W|18.4188358|-65.991832|||0.0|0.0
 1991947|Quintas de Dorado|Populated Place|Puerto Rico|72|Dorado|051|Vega Alta|01/01/2000|06/07/2022||||182750N|0661641W|18.4638345|-66.2779462|||0.0|0.0
@@ -3916,9 +3916,9 @@
 1992071|Riverside|Populated Place|Puerto Rico|72|San Germán|125|San German|01/01/2000|06/07/2022||||180450N|0670150W|18.0805164|-67.030456|||0.0|0.0
 1992072|Riverview|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|01/01/2000|06/07/2022||||182501N|0660942W|18.4168919|-66.1615557|||0.0|0.0
 1992073|Riveras de Cupey|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182143N|0660240W|18.3618939|-66.0443324|||0.0|0.0
-1992075|Romany|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182160N|0660441W|18.3666163|-66.0779438|||0.0|0.0
+1992075|Romany|Populated Place|Puerto Rico|72|San Juan|127|Aguas Buenas|01/01/2000|06/07/2022||||182200N|0660441W|18.3666163|-66.0779438|||0.0|0.0
 1992076|Roosevelt|Populated Place|Puerto Rico|72|Humacao|069|Humacao|01/01/2000|06/07/2022||||180923N|0654945W|18.156349|-65.8290514|||0.0|0.0
-1992077|Rosendo Matienzo Cintron|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182460N|0660157W|18.4166137|-66.0323879|||0.0|0.0
+1992077|Rosendo Matienzo Cintron|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182500N|0660157W|18.4166137|-66.0323879|||0.0|0.0
 1992079|Russe|Populated Place|Puerto Rico|72|Morovis|101|Ciales|01/01/2000|06/07/2022||||181920N|0662412W|18.3221741|-66.4032258|||0.0|0.0
 1992080|Sabana|Populated Place|Puerto Rico|72|Guaynabo|061|San Juan|01/01/2000|06/07/2022||||182546N|0660646W|18.4293913|-66.1126663|||0.0|0.0
 1992082|Sagrado Corozon|Populated Place|Puerto Rico|72|Guánica|055|Guanica|01/01/2000|06/07/2022||||175819N|0665441W|17.9719108|-66.9112871|||0.0|0.0
@@ -3958,7 +3958,7 @@
 1992138|San Rafael|Populated Place|Puerto Rico|72|Trujillo Alto|139|Aguas Buenas|01/01/2000|06/07/2022||||182205N|0660008W|18.3680047|-66.0021098|||0.0|0.0
 1992141|San Rafael State|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|01/01/2000|06/07/2022||||182341N|0661158W|18.3946707|-66.199334|||0.0|0.0
 1992142|San Salvador|Populated Place|Puerto Rico|72|Manatí|091|Manati|01/01/2000|06/07/2022||||182551N|0662913W|18.4307804|-66.486838|||0.0|0.0
-1992143|San Sauci|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|01/01/2000|06/07/2022||||182160N|0661057W|18.3666165|-66.1823895|||0.0|0.0
+1992143|San Sauci|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|01/01/2000|06/07/2022||||182200N|0661057W|18.3666165|-66.1823895|||0.0|0.0
 1992150|Sandy Hills|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo OE N|01/01/2000|06/07/2022||||182229N|0654248W|18.374673|-65.7132178|||0.0|0.0
 1992151|Santa Ana|Populated Place|Puerto Rico|72|Aibonito|009|Barranquitas|01/01/2000|06/07/2022||||180846N|0661606W|18.1460704|-66.2682238|||0.0|0.0
 1992152|Santa Barbara|Populated Place|Puerto Rico|72|Isabela|071|Isabela|01/01/2000|06/07/2022||||183003N|0670207W|18.500776|-67.0351797|||0.0|0.0
@@ -3998,7 +3998,7 @@
 1992194|Sector Laso|Populated Place|Puerto Rico|72|Comerío|045|Comerio|01/01/2000|06/07/2022||||181308N|0661322W|18.2188451|-66.2226678|||0.0|0.0
 1992195|Sector Loma Santa|Populated Place|Puerto Rico|72|Isabela|071|Moca|01/01/2000|06/07/2022||||182926N|0670147W|18.4904986|-67.0296241|||0.0|0.0
 1992196|Sector Los Flores|Populated Place|Puerto Rico|72|Cidra|041|Comerio|01/01/2000|06/07/2022||||181014N|0660906W|18.1705138|-66.1515555|||0.0|0.0
-1992197|Sector Los Garbanzos|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|01/01/2000|06/07/2022||||180957N|0655160W|18.1657927|-65.8665518|||0.0|0.0
+1992197|Sector Los Garbanzos|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|01/01/2000|06/07/2022||||180957N|0655200W|18.1657927|-65.8665518|||0.0|0.0
 1992198|Sector Los Gardens|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|01/01/2000|06/07/2022||||180501N|0665738W|18.0835723|-66.960455|||0.0|0.0
 1992199|Sector Los Quemaos|Populated Place|Puerto Rico|72|Barceloneta|017|Florida|01/01/2000|06/07/2022||||182156N|0663336W|18.3655049|-66.5598946|||0.0|0.0
 1992200|Sector Olimpia|Populated Place|Puerto Rico|72|Adjuntas|001|Adjuntas|01/01/2000|06/07/2022||||180858N|0664252W|18.1494036|-66.7143408|||0.0|0.0
@@ -4053,11 +4053,11 @@
 1992283|Valparaiso|Populated Place|Puerto Rico|72|Cataño|033|Bayamon|01/01/2000|06/07/2022||||182553N|0660956W|18.4313356|-66.1654446|||0.0|0.0
 1992286|Vega Baja|Populated Place|Puerto Rico|72|Fajardo|053|Fajardo|01/01/2000|06/07/2022||||181950N|0653841W|18.3305089|-65.6446059|||0.0|0.0
 1992287|Vega Linda|Populated Place|Puerto Rico|72|Jayuya|073|Jayuya|01/01/2000|06/07/2022||||181303N|0663529W|18.2174562|-66.591284|||0.0|0.0
-1992289|Versailles|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|01/01/2000|06/07/2022||||182160N|0660824W|18.3666165|-66.139889|||0.0|0.0
+1992289|Versailles|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|01/01/2000|06/07/2022||||182200N|0660824W|18.3666165|-66.139889|||0.0|0.0
 1992290|Victor Rojas Number 1|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|01/01/2000|06/07/2022||||182730N|0664424W|18.4582791|-66.7398975|||0.0|0.0
-1992291|Victoria Heights|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|01/01/2000|06/07/2022||||182360N|0661138W|18.3999482|-66.1937784|||0.0|0.0
+1992291|Victoria Heights|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|01/01/2000|06/07/2022||||182400N|0661138W|18.3999482|-66.1937784|||0.0|0.0
 1992294|Vietnam|Populated Place|Puerto Rico|72|Guaynabo|061|San Juan|01/01/2000|06/07/2022||||182613N|0660642W|18.4368909|-66.1115551|||0.0|0.0
-1992296|Villa Alba|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|01/01/2000|06/07/2022||||180460N|0665750W|18.0832945|-66.9637884|||0.0|0.0
+1992296|Villa Alba|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|01/01/2000|06/07/2022||||180500N|0665750W|18.0832945|-66.9637884|||0.0|0.0
 1992297|Villa Alba|Populated Place|Puerto Rico|72|Orocovis|107|Orocovis|01/01/2000|06/07/2022||||180751N|0662932W|18.1307933|-66.4921164|||0.0|0.0
 1992298|Villa Alegria|Populated Place|Puerto Rico|72|Aguadilla|005|Aguadilla|01/01/2000|06/07/2022||||182622N|0670856W|18.4393896|-67.1487922|||0.0|0.0
 1992299|Villa Amparo|Populated Place|Puerto Rico|72|Toa Alta|135|Vega Alta|01/01/2000|06/07/2022||||182314N|0661508W|18.3871713|-66.2521127|||0.0|0.0
@@ -4125,7 +4125,7 @@
 1992365|Villa Verde|Populated Place|Puerto Rico|72|Bayamón|021|Naranjito|01/01/2000|06/07/2022||||182042N|0660836W|18.3449508|-66.1432224|||0.0|0.0
 1992366|Villa Verde|Populated Place|Puerto Rico|72|Aibonito|009|Barranquitas|01/01/2000|06/07/2022||||180814N|0661515W|18.1371818|-66.2540569|||0.0|0.0
 1992367|Villas de Castro|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181307N|0660041W|18.2185671|-66.0112759|||0.0|0.0
-1992368|Villas de Florida|Populated Place|Puerto Rico|72|Barceloneta|017|Florida|01/01/2000|06/07/2022||||182160N|0663422W|18.3666159|-66.5726726|||0.0|0.0
+1992368|Villas de Florida|Populated Place|Puerto Rico|72|Barceloneta|017|Florida|01/01/2000|06/07/2022||||182200N|0663422W|18.3666159|-66.5726726|||0.0|0.0
 1992369|Villas de Lago Mar|Populated Place|Puerto Rico|72|Carolina|031|San Juan|01/01/2000|06/07/2022||||182558N|0660058W|18.432724|-66.0159988|||0.0|0.0
 1992370|Villas de Levittown|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|01/01/2000|06/07/2022||||182646N|0661009W|18.4460571|-66.1690557|||0.0|0.0
 1992371|Villas de Playa II|Populated Place|Puerto Rico|72|Dorado|051|Vega Alta|01/01/2000|06/07/2022||||182831N|0661628W|18.475223|-66.2743349|||0.0|0.0
@@ -4168,7 +4168,7 @@
 1992496|Hacienda Santa Barbara (historical)|Populated Place|Puerto Rico|72|Maricao|093|Maricao|01/01/2000|06/07/2022||||181052N|0665554W|18.1810681|-66.9315661|||0.0|0.0
 1992497|Hacienda Santa Isabel (historical)|Populated Place|Puerto Rico|72|Santa Isabel|133|Santa Isabel|01/01/2000|06/07/2022||||175753N|0662234W|17.9646889|-66.3760026|||0.0|0.0
 1992498|Hacienda Santa Rosa (historical)|Populated Place|Puerto Rico|72|Quebradillas|115|Quebradillas|01/01/2000|06/07/2022||||182654N|0665830W|18.4482784|-66.974901|||0.0|0.0
-1992500|La Inmaculada|Populated Place|Puerto Rico|72|Vega Alta|143|Vega Alta|01/01/2000|06/07/2022||||182460N|0661912W|18.4166145|-66.3198914|||0.0|0.0
+1992500|La Inmaculada|Populated Place|Puerto Rico|72|Vega Alta|143|Vega Alta|01/01/2000|06/07/2022||||182500N|0661912W|18.4166145|-66.3198914|||0.0|0.0
 1992501|Magueyes (historical)|Populated Place|Puerto Rico|72|Santa Isabel|133|Rio Descalabrado|01/01/2000|06/07/2022||||180037N|0662323W|18.0102423|-66.3896141|||0.0|0.0
 1992502|Oriente (historical)|Populated Place|Puerto Rico|72|Ceiba|037|Naguabo|01/01/2000|06/07/2022||||181342N|0654013W|18.2282907|-65.6701617|||0.0|0.0
 1992503|Playa Azul|Populated Place|Puerto Rico|72|Luquillo|089|Fajardo OE N|01/01/2000|06/07/2022||||182251N|0654307W|18.3807837|-65.7184957|||0.0|0.0
@@ -4206,7 +4206,7 @@
 1992623|Comunidad Cristina|Populated Place|Puerto Rico|72|Juana Díaz|075|Rio Descalabrado|01/01/2000|06/07/2022||||180256N|0662950W|18.0488518|-66.4971166|||0.0|0.0
 1992624|Comunidad Extension San Jose|Populated Place|Puerto Rico|72|Gurabo|063|Gurabo|01/01/2000|06/07/2022||||181519N|0655808W|18.255232|-65.9687754|||0.0|0.0
 1992625|Comunidad Gandara|Populated Place|Puerto Rico|72|Cidra|041|Comerio|01/01/2000|06/07/2022||||181028N|0660923W|18.1744026|-66.1562779|||0.0|0.0
-1992626|Comunidad La Ponderosa|Populated Place|Puerto Rico|72|Vega Alta|143|Vega Alta|01/01/2000|06/07/2022||||182460N|0661930W|18.4166145|-66.3248915|||0.0|0.0
+1992626|Comunidad La Ponderosa|Populated Place|Puerto Rico|72|Vega Alta|143|Vega Alta|01/01/2000|06/07/2022||||182500N|0661930W|18.4166145|-66.3248915|||0.0|0.0
 1992627|Concordia Gardens|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182341N|0660150W|18.3946703|-66.0304434|||0.0|0.0
 1992628|Condado Beach|Beach|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|||||182736N|0660441W|18.4599451|-66.0779437|||0.0|0.0
 1992629|Municipio de Corozal|Civil|Puerto Rico|72|Corozal|047|Corozal|01/01/2000|||||182028N|0661901W|18.3410622|-66.3168357|||0.0|0.0
@@ -4240,7 +4240,7 @@
 1992722|Municipio de Guaynabo|Civil|Puerto Rico|72|Guaynabo|061|Aguas Buenas|01/01/2000|||||182127N|0660640W|18.3574502|-66.1109998|||0.0|0.0
 1992724|Municipio de Gurabo|Civil|Puerto Rico|72|Gurabo|063|Gurabo|01/01/2000|||||181516N|0655823W|18.2543987|-65.9729421|||0.0|0.0
 1992726|Municipio de Hatillo|Civil|Puerto Rico|72|Hatillo|065|Camuy|01/01/2000|||||182911N|0664932W|18.4863331|-66.8254545|||0.0|0.0
-1992728|Hill Brothers|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182450N|0660060W|18.413836|-66.0165544|||0.0|0.0
+1992728|Hill Brothers|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182450N|0660100W|18.413836|-66.0165544|||0.0|0.0
 1992732|Municipio de Hormigueros|Civil|Puerto Rico|72|Hormigueros|067|Mayaguez|01/01/2000|||||180823N|0670739W|18.1396799|-67.1274019|||0.0|0.0
 1992825|Municipio de Humacao|Civil|Puerto Rico|72|Humacao|069|Humacao|01/01/2000|||||180859N|0654939W|18.1496828|-65.8273847|||0.0|0.0
 1992826|Huyke|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182519N|0660342W|18.4218914|-66.0615547|||0.0|0.0
@@ -4264,7 +4264,7 @@
 1992877|La Milagrosa|Populated Place|Puerto Rico|72|Sabana Grande|121|Sabana Grande|01/01/2000|06/07/2022||||180452N|0665730W|18.0810724|-66.9582327|||0.0|0.0
 1992880|La Riviera|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182325N|0660524W|18.3902266|-66.0898884|||0.0|0.0
 1992881|La Vista|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182257N|0660014W|18.3824485|-66.0037766|||0.0|0.0
-1992886|Municipio de Lajas|Civil|Puerto Rico|72|San Germán|125|San German|01/01/2000|||||180260N|0670334W|18.049962|-67.059345|||0.0|0.0
+1992886|Municipio de Lajas|Civil|Puerto Rico|72|San Germán|125|San German|01/01/2000|||||180300N|0670334W|18.049962|-67.059345|||0.0|0.0
 1992889|Municipio de Lares|Civil|Puerto Rico|72|Lares|081|San Sebastian|01/01/2000|||||181741N|0665909W|18.2946741|-66.9857336|||0.0|0.0
 1992890|Municipio de Las Marias|Civil|Puerto Rico|72|Las Marías|083|San Sebastian|01/01/2000|||||181507N|0665932W|18.2518983|-66.9921225|||0.0|0.0
 1992891|Municipio de Las Piedras|Civil|Puerto Rico|72|Las Piedras|085|Humacao|01/01/2000|||||181059N|0655159W|18.183014|-65.8662742|||0.0|0.0
@@ -4274,7 +4274,7 @@
 1992895|Los Cerros|Populated Place|Puerto Rico|72|Adjuntas|001|Adjuntas|01/01/2000|06/07/2022||||181002N|0664323W|18.1671806|-66.722952|||0.0|0.0
 1992896|Los Frailes|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182246N|0660624W|18.3793938|-66.1065552|||0.0|0.0
 1992897|Los Maestros|Populated Place|Puerto Rico|72|Adjuntas|001|Adjuntas|01/01/2000|06/07/2022||||180955N|0664322W|18.1652362|-66.7226743|||0.0|0.0
-1992899|Municipio de Luquillo|Civil|Puerto Rico|72|Luquillo|089|Fajardo|01/01/2000|||||182221N|0654260W|18.3724507|-65.7165511|||0.0|0.0
+1992899|Municipio de Luquillo|Civil|Puerto Rico|72|Luquillo|089|Fajardo|01/01/2000|||||182221N|0654300W|18.3724507|-65.7165511|||0.0|0.0
 1992901|Mansiones Monterrey|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182317N|0660241W|18.3880039|-66.0446102|||0.0|0.0
 1992904|Municipio de Maricao|Civil|Puerto Rico|72|Maricao|093|Maricao|01/01/2000|||||181051N|0665848W|18.1807902|-66.9799001|||0.0|0.0
 1992905|Marteli|Populated Place|Puerto Rico|72|Arecibo|013|Arecibo|01/01/2000|06/07/2022||||182759N|0664313W|18.4663342|-66.7201751|||0.0|0.0
@@ -4315,7 +4315,7 @@
 1993167|Residencial Luis Llorens Torres|Populated Place|Puerto Rico|72|San Juan|127|San Juan|01/01/2000|06/07/2022||||182650N|0660253W|18.4471678|-66.0479434|||0.0|0.0
 1993168|Residencial Modesto Cintron|Populated Place|Puerto Rico|72|Salinas|123|Salinas|01/01/2000|06/07/2022||||175845N|0661753W|17.9791326|-66.297946|||0.0|0.0
 1993169|Residencial Plazuela|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|01/01/2000|06/07/2022||||182731N|0663217W|18.4585569|-66.5379498|||0.0|0.0
-1993171|Municipio de Rincon|Civil|Puerto Rico|72|Rincón|117|Rincon OE W|01/01/2000|||||182025N|0671460W|18.3402252|-67.2499027|||0.0|0.0
+1993171|Municipio de Rincon|Civil|Puerto Rico|72|Rincón|117|Rincon OE W|01/01/2000|||||182025N|0671500W|18.3402252|-67.2499027|||0.0|0.0
 1993172|Municipio de Rio Grande|Civil|Puerto Rico|72|Río Grande|119|Rio Grande|01/01/2000|||||182249N|0654953W|18.380227|-65.8312749|||0.0|0.0
 1993173|Rio Sol|Populated Place|Puerto Rico|72|Peñuelas|111|Penuelas|01/01/2000|06/07/2022||||180334N|0664319W|18.0594072|-66.7218411|||0.0|0.0
 1993175|Riverside|Populated Place|Puerto Rico|72|Peñuelas|111|Penuelas|01/01/2000|06/07/2022||||180341N|0664325W|18.0613515|-66.7235079|||0.0|0.0
@@ -4344,7 +4344,7 @@
 1993220|Municipio de Vega Baja|Civil|Puerto Rico|72|Manatí|091|Manati|01/01/2000|||||182640N|0662316W|18.4443909|-66.38767|||0.0|0.0
 1993221|Municipio de Villalba|Civil|Puerto Rico|72|Villalba|149|Orocovis|01/01/2000|||||180738N|0662932W|18.1271824|-66.4921164|||0.0|0.0
 1993222|Municipio de Yabucoa|Civil|Puerto Rico|72|Yabucoa|151|Yabucoa|01/01/2000|||||180302N|0655246W|18.0505201|-65.8793288|||0.0|0.0
-1993223|Municipio de Yauco|Civil|Puerto Rico|72|Yauco|153|Yauco|01/01/2000|||||180206N|0665060W|18.034964|-66.8498983|||0.0|0.0
+1993223|Municipio de Yauco|Civil|Puerto Rico|72|Yauco|153|Yauco|01/01/2000|||||180206N|0665100W|18.034964|-66.8498983|||0.0|0.0
 1993227|Tres Pueblos Sinkhole|Basin|Puerto Rico|72|Hatillo|065|Bayaney|01/01/2000|||||182035N|0664927W|18.3430059|-66.8240649|||0.0|0.0
 1993229|Turnkey|Populated Place|Puerto Rico|72|Loíza|087|Carolina|01/01/2000|06/07/2022||||182551N|0655244W|18.4307799|-65.8787755|||0.0|0.0
 1993235|Urbanizacion Machin|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181347N|0660144W|18.2296776|-66.0287763|||0.0|0.0
@@ -4371,7 +4371,7 @@
 1993275|Alturas de Penuelas|Populated Place|Puerto Rico|72|Peñuelas|111|Penuelas|01/01/2000|06/07/2022||||180349N|0664321W|18.0635737|-66.7223967|||0.0|0.0
 1993277|Villa Rosa|Populated Place|Puerto Rico|72|Guayama|057|Guayama|01/01/2000|06/07/2022||||175843N|0660620W|17.9785775|-66.105443|||0.0|0.0
 1993278|Estancias de San Fernando|Populated Place|Puerto Rico|72|Carolina|031|Carolina|01/01/2000|06/07/2022||||182349N|0655817W|18.3968923|-65.9712764|||0.0|0.0
-1993279|Suarez|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181343N|0660160W|18.2285665|-66.0332208|||0.0|0.0
+1993279|Suarez|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181343N|0660200W|18.2285665|-66.0332208|||0.0|0.0
 1993280|Parque de Bonneville|Populated Place|Puerto Rico|72|Caguas|025|Caguas|01/01/2000|06/07/2022||||181345N|0660303W|18.229122|-66.0507211|||0.0|0.0
 1993281|Singapur|Populated Place|Puerto Rico|72|Arroyo|015|Guayama|01/01/2000|06/07/2022||||175845N|0660334W|17.9791332|-66.0593311|||0.0|0.0
 1993283|Reparto San Rafael|Populated Place|Puerto Rico|72|Trujillo Alto|139|Aguas Buenas|01/01/2000|06/07/2022||||182203N|0660022W|18.3674491|-66.0059987|||0.0|0.0
@@ -4450,7 +4450,7 @@
 2414909|Playita Comunidad|Populated Place|Puerto Rico|72|Salinas|123|Salinas|03/21/2008|08/12/2021||||175740N|0661720W|17.9610863|-66.2889823|||0.0|0.0
 2414910|Playita Comunidad|Populated Place|Puerto Rico|72|Yabucoa|151|Yabucoa|03/21/2008|08/12/2021||||180226N|0655426W|18.0404816|-65.9071086|||0.0|0.0
 2414911|Playita Cortada Comunidad|Populated Place|Puerto Rico|72|Santa Isabel|133|Santa Isabel|03/21/2008|08/12/2021||||175835N|0662636W|17.9764207|-66.4434621|||0.0|0.0
-2414912|Pole Ojea Comunidad|Populated Place|Puerto Rico|72|Cabo Rojo|023|Cabo Rojo|03/21/2008|08/12/2021||||175827N|0671060W|17.9742946|-67.1832209|||0.0|0.0
+2414912|Pole Ojea Comunidad|Populated Place|Puerto Rico|72|Cabo Rojo|023|Cabo Rojo|03/21/2008|08/12/2021||||175827N|0671100W|17.9742946|-67.1832209|||0.0|0.0
 2414913|Ponce Zona Urbana|Populated Place|Puerto Rico|72|Ponce|113|Ponce|03/21/2008|08/12/2021||||180003N|0663725W|18.0007161|-66.6234773|||0.0|0.0
 2414914|Potala Pastillo Comunidad|Populated Place|Puerto Rico|72|Juana Díaz|075|Santa Isabel|03/21/2008|08/12/2021||||175931N|0662948W|17.9920346|-66.4967184|||0.0|0.0
 2414915|Pueblito del Río Comunidad|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|03/21/2008|08/12/2021||||181341N|0655142W|18.227979|-65.8615383|||0.0|0.0
@@ -4671,7 +4671,7 @@
 2415130|Arenas Barrio|Civil|Puerto Rico|72|Cidra|041|Comerio|03/21/2008|08/14/2023||||180938N|0660825W|18.1606248|-66.1401833|||0.0|0.0
 2415131|Arenas Barrio|Civil|Puerto Rico|72|Utuado|141|Adjuntas|03/21/2008|08/14/2023||||181424N|0664227W|18.2400295|-66.7076034|||0.0|0.0
 2415132|Arroyo Barrio-Pueblo|Civil|Puerto Rico|72|Arroyo|015|Guayama|03/21/2008|08/14/2023||||175748N|0660345W|17.9632307|-66.0625956|||0.0|0.0
-2415133|Arrozal Barrio|Civil|Puerto Rico|72|Arecibo|013|Arecibo|03/21/2008|08/14/2023||||182260N|0663860W|18.3832597|-66.6499248|||0.0|0.0
+2415133|Arrozal Barrio|Civil|Puerto Rico|72|Arecibo|013|Arecibo|03/21/2008|08/14/2023||||182300N|0663900W|18.3832597|-66.6499248|||0.0|0.0
 2415134|Asomante Barrio|Civil|Puerto Rico|72|Aguada|003|Aguadilla|03/21/2008|08/14/2023||||182302N|0671020W|18.3839653|-67.1723128|||0.0|0.0
 2415135|Asomante Barrio|Civil|Puerto Rico|72|Aibonito|009|Barranquitas|03/21/2008|08/14/2023||||180757N|0661814W|18.1323704|-66.3039555|||0.0|0.0
 2415136|Atalaya Barrio|Civil|Puerto Rico|72|Aguada|003|Rincon|03/21/2008|08/14/2023||||181949N|0671111W|18.3302863|-67.1863505|||0.0|0.0
@@ -4698,7 +4698,7 @@
 2415157|Barrero Barrio|Civil|Puerto Rico|72|Guayanilla|059|Yauco|03/21/2008|08/14/2023||||180416N|0664618W|18.070981|-66.771692|||0.0|0.0
 2415158|Barrero Barrio|Civil|Puerto Rico|72|Rincón|117|Rincon|03/21/2008|08/14/2023||||181815N|0671352W|18.3041396|-67.231143|||0.0|0.0
 2415159|Barros Barrio|Civil|Puerto Rico|72|Orocovis|107|Orocovis|03/21/2008|08/14/2023||||181451N|0662446W|18.2475079|-66.412639|||0.0|0.0
-2415160|Bartolo Barrio|Civil|Puerto Rico|72|Lares|081|Monte Guilarte|03/21/2008|08/14/2023||||181160N|0665057W|18.1999067|-66.8492257|||0.0|0.0
+2415160|Bartolo Barrio|Civil|Puerto Rico|72|Lares|081|Monte Guilarte|03/21/2008|08/14/2023||||181200N|0665057W|18.1999067|-66.8492257|||0.0|0.0
 2415161|Bateyes Barrio|Civil|Puerto Rico|72|Mayagüez|097|Rosario|03/21/2008|08/14/2023||||181228N|0670412W|18.2077847|-67.0699237|||0.0|0.0
 2415162|Bauta Abajo Barrio|Civil|Puerto Rico|72|Orocovis|107|Orocovis|03/21/2008|08/14/2023||||181143N|0662809W|18.1952791|-66.4692544|||0.0|0.0
 2415163|Bauta Arriba Barrio|Civil|Puerto Rico|72|Orocovis|107|Orocovis|03/21/2008|08/14/2023||||181055N|0662316W|18.181819|-66.3878803|||0.0|0.0
@@ -4744,7 +4744,7 @@
 2415203|Cacaos Barrio|Civil|Puerto Rico|72|Orocovis|107|Orocovis|03/21/2008|08/14/2023||||181334N|0662948W|18.2262472|-66.496742|||0.0|0.0
 2415204|Caguabo Barrio|Civil|Puerto Rico|72|Añasco|011|Rincon|03/21/2008|08/14/2023||||181751N|0671238W|18.2975584|-67.2104696|||0.0|0.0
 2415205|Caguana Barrio|Civil|Puerto Rico|72|Utuado|141|Bayaney|03/21/2008|08/14/2023||||181728N|0664503W|18.2911294|-66.7508454|||0.0|0.0
-2415206|Caguas Barrio-Pueblo|Civil|Puerto Rico|72|Caguas|025|Caguas|03/21/2008|08/14/2023||||181403N|0660160W|18.2342367|-66.033243|||0.0|0.0
+2415206|Caguas Barrio-Pueblo|Civil|Puerto Rico|72|Caguas|025|Caguas|03/21/2008|08/14/2023||||181403N|0660200W|18.2342367|-66.033243|||0.0|0.0
 2415207|Cagüitas Barrio|Civil|Puerto Rico|72|Aguas Buenas|007|Caguas|03/21/2008|08/14/2023||||181416N|0660545W|18.2378064|-66.0959596|||0.0|0.0
 2415208|Caimital Alto Barrio|Civil|Puerto Rico|72|Aguadilla|005|Moca|03/21/2008|08/14/2023||||182631N|0670624W|18.4419255|-67.1067141|||0.0|0.0
 2415209|Caimital Bajo Barrio|Civil|Puerto Rico|72|Aguadilla|005|Aguadilla|03/21/2008|08/14/2023||||182541N|0670813W|18.4280886|-67.1369198|||0.0|0.0
@@ -4761,7 +4761,7 @@
 2415220|Callejones Barrio|Civil|Puerto Rico|72|Lares|081|Bayaney|03/21/2008|08/14/2023||||181938N|0665056W|18.3272262|-66.8488285|||0.0|0.0
 2415221|Calvache Barrio|Civil|Puerto Rico|72|Rincón|117|Rincon|03/21/2008|08/14/2023||||181857N|0671332W|18.3158798|-67.2256553|||0.0|0.0
 2415222|Calzada Barrio|Civil|Puerto Rico|72|Maunabo|095|Punta Tuna|03/21/2008|08/14/2023||||175936N|0655451W|17.9934593|-65.9142176|||0.0|0.0
-2415223|Camaceyes Barrio|Civil|Puerto Rico|72|Aguadilla|005|Aguadilla|03/21/2008|08/14/2023||||182760N|0670819W|18.4665772|-67.1386787|||0.0|0.0
+2415223|Camaceyes Barrio|Civil|Puerto Rico|72|Aguadilla|005|Aguadilla|03/21/2008|08/14/2023||||182800N|0670819W|18.4665772|-67.1386787|||0.0|0.0
 2415224|Camarones Barrio|Civil|Puerto Rico|72|Guaynabo|061|Aguas Buenas|03/21/2008|08/14/2023||||182012N|0660641W|18.3367997|-66.1114448|||0.0|0.0
 2415225|Cambalache Barrio|Civil|Puerto Rico|72|Arecibo|013|Arecibo|03/21/2008|08/14/2023||||182744N|0664138W|18.4622411|-66.6938947|||0.0|0.0
 2415226|Camino Nuevo Barrio|Civil|Puerto Rico|72|Yabucoa|151|Punta Guayanes|03/21/2008|08/14/2023||||180141N|0654815W|18.0279556|-65.8042762|||0.0|0.0
@@ -4795,12 +4795,12 @@
 2415254|Capá Barrio|Civil|Puerto Rico|72|Moca|099|Central La Plata|03/21/2008|08/14/2023||||182207N|0670258W|18.3685407|-67.0493232|||0.0|0.0
 2415255|Capáez Barrio|Civil|Puerto Rico|72|Adjuntas|001|Adjuntas|03/21/2008|08/14/2023||||181204N|0664428W|18.2009834|-66.7411407|||0.0|0.0
 2415256|Capáez Barrio|Civil|Puerto Rico|72|Hatillo|065|Camuy|03/21/2008|08/14/2023||||182740N|0664843W|18.4611766|-66.8120255|||0.0|0.0
-2415257|Capetillo Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182360N|0660241W|18.3999901|-66.044645|||0.0|0.0
+2415257|Capetillo Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182400N|0660241W|18.3999901|-66.044645|||0.0|0.0
 2415258|Capitanejo Barrio|Civil|Puerto Rico|72|Juana Díaz|075|Playa De Ponce|03/21/2008|08/14/2023||||175741N|0663027W|17.9614465|-66.5074393|||0.0|0.0
 2415259|Capitanejo Barrio|Civil|Puerto Rico|72|Ponce|113|Playa De Ponce|03/21/2008|08/14/2023||||175919N|0663253W|17.9886179|-66.5481521|||0.0|0.0
 2415260|Caracol Barrio|Civil|Puerto Rico|72|Añasco|011|Rincon|03/21/2008|08/14/2023||||181802N|0670934W|18.3005637|-67.1593623|||0.0|0.0
 2415261|Cárcel Subbarrio|Civil|Puerto Rico|72|Mayagüez|097|Mayaguez|03/21/2008|02/04/2009||||181136N|0670837W|18.1932593|-67.143684|||0.0|0.0
-2415262|Carenero Barrio|Civil|Puerto Rico|72|Guánica|055|Guanica|03/21/2008|08/14/2023||||175754N|0665260W|17.965008|-66.883215|||0.0|0.0
+2415262|Carenero Barrio|Civil|Puerto Rico|72|Guánica|055|Guanica|03/21/2008|08/14/2023||||175754N|0665300W|17.965008|-66.883215|||0.0|0.0
 2415263|Carite Barrio|Civil|Puerto Rico|72|Guayama|057|Patillas|03/21/2008|08/14/2023||||180450N|0660545W|18.0806429|-66.0958299|||0.0|0.0
 2415264|Carmen Barrio|Civil|Puerto Rico|72|Guayama|057|Cayey|03/21/2008|08/14/2023||||180210N|0660945W|18.036154|-66.1625599|||0.0|0.0
 2415265|Carolina Barrio-Pueblo|Civil|Puerto Rico|72|Carolina|031|Carolina|03/21/2008|08/14/2023||||182254N|0655725W|18.3817889|-65.9569078|||0.0|0.0
@@ -4852,7 +4852,7 @@
 2415311|Boquerón Comunidad|Populated Place|Puerto Rico|72|Las Piedras|085|Humacao|03/21/2008|08/12/2021||||181212N|0655041W|18.2033269|-65.8446474|||0.0|0.0
 2415312|Breñas Comunidad|Populated Place|Puerto Rico|72|Vega Alta|143|Vega Alta|03/21/2008|08/12/2021||||182824N|0662005W|18.4732986|-66.3346086|||0.0|0.0
 2415313|Buena Vista Comunidad|Populated Place|Puerto Rico|72|Arroyo|015|Guayama|03/21/2008|08/12/2021||||175947N|0660306W|17.9964685|-66.0515495|||0.0|0.0
-2415314|Búfalo Comunidad|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|03/21/2008|08/12/2021||||182460N|0663430W|18.4165314|-66.5750097|||0.0|0.0
+2415314|Búfalo Comunidad|Populated Place|Puerto Rico|72|Barceloneta|017|Barceloneta|03/21/2008|08/12/2021||||182500N|0663430W|18.4165314|-66.5750097|||0.0|0.0
 2415315|Cabán Comunidad|Populated Place|Puerto Rico|72|Aguadilla|005|Aguadilla|03/21/2008|08/12/2021||||182642N|0670811W|18.445009|-67.1362715|||0.0|0.0
 2415316|Cabo Rojo Zona Urbana|Populated Place|Puerto Rico|72|Cabo Rojo|023|Puerto Real|03/21/2008|08/12/2021||||180512N|0670854W|18.0867174|-67.148266|||0.0|0.0
 2415317|Cacao Comunidad|Populated Place|Puerto Rico|72|Quebradillas|115|Quebradillas|03/21/2008|08/12/2021||||182709N|0665721W|18.4524364|-66.955853|||0.0|0.0
@@ -4872,7 +4872,7 @@
 2415331|Cayuco Comunidad|Populated Place|Puerto Rico|72|Utuado|141|Utuado|03/21/2008|08/12/2021||||181732N|0664405W|18.2922901|-66.7348465|||0.0|0.0
 2415332|Ceiba Comunidad|Populated Place|Puerto Rico|72|Vega Alta|143|Vega Alta|03/21/2008|08/12/2021||||182636N|0662049W|18.4433644|-66.3468216|||0.0|0.0
 2415333|Ceiba Zona Urbana|Populated Place|Puerto Rico|72|Ceiba|037|Fajardo|03/21/2008|08/12/2021||||181554N|0653856W|18.2649714|-65.6488156|||0.0|0.0
-2415334|Celada Comunidad|Populated Place|Puerto Rico|72|Gurabo|063|Gurabo|03/21/2008|08/12/2021||||181560N|0655743W|18.2666218|-65.9620172|||0.0|0.0
+2415334|Celada Comunidad|Populated Place|Puerto Rico|72|Gurabo|063|Gurabo|03/21/2008|08/12/2021||||181600N|0655743W|18.2666218|-65.9620172|||0.0|0.0
 2415335|Central Aguirre Comunidad|Populated Place|Puerto Rico|72|Salinas|123|Central Aguirre|03/21/2008|08/12/2021||||175721N|0661335W|17.9559005|-66.2264487|||0.0|0.0
 2415336|Ciales Zona Urbana|Populated Place|Puerto Rico|72|Ciales|039|Ciales|03/21/2008|08/12/2021||||182009N|0662820W|18.3356964|-66.472343|||0.0|0.0
 2415337|Cidra Zona Urbana|Populated Place|Puerto Rico|72|Cidra|041|Comerio|03/21/2008|08/12/2021||||181039N|0660929W|18.1775718|-66.1580421|||0.0|0.0
@@ -4992,7 +4992,7 @@
 2415451|Guaraguao Barrio|Civil|Puerto Rico|72|Guaynabo|061|Naranjito|03/21/2008|08/14/2023||||181855N|0660802W|18.3153669|-66.1337848|||0.0|0.0
 2415452|Guaraguao Barrio|Civil|Puerto Rico|72|Ponce|113|Penuelas|03/21/2008|08/14/2023||||180717N|0664009W|18.1212863|-66.6691621|||0.0|0.0
 2415453|Guardarraya Barrio|Civil|Puerto Rico|72|Patillas|109|Punta Tuna|03/21/2008|08/14/2023||||175828N|0655609W|17.974483|-65.9358423|||0.0|0.0
-2415454|Guásimas Barrio|Civil|Puerto Rico|72|Arroyo|015|Guayama|03/21/2008|08/14/2023||||175835N|0660360W|17.9763912|-66.0666544|||0.0|0.0
+2415454|Guásimas Barrio|Civil|Puerto Rico|72|Arroyo|015|Guayama|03/21/2008|08/14/2023||||175835N|0660400W|17.9763912|-66.0666544|||0.0|0.0
 2415455|Guatemala Barrio|Civil|Puerto Rico|72|San Sebastián|131|Central La Plata|03/21/2008|08/14/2023||||182110N|0670024W|18.3526679|-67.0066886|||0.0|0.0
 2415456|Guavate Barrio|Civil|Puerto Rico|72|Cayey|035|Caguas|03/21/2008|08/14/2023||||180751N|0660448W|18.1308416|-66.0798755|||0.0|0.0
 2415457|Guayabal Barrio|Civil|Puerto Rico|72|Juana Díaz|075|Rio Descalabrado|03/21/2008|08/14/2023||||180441N|0662911W|18.078007|-66.486339|||0.0|0.0
@@ -5388,7 +5388,7 @@
 2415847|Puente Barrio|Civil|Puerto Rico|72|Camuy|027|Camuy|03/21/2008|08/14/2023||||182826N|0665058W|18.473969|-66.8495254|||0.0|0.0
 2415848|Puerta de Tierra Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182754N|0660546W|18.4649515|-66.09606|||0.0|0.0
 2415849|Puerto Diablo Barrio|Civil|Puerto Rico|72|Vieques|147|Isla De Vieques East|03/21/2008|08/14/2023||||180819N|0652121W|18.1386798|-65.3558059|||0.0|0.0
-2415850|Puerto Ferro Barrio|Civil|Puerto Rico|72|Vieques|147|Isla De Vieques Central OE S|03/21/2008|08/14/2023||||180658N|0652460W|18.1160743|-65.4166039|||0.0|0.0
+2415850|Puerto Ferro Barrio|Civil|Puerto Rico|72|Vieques|147|Isla De Vieques Central OE S|03/21/2008|08/14/2023||||180658N|0652500W|18.1160743|-65.4166039|||0.0|0.0
 2415851|Puerto Nuevo Barrio|Civil|Puerto Rico|72|Vega Baja|145|Manati|03/21/2008|08/14/2023||||182905N|0662405W|18.4846854|-66.4013403|||0.0|0.0
 2415852|Puerto Nuevo Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182554N|0660517W|18.4316942|-66.088145|||0.0|0.0
 2415853|Puerto Real Barrio|Civil|Puerto Rico|72|Vieques|147|Isla De Vieques Central OE S|03/21/2008|08/14/2023||||180622N|0652814W|18.1061333|-65.470617|||0.0|0.0
@@ -5477,7 +5477,7 @@
 2415936|Río Jueyes Barrio|Civil|Puerto Rico|72|Salinas|123|Salinas|03/21/2008|08/14/2023||||175951N|0661840W|17.9975052|-66.3111258|||0.0|0.0
 2415937|Río Lajas Barrio|Civil|Puerto Rico|72|Dorado|051|Vega Alta|03/21/2008|08/14/2023||||182350N|0661552W|18.3971736|-66.2644957|||0.0|0.0
 2415938|Río Lajas Barrio|Civil|Puerto Rico|72|Toa Alta|135|Corozal|03/21/2008|08/14/2023||||182227N|0661740W|18.3742391|-66.2944794|||0.0|0.0
-2415939|Río Piedras Antiguo Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182359N|0660260W|18.3998231|-66.049938|||0.0|0.0
+2415939|Río Piedras Antiguo Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182359N|0660300W|18.3998231|-66.049938|||0.0|0.0
 2415940|Río Prieto Barrio|Civil|Puerto Rico|72|Lares|081|Maricao|03/21/2008|08/14/2023||||181243N|0665320W|18.2118913|-66.8887948|||0.0|0.0
 2415941|Río Prieto Barrio|Civil|Puerto Rico|72|Yauco|153|Monte Guilarte|03/21/2008|08/14/2023||||180852N|0664947W|18.147704|-66.8297379|||0.0|0.0
 2415942|Río Subbarrio|Civil|Puerto Rico|72|Mayagüez|097|Mayaguez|03/21/2008|02/04/2009||||181232N|0670824W|18.2089172|-67.140035|||0.0|0.0
@@ -5496,7 +5496,7 @@
 2415955|Rucio Barrio|Civil|Puerto Rico|72|Peñuelas|111|Penuelas|03/21/2008|08/14/2023||||180610N|0664155W|18.102781|-66.6986254|||0.0|0.0
 2415956|Rufina Barrio|Civil|Puerto Rico|72|Guayanilla|059|Yauco|03/21/2008|08/14/2023||||180008N|0664720W|18.002318|-66.7887759|||0.0|0.0
 2415957|Sábalos Barrio|Civil|Puerto Rico|72|Mayagüez|097|Mayaguez|03/21/2008|08/14/2023||||181052N|0670858W|18.1809966|-67.1493104|||0.0|0.0
-2415958|Sabana Abajo Barrio|Civil|Puerto Rico|72|Carolina|031|Carolina|03/21/2008|08/14/2023||||182459N|0655860W|18.4162772|-65.983283|||0.0|0.0
+2415958|Sabana Abajo Barrio|Civil|Puerto Rico|72|Carolina|031|Carolina|03/21/2008|08/14/2023||||182459N|0655900W|18.4162772|-65.983283|||0.0|0.0
 2415959|Sabana Barrio|Civil|Puerto Rico|72|Luquillo|089|Fajardo|03/21/2008|08/14/2023||||181913N|0654406W|18.3202669|-65.7350748|||0.0|0.0
 2415960|Sabana Barrio|Civil|Puerto Rico|72|Orocovis|107|Orocovis|03/21/2008|08/14/2023||||181215N|0662241W|18.2042802|-66.3781313|||0.0|0.0
 2415961|Sabana Barrio|Civil|Puerto Rico|72|Vega Alta|143|Vega Alta|03/21/2008|08/14/2023||||182720N|0661959W|18.4555086|-66.3330961|||0.0|0.0
@@ -5538,7 +5538,7 @@
 2415997|San José Barrio|Civil|Puerto Rico|72|Quebradillas|115|Quebradillas|03/21/2008|08/14/2023||||182837N|0665456W|18.4769423|-66.915674|||0.0|0.0
 2415998|San José Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182512N|0660205W|18.4199582|-66.034596|||0.0|0.0
 2415999|San Juan Antiguo Barrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|08/14/2023||||182758N|0660632W|18.4661066|-66.1088397|||0.0|0.0
-2416000|San Juan Moderno Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182660N|0660339W|18.449911|-66.060958|||0.0|0.0
+2416000|San Juan Moderno Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182700N|0660339W|18.449911|-66.060958|||0.0|0.0
 2416001|San Juan Subbarrio|Civil|Puerto Rico|72|Humacao|069|Humacao|03/21/2008|02/04/2009||||180857N|0654946W|18.1490283|-65.829458|||0.0|0.0
 2416002|San Lorenzo Barrio|Civil|Puerto Rico|72|Morovis|101|Ciales|03/21/2008|08/14/2023||||181823N|0662617W|18.3064827|-66.4381138|||0.0|0.0
 2416003|San Lorenzo Barrio-Pueblo|Civil|Puerto Rico|72|San Lorenzo|129|Juncos|03/21/2008|08/14/2023||||181128N|0655747W|18.1909985|-65.9629878|||0.0|0.0
@@ -5556,7 +5556,7 @@
 2416015|Santa Rita Subbarrio|Civil|Puerto Rico|72|San Juan|127|San Juan|03/21/2008|02/04/2009||||182357N|0660315W|18.399224|-66.054238|||0.0|0.0
 2416016|Santa Rosa Barrio|Civil|Puerto Rico|72|Guaynabo|061|Naranjito|03/21/2008|08/14/2023||||182108N|0660740W|18.3521051|-66.1277827|||0.0|0.0
 2416017|Santa Rosa Barrio|Civil|Puerto Rico|72|Lajas|079|San German|03/21/2008|08/14/2023||||180305N|0670223W|18.0514422|-67.0396032|||0.0|0.0
-2416018|Santa Rosa Barrio|Civil|Puerto Rico|72|Utuado|141|Utuado|03/21/2008|08/14/2023||||181945N|0664460W|18.3291043|-66.7499321|||0.0|0.0
+2416018|Santa Rosa Barrio|Civil|Puerto Rico|72|Utuado|141|Utuado|03/21/2008|08/14/2023||||181945N|0664500W|18.3291043|-66.7499321|||0.0|0.0
 2416019|Santana Barrio|Civil|Puerto Rico|72|Arecibo|013|Arecibo|03/21/2008|08/14/2023||||182712N|0663953W|18.4534689|-66.6647824|||0.0|0.0
 2416020|Santana Barrio|Civil|Puerto Rico|72|Sabana Grande|121|Sabana Grande|03/21/2008|08/14/2023||||180636N|0665801W|18.1099819|-66.9668364|||0.0|0.0
 2416021|Santiago Barrio|Civil|Puerto Rico|72|Camuy|027|Camuy|03/21/2008|08/14/2023||||182355N|0664954W|18.398496|-66.8317154|||0.0|0.0
@@ -5581,7 +5581,7 @@
 2416040|Sumido Barrio|Civil|Puerto Rico|72|Cayey|035|Cayey|03/21/2008|08/14/2023||||180527N|0661034W|18.090805|-66.1761878|||0.0|0.0
 2416041|Susúa Alta Barrio|Civil|Puerto Rico|72|Yauco|153|Sabana Grande|03/21/2008|08/14/2023||||180338N|0665343W|18.0606509|-66.8952388|||0.0|0.0
 2416042|Susúa Baja Barrio|Civil|Puerto Rico|72|Guánica|055|Sabana Grande|03/21/2008|08/14/2023||||180032N|0665328W|18.0087827|-66.8910846|||0.0|0.0
-2416043|Susúa Baja Barrio|Civil|Puerto Rico|72|Yauco|153|Yauco|03/21/2008|08/14/2023||||180128N|0665160W|18.0244658|-66.8666014|||0.0|0.0
+2416043|Susúa Baja Barrio|Civil|Puerto Rico|72|Yauco|153|Yauco|03/21/2008|08/14/2023||||180128N|0665200W|18.0244658|-66.8666014|||0.0|0.0
 2416044|Susúa Barrio|Civil|Puerto Rico|72|Sabana Grande|121|Sabana Grande|03/21/2008|08/14/2023||||180210N|0665441W|18.0362123|-66.9115047|||0.0|0.0
 2416045|Tabonuco Barrio|Civil|Puerto Rico|72|Sabana Grande|121|Maricao|03/21/2008|08/14/2023||||180736N|0665601W|18.1268051|-66.9334751|||0.0|0.0
 2416046|Talante Barrio|Civil|Puerto Rico|72|Maunabo|095|Yabucoa|03/21/2008|08/14/2023||||180109N|0655429W|18.0191169|-65.9081758|||0.0|0.0
@@ -5600,7 +5600,7 @@
 2416059|Tibes Barrio|Civil|Puerto Rico|72|Ponce|113|Penuelas|03/21/2008|08/14/2023||||180512N|0663813W|18.0866589|-66.636893|||0.0|0.0
 2416060|Tierras Nuevas Poniente Barrio|Civil|Puerto Rico|72|Manatí|091|Barceloneta|03/21/2008|08/14/2023||||182748N|0663053W|18.4633785|-66.5147918|||0.0|0.0
 2416061|Tierras Nuevas Saliente Barrio|Civil|Puerto Rico|72|Manatí|091|Manati|03/21/2008|08/14/2023||||182732N|0662811W|18.4588094|-66.4697935|||0.0|0.0
-2416062|Tijeras Barrio|Civil|Puerto Rico|72|Juana Díaz|075|Rio Descalabrado|03/21/2008|08/14/2023||||180260N|0662854W|18.049914|-66.4815685|||0.0|0.0
+2416062|Tijeras Barrio|Civil|Puerto Rico|72|Juana Díaz|075|Rio Descalabrado|03/21/2008|08/14/2023||||180300N|0662854W|18.049914|-66.4815685|||0.0|0.0
 2416063|Toa Alta Barrio-Pueblo|Civil|Puerto Rico|72|Toa Alta|135|Bayamon|03/21/2008|08/14/2023||||182316N|0661452W|18.3878814|-66.2476548|||0.0|0.0
 2416064|Toa Baja Barrio-Pueblo|Civil|Puerto Rico|72|Toa Baja|137|Vega Alta|03/21/2008|08/14/2023||||182632N|0661514W|18.4423478|-66.2539653|||0.0|0.0
 2416065|Toíta Barrio|Civil|Puerto Rico|72|Cayey|035|Comerio|03/21/2008|08/14/2023||||180743N|0661107W|18.1285881|-66.1853461|||0.0|0.0
@@ -5658,7 +5658,7 @@
 2416117|Zanja Barrio|Civil|Puerto Rico|72|Camuy|027|Camuy|03/21/2008|08/14/2023||||182710N|0665034W|18.4526528|-66.8427222|||0.0|0.0
 2416118|Zarzal Barrio|Civil|Puerto Rico|72|Río Grande|119|Rio Grande|03/21/2008|08/14/2023||||182313N|0654714W|18.3869867|-65.7873421|||0.0|0.0
 2480861|Hangar 21 Guadia Nacional|Military|Puerto Rico|72|San Juan|127|San Juan|07/18/2008|05/31/2022||||182705N|0660547W|18.45144|-66.096397|||0.0|0.0
-2480871|Centro de Detencion Regional|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|07/18/2008|06/07/2022||||182460N|0660901W|18.41662|-66.150318|||0.0|0.0
+2480871|Centro de Detencion Regional|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|07/18/2008|06/07/2022||||182500N|0660901W|18.41662|-66.150318|||0.0|0.0
 2480872|Puerto Nuevo Norte|Populated Place|Puerto Rico|72|Guaynabo|061|San Juan|07/18/2008|06/07/2022||||182456N|0660531W|18.41556|-66.091947|||0.0|0.0
 2480873|Residence San Juan Bautista|Populated Place|Puerto Rico|72|San Juan|127|San Juan|07/18/2008|06/07/2022||||182627N|0660402W|18.44097|-66.067212|||0.0|0.0
 2480874|Rio Hondo IV|Populated Place|Puerto Rico|72|Bayamón|021|Bayamon|07/18/2008|06/07/2022||||182532N|0660949W|18.42559|-66.163675|||0.0|0.0
@@ -5696,13 +5696,13 @@
 2575426|Las Lavanderas|Island|Puerto Rico|72|Ceiba|037|Cayo Icacos|01/26/2010|02/10/2020|Official|Board Decision|02/06/1958|181600N|0653300W|18.2666667|-65.55|||0.0|0.0
 2575427|Isleta Marina|Island|Puerto Rico|72|Fajardo|053|Cayo Icacos|01/26/2010|08/30/2013||||182023N|0653705W|18.3395966|-65.6181622|||0.0|0.0
 2575428|Isla de Jueyes|Island|Puerto Rico|72|Ponce|113|Playa De Ponce|01/26/2010|||||175740N|0663524W|17.9611111|-66.59|||0.0|0.0
-2575429|Escollo de Arenas|Bar|Puerto Rico|72|Vieques|147|Isla De Vieques West|01/26/2010|02/10/2020|Official|Board Decision|02/06/1958|180760N|0653460W|18.1333333|-65.5833333|||0.0|0.0
+2575429|Escollo de Arenas|Bar|Puerto Rico|72|Vieques|147|Isla De Vieques West|01/26/2010|02/10/2020|Official|Board Decision|02/06/1958|180800N|0653500W|18.1333333|-65.5833333|||0.0|0.0
 2575430|Cerro Anterior|Summit|Puerto Rico|72|Mayagüez|097|Rosario|01/26/2010|03/13/2018|Official|Board Decision|02/06/1958|181210N|0670725W|18.2028518|-67.1235819|||0.0|0.0
 2575431|Cayo Botijuela|Island|Puerto Rico|72|Culebra|049|Culebra OE W|01/26/2010|02/07/2020|Official|Board Decision|06/28/1958|182217N|0652236W|18.3712531|-65.3766506|||0.0|0.0
 2575433|Gata Islets|Island|Puerto Rico|72|Ponce|113|Playa De Ponce|01/26/2010|12/30/2020|Official|Board Decision|02/06/1958|175800N|0663700W|17.9666667|-66.6166667|||0.0|0.0
 2575434|Bajos Resuello|Bar|Puerto Rico|72|Cabo Rojo|023|Puerto Real|01/26/2010|02/07/2020|Official|Board Decision|03/20/1958|180017N|0671449W|18.0048003|-67.2468064|||0.0|0.0
-2575454|Manchas Interiores|Bar|Puerto Rico|72|Mayagüez|097|Mayaguez|01/26/2010|02/10/2020|Official|Board Decision|02/27/1958|181360N|0671200W|18.2333333|-67.2|||0.0|0.0
-2575456|Manchas Banks|Bar|Puerto Rico|72|Mayagüez|097|Mayaguez|01/26/2010|02/05/2020|Official|Board Decision|02/27/1958|181360N|0671200W|18.2333333|-67.2|||0.0|0.0
+2575454|Manchas Interiores|Bar|Puerto Rico|72|Mayagüez|097|Mayaguez|01/26/2010|02/10/2020|Official|Board Decision|02/27/1958|181400N|0671200W|18.2333333|-67.2|||0.0|0.0
+2575456|Manchas Banks|Bar|Puerto Rico|72|Mayagüez|097|Mayaguez|01/26/2010|02/05/2020|Official|Board Decision|02/27/1958|181400N|0671200W|18.2333333|-67.2|||0.0|0.0
 2575457|Bajo de Almodóvar|Bar|Puerto Rico|72|Culebra|049|Culebra|01/26/2010|02/07/2020|Official|Board Decision|05/04/1950|181748N|0651509W|18.2967368|-65.2525182|||0.0|0.0
 2575458|Arrecife Cardona|Bar|Puerto Rico|72|Ponce|113|Punta Cucharas|01/26/2010|02/10/2020||||175728N|0663757W|17.9578418|-66.6325902|||0.0|0.0
 2575549|Certenejas Barrio|Civil|Puerto Rico|72|Cidra|041|Caguas|01/27/2010|08/14/2023||||181132N|0660721W|18.1921837|-66.1224831|||0.0|0.0
@@ -5722,7 +5722,7 @@
 2585100|Parcelas Mandry Comunidad|Populated Place|Puerto Rico|72|Ponce|113|Ponce|03/31/2010|08/12/2021||||180452N|0663346W|18.0810233|-66.5627113|||0.0|0.0
 2585101|Parcelas Viejas Borinquen Comunidad|Populated Place|Puerto Rico|72|Caguas|025|Caguas|03/31/2010|08/12/2021||||181026N|0660226W|18.1738541|-66.0406197|||0.0|0.0
 2585102|Quebrada del Agua Comunidad|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|03/31/2010|08/12/2021||||180216N|0664105W|18.0377522|-66.6846382|||0.0|0.0
-2585103|Tibes Comunidad|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|03/31/2010|08/12/2021||||180519N|0663760W|18.0886494|-66.6332697|||0.0|0.0
+2585103|Tibes Comunidad|Populated Place|Puerto Rico|72|Ponce|113|Penuelas|03/31/2010|08/12/2021||||180519N|0663800W|18.0886494|-66.6332697|||0.0|0.0
 2585530|Rodríguez Hevia Comunidad|Populated Place|Puerto Rico|72|Cidra|041|Comerio|03/25/2010|08/12/2021||||181207N|0661056W|18.2020341|-66.1822207|||0.0|0.0
 2611710|Cerrillos Hoyos Comunidad|Populated Place|Puerto Rico|72|Ponce|113|Ponce|04/14/2010|08/12/2021||||180356N|0663407W|18.0655233|-66.5687143|||0.0|0.0
 2611711|Vayas Comunidad|Populated Place|Puerto Rico|72|Ponce|113|Ponce|04/14/2010|08/12/2021||||180314N|0663509W|18.054008|-66.5857366|||0.0|0.0
@@ -5739,7 +5739,7 @@
 2631220|Segui Comunidad|Census|Puerto Rico|72|Ciales|039|Florida|08/30/2010|||||181836N|0663401W|18.3099035|-66.567036|||0.0|0.0
 2633139|El Paraiso|Populated Place|Puerto Rico|72|Ponce|113|Ponce|07/09/2010|||||180353N|0663608W|18.0648412|-66.602092|||0.0|0.0
 2634430|Palmas del Mar Comunidad|Populated Place|Puerto Rico|72|Humacao|069|Punta Guayanes|07/29/2010|08/12/2021||||180532N|0654802W|18.0922631|-65.8005244|||0.0|0.0
-2680295|Manchas Chicas|Bar|Puerto Rico|72|Mayagüez|097|Mayaguez|06/01/2011|02/10/2020|Official|Board Decision|03/20/1958|181360N|0671060W|18.2333333|-67.1833333|||0.0|0.0
+2680295|Manchas Chicas|Bar|Puerto Rico|72|Mayagüez|097|Mayaguez|06/01/2011|02/10/2020|Official|Board Decision|03/20/1958|181400N|0671100W|18.2333333|-67.1833333|||0.0|0.0
 2746462|Arkabuko Naguake Woods|Woods|Puerto Rico|72|Yabucoa|151|Punta Guayanes|04/14/2013||Official|Board Decision|04/11/2013|180120N|0655134W|18.02215|-65.859543|||0.0|0.0
 2749934|Lago La Plata|Reservoir|Puerto Rico|72|Toa Alta|135|Naranjito|09/04/2013|||||181928N|0661358W|18.3243812|-66.2327957|||0.0|0.0
 2749954|Lago Toa Vaca|Reservoir|Puerto Rico|72|Villalba|149|Rio Descalabrado|09/04/2013|||||180604N|0662824W|18.1010685|-66.4732933|||0.0|0.0
@@ -5776,7 +5776,7 @@
 2807557|Villa Hugo I|Populated Place|Puerto Rico|72|Canóvanas|029|Carolina|05/28/2020|||||182352N|0655327W|18.3978618|-65.8908015|||0.0|0.0
 2807558|Villa Hugo I Census Designated Place|Populated Place|Puerto Rico|72|Canóvanas|029|Carolina|05/28/2020|08/12/2021||||182351N|0655327W|18.3975649|-65.8908414|||0.0|0.0
 2807559|Villa Hugo II|Populated Place|Puerto Rico|72|Canóvanas|029|Carolina|05/28/2020|||||182400N|0655332W|18.4001124|-65.8922292|||0.0|0.0
-2807560|Villa Hugo II Census Designated Place|Populated Place|Puerto Rico|72|Canóvanas|029|Carolina|05/28/2020|08/12/2021||||182360N|0655335W|18.3998624|-65.8931572|||0.0|0.0
+2807560|Villa Hugo II Census Designated Place|Populated Place|Puerto Rico|72|Canóvanas|029|Carolina|05/28/2020|08/12/2021||||182400N|0655335W|18.3998624|-65.8931572|||0.0|0.0
 2807561|Villa Sin Miedo|Populated Place|Puerto Rico|72|Canóvanas|029|El Yunque|05/28/2020|||||181521N|0655223W|18.2559531|-65.8731703|||0.0|0.0
 2807562|Villa Sin Miedo Census Designated Place|Populated Place|Puerto Rico|72|Canóvanas|029|El Yunque|05/28/2020|08/12/2021||||181523N|0655222W|18.2564968|-65.8728615|||0.0|0.0
 2807563|Santa María Census Designated Place|Populated Place|Puerto Rico|72|Ceiba|037|Fajardo|05/28/2020|08/12/2021||||181616N|0653944W|18.2710194|-65.6622938|||0.0|0.0
@@ -5813,7 +5813,7 @@
 2807594|Villas del Sol|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|05/28/2020|||||182652N|0661344W|18.4477642|-66.2288416|||0.0|0.0
 2807595|Villas del Sol Census Designated Place|Populated Place|Puerto Rico|72|Toa Baja|137|Bayamon|05/28/2020|08/12/2021||||182655N|0661347W|18.4487463|-66.2297718|||0.0|0.0
 2813118|Palma Sola Census Designated Place|Census|Puerto Rico|72|Canóvanas|029|El Yunque|06/18/2020|||||181926N|0655217W|18.3239432|-65.8715096|||0.0|0.0
-2813119|Rincón Census Designated Place|Populated Place|Puerto Rico|72|Cidra|041|Comerio|06/18/2020|08/12/2021||||180860N|0660925W|18.1499098|-66.1568967|||0.0|0.0
+2813119|Rincón Census Designated Place|Populated Place|Puerto Rico|72|Cidra|041|Comerio|06/18/2020|08/12/2021||||180900N|0660925W|18.1499098|-66.1568967|||0.0|0.0
 2813120|Palmarejo Census Designated Place|Populated Place|Puerto Rico|72|Corozal|047|Corozal|06/18/2020|08/12/2021||||181853N|0661732W|18.3148098|-66.292326|||0.0|0.0
 2832707|Isabela Puerto Rico Air Base|Military|Puerto Rico|72|Aguadilla|005|Moca|08/20/2025|08/20/2025||||182750N|0670357W|18.4637601|-67.0658661|||0.0|0.0
 2832919|Ramey Air Force Solar Observatory Research Site|Military|Puerto Rico|72|Aguadilla|005|Isabela|08/20/2025|08/20/2025||||183034N|0670557W|18.5094646|-67.0991704|||0.0|0.0
