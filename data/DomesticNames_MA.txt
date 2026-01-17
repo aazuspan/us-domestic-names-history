@@ -13084,3 +13084,4 @@
 2832656|Cape Cod Space Force Station|Military|Massachusetts|25|Barnstable|001|Sagamore|08/20/2025|08/20/2025||||414509N|0703217W|41.7524976|-70.5381245|||0.0|0.0
 2832814|National Guard Military Training Area Camp Edwards|Military|Massachusetts|25|Barnstable|001|Pocasset|08/20/2025|08/20/2025||||414201N|0703242W|41.7001637|-70.5450366|||0.0|0.0
 2832883|Naval Plant Representative Office Pittsfield|Military|Massachusetts|25|Berkshire|003|Pittsfield East|08/20/2025|08/20/2025||||422744N|0731216W|42.4622903|-73.2045312|||0.0|0.0
+2833022|Sunset Stream|Stream|Massachusetts|25|Norfolk|021|Blue Hills|12/12/2025|12/12/2025|Official|Board Decision|12/11/2025|421151N|0710042W|42.19757|-71.01159|421205N|0710057W|42.20148|-71.01573

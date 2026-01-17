@@ -13833,7 +13833,7 @@
 337033|Hiawassee Land Company Lake|Reservoir|Georgia|13|Whitfield|313|Tunnel Hill|09/01/1992|11/15/2018||||344530N|0850153W|34.7584289|-85.031399|||0.0|0.0
 337035|Hurricane Valley Estates Lake|Reservoir|Georgia|13|Whitfield|313|Villanow|09/01/1992|11/15/2018||||344315N|0850208W|34.7207016|-85.0354299|||0.0|0.0
 337039|Kraft Industrial Waste Pond|Reservoir|Georgia|13|Floyd|115|Livingston|09/01/1992|11/16/2018||||341435N|0851947W|34.2431298|-85.3297629|||0.0|0.0
-337043|Effluent Equalization|Reservoir|Georgia|13|Floyd|115|Livingston|09/01/1992|09/12/2025|Official|Board Decision|09/11/2025|341450N|0851939W|34.2471|-85.3274|||0.0|0.0
+337043|Effluent Equalization Basin|Reservoir|Georgia|13|Floyd|115|Livingston|09/01/1992|12/12/2025|Official|Board Decision|09/11/2025|341450N|0851939W|34.2471|-85.3274|||0.0|0.0
 337047|Rutledge Lake|Reservoir|Georgia|13|Floyd|115|Plainville|09/01/1992|11/15/2018||||342234N|0850535W|34.3761386|-85.0929377|||0.0|0.0
 337049|Powers Lake Number One|Reservoir|Georgia|13|Floyd|115|Rome South|09/01/1992|11/15/2018||||340926N|0851235W|34.1572585|-85.2098066|||0.0|0.0
 337051|Martens Lake|Reservoir|Georgia|13|Floyd|115|Rome South|09/01/1992|11/16/2018||||341304N|0851333W|34.21781|-85.2257233|||0.0|0.0
@@ -17762,7 +17762,7 @@
 353947|Youngs Mill Spring|Spring|Georgia|13|Floyd|115|Shannon|06/01/1995|||||341542N|0850137W|34.2617604|-85.0268903|||0.0|0.0
 353948|Woodpin Estates|Populated Place|Georgia|13|Floyd|115|Rome South|06/01/1995|06/07/2022||||341305N|0850847W|34.2181503|-85.1463386|||0.0|0.0
 353953|Ascalon|Populated Place|Georgia|13|Walker|295|Durham|06/01/1995|06/07/2022||||345022N|0852529W|34.8395222|-85.4246829|||0.0|0.0
-353956|Barren Hills|Range|Georgia|13|Whitfield|313|Villanow|06/01/1995|07/03/2025||||344324N|0850658W|34.7232164|-85.1159947|||0.0|0.0
+353956|Barren Hills|Range|Georgia|13|Whitfield|313|Villanow|06/01/1995|01/08/2026||||344324N|0850658W|34.7232164|-85.1159947|||0.0|0.0
 353960|Big Spring|Spring|Georgia|13|Walker|295|LaFayette|06/01/1995|||||344305N|0851717W|34.7181352|-85.2880113|||0.0|0.0
 353961|Blaylock Mill Pond|Reservoir|Georgia|13|Walker|295|LaFayette|06/01/1995|11/16/2018||||343952N|0851750W|34.6644355|-85.2972116|||0.0|0.0
 353963|Bloody Pond (historical)|Lake|Georgia|13|Walker|295|Fort Oglethorpe|06/01/1995|08/24/2015||||345440N|0851623W|34.9111874|-85.2730115|||0.0|0.0
@@ -17790,7 +17790,7 @@
 354064|Green Hills|Populated Place|Georgia|13|Walker|295|Fort Oglethorpe|06/01/1995|06/07/2022||||345502N|0852000W|34.9172987|-85.333291|||0.0|0.0
 354065|Greenbush (historical)|Populated Place|Georgia|13|Walker|295|Catlett|06/01/1995|06/07/2022||||343809N|0851131W|34.6359156|-85.1918964|||0.0|0.0
 354067|Guild (historical)|Populated Place|Georgia|13|Walker|295|LaFayette|06/01/1995|06/07/2022||||343828N|0851822W|34.6411929|-85.3060671|||0.0|0.0
-354069|Gulf Mountain|Summit|Georgia|13|Walker|295|Dougherty Gap|06/01/1995|05/16/2025||||343724N|0852757W|34.6232772|-85.465934|||0.0|0.0
+354069|Gulf Mountain|Summit|Georgia|13|Walker|295|Dougherty Gap|06/01/1995|01/08/2026||||343724N|0852757W|34.6232772|-85.465934|||0.0|0.0
 354070|Happy Valley|Populated Place|Georgia|13|Walker|295|Fort Oglethorpe|06/01/1995|06/07/2022||||345607N|0851920W|34.935354|-85.3221796|||0.0|0.0
 354074|Harrisburg Creek|Stream|Georgia|13|Walker|295|Dougherty Gap|06/01/1995|||||343530N|0852254W|34.5917498|-85.3816249|343654N|0852422W|34.615|-85.4061111
 354077|Henrys (historical)|Populated Place|Georgia|13|Walker|295|Durham|06/01/1995|06/07/2022||||344938N|0852250W|34.8273|-85.3805149|||0.0|0.0
@@ -23738,3 +23738,4 @@
 2832807|National Guard Macon Readiness Center|Military|Georgia|13|Bibb|021|Macon East|08/20/2025|08/20/2025||||325141N|0833621W|32.8613137|-83.6057112|||0.0|0.0
 2832820|National Guard Oglethorpe Armory|Military|Georgia|13|Clayton|063|Jonesboro|08/20/2025|08/20/2025||||333703N|0841836W|33.617423|-84.3100028|||0.0|0.0
 2832929|Savannah/Hilton Head International Airport|Military|Georgia|13|Chatham|051|Port Wentworth|08/20/2025|08/20/2025||||320735N|0811123W|32.1263297|-81.1897384|||0.0|0.0
+2833023|Druid Hill|Summit|Georgia|13|DeKalb|089|Northeast Atlanta|12/12/2025|12/13/2025|Official|Board Decision|12/11/2025|334850N|0841815W|33.8137857|-84.3041371|||0.0|0.0

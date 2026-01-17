@@ -10636,7 +10636,7 @@
 449839|Indian Hill|Populated Place|Indiana|18|Starke|149|Knox West|02/14/1979|06/07/2022||||411931N|0864100W|41.3253195|-86.6833495|||0.0|0.0
 449840|Morvins Landing|Populated Place|Indiana|18|Harrison|061|Mauckport|02/14/1979|06/07/2022||||380037N|0861003W|38.010348|-86.1674699|||0.0|0.0
 449841|Norths Landing|Populated Place|Indiana|18|Ohio|115|Rising Sun|02/14/1979|06/07/2022|Official|Board Decision|01/01/1964|385408N|0845225W|38.9022832|-84.8735602|||0.0|0.0
-449842|Schooler Point Landing|Populated Place|Indiana|18|Crawford|025|Leavenworth|02/14/1979|06/07/2022||||380929N|0862029W|38.1581207|-86.3413655|||0.0|0.0
+449842|Schooner Point Landing|Populated Place|Indiana|18|Crawford|025|Leavenworth|02/14/1979|01/12/2026||||380929N|0862029W|38.1581207|-86.3413655|||0.0|0.0
 449843|Silver Point|Populated Place|Indiana|18|Kosciusko|085|Leesburg|02/14/1979|06/07/2022||||411953N|0854608W|41.331435|-85.7688781|||0.0|0.0
 449844|Snow Hill|Populated Place|Indiana|18|Parke|121|Catlin|02/14/1979|06/07/2022||||393920N|0871012W|39.6555965|-87.1700146|||0.0|0.0
 449845|Spring Hill|Populated Place|Indiana|18|Johnson|081|Greenwood|02/14/1979|06/07/2022||||393712N|0860706W|39.6200465|-86.1183194|||0.0|0.0
@@ -12086,7 +12086,7 @@
 452856|Worster Lake|Reservoir|Indiana|18|St. Joseph|141|Lakeville|10/01/1982|10/15/2018||||413257N|0862148W|41.5493039|-86.3632477|||0.0|0.0
 452857|State Line|Populated Place|Indiana|18|St. Joseph|141|Niles West|10/01/1982|06/07/2022||||414530N|0861515W|41.7583812|-86.2541741|||0.0|0.0
 452858|Dreamwold Heights|Populated Place|Indiana|18|St. Joseph|141|Niles West|10/01/1982|06/07/2022||||414510N|0861515W|41.7528258|-86.2541739|||0.0|0.0
-452890|Indianapolis|Populated Place|Indiana|18|Marion|097|Indianapolis West|02/14/1979|06/07/2022|Official|Board Decision|01/01/1931|394606N|0860929W|39.7683765|-86.1580423|||0.0|0.0
+452890|Indianapolis|Populated Place|Indiana|18|Marion|097|Indianapolis West|02/14/1979|11/19/2025|Official|Board Decision|01/01/1931|394606N|0860929W|39.7683765|-86.1580423|||0.0|0.0
 452891|Lake on the Green|Populated Place|Indiana|18|Brown|013|New Bellsville|10/01/1982|06/07/2022||||390815N|0860700W|39.1375506|-86.1166567|||0.0|0.0
 452893|Caledonia (historical)|Populated Place|Indiana|18|Sullivan|153|Dugger|02/14/1979|06/07/2022||||390556N|0872006W|39.0989314|-87.3350173|||0.0|0.0
 452895|Farnsworth (historical)|Populated Place|Indiana|18|Sullivan|153|Dugger|02/14/1979|06/07/2022||||390557N|0871925W|39.0992092|-87.323628|||0.0|0.0

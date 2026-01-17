@@ -611,7 +611,7 @@
 874927|Bridgepoint Lake|Reservoir|New Jersey|34|Somerset|035|Rocky Hill|09/08/1979|||||402602N|0743842W|40.4339942|-74.6448805|||0.0|0.0
 874928|Bridgeport|Populated Place|New Jersey|34|Gloucester|015|Bridgeport|09/08/1979|06/07/2022||||394803N|0752051W|39.8009464|-75.3474118|||0.0|0.0
 874929|Bridges Sticks Creek|Stream|New Jersey|34|Cumberland|011|Ben Davis Point|09/08/1979|||||392044N|0751606W|39.3456699|-75.2682461|392215N|0751359W|39.3709479|-75.2329662
-874930|Bridgeton|Populated Place|New Jersey|34|Cumberland|011|Bridgeton|09/08/1979|06/07/2022||||392538N|0751403W|39.427337|-75.2340768|||0.0|0.0
+874930|Bridgeton|Populated Place|New Jersey|34|Cumberland|011|Bridgeton|09/08/1979|12/15/2025||||392538N|0751403W|39.427337|-75.2340768|||0.0|0.0
 874931|Bridgeton Junction|Populated Place|New Jersey|34|Cumberland|011|Bridgeton|09/08/1979|06/07/2022||||392710N|0751246W|39.4528927|-75.2126866|||0.0|0.0
 874932|Bridgeville|Populated Place|New Jersey|34|Warren|041|Belvidere|11/01/2023|11/01/2023||||405012N|0750134W|40.836765|-75.0260066|||0.0|0.0
 874934|Bridgewood Lake|Reservoir|New Jersey|34|Camden|007|Clementon|09/08/1979|12/15/2018||||394959N|0745801W|39.8329528|-74.9668504|||0.0|0.0
@@ -989,7 +989,7 @@
 875558|Colliers Mills|Populated Place|New Jersey|34|Ocean|029|Cassville|09/08/1979|06/07/2022||||400403N|0742658W|40.0676143|-74.4493177|||0.0|0.0
 875559|Colliers Pond|Reservoir|New Jersey|34|Burlington|005|Columbus|09/08/1979|12/15/2018||||400709N|0744147W|40.1190619|-74.6964548|||0.0|0.0
 875560|Collings Lakes|Populated Place|New Jersey|34|Atlantic|001|Buena|09/08/1979|06/07/2022||||393544N|0745254W|39.5956717|-74.8815556|||0.0|0.0
-875561|Collingswood|Populated Place|New Jersey|34|Camden|007|Camden|09/08/1979|06/07/2022||||395505N|0750417W|39.9181686|-75.071284|||0.0|0.0
+875561|Collingswood|Populated Place|New Jersey|34|Camden|007|Camden|09/08/1979|12/15/2025||||395505N|0750417W|39.9181686|-75.071284|||0.0|0.0
 875563|Collingwood Park|Populated Place|New Jersey|34|Monmouth|025|Farmingdale|09/08/1979|06/07/2022||||401320N|0740802W|40.2223346|-74.1337525|||0.0|0.0
 875564|Collins Cove|Bay|New Jersey|34|Atlantic|001|New Gretna|09/08/1979|||||393256N|0742829W|39.5490068|-74.4745953|||0.0|0.0
 875565|Collins Lower Tide Pond|Lake|New Jersey|34|Ocean|029|Ship Bottom|09/08/1979|12/18/2018||||394345N|0741159W|39.729059|-74.1997269|||0.0|0.0
@@ -1408,7 +1408,7 @@
 876115|Edward Creek|Stream|New Jersey|34|Cape May|009|Sea Isle City|09/08/1979|03/21/2013||||391347N|0743853W|39.22976|-74.6481138|391437N|0743932W|39.2435669|-74.6589553
 876116|Edwards Run|Stream|New Jersey|34|Gloucester|015|Woodbury|09/08/1979|03/21/2013||||394827N|0751205W|39.8074728|-75.2013624|394422N|0750952W|39.7395014|-75.1645088
 876117|Egbert Lake|Lake|New Jersey|34|Morris|027|Boonton|09/08/1979|08/12/2020||||405950N|0742840W|40.9971132|-74.4778888|||0.0|0.0
-876119|Egg Harbor City|Populated Place|New Jersey|34|Atlantic|001|Egg Harbor City|09/08/1979|12/06/2013|Official|Board Decision|07/01/1931|393143N|0743853W|39.5287282|-74.6479364|||0.0|0.0
+876119|Egg Harbor City|Populated Place|New Jersey|34|Atlantic|001|Egg Harbor City|09/08/1979|12/15/2025|Official|Board Decision|07/01/1931|393143N|0743853W|39.5287282|-74.6479364|||0.0|0.0
 876120|Egg Harbor City Lake|Lake|New Jersey|34|Atlantic|001|Green Bank|09/08/1979|12/18/2018||||393337N|0743641W|39.560296|-74.6114573|||0.0|0.0
 876121|Egg Island|Island|New Jersey|34|Atlantic|001|Brigantine Inlet|09/08/1979|||||392838N|0742120W|39.4773396|-74.3554235|||0.0|0.0
 876122|Egg Island|Island|New Jersey|34|Ocean|029|Ship Bottom|09/08/1979|||||393806N|0741236W|39.6351189|-74.2098617|||0.0|0.0
@@ -1887,7 +1887,7 @@
 876866|Haddon|Populated Place|New Jersey|34|Camden|007|Camden|09/08/1979|06/07/2022||||395351N|0750546W|39.8976132|-75.0960074|||0.0|0.0
 876867|Haddon Heights|Populated Place|New Jersey|34|Camden|007|Camden|09/08/1979|06/07/2022||||395238N|0750353W|39.8773356|-75.0646165|||0.0|0.0
 876868|Haddon Lake|Reservoir|New Jersey|34|Camden|007|Camden|09/08/1979|12/15/2018||||395306N|0750459W|39.8850284|-75.0830769|||0.0|0.0
-876869|Haddonfield|Populated Place|New Jersey|34|Camden|007|Camden|09/08/1979|06/07/2022||||395329N|0750216W|39.8915022|-75.0376707|||0.0|0.0
+876869|Haddonfield|Populated Place|New Jersey|34|Camden|007|Camden|09/08/1979|12/15/2025||||395329N|0750216W|39.8915022|-75.0376707|||0.0|0.0
 876871|Hagerville|Populated Place|New Jersey|34|Salem|033|Salem|09/08/1979|06/07/2022|Official|Board Decision|01/01/1954|393200N|0752759W|39.533446|-75.4663095|||0.0|0.0
 876872|Haines Corner|Populated Place|New Jersey|34|Camden|007|Clementon|09/08/1979|06/07/2022||||395207N|0745640W|39.868725|-74.9443329|||0.0|0.0
 876873|Haines Corner|Populated Place|New Jersey|34|Mercer|021|Trenton East|09/08/1979|06/07/2022||||401221N|0743903W|40.2059431|-74.6507132|||0.0|0.0
@@ -2503,7 +2503,7 @@
 877812|Linger Point|Cape|New Jersey|34|Cape May|009|Cape May|09/08/1979||Official|Board Decision|01/01/1944|385713N|0745257W|38.9537238|-74.882393|||0.0|0.0
 877813|Lingerts Pond|Reservoir|New Jersey|34|Hunterdon|019|High Bridge|09/08/1979|08/12/2020||||403801N|0745534W|40.6337043|-74.9261202|||0.0|0.0
 877814|Linvale|Populated Place|New Jersey|34|Hunterdon|019|Hopewell|09/08/1979|06/07/2022||||402335N|0745009W|40.3931613|-74.8357196|||0.0|0.0
-877815|Linwood|Populated Place|New Jersey|34|Atlantic|001|Ocean City|09/08/1979|06/07/2022||||392023N|0743431W|39.3398382|-74.5751557|||0.0|0.0
+877815|Linwood|Populated Place|New Jersey|34|Atlantic|001|Ocean City|09/08/1979|12/15/2025||||392023N|0743431W|39.3398382|-74.5751557|||0.0|0.0
 877816|Linwood|Populated Place|New Jersey|34|Bergen|003|Central Park|09/08/1979|06/07/2022||||405147N|0735803W|40.8631554|-73.9676381|||0.0|0.0
 877818|Lion Lake|Lake|New Jersey|34|Camden|007|Clementon|09/08/1979|12/15/2018||||395101N|0745537W|39.8501704|-74.9270806|||0.0|0.0
 877819|Lionhead Lake|Lake|New Jersey|34|Passaic|031|Pompton Plains|09/08/1979|10/30/2024||||405828N|0741535W|40.974503|-74.259853|||0.0|0.0
@@ -4956,7 +4956,7 @@
 881719|West Moorestown|Populated Place|New Jersey|34|Burlington|005|Moorestown|09/08/1979|06/07/2022||||395737N|0745720W|39.9603904|-74.9554458|||0.0|0.0
 881720|West New York|Populated Place|New Jersey|34|Hudson|017|Weehawken|09/08/1979|06/07/2022||||404716N|0740052W|40.7878788|-74.0143064|||0.0|0.0
 881721|West Orange|Populated Place|New Jersey|34|Essex|013|Orange|09/08/1979|06/07/2022||||404755N|0741421W|40.7987113|-74.2390353|||0.0|0.0
-881722|Woodland Park|Populated Place|New Jersey|34|Passaic|031|Paterson|09/08/1979|06/07/2022||||405323N|0741142W|40.8898212|-74.1948674|||0.0|0.0
+881722|Woodland Park|Populated Place|New Jersey|34|Passaic|031|Paterson|09/08/1979|12/15/2025||||405323N|0741142W|40.8898212|-74.1948674|||0.0|0.0
 881723|West Point Island|Island|New Jersey|34|Ocean|029|Seaside Park|09/08/1979|||||395751N|0740456W|39.9642848|-74.0823591|||0.0|0.0
 881724|West Pond|Lake|New Jersey|34|Passaic|031|Greenwood Lake|09/08/1979|08/12/2020||||411105N|0742113W|41.1847297|-74.353592|||0.0|0.0
 881725|West Portal|Populated Place|New Jersey|34|Hunterdon|019|Bloomsbury|09/08/1979|06/07/2022||||403944N|0750200W|40.6623227|-75.0332273|||0.0|0.0
@@ -6834,7 +6834,6 @@
 1196385|Beverly Channel|Channel|Pennsylvania|42|Bucks|017|Beverly|08/30/1990|||||400415N|0745509W|40.0709443|-74.9190558|||0.0|0.0
 1196386|Enterprise Range|Channel|Pennsylvania|42|Bucks|017|Beverly|08/30/1990|||||400350N|0745634W|40.064|-74.9426678|||0.0|0.0
 1196391|Frankford Channel|Channel|Pennsylvania|42|Philadelphia|101|Frankford|08/30/1990|||||400040N|0750234W|40.0112232|-75.0426722|||0.0|0.0
-1196397|Horseshoe Range|Channel|Pennsylvania|42|Philadelphia|101|Philadelphia|08/30/1990|||||395315N|0750826W|39.8876132|-75.1404543|||0.0|0.0
 1196399|Eagle Point Range|Channel|Pennsylvania|42|Philadelphia|101|Philadelphia|08/30/1990|||||395250N|0751029W|39.8806688|-75.1746231|||0.0|0.0
 1196403|Billingsport Range|Channel|Pennsylvania|42|Delaware|045|Bridgeport|08/30/1990|||||395100N|0751529W|39.8501131|-75.2579617|||0.0|0.0
 1196404|Tinicum Range|Channel|Pennsylvania|42|Delaware|045|Bridgeport|08/30/1990|||||395055N|0751744W|39.848724|-75.2954641|||0.0|0.0

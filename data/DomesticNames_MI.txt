@@ -13540,9 +13540,9 @@
 1617064|Bright Lake|Lake|Michigan|26|Crawford|039|Grayling|01/01/1991|05/14/2019|Official|Board Decision|01/01/1937|444346N|0844105W|44.729479|-84.6848219|||0.0|0.0
 1617065|Lake Arthur|Lake|Michigan|26|Antrim|009|Bellaire|01/01/1991|09/27/2018|Official|Board Decision|01/01/1967|445247N|0850829W|44.8797985|-85.1413147|||0.0|0.0
 1617066|Amazie Lake|Lake|Michigan|26|Montcalm|117|Sand Lake|01/01/1991||Official|Board Decision|01/01/1948|431911N|0853256W|43.3197488|-85.5489268|||0.0|0.0
-1617067|Crystal Bay|Bay|Michigan|26|Wayne|163|Rockwood|01/01/1991|01/24/2007|Official|Board Decision|03/10/1977|420647N|0830731W|42.1130978|-83.1252009|||0.0|0.0
 1617068|Conners Creek|Populated Place|Michigan|26|Wayne|163|Belle Isle|01/01/1991|12/08/2011|Official|Board Decision|01/01/1905|422150N|0825730W|42.3638889|-82.9583333|||0.0|0.0
 1617069|Linn Creek|Stream|Michigan|26|Newaygo|123|Big Bend|01/01/1991||Official|Board Decision|01/01/1960|433115N|0853630W|43.520857|-85.6083796|433115N|0853630W|43.520857|-85.6083796
+1617070|Cook Island|Island|Michigan|26|Chippewa|033|Sault Ste. Marie South|01/01/1991||Official|Board Decision|01/01/1965|462940N|0841555W|46.494466|-84.2653124|||0.0|0.0
 1617071|Betsy|Populated Place|Michigan|26|Keweenaw|083|Deer Lake|01/01/1991|06/07/2022|Official|Board Decision|01/01/1976|471749N|0880330W|47.2968604|-88.0584435|||0.0|0.0
 1617072|Chase Lake|Lake|Michigan|26|Oakland|125|West Highland|01/01/2000|03/14/2019|Official|Board Decision|01/01/1990|424333N|0833834W|42.7258289|-83.6427777|||0.0|0.0
 1617073|Totches Bayou|Lake|Michigan|26|Manistee|101|Parkdale|01/01/2000||Official|Board Decision|01/01/1991|441556N|0861634W|44.2655584|-86.2761972|||0.0|0.0
@@ -17701,7 +17701,6 @@
 1623101|The Flats|Bar|Michigan|26|Huron|063|Forestville|01/01/2000||Official|Board Decision|01/01/1983|434300N|0823621W|43.7166851|-82.6057591|||0.0|0.0
 1623102|Forest Bay|Bay|Michigan|26|Huron|063|Port Hope|01/01/2000||Official|Board Decision|01/01/1978|435405N|0824100W|43.9014017|-82.6832657|||0.0|0.0
 1623103|Haney Lake|Lake|Michigan|26|Van Buren|159|Bangor|01/01/2000|06/13/2023|Official|Board Decision|01/01/1984|421509N|0860729W|42.2525597|-86.1247779|||0.0|0.0
-1623104|Hole-in-the-Wall|Gut|Michigan|26|Wayne|163|Rockwood|01/01/2000||Official|Board Decision|01/01/1978|420628N|0830737W|42.1078201|-83.1268676|||0.0|0.0
 1623105|Indian Point|Cape|Michigan|26|Chippewa|033|Oak Ridge|01/01/2000||Official|Board Decision|01/01/1981|462107N|0840750W|46.3519632|-84.1305819|||0.0|0.0
 1623106|Inkala Creek|Stream|Michigan|26|Ontonagon|131|Bruce Crossing|01/01/2000||Official|Board Decision|01/01/1982|463605N|0891138W|46.6013315|-89.1937533|463507N|0891516W|46.585221|-89.25431
 1623107|Lantern Lake|Lake|Michigan|26|Oakland|125|Pontiac North|01/01/2000|02/21/2019|Official|Board Decision|01/01/1984|424142N|0831818W|42.6949179|-83.3050772|||0.0|0.0
@@ -20109,7 +20108,6 @@
 2100450|Ingleside|Populated Place|Michigan|26|Cheboygan|031|Indianville|02/08/2007|06/07/2022||||453600N|0844240W|45.6|-84.7111111|||0.0|0.0
 2100451|Silver Strand Beach|Beach|Michigan|26|Cheboygan|031|Indianville|02/08/2007|01/16/2018||||453533N|0844344W|45.5925|-84.7288889|||0.0|0.0
 2100452|Marl Bay|Bay|Michigan|26|Cheboygan|031|Indianville|02/08/2007|01/16/2018||||453610N|0844310W|45.6027778|-84.7194444|||0.0|0.0
-2101436|International Lake|Bay|Michigan|26|Wayne|163|Rockwood OE E|01/24/2007||Official|Board Decision|03/10/1977|420648N|0830725W|42.1133333|-83.1236111|||0.0|0.0
 2104128|Hoppers Swamp|Swamp|Michigan|26|Manistee|101|Udell|02/08/2007|||||441038N|0860340W|44.1772222|-86.0611111|||0.0|0.0
 2104129|Tank Creek|Stream|Michigan|26|Manistee|101|Udell|02/08/2007|||||441020N|0860548W|44.1722222|-86.0966667|441115N|0860346W|44.1875|-86.0627778
 2104133|Loxley|Populated Place|Michigan|26|Roscommon|143|Houghton Lake|02/08/2007|06/07/2022||||441612N|0844750W|44.27|-84.7972222|||0.0|0.0

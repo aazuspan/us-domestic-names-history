@@ -3659,6 +3659,7 @@
 565163|Dog Brook|Stream|Maine|23|Aroostook|003|Twin Brook|09/30/1980|||||460809N|0675340W|46.1358856|-67.8944638|461042N|0675512W|46.1783333|-67.92
 565164|Dog Brook|Stream|Maine|23|Washington|029|Simsquish Lake|09/30/1980|||||452513N|0673720W|45.4203473|-67.6222243|452554N|0674101W|45.4317364|-67.6836145
 565165|Dog Corner|Populated Place|Maine|23|Cumberland|005|North Windham|09/30/1980|06/07/2022||||434549N|0702829W|43.763689|-70.4747755|||0.0|0.0
+565166|Dog Falls|Falls|Maine|23|Washington|029|Kelleyland|09/30/1980|||||452217N|0672549W|45.3714593|-67.4302754|||0.0|0.0
 565167|Dog Island|Island|Maine|23|Hancock|009|Cape Rosier|09/30/1980|||||441912N|0684609W|44.3200781|-68.7691955|||0.0|0.0
 565168|Dog Island|Island|Maine|23|Washington|029|Eastport OE E|09/30/1980|||||445506N|0665923W|44.9184127|-66.9897005|||0.0|0.0
 565169|Dog Island Corner|Populated Place|Maine|23|Waldo|027|Belfast|09/30/1980|06/07/2022||||442405N|0690153W|44.4014649|-69.0314241|||0.0|0.0
@@ -7580,6 +7581,7 @@
 569772|Little Falls|Falls|Maine|23|Oxford|017|Kennebago|09/30/1980|||||450155N|0705122W|45.0319966|-70.8561808|||0.0|0.0
 569773|Little Falls|Falls|Maine|23|Washington|029|Grand Lake Stream|09/30/1980|||||451002N|0674505W|45.167294|-67.7513895|||0.0|0.0
 569774|Little Falls|Populated Place|Maine|23|Cumberland|005|Gorham|11/01/2023|11/01/2023||||434353N|0702539W|43.7314679|-70.4275521|||0.0|0.0
+569775|Little Falls|Falls|Maine|23|Washington|029|Vanceboro|09/30/1980|||||453028N|0672744W|45.5078453|-67.462222|||0.0|0.0
 569776|Little Falls Brook|Stream|Maine|23|Lincoln|015|Bristol|09/30/1980|||||435406N|0693103W|43.901749|-69.517547|435701N|0693058W|43.9502778|-69.5161111
 569777|Little Falls Pond|Lake|Maine|23|Aroostook|003|Falls Brook Lake|09/30/1980|10/18/2017||||471054N|0690623W|47.1816687|-69.1063249|||0.0|0.0
 569778|Little Female Pond|Lake|Maine|23|Piscataquis|021|Rainbow Lake West|09/30/1980|03/17/2018||||454508N|0691436W|45.7521265|-69.2434101|||0.0|0.0
@@ -12986,7 +12988,6 @@
 576018|Spectacles|Island|Maine|23|Knox|013|Tenants Harbor|09/30/1980|||||435833N|0691101W|43.9759157|-69.183656|||0.0|0.0
 576019|Spednic Lake|Reservoir|New Brunswick|04|Unknown|000|Lambert Lake|09/30/1980|04/05/2023|Official|Board Decision|01/01/1969|453714N|0673309W|45.6205612|-67.5524676|||0.0|0.0
 576020|Spednic Mountain|Summit|Maine|23|Washington|029|Forest|09/30/1980|06/18/2022|Official|Board Decision|01/01/1969|453627N|0673911W|45.6076106|-67.6530204|||0.0|0.0
-576021|Spednic Falls|Falls|Maine|23|Washington|029|Kelleyland|09/30/1980||Official|Board Decision|01/01/1969|451738N|0672758W|45.2939606|-67.4661087|||0.0|0.0
 576022|Spencer Bale Mountain|Summit|Maine|23|Franklin|007|Tumbledown Mountain|09/30/1980|08/09/2022||||452455N|0702955W|45.4152908|-70.4985694|||0.0|0.0
 576023|Spencer Bay|Bay|Maine|23|Piscataquis|021|Spencer Bay|09/30/1980|||||454102N|0693452W|45.6839317|-69.5811671|||0.0|0.0
 576024|Spencer Bog|Swamp|Maine|23|Franklin|007|Kibby Mountain|09/30/1980|||||452403N|0703026W|45.4008832|-70.5072919|||0.0|0.0
@@ -13717,7 +13718,6 @@
 576854|The Narrows|Channel|Maine|23|Hancock|009|Rocky Pond|09/30/1980|||||444500N|0681257W|44.7500736|-68.2158496|||0.0|0.0
 576855|The Narrows|Channel|Maine|23|Oxford|017|Middle Dam|09/30/1980|||||444847N|0705334W|44.8131099|-70.8928503|||0.0|0.0
 576856|The Narrows|Channel|Maine|23|Somerset|025|Harmony|09/30/1980|||||445518N|0693136W|44.9217254|-69.5267152|||0.0|0.0
-576857|The Narrows|Channel|Maine|23|Washington|029|Devils Head|09/30/1980|||||450948N|0671333W|45.1634084|-67.225824|||0.0|0.0
 576858|The Narrows|Channel|Maine|23|Penobscot|019|Burlington|09/30/1980|||||451055N|0682615W|45.1820048|-68.4375215|||0.0|0.0
 576859|The Narrows|Channel|Maine|23|Washington|029|Princeton|09/30/1980|||||451253N|0673511W|45.2147946|-67.5863872|||0.0|0.0
 576860|The Narrows|Channel|Maine|23|Washington|029|Dark Cove Mountain|09/30/1980|||||451414N|0675507W|45.2372908|-67.9186174|||0.0|0.0
@@ -15473,6 +15473,7 @@
 578927|Drown Boys Ledges|Bar|Maine|23|Washington|029|Drisko Island|07/01/1990|03/27/2015|Official|Board Decision|01/01/1947|442648N|0673804W|44.4467465|-67.6344376|||0.0|0.0
 578928|Dictator Ledge|Bench|Maine|23|Lincoln|015|Pemaquid Point|07/01/1990||Official|Board Decision|01/01/1919|434830N|0693625W|43.8084169|-69.6069901|||0.0|0.0
 578929|Cundy Ledge|Bench|Maine|23|Cumberland|005|Orrs Island|07/01/1990||Official|Board Decision|01/01/1981|434700N|0695328W|43.7834164|-69.8911579|||0.0|0.0
+578930|Cross Lake Rapids|Rapids|Maine|23|Aroostook|003|Beau Lake|07/01/1990||Official|Board Decision|01/01/1969|471610N|0690254W|47.2694782|-69.0483734|||0.0|0.0
 578931|Corvette Ledge|Bench|Maine|23|Lincoln|015|Pemaquid Point|07/01/1990||Official|Board Decision|01/01/1892|435213N|0693248W|43.8703604|-69.5467131|||0.0|0.0
 578932|Channel Rock|Island|Maine|23|Knox|013|Isle Au Haut East|07/01/1990||Official|Board Decision|01/01/1930|440630N|0683610W|44.1084153|-68.6028017|||0.0|0.0
 578933|Chadbournes Ridge|Ridge|Maine|23|York|031|Limington|07/01/1990|07/02/2022|Official|Board Decision|01/01/1953|433738N|0704219W|43.6272309|-70.7052201|||0.0|0.0
@@ -17016,7 +17017,7 @@
 580738|Martins Brook|Stream|Maine|23|Hancock|009|Hancock|06/01/1992|||||443123N|0681918W|44.5231326|-68.3216837|443209N|0682020W|44.5358333|-68.3388889
 580739|Richs Corner|Populated Place|Maine|23|Hancock|009|Newbury Neck|06/01/1992|06/07/2022||||442734N|0682758W|44.4595217|-68.4661311|||0.0|0.0
 580742|Odom Ledge|Bar|Maine|23|Waldo|027|Bucksport|06/01/1992|||||443055N|0684803W|44.5153527|-68.8008644|||0.0|0.0
-580743|Negro Islands|Island|Maine|23|Hancock|009|Castine|06/01/1992|07/13/2020||||442425N|0684617W|44.407021|-68.7714183|||0.0|0.0
+580743|Wewətanagok|Island|Maine|23|Hancock|009|Castine|06/01/1992|12/12/2025|Official|Board Decision|12/11/2025|442425N|0684617W|44.407021|-68.7714183|||0.0|0.0
 580744|Hosmer Ledge|Bar|Maine|23|Hancock|009|Castine|06/01/1992|||||442246N|0684758W|44.3795214|-68.7994743|||0.0|0.0
 580747|Bremen|Populated Place|Maine|23|Lincoln|015|Waldoboro West|06/01/1992|06/07/2022||||440005N|0692543W|44.0014701|-69.428659|||0.0|0.0
 580749|Big Green Island|Island|Maine|23|Knox|013|North Haven East|06/01/1992|||||440856N|0684757W|44.1489694|-68.7991965|||0.0|0.0

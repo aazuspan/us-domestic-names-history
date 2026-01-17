@@ -107,7 +107,7 @@
 1390398|Finata|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|||||140843N|1451302E|14.1452778|145.2172222|||0.0|0.0
 1390399|Puntan Flores|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151347N|1454417E|15.2297222|145.7380556|||0.0|0.0
 1390400|Kannat As Frailan|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151406N|1454724E|15.235|145.79|151406N|1454724E|15.235|145.79
-1390401|Okso Frailon|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151315N|1454418E|15.2208333|145.7383333|||0.0|0.0
+1390401|Okso Frailon|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|01/03/2026||||151320N|1454427E|15.2222619|145.7409297|||0.0|0.0
 1390402|As Funta|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140953N|1451200E|14.1647222|145.2|||0.0|0.0
 1390403|Fuwaebosu|Channel|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Pagan Island|01/01/2000|||||180458N|1454528E|18.0827778|145.7577778|||0.0|0.0
 1390404|Gagani|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140706N|1451004E|14.1183333|145.1677778|||0.0|0.0
@@ -153,7 +153,7 @@
 1390446|Laderan Kalaberan Lichan|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151440N|1454734E|15.2444444|145.7927778|||0.0|0.0
 1390447|Kammer Beach|Beach|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE SW|01/01/2000|||||145749N|1453723E|14.9636111|145.6230556|||0.0|0.0
 1390448|Kannat Tapbla|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151026N|1454332E|15.1738889|145.7255556|||0.0|0.0
-1390449|Kastiyu|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|||||145712N|1453854E|14.9533333|145.6483333|||0.0|0.0
+1390449|Kastiyu|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|01/03/2026||||145719N|1453900E|14.9551576|145.6501357|||0.0|0.0
 1390450|Puntan Kastiyu|Cape|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|||||145653N|1453944E|14.9480556|145.6622222|||0.0|0.0
 1390451|Chalan Kiya|Populated Place|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|06/07/2022||||150948N|1454302E|15.1633333|145.7172222|||0.0|0.0
 1390452|Unai Chalan Kiya|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150941N|1454215E|15.1613889|145.7041667|||0.0|0.0
@@ -181,11 +181,11 @@
 1390475|Sabanan Laolao|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151003N|1454518E|15.1675|145.755|||0.0|0.0
 1390476|Unai Laolao|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||150935N|1454504E|15.1597222|145.7511111|||0.0|0.0
 1390477|Kannat Laremies|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151256N|1454428E|15.2155556|145.7411111|151256N|1454428E|15.2155556|145.7411111
-1390478|Lasu|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|01/01/2000|||||150225N|1453739E|15.0402778|145.6275|||0.0|0.0
+1390478|Lasu|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|01/01/2000|01/03/2026||||150225N|1453748E|15.0403394|145.6298694|||0.0|0.0
 1390479|Laderan Lasu|Cliff|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|01/01/2000|||||150155N|1453751E|15.0319444|145.6308333|||0.0|0.0
 1390480|Banaderon Lemmai|Slope|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150207N|1453702E|15.0352778|145.6172222|||0.0|0.0
 1390481|Lempanai|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140758N|1450948E|14.1327778|145.1633333|||0.0|0.0
-1390482|Sabanan I Lipiog|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151447N|1454735E|15.2463889|145.7930556|||0.0|0.0
+1390482|Sabanan I Lipiog|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/03/2026||||151452N|1454743E|15.2477967|145.795373|||0.0|0.0
 1390483|I Lisong|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151243N|1454512E|15.2119444|145.7533333|||0.0|0.0
 1390484|As Lito|Plain|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150755N|1454302E|15.1319444|145.7172222|||0.0|0.0
 1390485|I Liyang|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151109N|1454257E|15.1858333|145.7158333|||0.0|0.0
@@ -197,7 +197,7 @@
 1390491|I Maddock|Basin|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151531N|1454917E|15.2586111|145.8213889|||0.0|0.0
 1390492|Laderan I Maddock|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151546N|1454914E|15.2627778|145.8205556|||0.0|0.0
 1390493|Puntan I Maddock|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151533N|1454926E|15.2591667|145.8238889|||0.0|0.0
-1390494|Maga|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000||Official|Board Decision|01/01/1955|150305N|1453706E|15.0513889|145.6183333|||0.0|0.0
+1390494|Maga|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|01/03/2026|Official|Board Decision|01/01/1955|150311N|1453713E|15.0529637|145.6203503|||0.0|0.0
 1390495|Mahalang|Slope|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150248N|1453719E|15.0466667|145.6219444|||0.0|0.0
 1390496|Laderan Mahalang|Cliff|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150310N|1453710E|15.0527778|145.6194444|||0.0|0.0
 1390497|As Mahettok|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151400N|1454508E|15.2333333|145.7522222|||0.0|0.0
@@ -218,7 +218,7 @@
 1390513|Unai Masalok|Beach|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|01/01/2000|||||150106N|1453915E|15.0183333|145.6541667|||0.0|0.0
 1390514|Matansa|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151454N|1454650E|15.2483333|145.7805556|||0.0|0.0
 1390515|Matpo|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140839N|1450848E|14.1441667|145.1466667|||0.0|0.0
-1390516|As Matuis|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151538N|1454727E|15.2605556|145.7908333|||0.0|0.0
+1390516|As Matuis|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|12/09/2025||||151541N|1454728E|15.2613215|145.7911981|||0.0|0.0
 1390517|Maug Islands|Island|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Maug Island|01/01/2000||Official|Board Decision|01/01/1955|200124N|1451321E|20.0233333|145.2225|||0.0|0.0
 1390518|Micro Beach|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151301N|1454250E|15.2169444|145.7138889|||0.0|0.0
 1390519|Miigao|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140728N|1451000E|14.1244444|145.1666667|||0.0|0.0
@@ -227,7 +227,7 @@
 1390522|Mochong|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|||||141140N|1451459E|14.1944444|145.2497222|||0.0|0.0
 1390524|Puntan Muchot|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151305N|1454251E|15.2180556|145.7141667|||0.0|0.0
 1390525|Mulatu|Basin|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|||||150223N|1453624E|15.0397222|145.6066667|||0.0|0.0
-1390526|Naftan|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000||Official|Board Decision|01/01/1955|150633N|1454447E|15.1091667|145.7463889|||0.0|0.0
+1390526|Naftan|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE S|01/01/2000|01/03/2026|Official|Board Decision|01/01/1955|150632N|1454503E|15.1090172|145.7508518|||0.0|0.0
 1390527|Naftan Rock|Island|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Aguijan|01/01/2000||Official|Board Decision|01/01/1944|145000N|1453149E|14.8333333|145.5302778|||0.0|0.0
 1390528|I Naftan|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|||||150644N|1454443E|15.1122222|145.7452778|||0.0|0.0
 1390529|Laderan I Naftan|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|||||150627N|1454454E|15.1075|145.7483333|||0.0|0.0
@@ -262,7 +262,7 @@
 1390559|As Petdida|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||150739N|1454214E|15.1275|145.7038889|||0.0|0.0
 1390560|Piarama|Cape|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Pagan Island|01/01/2000|||||180307N|1454341E|18.0519444|145.7280556|||0.0|0.0
 1390561|Pidos Kalaho|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|05/12/2025||||151638N|1454824E|15.27723|145.806684|||0.0|0.0
-1390562|Piña|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|||||145913N|1453930E|14.9869444|145.6583333|||0.0|0.0
+1390562|Piña|Summit|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|01/01/2000|01/03/2026||||145915N|1453939E|14.9873797|145.6607795|||0.0|0.0
 1390563|I Pitot|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151200N|1454617E|15.2|145.7713889|||0.0|0.0
 1390564|Kannat I Pitot|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|||||151215N|1454641E|15.2041667|145.7780556|151215N|1454641E|15.2041667|145.7780556
 1390565|Poddong|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140758N|1450922E|14.1327778|145.1561111|||0.0|0.0
@@ -276,7 +276,7 @@
 1390574|Rueda|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151043N|1454312E|15.1786111|145.72|||0.0|0.0
 1390575|Kannat Rueda|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151101N|1454312E|15.1836111|145.72|151101N|1454312E|15.1836111|145.72
 1390576|Laderan Rueda|Cliff|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151041N|1454306E|15.1780556|145.7183333|||0.0|0.0
-1390577|Sabana|Summit|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140837N|1451108E|14.1436111|145.1855556|||0.0|0.0
+1390577|Sabana|Summit|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|01/03/2026||||140847N|1451114E|14.1465241|145.1871864|||0.0|0.0
 1390578|Sabaneta|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151659N|1454813E|15.2830556|145.8036111|||0.0|0.0
 1390579|Puntan Sabaneta|Cape|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|||||151716N|1454832E|15.2877778|145.8088889|||0.0|0.0
 1390580|Saddok Tasi|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|||||151334N|1454414E|15.2261111|145.7372222|||0.0|0.0
@@ -347,7 +347,7 @@
 1390651|Uyulan|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140959N|1451057E|14.1663889|145.1825|||0.0|0.0
 1390653|West Island|Island|Commonwealth of the Northern Mariana Islands|69|Northern Islands|085|Maug Island|01/01/2000||Official|Board Decision|01/01/1944|200114N|1451240E|20.0205556|145.2111111|||0.0|0.0
 1393395|Bo'bo' Achugao Haya|Spring|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/19/2018||||151359N|1454641E|15.2329384|145.7781711|||0.0|0.0
-1393396|Okso' Achugao|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||151415N|1454621E|15.2375|145.7725|||0.0|0.0
+1393396|Okso' Achugao|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/03/2026||||151415N|1454626E|15.2375207|145.7738518|||0.0|0.0
 1393397|Aga'tasi|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|08/15/2012||||140722N|1451300E|14.1227778|145.2166667|||0.0|0.0
 1393398|Bo'bo' Agatan|Spring|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/19/2018||||151353N|1454519E|15.2314129|145.7551919|||0.0|0.0
 1393399|As Akoddo'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/11/2012||||140912N|1451008E|14.1533333|145.1688889|||0.0|0.0
@@ -367,7 +367,7 @@
 1393414|Saddok I Denneʻ|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|12/30/2020||||151149N|1454647E|15.1970517|145.7797757|151154N|1454602E|15.1982372|145.7672927
 1393415|Unai Dikike' Agingan|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Tinian|01/01/2000|11/13/2012||||150700N|1454136E|15.1166667|145.6933333|||0.0|0.0
 1393416|Unai Dikike'Matuis|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE N|01/01/2000|11/13/2012||||151543N|1454656E|15.2619444|145.7822222|||0.0|0.0
-1393417|Okso' Do'gas|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||151403N|1454613E|15.2341667|145.7702778|||0.0|0.0
+1393417|Okso' Do'gas|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/03/2026||||151404N|1454619E|15.2344773|145.7720373|||0.0|0.0
 1393418|Saddok Doʻgas|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|12/30/2020||||151421N|1454526E|15.2392322|145.7571804|151346N|1454535E|15.2294704|145.7597017
 1393419|As Dudo'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|11/11/2012||||141029N|1451651E|14.1747222|145.2808333|||0.0|0.0
 1393420|Duge'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|11/11/2012||||141111N|1451609E|14.1863889|145.2691667|||0.0|0.0
@@ -377,12 +377,12 @@
 1393425|Fina' Atkos|Bay|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|11/11/2012||||140952N|1451653E|14.1644444|145.2813889|||0.0|0.0
 1393426|Gaganen Hulo'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/11/2012||||140708N|1451012E|14.1188889|145.17|||0.0|0.0
 1393427|Gua'a'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/11/2012||||140655N|1451041E|14.1152778|145.1780556|||0.0|0.0
-1393428|Okso' Gualo' Rai|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/13/2012||||151149N|1454319E|15.1969444|145.7219444|||0.0|0.0
+1393428|Okso' Gualo' Rai|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|01/03/2026||||151154N|1454328E|15.1982283|145.7244549|||0.0|0.0
 1393429|Gualo' Rai|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/11/2012||||151130N|1454320E|15.1916667|145.7222222|||0.0|0.0
 1393430|Puntan Haiña|Cape|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|08/15/2012||||140748N|1451335E|14.13|145.2263889|||0.0|0.0
 1393431|I Koridot|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|||||140913N|1451448E|14.1536111|145.2466667|||0.0|0.0
 1393432|Puntan Lamanibot Sampapa'|Cape|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE W|01/01/2000|11/13/2012||||150209N|1453512E|15.0358333|145.5866667|||0.0|0.0
-1393433|Okso' Laolao|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/13/2012||||151002N|1454451E|15.1672222|145.7475|||0.0|0.0
+1393433|Okso' Laolao|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|01/03/2026||||151008N|1454459E|15.1688376|145.749796|||0.0|0.0
 1393434|Hoyon As Lito' Kattan|Basin|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/11/2012||||150826N|1454305E|15.1405556|145.7180556|||0.0|0.0
 1393435|Hoyon As Lito' Kattan|Basin|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/11/2012||||150743N|1454252E|15.1286111|145.7144444|||0.0|0.0
 1393437|Isleta Maigo' Lu'ao|Island|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||150857N|1454719E|15.1491667|145.7886111|||0.0|0.0
@@ -415,20 +415,20 @@
 1393465|Tai'apu|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/13/2012||||140709N|1451219E|14.1191667|145.2052778|||0.0|0.0
 1393466|Taimama'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/13/2012||||140903N|1450901E|14.1508333|145.1502778|||0.0|0.0
 1393467|Puntan Taipingot|Cape|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|||||140700N|1450713E|14.1166667|145.1202778|||0.0|0.0
-1393468|Okso' Takpochao|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/13/2012||||151106N|1454428E|15.185|145.7411111|||0.0|0.0
+1393468|Okso' Takpochao|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|01/03/2026||||151108N|1454431E|15.185497|145.7418407|||0.0|0.0
 1393469|Talo'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|11/13/2012||||141004N|1451248E|14.1677778|145.2133333|||0.0|0.0
 1393470|Unai Talofo'fo'|Beach|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||151252N|1454644E|15.2144444|145.7788889|||0.0|0.0
 1393471|Talufo'fo'|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||151308N|1454600E|15.2188889|145.7666667|||0.0|0.0
 1393472|Sabanan Talufo'fo'|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||151315N|1454616E|15.2208333|145.7711111|||0.0|0.0
 1393473|Saddok Talufoʻfoʻ|Stream|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|12/30/2020||||151258N|1454650E|15.2159852|145.7806198|151340N|1454552E|15.2277559|145.7643549
-1393474|Okso' Talufo'fo|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/13/2012||||151340N|1454547E|15.2277778|145.7630556|||0.0|0.0
+1393474|Okso' Talufo'fo|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/03/2026||||151345N|1454557E|15.2292064|145.7659309|||0.0|0.0
 1393475|Te'lang|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/13/2012||||140728N|1451215E|14.1244444|145.2041667|||0.0|0.0
 1393476|As Teo'|Slope|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|11/11/2012||||151122N|1454545E|15.1894444|145.7625|||0.0|0.0
 1393477|Bo'bo'As Teo'|Spring|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|01/01/2000|01/19/2018||||151132N|1454545E|15.1921199|145.7626204|||0.0|0.0
 1393478|Tete'to|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/13/2012||||141008N|1451127E|14.1688889|145.1908333|||0.0|0.0
 1393479|Uyulan Hulo'|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota|01/01/2000|11/13/2012||||140906N|1451027E|14.1516667|145.1741667|||0.0|0.0
 1393480|Yuyu'an|Slope|Commonwealth of the Northern Mariana Islands|69|Rota|100|Rota OE E|01/01/2000|11/13/2012||||141133N|1451639E|14.1925|145.2775|||0.0|0.0
-1393632|Okso' Tipo'Poli|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|11/13/2012||||151048N|1454353E|15.18|145.7313889|||0.0|0.0
+1393632|Okso' Tipo'Poli|Summit|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan OE W|01/01/2000|01/03/2026||||151050N|1454402E|15.180497|145.7338565|||0.0|0.0
 1397632|Bobo Achugao|Spring|Commonwealth of the Northern Mariana Islands|69|Saipan|110|Saipan|11/01/1992|01/19/2018||||151416N|1454601E|15.2377444|145.766806|||0.0|0.0
 1397634|Laderan Apaka|Cliff|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian OE S|11/01/1992|||||145825N|1453920E|14.9736111|145.6555556|||0.0|0.0
 1779809|Commonwealth of the Northern Mariana Islands|Civil|Commonwealth of the Northern Mariana Islands|69|Tinian|120|Tinian|02/06/1998|08/09/2023||||150353N|1454108E|15.0648527|145.6856206|||0.0|0.0
