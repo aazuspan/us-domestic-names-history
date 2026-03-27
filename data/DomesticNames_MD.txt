@@ -7193,7 +7193,7 @@
 592942|Studd Point|Cape|Maryland|24|Talbot|041|Preston|05/01/1994|||||383932N|0755738W|38.6590051|-75.9604927|||0.0|0.0
 592943|Swan Haven|Populated Place|Maryland|24|Talbot|041|Easton|05/01/1994|06/07/2022||||384720N|0760201W|38.7890041|-76.0335512|||0.0|0.0
 592944|Swan Villas|Populated Place|Maryland|24|Talbot|041|Saint Michaels|05/01/1994|06/07/2022||||384818N|0761300W|38.8051167|-76.2166143|||0.0|0.0
-592947|Talbot County|Civil|Maryland|24|Talbot|041|Oxford|05/01/1994|08/09/2023||||384457N|0761043W|38.7491002|-76.1786171|||0.0|0.0
+592947|Talbot County|Civil|Maryland|24|Talbot|041|Oxford|05/01/1994|01/16/2026||||384457N|0761043W|38.7491002|-76.1786171|||0.0|0.0
 592952|Talbot Village|Populated Place|Maryland|24|Talbot|041|Easton|05/01/1994|06/07/2022||||384725N|0760409W|38.7903933|-76.0691081|||0.0|0.0
 592954|Thanksgiving|Populated Place|Maryland|24|Talbot|041|Saint Michaels|05/01/1994|06/07/2022||||384520N|0760924W|38.7556728|-76.1566109|||0.0|0.0
 592955|The Bachelor Point Harbor|Populated Place|Maryland|24|Talbot|041|Oxford|05/01/1994|06/07/2022||||384022N|0761019W|38.6728963|-76.1718885|||0.0|0.0
@@ -7526,7 +7526,7 @@
 593904|Goosehaven Creek|Stream|Maryland|24|Kent|029|Church Hill|08/01/1994|||||391448N|0755759W|39.2467762|-75.9663308|391547N|0755833W|39.2631654|-75.9757758
 593905|Harts Point|Cape|Maryland|24|Kent|029|Swan Point|08/01/1994|||||390844N|0761539W|39.1456656|-76.2607881|||0.0|0.0
 593906|Indian Cabin Creek|Stream|Maryland|24|Kent|029|Betterton|08/01/1994|||||392210N|0760645W|39.3695554|-76.1124498|392027N|0760512W|39.3408333|-76.0866667
-593907|Kent County|Civil|Maryland|24|Kent|029|Chestertown|08/01/1994|08/09/2023||||391408N|0760545W|39.2356039|-76.0958206|||0.0|0.0
+593907|Kent County|Civil|Maryland|24|Kent|029|Chestertown|08/01/1994|01/16/2026||||391408N|0760545W|39.2356039|-76.0958206|||0.0|0.0
 593908|Mill Pond|Reservoir|Maryland|24|Kent|029|Millington|08/01/1994|12/22/2018||||391556N|0754932W|39.2656489|-75.8256094|||0.0|0.0
 593909|Morton Point|Cape|Maryland|24|Kent|029|Millington|08/01/1994|||||392216N|0755008W|39.371223|-75.8354927|||0.0|0.0
 593910|Muddy Creek|Stream|Maryland|24|Kent|029|Chestertown|08/01/1994|||||391118N|0760420W|39.1884432|-76.0721683|391049N|0760525W|39.1802778|-76.0902778
@@ -8291,7 +8291,7 @@
 595728|Buckels Corner|Populated Place|Maryland|24|Caroline|011|Ridgely|07/01/1995|06/07/2022||||385923N|0755348W|38.9898354|-75.8966033|||0.0|0.0
 595731|Buzzard Point|Cape|Maryland|24|Caroline|011|Ridgely|07/01/1995|||||385412N|0755654W|38.9034469|-75.9482714|||0.0|0.0
 595733|Calvert Acres|Populated Place|Maryland|24|Caroline|011|Denton|07/01/1995|06/07/2022||||385251N|0754807W|38.8809471|-75.8018778|||0.0|0.0
-595737|Caroline County|Civil|Maryland|24|Caroline|011|Hobbs|07/01/1995|08/09/2023||||385218N|0754954W|38.8717218|-75.831601|||0.0|0.0
+595737|Caroline County|Civil|Maryland|24|Caroline|011|Hobbs|07/01/1995|01/17/2026||||385218N|0754954W|38.8717218|-75.831601|||0.0|0.0
 595746|Choptank Hundred (historical)|Civil|Maryland|24|Caroline|011|Goldsboro|07/01/1995|||||390342N|0754858W|39.0617795|-75.8160453|||0.0|0.0
 595747|Choptank Overlook|Populated Place|Maryland|24|Caroline|011|Denton|07/01/1995|06/07/2022||||385623N|0754929W|38.9398358|-75.8246563|||0.0|0.0
 595748|Choptank Pines|Populated Place|Maryland|24|Caroline|011|Goldsboro|07/01/1995|06/07/2022||||390020N|0754619W|39.0056694|-75.7718766|||0.0|0.0
@@ -8373,7 +8373,7 @@
 596084|Piney Ridge|Populated Place|Maryland|24|Queen Anne's|035|Millington|07/01/1995|06/07/2022||||391534N|0755137W|39.2595547|-75.8602152|||0.0|0.0
 596085|Piney Shores|Populated Place|Maryland|24|Queen Anne's|035|Church Hill|07/01/1995|06/07/2022||||391412N|0755549W|39.2367766|-75.930218|||0.0|0.0
 596088|Primrose Garth|Populated Place|Maryland|24|Queen Anne's|035|Chestertown|07/01/1995|06/07/2022||||391143N|0760329W|39.1953877|-76.058001|||0.0|0.0
-596089|Queen Anne's County|Civil|Maryland|24|Queen Anne's|035|Centreville|07/01/1995|08/09/2023||||390215N|0760506W|39.0376284|-76.085036|||0.0|0.0
+596089|Queen Anne's County|Civil|Maryland|24|Queen Anne's|035|Centreville|07/01/1995|01/16/2026||||390215N|0760506W|39.0376284|-76.085036|||0.0|0.0
 596091|Reba L Anthony Estates|Populated Place|Maryland|24|Queen Anne's|035|Chestertown|07/01/1995|06/07/2022||||391228N|0760304W|39.2078875|-76.0510564|||0.0|0.0
 596092|River Edge|Populated Place|Maryland|24|Queen Anne's|035|Chestertown|07/01/1995|06/07/2022||||390917N|0760325W|39.1548326|-76.0568895|||0.0|0.0
 596096|Rowsbys Branch|Stream|Maryland|24|Queen Anne's|035|Church Hill|07/01/1995|||||391217N|0755321W|39.2048327|-75.8891048|391228N|0755235W|39.2077778|-75.8763889
@@ -8386,7 +8386,7 @@
 596108|The Village at Church Hill Crossing|Populated Place|Maryland|24|Queen Anne's|035|Church Hill|07/01/1995|06/07/2022||||390838N|0755907W|39.1439996|-75.9852194|||0.0|0.0
 596110|Unicorn Crossing|Populated Place|Maryland|24|Queen Anne's|035|Millington|07/01/1995|06/07/2022||||391504N|0755117W|39.2512213|-75.8546593|||0.0|0.0
 596114|Back Creek|Stream|Maryland|24|Cecil|015|Earleville|07/01/1995|||||392941N|0755656W|39.4948379|-75.9488333|393004N|0755711W|39.501227|-75.9530001
-596115|Cecil County|Civil|Maryland|24|Cecil|015|North East|07/01/1995|08/09/2023||||393345N|0755653W|39.5624203|-75.948107|||0.0|0.0
+596115|Cecil County|Civil|Maryland|24|Cecil|015|North East|07/01/1995|01/16/2026||||393345N|0755653W|39.5624203|-75.948107|||0.0|0.0
 596117|Downs Branch|Stream|Maryland|24|Cecil|015|Earleville|07/01/1995|||||392717N|0755702W|39.454837|-75.9504994|392659N|0755721W|39.4497222|-75.9558333
 596119|Goldsmiths Branch|Stream|Maryland|24|Cecil|015|Earleville|07/01/1995|||||392710N|0755634W|39.4528924|-75.9427213|392633N|0755511W|39.4425|-75.9197222
 596120|Huckleberry Point|Cape|Maryland|24|Cecil|015|Earleville|07/01/1995|||||392722N|0755700W|39.4562259|-75.9499439|||0.0|0.0
@@ -8547,7 +8547,7 @@
 596491|Deep Harbor Estates|Populated Place|Maryland|24|Dorchester|019|Church Creek|06/01/1995|06/07/2022||||383140N|0761001W|38.5278981|-76.1668871|||0.0|0.0
 596492|Devils Woodyard|Woods|Maryland|24|Dorchester|019|Mardela Springs|06/01/1995|||||382739N|0755140W|38.4609513|-75.8610456|||0.0|0.0
 596493|Dieffenbach Pond|Lake|Maryland|24|Dorchester|019|Blackwater River|06/01/1995|12/17/2018||||382623N|0760711W|38.4398166|-76.1197235|||0.0|0.0
-596495|Dorchester County|Civil|Maryland|24|Dorchester|019|Blackwater River|06/01/1995|08/09/2023||||382521N|0760500W|38.422608|-76.0833253|||0.0|0.0
+596495|Dorchester County|Civil|Maryland|24|Dorchester|019|Blackwater River|06/01/1995|01/16/2026||||382521N|0760500W|38.422608|-76.0833253|||0.0|0.0
 596513|Eaton Point|Cape|Maryland|24|Dorchester|019|Cambridge|06/01/1995|||||383425N|0760404W|38.5737297|-76.0677178|||0.0|0.0
 596534|Fishing Creek|Populated Place|Maryland|24|Dorchester|019|Honga|11/01/2023|11/01/2023||||381920N|0761328W|38.322345|-76.2243879|||0.0|0.0
 596538|Garden Estates|Populated Place|Maryland|24|Dorchester|019|Cambridge|06/01/1995|06/07/2022||||383455N|0760547W|38.5820632|-76.0963298|||0.0|0.0
@@ -8649,7 +8649,7 @@
 596865|Oyster Cove|Bay|Maryland|24|Somerset|039|Kedges Straits|06/01/1995|||||380507N|0760307W|38.0854015|-76.0518808|||0.0|0.0
 596870|Piney Creek|Bay|Maryland|24|Somerset|039|Terrapin Sand Point|06/01/1995|||||380651N|0755627W|38.1142899|-75.9407667|||0.0|0.0
 596905|Solomons Lump|Bar|Maryland|24|Somerset|039|Kedges Straits|06/01/1995|06/30/2011|Official|Board Decision|12/31/1891|380251N|0760050W|38.0476235|-76.0138238|||0.0|0.0
-596907|Somerset County|Civil|Maryland|24|Somerset|039|Marion|06/01/1995|08/09/2023||||380448N|0755112W|38.0800661|-75.8534706|||0.0|0.0
+596907|Somerset County|Civil|Maryland|24|Somerset|039|Marion|06/01/1995|01/16/2026||||380448N|0755112W|38.0800661|-75.8534706|||0.0|0.0
 596911|Somersett Town (historical)|Populated Place|Maryland|24|Somerset|039|Monie|06/01/1995|06/07/2022||||380901N|0754611W|38.1504005|-75.7696518|||0.0|0.0
 596912|Sound Point (historical)|Cape|Maryland|24|Somerset|039|Bloodsworth Island|06/01/1995|||||380803N|0760042W|38.13429|-76.0116017|||0.0|0.0
 596915|Turtle Egg Island (historical)|Island|Maryland|24|Somerset|039|Bloodsworth Island|06/01/1995|||||380830N|0760030W|38.14179|-76.0082683|||0.0|0.0
@@ -9699,7 +9699,7 @@
 1668600|White Haven Ferry|Crossing|Maryland|24|Wicomico|045|Wetipquin|11/07/1995|||||381602N|0754719W|38.2673436|-75.7885407|||0.0|0.0
 1668601|White Plains|Populated Place|Maryland|24|Wicomico|045|Salisbury|11/07/1995|06/07/2022||||382218N|0753245W|38.3717842|-75.5457562|||0.0|0.0
 1668605|Whittington Park|Populated Place|Maryland|24|Wicomico|045|Delmar|11/07/1995|06/07/2022||||382640N|0753349W|38.4445609|-75.5635353|||0.0|0.0
-1668606|Wicomico County|Civil|Maryland|24|Wicomico|045|Eden|11/07/1995|08/09/2023||||382210N|0753754W|38.3694103|-75.6315311|||0.0|0.0
+1668606|Wicomico County|Civil|Maryland|24|Wicomico|045|Eden|11/07/1995|01/16/2026||||382210N|0753754W|38.3694103|-75.6315311|||0.0|0.0
 1668609|Wil-e-lew|Populated Place|Maryland|24|Wicomico|045|Pittsville|11/07/1995|06/07/2022||||382337N|0752725W|38.3937277|-75.4568641|||0.0|0.0
 1668610|Wilcher Park|Populated Place|Maryland|24|Wicomico|045|Delmar|11/07/1995|06/07/2022||||382700N|0753429W|38.4501164|-75.5746469|||0.0|0.0
 1668613|Windham Manor|Populated Place|Maryland|24|Wicomico|045|Salisbury|11/07/1995|06/07/2022||||381954N|0753525W|38.3317852|-75.590202|||0.0|0.0
@@ -9773,7 +9773,7 @@
 1668794|Somerset|Populated Place|Maryland|24|Worcester|047|Selbyville|11/07/1995|06/07/2022||||382342N|0751000W|38.3951142|-75.1665753|||0.0|0.0
 1668795|Tanglewood|Populated Place|Maryland|24|Worcester|047|Selbyville|11/07/1995|06/07/2022||||382306N|0751003W|38.3851144|-75.1674088|||0.0|0.0
 1668796|Teal Bay|Populated Place|Maryland|24|Worcester|047|Selbyville|11/07/1995|06/07/2022||||382348N|0750839W|38.3967808|-75.1440743|||0.0|0.0
-1668802|Worcester County|Civil|Maryland|24|Worcester|047|Public Landing|11/07/1995|08/09/2023||||381259N|0751748W|38.2165|-75.2966708|||0.0|0.0
+1668802|Worcester County|Civil|Maryland|24|Worcester|047|Public Landing|11/07/1995|01/16/2026||||381259N|0751748W|38.2165|-75.2966708|||0.0|0.0
 1668805|Aleck Pond|Bay|Maryland|24|Worcester|047|Ocean City|11/07/1995|||||382138N|0750658W|38.3606699|-75.116018|||0.0|0.0
 1668812|Ayres Lane Estates|Populated Place|Maryland|24|Worcester|047|Boxiron|11/07/1995|06/07/2022||||380718N|0752014W|38.1217864|-75.3371387|||0.0|0.0
 1668815|Bay Harbour|Populated Place|Maryland|24|Worcester|047|Ninepin Branch|11/07/1995|06/07/2022||||381540N|0751520W|38.2612275|-75.2554689|||0.0|0.0
@@ -10205,7 +10205,7 @@
 1676632|Walnut Cove|Populated Place|Maryland|24|Calvert|009|Cove Point|03/20/1996|06/07/2022||||382637N|0762831W|38.4437344|-76.4752299|||0.0|0.0
 1676633|Western Shore Estates|Populated Place|Maryland|24|Calvert|009|Cove Point|03/20/1996|06/07/2022||||382910N|0762950W|38.486234|-76.4971747|||0.0|0.0
 1676634|White Sands|Populated Place|Maryland|24|Calvert|009|Cove Point|03/20/1996|06/07/2022||||382528N|0762833W|38.4245679|-76.4757855|||0.0|0.0
-1676636|Calvert County|Civil|Maryland|24|Calvert|009|Prince Frederick|03/20/1996|08/09/2023||||383205N|0763150W|38.534712|-76.5305645|||0.0|0.0
+1676636|Calvert County|Civil|Maryland|24|Calvert|009|Prince Frederick|03/20/1996|01/16/2026||||383205N|0763150W|38.534712|-76.5305645|||0.0|0.0
 1676644|Acton Village|Populated Place|Maryland|24|Charles|017|Piscataway|03/20/1996|06/07/2022||||383826N|0765419W|38.6406736|-76.9052498|||0.0|0.0
 1676645|Ashford|Populated Place|Maryland|24|Charles|017|Piscataway|03/20/1996|06/07/2022||||383837N|0765637W|38.6437289|-76.9435843|||0.0|0.0
 1676646|Avon Crest|Populated Place|Maryland|24|Charles|017|Port Tobacco|03/20/1996|06/07/2022||||383512N|0770037W|38.5867859|-77.0102528|||0.0|0.0
@@ -10375,7 +10375,7 @@
 1676986|Cedar Grove|Populated Place|Maryland|24|Charles|017|Mathias Point|03/20/1996|06/07/2022||||382841N|0770429W|38.4781779|-77.0746983|||0.0|0.0
 1676989|Chapel Point|Populated Place|Maryland|24|Charles|017|Mathias Point|03/20/1996|06/07/2022||||382749N|0770144W|38.4637339|-77.0288637|||0.0|0.0
 1676991|Chapel Point Woods|Populated Place|Maryland|24|Charles|017|Popes Creek|03/20/1996|06/07/2022||||382805N|0765940W|38.4681784|-76.9944184|||0.0|0.0
-1676992|Charles County|Civil|Maryland|24|Charles|017|Mathias Point|03/20/1996|08/09/2023||||382825N|0770049W|38.4736812|-77.0134841|||0.0|0.0
+1676992|Charles County|Civil|Maryland|24|Charles|017|Mathias Point|03/20/1996|01/17/2026||||382825N|0770049W|38.4736812|-77.0134841|||0.0|0.0
 1676993|Charles County Gardens|Populated Place|Maryland|24|Charles|017|Hughesville|03/20/1996|06/07/2022||||383513N|0765200W|38.5870642|-76.8666369|||0.0|0.0
 1676995|Charleston Creek|Populated Place|Maryland|24|Charles|017|Rock Point|03/20/1996|06/07/2022||||381707N|0765104W|38.2854063|-76.8510805|||0.0|0.0
 1676996|Cherryfield (historical)|Populated Place|Maryland|24|Charles|017|King George|03/20/1996|06/07/2022||||382206N|0771319W|38.3684585|-77.2219236|||0.0|0.0
@@ -10473,7 +10473,7 @@
 1677188|Woodridge Acres|Populated Place|Maryland|24|Charles|017|Hughesville|03/20/1996|06/07/2022||||383331N|0764654W|38.558732|-76.7816338|||0.0|0.0
 1677190|Zekiah Valley|Populated Place|Maryland|24|Charles|017|Hughesville|03/20/1996|06/07/2022||||383414N|0765127W|38.5706759|-76.8574699|||0.0|0.0
 1681813|Preston|Populated Place|Maryland|24|Caroline|011|Preston|04/12/1996|06/07/2022||||384245N|0755436W|38.7126151|-75.9099361|||0.0|0.0
-1695314|Baltimore County|Civil|Maryland|24|Baltimore|005|Towson|05/08/1996|08/09/2023||||392635N|0763659W|39.4430722|-76.616322|||0.0|0.0
+1695314|Baltimore County|Civil|Maryland|24|Baltimore|005|Towson|05/08/1996|01/16/2026||||392635N|0763659W|39.4430722|-76.616322|||0.0|0.0
 1695315|Babylon Heights|Populated Place|Maryland|24|Carroll|013|Littlestown|05/08/1996|06/07/2022||||394225N|0770519W|39.7070443|-77.0885939|||0.0|0.0
 1695318|Bear Run|Populated Place|Maryland|24|Carroll|013|Littlestown|05/08/1996|06/07/2022||||393750N|0770624W|39.6306559|-77.1066492|||0.0|0.0
 1695320|Brown Heights|Populated Place|Maryland|24|Carroll|013|Taneytown|05/08/1996|06/07/2022||||393812N|0770849W|39.6367667|-77.1469274|||0.0|0.0
@@ -10917,7 +10917,7 @@
 1696224|Bonnie Brae|Populated Place|Maryland|24|Carroll|013|Finksburg|05/08/1996|06/07/2022||||392350N|0765624W|39.397326|-76.9399785|||0.0|0.0
 1696225|Brimfield|Populated Place|Maryland|24|Carroll|013|Finksburg|05/08/1996|06/07/2022||||392318N|0765617W|39.3884373|-76.9380339|||0.0|0.0
 1696226|Buckingham Manor|Populated Place|Maryland|24|Carroll|013|Finksburg|05/08/1996|06/07/2022||||392620N|0765724W|39.4389919|-76.9566462|||0.0|0.0
-1696228|Carroll County|Civil|Maryland|24|Carroll|013|New Windsor|05/08/1996|08/09/2023||||393346N|0770121W|39.5628551|-77.0225215|||0.0|0.0
+1696228|Carroll County|Civil|Maryland|24|Carroll|013|New Windsor|05/08/1996|01/16/2026||||393346N|0770121W|39.5628552|-77.0225162|||0.0|0.0
 1696229|Carroll Fields|Populated Place|Maryland|24|Carroll|013|Sykesville|05/08/1996|06/07/2022||||392200N|0765827W|39.3667706|-76.9741455|||0.0|0.0
 1696230|Carroll Highlands|Populated Place|Maryland|24|Carroll|013|Finksburg|05/08/1996|06/07/2022||||392314N|0765502W|39.3873264|-76.9172001|||0.0|0.0
 1696231|Carroll Square|Populated Place|Maryland|24|Carroll|013|Finksburg|05/08/1996|06/07/2022||||392443N|0765743W|39.4120478|-76.9619237|||0.0|0.0
@@ -11196,7 +11196,7 @@
 1697844|Saint Inigoes Shores|Populated Place|Maryland|24|St. Mary's|037|Saint Marys City|05/09/1996|06/07/2022||||380910N|0762523W|38.152904|-76.4230064|||0.0|0.0
 1697845|Saint Jerome Shores|Populated Place|Maryland|24|St. Mary's|037|Point No Point|05/09/1996|06/07/2022||||380745N|0761959W|38.1292922|-76.3330026|||0.0|0.0
 1697846|Saint Jeromes Landing|Populated Place|Maryland|24|St. Mary's|037|Point No Point|05/09/1996|06/07/2022||||380802N|0762116W|38.1340146|-76.3543924|||0.0|0.0
-1697853|Saint Mary's County|Civil|Maryland|24|St. Mary's|037|Piney Point|05/09/1996|08/09/2023||||381257N|0763145W|38.2158624|-76.5290607|||0.0|0.0
+1697853|Saint Mary's County|Civil|Maryland|24|St. Mary's|037|Piney Point|05/09/1996|01/16/2026||||381257N|0763145W|38.2158624|-76.5290607|||0.0|0.0
 1697858|Saint Peters Key|Populated Place|Maryland|24|St. Mary's|037|Saint Marys City|05/09/1996|06/07/2022||||381013N|0762459W|38.1704037|-76.4163396|||0.0|0.0
 1697863|Smith Point|Cape|Maryland|24|St. Mary's|037|Saint George Island|05/09/1996|||||380656N|0762406W|38.1156821|-76.4016166|||0.0|0.0
 1697866|Spring Ridge|Populated Place|Maryland|24|St. Mary's|037|Saint Marys City|05/09/1996|06/07/2022||||381257N|0762326W|38.2159583|-76.3905052|||0.0|0.0
@@ -11345,7 +11345,7 @@
 1698173|Grose Close|Populated Place|Maryland|24|Harford|025|Bel Air|05/09/1996|06/07/2022||||393047N|0762058W|39.5131632|-76.3494042|||0.0|0.0
 1698174|Haddon Hurst|Populated Place|Maryland|24|Harford|025|Jarrettsville|05/09/1996|06/07/2022||||393242N|0762859W|39.5451063|-76.4830202|||0.0|0.0
 1698176|Hampton Ridge|Populated Place|Maryland|24|Harford|025|Bel Air|05/09/1996|06/07/2022||||393320N|0761959W|39.5556627|-76.3330147|||0.0|0.0
-1698178|Harford County|Civil|Maryland|24|Harford|025|Bel Air|05/09/1996|08/09/2023||||393211N|0761756W|39.5364362|-76.2988754|||0.0|0.0
+1698178|Harford County|Civil|Maryland|24|Harford|025|Bel Air|05/09/1996|01/16/2026||||393211N|0761756W|39.5364362|-76.2988754|||0.0|0.0
 1698182|Harford Dale|Populated Place|Maryland|24|Harford|025|Bel Air|05/09/1996|06/07/2022||||393302N|0762154W|39.5506625|-76.3649604|||0.0|0.0
 1698184|Harford Hills|Populated Place|Maryland|24|Harford|025|Bel Air|05/09/1996|06/07/2022||||393646N|0761951W|39.612884|-76.3307924|||0.0|0.0
 1698185|Harford Hunt Manor|Populated Place|Maryland|24|Harford|025|Jarrettsville|05/09/1996|06/07/2022||||393305N|0762928W|39.551495|-76.4910761|||0.0|0.0
@@ -11717,7 +11717,7 @@
 1699852|Great Blue Heron Rill|Stream|Maryland|24|Montgomery|031|Gaithersburg|08/20/1996||Official|Board Decision|01/01/1996|390941N|0771151W|39.1614959|-77.1974818|390947N|0771119W|39.1630556|-77.1886111
 1699853|Honkers Rush|Stream|Maryland|24|Montgomery|031|Gaithersburg|08/20/1996||Official|Board Decision|01/01/1996|391124N|0771223W|39.1901065|-77.2063712|391116N|0771213W|39.1877778|-77.2036111
 1699854|Walkers Run|Stream|Maryland|24|Montgomery|031|Gaithersburg|08/20/1996||Official|Board Decision|01/01/1996|390953N|0771237W|39.1648291|-77.2102599|390919N|0771229W|39.1552778|-77.2080556
-1702381|City of Baltimore|Civil|Maryland|24|Baltimore (city)|510|Baltimore East|11/26/1996|08/09/2023||||391804N|0763638W|39.3009792|-76.6106471|||0.0|0.0
+1702381|City of Baltimore|Civil|Maryland|24|Baltimore (city)|510|Baltimore East|11/26/1996|01/16/2026||||391804N|0763638W|39.3009792|-76.6106471|||0.0|0.0
 1707641|Brooks Hill|Populated Place|Maryland|24|Baltimore (city)|510|Baltimore East|12/04/1996|06/07/2022||||391621N|0763153W|39.2726075|-76.5313525|||0.0|0.0
 1707644|Colgate|Populated Place|Maryland|24|Baltimore (city)|510|Baltimore East|12/04/1996|06/07/2022||||391617N|0763320W|39.2714963|-76.5555201|||0.0|0.0
 1707645|Colgate Creek|Populated Place|Maryland|24|Baltimore (city)|510|Baltimore East|12/04/1996|06/07/2022||||391558N|0763235W|39.2662186|-76.5430195|||0.0|0.0
@@ -12100,7 +12100,7 @@
 1709068|Guilford Square|Populated Place|Maryland|24|Howard|027|Savage|12/04/1996|06/07/2022||||391022N|0764954W|39.1728852|-76.8316397|||0.0|0.0
 1709073|Heritage Woods|Populated Place|Maryland|24|Howard|027|Savage|12/04/1996|06/07/2022||||390930N|0764902W|39.158441|-76.8171948|||0.0|0.0
 1709075|Hopewell|Populated Place|Maryland|24|Howard|027|Savage|12/04/1996|06/07/2022||||391047N|0765008W|39.1798295|-76.8355288|||0.0|0.0
-1709077|Howard County|Civil|Maryland|24|Howard|027|Sykesville|12/04/1996|08/09/2023||||391503N|0765552W|39.2507175|-76.931195|||0.0|0.0
+1709077|Howard County|Civil|Maryland|24|Howard|027|Sykesville|12/04/1996|01/16/2026||||391503N|0765552W|39.2507175|-76.931195|||0.0|0.0
 1709078|Howard Hills|Populated Place|Maryland|24|Howard|027|Savage|12/04/1996|06/07/2022||||390827N|0764908W|39.1409413|-76.8188614|||0.0|0.0
 1709079|Hunt Country Estates|Populated Place|Maryland|24|Howard|027|Savage|12/04/1996|06/07/2022||||391303N|0764727W|39.2176069|-76.790806|||0.0|0.0
 1709081|Jeffers Hill|Populated Place|Maryland|24|Howard|027|Savage|12/04/1996|06/07/2022||||391205N|0764939W|39.2014959|-76.8274733|||0.0|0.0
@@ -12922,7 +12922,7 @@
 1710954|Weatherly|Populated Place|Maryland|24|Anne Arundel|003|Gibson Island|12/04/1996|06/07/2022||||390320N|0762719W|39.0556663|-76.4552381|||0.0|0.0
 1710955|Whispering Woods|Populated Place|Maryland|24|Anne Arundel|003|Gibson Island|12/04/1996|06/07/2022||||390145N|0762828W|39.0292778|-76.4744052|||0.0|0.0
 1710956|Whitehurst|Populated Place|Maryland|24|Anne Arundel|003|Round Bay|12/04/1996|06/07/2022||||390457N|0763136W|39.0826101|-76.5266292|||0.0|0.0
-1710958|Anne Arundel County|Civil|Maryland|24|Anne Arundel|003|South River|12/04/1996|08/09/2023||||385939N|0763403W|38.994158|-76.5675992|||0.0|0.0
+1710958|Anne Arundel County|Civil|Maryland|24|Anne Arundel|003|South River|12/04/1996|01/16/2026||||385939N|0763403W|38.994158|-76.5675992|||0.0|0.0
 1710959|Barrington Manor|Populated Place|Maryland|24|Anne Arundel|003|Round Bay|12/04/1996|06/07/2022||||390703N|0763219W|39.1176095|-76.5385742|||0.0|0.0
 1710960|Bell Forest|Populated Place|Maryland|24|Anne Arundel|003|Gibson Island|12/04/1996|06/07/2022||||390708N|0762958W|39.1189986|-76.4994061|||0.0|0.0
 1710961|Berrywood West|Populated Place|Maryland|24|Anne Arundel|003|Round Bay|12/04/1996|06/07/2022||||390518N|0763305W|39.0884432|-76.5513523|||0.0|0.0
@@ -12969,7 +12969,7 @@
 1711042|Collier Run|Stream|Maryland|24|Garrett|023|Friendsville|12/04/1996|||||394252N|0792304W|39.7145239|-79.3844814|394347N|0792243W|39.7297222|-79.3786111
 1711046|Dog Ridge|Ridge|Maryland|24|Garrett|023|Sang Run|12/04/1996|04/23/2025||||393438N|0792824W|39.5771833|-79.4732049|||0.0|0.0
 1711048|Elder Hill|Populated Place|Maryland|24|Garrett|023|Sang Run|12/04/1996|06/07/2022||||393728N|0792328W|39.6245289|-79.3911504|||0.0|0.0
-1711058|Garrett County|Civil|Maryland|24|Garrett|023|McHenry|12/04/1996|08/09/2023||||393144N|0791623W|39.5288947|-79.2729933|||0.0|0.0
+1711058|Garrett County|Civil|Maryland|24|Garrett|023|McHenry|12/04/1996|01/16/2026||||393144N|0791623W|39.5288947|-79.2729933|||0.0|0.0
 1711060|Geices (historical)|Populated Place|Maryland|24|Garrett|023|Friendsville|12/04/1996|06/07/2022||||394226N|0792319W|39.7073021|-79.3886484|||0.0|0.0
 1711087|Muddy Creek Falls|Falls|Maryland|24|Garrett|023|Sang Run|12/04/1996|||||393004N|0792504W|39.5012024|-79.417821|||0.0|0.0
 1711095|Pine Springs|Spring|Maryland|24|Garrett|023|Accident|12/04/1996|||||394212N|0791652W|39.7034144|-79.2811449|||0.0|0.0
@@ -12996,7 +12996,7 @@
 1711196|Colonial Heights|Populated Place|Maryland|24|Frederick|021|Blue Ridge Summit|12/04/1996|06/07/2022||||393745N|0772401W|39.6292649|-77.4002645|||0.0|0.0
 1711200|Distant View|Populated Place|Maryland|24|Frederick|021|Blue Ridge Summit|12/04/1996|06/07/2022||||393940N|0772329W|39.6612086|-77.3913758|||0.0|0.0
 1711205|Eyeler (historical)|Populated Place|Maryland|24|Frederick|021|Blue Ridge Summit|12/04/1996|06/07/2022||||394110N|0772425W|39.6862078|-77.406932|||0.0|0.0
-1711211|Frederick County|Civil|Maryland|24|Frederick|021|Frederick|12/04/1996|08/09/2023||||392820N|0772353W|39.4722125|-77.3979843|||0.0|0.0
+1711211|Frederick County|Civil|Maryland|24|Frederick|021|Frederick|12/04/1996|01/16/2026||||392820N|0772353W|39.4722145|-77.3979793|||0.0|0.0
 1711214|Friendship|Populated Place|Maryland|24|Frederick|021|Blue Ridge Summit|12/04/1996|06/07/2022||||393944N|0772625W|39.6623192|-77.4402657|||0.0|0.0
 1711216|Glass|Populated Place|Maryland|24|Frederick|021|Emmitsburg|12/04/1996|06/07/2022||||394000N|0771729W|39.6667651|-77.291374|||0.0|0.0
 1711217|Harman Branch|Stream|Maryland|24|Frederick|021|Myersville|12/04/1996|||||393528N|0773339W|39.5912093|-77.5608227|393751N|0773215W|39.6309305|-77.5374893
@@ -13645,7 +13645,7 @@
 1712488|Hickory Hill|Populated Place|Maryland|24|Montgomery|031|Urbana|12/04/1996|06/07/2022||||391728N|0771721W|39.2912154|-77.2891509|||0.0|0.0
 1712489|Hickory Ridge|Populated Place|Maryland|24|Montgomery|031|Damascus|12/04/1996|06/07/2022||||391607N|0771048W|39.2687163|-77.1799823|||0.0|0.0
 1712495|Janwood|Populated Place|Maryland|24|Montgomery|031|Damascus|12/04/1996|06/07/2022||||391635N|0771010W|39.2764939|-77.1694264|||0.0|0.0
-1712500|Montgomery County|Civil|Maryland|24|Montgomery|031|Gaithersburg|12/04/1996|08/09/2023||||390811N|0771215W|39.1363621|-77.2042373|||0.0|0.0
+1712500|Montgomery County|Civil|Maryland|24|Montgomery|031|Gaithersburg|12/04/1996|01/16/2026||||390811N|0771215W|39.136363|-77.2042405|||0.0|0.0
 1712502|Mount Lebanon|Populated Place|Maryland|24|Montgomery|031|Damascus|12/04/1996|06/07/2022||||391654N|0771040W|39.2817716|-77.17776|||0.0|0.0
 1712503|Mount Radnor Heights|Populated Place|Maryland|24|Montgomery|031|Damascus|12/04/1996|06/07/2022||||391803N|0771127W|39.3009379|-77.1908158|||0.0|0.0
 1712509|River Road Spring|Spring|Maryland|24|Montgomery|031|Falls Church|12/04/1996|||||385946N|0770958W|38.996221|-77.1660905|||0.0|0.0
@@ -13939,7 +13939,7 @@
 1713487|Mexico|Populated Place|Maryland|24|Allegany|001|Patterson Creek|12/04/1996|06/07/2022||||393613N|0784434W|39.6036999|-78.7427956|||0.0|0.0
 1713496|Renix (historical)|Populated Place|Maryland|24|Allegany|001|Cresaptown|12/04/1996|06/07/2022||||393330N|0785142W|39.558423|-78.8616886|||0.0|0.0
 1713503|Wiley Ford|Crossing|Maryland|24|Allegany|001|Cresaptown|12/04/1996|||||393718N|0784624W|39.621755|-78.7733521|||0.0|0.0
-1713506|Allegany County|Civil|Maryland|24|Allegany|001|Patterson Creek|12/04/1996|08/09/2023||||393717N|0784151W|39.6214697|-78.6975591|||0.0|0.0
+1713506|Allegany County|Civil|Maryland|24|Allegany|001|Patterson Creek|12/04/1996|01/16/2026||||393717N|0784151W|39.6214697|-78.6975591|||0.0|0.0
 1713510|Blue Spring|Spring|Maryland|24|Allegany|001|Patterson Creek|12/04/1996|||||393428N|0784350W|39.5745339|-78.730573|||0.0|0.0
 1713544|Murley Branch Spring|Spring|Maryland|24|Allegany|001|Flintstone|12/04/1996|04/19/2011||||393940N|0783709W|39.6611261|-78.6191034|||0.0|0.0
 1713552|Picardy|Populated Place|Maryland|24|Allegany|001|Oldtown|12/04/1996|06/07/2022||||393220N|0783048W|39.5389816|-78.5133458|||0.0|0.0
@@ -14087,7 +14087,7 @@
 1714205|Stone Fort (historical)|Military|Maryland|24|Washington|043|Harpers Ferry|12/04/1996|05/31/2022||||392025N|0774302W|39.3402778|-77.7172222|||0.0|0.0
 1714206|Stonebraker (historical)|Populated Place|Maryland|24|Washington|043|Harpers Ferry|12/04/1996|06/07/2022||||392129N|0774121W|39.3581564|-77.6891582|||0.0|0.0
 1714208|Taylor Heights|Populated Place|Maryland|24|Washington|043|Keedysville|12/04/1996|06/07/2022||||392930N|0774134W|39.4917663|-77.6927695|||0.0|0.0
-1714220|Washington County|Civil|Maryland|24|Washington|043|Williamsport|12/04/1996|08/09/2023||||393613N|0774850W|39.6036788|-77.8140076|||0.0|0.0
+1714220|Washington County|Civil|Maryland|24|Washington|043|Williamsport|12/04/1996|01/17/2026||||393613N|0774850W|39.6036788|-77.814008|||0.0|0.0
 1714221|Water Acres|Populated Place|Maryland|24|Washington|043|Harpers Ferry|12/04/1996|06/07/2022||||392225N|0774439W|39.3737114|-77.7441596|||0.0|0.0
 1714223|West Woods (historical)|Woods|Maryland|24|Washington|043|Keedysville|12/04/1996|||||392843N|0774456W|39.4787103|-77.7488821|||0.0|0.0
 1714225|Weverton Cliffs|Cliff|Maryland|24|Washington|043|Harpers Ferry|12/04/1996|||||391950N|0774037W|39.3306567|-77.6769357|||0.0|0.0
@@ -14161,7 +14161,7 @@
 1714647|New Glatz|Populated Place|Maryland|24|Prince George's|033|Alexandria|12/04/1996|06/07/2022||||384624N|0770022W|38.7734473|-77.0060867|||0.0|0.0
 1714649|North Potomac Vista|Populated Place|Maryland|24|Prince George's|033|Alexandria|12/04/1996|06/07/2022||||384718N|0770037W|38.788447|-77.0102536|||0.0|0.0
 1714668|Potomac Vista|Populated Place|Maryland|24|Prince George's|033|Alexandria|12/04/1996|06/07/2022||||384709N|0770039W|38.7859471|-77.0108091|||0.0|0.0
-1714670|Prince George's County|Civil|Maryland|24|Prince George's|033|Upper Marlboro|12/04/1996|08/09/2023||||384946N|0765050W|38.8295126|-76.8472924|||0.0|0.0
+1714670|Prince George's County|Civil|Maryland|24|Prince George's|033|Upper Marlboro|12/04/1996|01/16/2026||||384946N|0765050W|38.8295155|-76.8472935|||0.0|0.0
 1714671|River Bend Estates|Populated Place|Maryland|24|Prince George's|033|Alexandria|12/04/1996|06/07/2022||||384625N|0770118W|38.7737251|-77.0216427|||0.0|0.0
 1714673|Rosecroft Park|Populated Place|Maryland|24|Prince George's|033|Anacostia|12/04/1996|06/07/2022||||384743N|0765819W|38.7953915|-76.9719191|||0.0|0.0
 1714675|Rosilie Island|Island|Maryland|24|Prince George's|033|Alexandria|12/04/1996|||||384737N|0770129W|38.7937247|-77.0246985|||0.0|0.0
@@ -15534,3 +15534,4 @@
 2832949|Upper Yard Annapolis|Military|Maryland|24|Anne Arundel|003|Annapolis|08/20/2025|08/20/2025||||385919N|0762940W|38.9886201|-76.4944313|||0.0|0.0
 2832952|Webster Field|Military|Maryland|24|St. Mary's|037|Saint Marys City|08/20/2025|08/20/2025||||380845N|0762540W|38.1459014|-76.4278434|||0.0|0.0
 2833021|Cygnet Brook|Stream|Maryland|24|Harford|025|Aberdeen|12/12/2025|12/12/2025|Official|Board Decision|12/11/2025|393046N|0760958W|39.512881|-76.166239|393102N|0761008W|39.517188|-76.168784
+2833045|Sugar Camp Creek|Stream|Maryland|24|Garrett|023|Table Rock|02/13/2026|02/13/2026|Official|Board Decision|02/12/2026|391731N|0792802W|39.292009|-79.467124|391757N|0792629W|39.299083|-79.441353

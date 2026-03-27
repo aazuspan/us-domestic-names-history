@@ -6376,16 +6376,16 @@
 873170|Veerie Cove|Bay|New Hampshire|33|Grafton|009|Squam Mountains|02/01/1991|||||434610N|0713301W|43.7695171|-71.5503534|||0.0|0.0
 873171|Willoughby Point|Cape|New Hampshire|33|Grafton|009|Squam Mountains|02/01/1991|||||434543N|0713257W|43.7620173|-71.5492422|||0.0|0.0
 873172|Bennett Brook|Stream|New Hampshire|33|Grafton|009|Squam Mountains|02/01/1991|||||434649N|0713307W|43.7803503|-71.5520202|434712N|0713352W|43.7866667|-71.5644444
-873174|Belknap County|Civil|New Hampshire|33|Belknap|001|Laconia|02/01/1993|08/09/2023||||433105N|0712522W|43.517969|-71.4226936|||0.0|0.0
-873175|Carroll County|Civil|New Hampshire|33|Carroll|003|Ossipee Lake|02/01/1993|08/09/2023||||435226N|0711211W|43.8738459|-71.2029939|||0.0|0.0
-873176|Cheshire County|Civil|New Hampshire|33|Cheshire|005|Keene|02/01/1993|08/09/2023||||425510N|0721504W|42.9193314|-72.2511753|||0.0|0.0
-873177|Coos County|Civil|New Hampshire|33|Coos|007|Dummer Ponds|02/01/1993|08/09/2023||||444122N|0711820W|44.6894949|-71.3055331|||0.0|0.0
-873178|Grafton County|Civil|New Hampshire|33|Grafton|009|Mount Kineo|02/01/1993|08/09/2023||||435626N|0714915W|43.9406663|-71.8207198|||0.0|0.0
-873179|Hillsborough County|Civil|New Hampshire|33|Hillsborough|011|New Boston|02/01/1993|08/09/2023||||425455N|0714258W|42.9152915|-71.7160825|||0.0|0.0
-873180|Merrimack County|Civil|New Hampshire|33|Merrimack|013|Webster|02/01/1993|08/09/2023|Vacated|Board Decision|02/09/1965|431751N|0714049W|43.2974963|-71.6802765|||0.0|0.0
-873181|Rockingham County|Civil|New Hampshire|33|Rockingham|015|Kingston|02/01/1993|08/09/2023||||425905N|0710521W|42.9845979|-71.0890593|||0.0|0.0
-873182|Strafford County|Civil|New Hampshire|33|Strafford|017|Baxter Lake|02/01/1993|08/09/2023||||431749N|0710144W|43.2969939|-71.0288027|||0.0|0.0
-873183|Sullivan County|Civil|New Hampshire|33|Sullivan|019|Newport|02/01/1993|08/09/2023||||432141N|0721320W|43.3612747|-72.2222294|||0.0|0.0
+873174|Belknap County|Civil|New Hampshire|33|Belknap|001|Laconia|02/01/1993|01/17/2026||||433105N|0712522W|43.517969|-71.4226936|||0.0|0.0
+873175|Carroll County|Civil|New Hampshire|33|Carroll|003|Ossipee Lake|02/01/1993|01/16/2026||||435226N|0711211W|43.8738459|-71.2029939|||0.0|0.0
+873176|Cheshire County|Civil|New Hampshire|33|Cheshire|005|Keene|02/01/1993|01/16/2026||||425510N|0721504W|42.9193314|-72.2511753|||0.0|0.0
+873177|Coos County|Civil|New Hampshire|33|Coos|007|Dummer Ponds|02/01/1993|01/16/2026||||444122N|0711820W|44.6894946|-71.305533|||0.0|0.0
+873178|Grafton County|Civil|New Hampshire|33|Grafton|009|Mount Kineo|02/01/1993|01/16/2026||||435626N|0714915W|43.9406663|-71.8207198|||0.0|0.0
+873179|Hillsborough County|Civil|New Hampshire|33|Hillsborough|011|New Boston|02/01/1993|01/16/2026||||425455N|0714258W|42.9152915|-71.7160824|||0.0|0.0
+873180|Merrimack County|Civil|New Hampshire|33|Merrimack|013|Webster|02/01/1993|01/16/2026|Vacated|Board Decision|02/09/1965|431751N|0714049W|43.2974963|-71.6802765|||0.0|0.0
+873181|Rockingham County|Civil|New Hampshire|33|Rockingham|015|Kingston|02/01/1993|01/16/2026||||425905N|0710521W|42.9845979|-71.0890593|||0.0|0.0
+873182|Strafford County|Civil|New Hampshire|33|Strafford|017|Baxter Lake|02/01/1993|01/17/2026||||431749N|0710144W|43.2969939|-71.0288027|||0.0|0.0
+873183|Sullivan County|Civil|New Hampshire|33|Sullivan|019|Newport|02/01/1993|01/16/2026||||432141N|0721320W|43.3612747|-72.2222294|||0.0|0.0
 873185|Fort Constitution (historical)|Military|New Hampshire|33|Rockingham|015|Kittery|08/27/1980|05/31/2022||||430418N|0704237W|43.0716667|-70.7102778|||0.0|0.0
 873187|Spender Meadow|Flat|New Hampshire|33|Merrimack|013|Penacook|01/01/1994||Official|Board Decision|01/01/1993|431945N|0713148W|43.329246|-71.5300729|||0.0|0.0
 873188|Spender Pond|Lake|New Hampshire|33|Merrimack|013|Penacook|08/27/2002|05/17/2018|Official|Board Decision|01/01/1993|431941N|0713154W|43.3280596|-71.5317481|||0.0|0.0

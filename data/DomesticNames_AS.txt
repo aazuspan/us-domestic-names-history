@@ -773,11 +773,11 @@
 1681808|Lauliʻi|Populated Place|American Samoa|60|Eastern|010|Tutuila Island|04/12/1996|06/07/2022||||141732S|1703911W|-14.2922222|-170.6530556|||0.0|0.0
 1681809|Aoloau|Populated Place|American Samoa|60|Western|050|Tutuila Island OE W|04/12/1996|06/07/2022||||141911S|1704612W|-14.3197222|-170.77|||0.0|0.0
 1802701|Territory of American Samoa|Civil|American Samoa|60|Eastern|010|Tutuila Island|10/06/1998|08/09/2023||||141739S|1704121W|-14.2942615|-170.6892094|||0.0|0.0
-1805240|Eastern District|Civil|American Samoa|60|Eastern|010|Tutuila Island|02/04/1999|08/09/2023||||141603S|1703738W|-14.2674551|-170.6273326|||0.0|0.0
-1805241|Western District|Civil|American Samoa|60|Western|050|Tutuila Island OE W|02/04/1999|08/09/2023||||142008S|1704704W|-14.3355554|-170.7845273|||0.0|0.0
-1805242|Manuʻa District|Civil|American Samoa|60|Manu'a|020|Manua Islands|02/04/1999|08/09/2023||||141230S|1693212W|-14.2084358|-169.5367349|||0.0|0.0
-1805243|Rose Island|Civil|American Samoa|60|Rose Island|030||02/04/1999|08/09/2023||||143230S|1680948W|-14.5416136|-168.1634494|||0.0|0.0
-1805244|Swains Island|Civil|American Samoa|60|Swains Island|040||02/04/1999|08/09/2023||||110316S|1710430W|-11.054387|-171.0749296|||0.0|0.0
+1805240|Eastern District|Civil|American Samoa|60|Eastern|010|Tutuila Island|02/04/1999|01/16/2026||||141603S|1703738W|-14.2674551|-170.6273326|||0.0|0.0
+1805241|Western District|Civil|American Samoa|60|Western|050|Tutuila Island OE W|02/04/1999|01/16/2026||||142008S|1704704W|-14.3355554|-170.7845273|||0.0|0.0
+1805242|Manuʻa District|Civil|American Samoa|60|Manu'a|020|Manua Islands|02/04/1999|01/16/2026||||141230S|1693212W|-14.2084358|-169.5367349|||0.0|0.0
+1805243|Rose Island|Civil|American Samoa|60|Rose Island|030||02/04/1999|01/17/2026||||143230S|1680948W|-14.5416136|-168.1634494|||0.0|0.0
+1805244|Swains Island|Civil|American Samoa|60|Swains Island|040||02/04/1999|01/17/2026||||110316S|1710430W|-11.054387|-171.0749296|||0.0|0.0
 1966507|Aʻasufou|Populated Place|American Samoa|60|Western|050|Tutuila Island OE W|11/25/2002|06/07/2022||||141913S|1704550W|-14.3202778|-170.7638889|||0.0|0.0
 1966510|Alega Beach|Beach|American Samoa|60|Eastern|010|Tutuila Island|11/25/2002|||||141706S|1703811W|-14.285|-170.6363889|||0.0|0.0
 1966511|Alegā Valley|Valley|American Samoa|60|Eastern|010|Tutuila Island|11/25/2002|01/08/2026||||141648S|1703816W|-14.2800784|-170.6377388|141641S|1703822W|-14.2780973|-170.6393138

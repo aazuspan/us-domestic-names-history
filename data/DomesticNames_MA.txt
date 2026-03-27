@@ -1003,20 +1003,20 @@
 606924|Saturday Night Ledge|Bar|Massachusetts|25|Essex|009|Gloucester|09/01/1992|||||423158N|0704115W|42.532874|-70.6875438|||0.0|0.0
 606925|Kettle Island Ledge|Bar|Massachusetts|25|Essex|009|Gloucester|09/01/1992|||||423237N|0704159W|42.5437071|-70.6997664|||0.0|0.0
 606926|Commonwealth of Massachusetts|Civil|Massachusetts|25|Worcester|027|Milford|08/27/2002|08/09/2023|Vacated|Board Decision|01/01/1965|420936N|0713014W|42.1600929|-71.5039723|||0.0|0.0
-606927|Barnstable County|Civil|Massachusetts|25|Barnstable|001|Dennis OE N|08/27/2002|08/09/2023||||414624N|0701417W|41.7734493|-70.2381375|||0.0|0.0
-606928|Berkshire County|Civil|Massachusetts|25|Berkshire|003|East Lee|08/27/2002|08/09/2023||||422214N|0731223W|42.3706755|-73.206413|||0.0|0.0
-606929|Bristol County|Civil|Massachusetts|25|Bristol|005|Assonet|08/27/2002|08/09/2023||||414526N|0710519W|41.7570887|-71.0885015|||0.0|0.0
-606930|Dukes County|Civil|Massachusetts|25|Dukes|007|Vineyard Haven|08/27/2002|08/09/2023||||412320N|0704156W|41.3887747|-70.6987716|||0.0|0.0
-606931|Essex County|Civil|Massachusetts|25|Essex|009|Ipswich|08/27/2002|08/09/2023||||423820N|0705205W|42.6389156|-70.8679197|||0.0|0.0
-606932|Franklin County|Civil|Massachusetts|25|Franklin|011|Greenfield|02/24/1974|08/09/2023||||423459N|0723531W|42.5831152|-72.5918577|||0.0|0.0
-606933|Hampden County|Civil|Massachusetts|25|Hampden|013|Mount Tom|08/27/2002|08/09/2023||||420806N|0723754W|42.135115|-72.6316486|||0.0|0.0
-606934|Hampshire County|Civil|Massachusetts|25|Hampshire|015|Easthampton|08/27/2002|08/09/2023||||422025N|0723950W|42.3401556|-72.6637862|||0.0|0.0
-606935|Middlesex County|Civil|Massachusetts|25|Middlesex|017|Maynard|08/27/2002|08/09/2023||||422908N|0712330W|42.4855368|-71.391744|||0.0|0.0
-606936|Nantucket County|Civil|Massachusetts|25|Nantucket|019|Nantucket|08/27/2002|08/09/2023||||411804N|0700741W|41.3012406|-70.1281132|||0.0|0.0
-606937|Norfolk County|Civil|Massachusetts|25|Norfolk|021|Norwood|08/27/2002|08/09/2023||||421016N|0711102W|42.1709805|-71.1838291|||0.0|0.0
-606938|Plymouth County|Civil|Massachusetts|25|Plymouth|023|Plymouth|08/27/2002|08/09/2023||||415915N|0704413W|41.9874354|-70.7370758|||0.0|0.0
-606939|Suffolk County|Civil|Massachusetts|25|Suffolk|025|Hull|08/27/2002|08/09/2023||||422055N|0705908W|42.34869|-70.9856053|||0.0|0.0
-606940|Worcester County|Civil|Massachusetts|25|Worcester|027|Paxton|08/27/2002|08/09/2023||||422105N|0715428W|42.3513946|-71.907727|||0.0|0.0
+606927|Barnstable County|Civil|Massachusetts|25|Barnstable|001|Dennis OE N|08/27/2002|01/16/2026||||414624N|0701417W|41.7734493|-70.2381375|||0.0|0.0
+606928|Berkshire County|Civil|Massachusetts|25|Berkshire|003|East Lee|08/27/2002|01/16/2026||||422214N|0731223W|42.3706756|-73.206413|||0.0|0.0
+606929|Bristol County|Civil|Massachusetts|25|Bristol|005|Assonet|08/27/2002|01/16/2026||||414526N|0710519W|41.7570887|-71.0885015|||0.0|0.0
+606930|Dukes County|Civil|Massachusetts|25|Dukes|007|Vineyard Haven|08/27/2002|01/16/2026||||412320N|0704156W|41.3887747|-70.6987716|||0.0|0.0
+606931|Essex County|Civil|Massachusetts|25|Essex|009|Ipswich|08/27/2002|01/17/2026||||423820N|0705205W|42.6389156|-70.8679197|||0.0|0.0
+606932|Franklin County|Civil|Massachusetts|25|Franklin|011|Greenfield|02/24/1974|01/17/2026||||423459N|0723531W|42.5831152|-72.5918577|||0.0|0.0
+606933|Hampden County|Civil|Massachusetts|25|Hampden|013|Mount Tom|08/27/2002|01/16/2026||||420806N|0723754W|42.135115|-72.6316488|||0.0|0.0
+606934|Hampshire County|Civil|Massachusetts|25|Hampshire|015|Easthampton|08/27/2002|01/16/2026||||422025N|0723950W|42.3401556|-72.6637862|||0.0|0.0
+606935|Middlesex County|Civil|Massachusetts|25|Middlesex|017|Maynard|08/27/2002|01/16/2026||||422908N|0712330W|42.4855368|-71.3917438|||0.0|0.0
+606936|Nantucket County|Civil|Massachusetts|25|Nantucket|019|Nantucket|08/27/2002|01/16/2026||||411804N|0700741W|41.3012406|-70.1281132|||0.0|0.0
+606937|Norfolk County|Civil|Massachusetts|25|Norfolk|021|Norwood|08/27/2002|01/17/2026||||421016N|0711102W|42.17098|-71.1838293|||0.0|0.0
+606938|Plymouth County|Civil|Massachusetts|25|Plymouth|023|Plymouth|08/27/2002|01/17/2026||||415915N|0704413W|41.9874354|-70.7370758|||0.0|0.0
+606939|Suffolk County|Civil|Massachusetts|25|Suffolk|025|Hull|08/27/2002|01/16/2026||||422055N|0705908W|42.3486899|-70.9856065|||0.0|0.0
+606940|Worcester County|Civil|Massachusetts|25|Worcester|027|Paxton|08/27/2002|01/16/2026||||422105N|0715428W|42.3513946|-71.907727|||0.0|0.0
 606960|James J Storrow Memorial Embankment|Levee|Massachusetts|25|Suffolk|025|Boston South|01/01/1992|||||422118N|0710445W|42.3550974|-71.0792181|||0.0|0.0
 606961|South Channel|Channel|Massachusetts|25|Essex|009|Gloucester|11/01/1992|||||423644N|0703905W|42.6123176|-70.6514328|||0.0|0.0
 606964|Westport River|Gut|Massachusetts|25|Bristol|005|Head of Westport|02/24/1974||Official|Board Decision|01/01/1976|413045N|0710520W|41.5126039|-71.088931|||0.0|0.0

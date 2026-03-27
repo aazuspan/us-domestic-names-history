@@ -1281,9 +1281,9 @@
 1994441|Estate Perseverance|Civil|United States Virgin Islands|78|St. Thomas|030|Savana Passage OE N|01/01/2000|09/23/2010||||182253N|0650004W|18.3813444|-65.0009804|||0.0|0.0
 1994442|Estate Queens Quarter|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|01/01/2000|09/03/2010||||182041N|0645549W|18.3446782|-64.9301452|||0.0|0.0
 1994443|Estate The Whim East|Civil|United States Virgin Islands|78|St. Croix|010|Long Point|01/01/2000|09/15/2020||||174201N|0645142W|17.700253|-64.8615351|||0.0|0.0
-2378248|Saint Croix Island|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|02/11/2008|08/09/2023||||174408N|0644453W|17.7356134|-64.7479357|||0.0|0.0
-2378249|Saint John Island|Civil|United States Virgin Islands|78|St. John|020|Coral Bay|02/11/2008|08/09/2023||||181939N|0644416W|18.3275819|-64.7377154|||0.0|0.0
-2378250|Saint Thomas Island|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|02/11/2008|08/09/2023||||181943N|0645801W|18.3286017|-64.9670828|||0.0|0.0
+2378248|Saint Croix Island|Civil|United States Virgin Islands|78|St. Croix|010|Christiansted|02/11/2008|01/16/2026||||174408N|0644453W|17.7356134|-64.7479357|||0.0|0.0
+2378249|Saint John Island|Civil|United States Virgin Islands|78|St. John|020|Coral Bay|02/11/2008|01/16/2026||||181939N|0644416W|18.3275819|-64.7377154|||0.0|0.0
+2378250|Saint Thomas Island|Civil|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|02/11/2008|01/16/2026||||181943N|0645801W|18.3286017|-64.9670828|||0.0|0.0
 2413996|Tutu Census Designated Place|Census|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|03/14/2008|08/09/2023||||182026N|0645319W|18.3405259|-64.8885807|||0.0|0.0
 2414007|Charlotte Amalie East Census Designated Place|Census|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|03/14/2008|08/09/2023||||182002N|0645457W|18.3339803|-64.9157254|||0.0|0.0
 2414008|Charlotte Amalie West Census Designated Place|Census|United States Virgin Islands|78|St. Thomas|030|Charlotte Amalie|03/14/2008|08/08/2023||||182018N|0645746W|18.3384586|-64.9627349|||0.0|0.0

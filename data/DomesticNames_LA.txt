@@ -9235,7 +9235,7 @@
 553423|Bayou Bonne Idee|Stream|Louisiana|22|Morehouse|067|Whitney Island South|06/04/1980|||||323702N|0913956W|32.6173604|-91.6656781|325740N|0913957W|32.9612392|-91.6659559
 553424|Bayou Bourbe|Stream|Louisiana|22|Grant|043|Savage Creek|06/04/1980|||||314138N|0924520W|31.6937796|-92.7554294|314433N|0924603W|31.7423894|-92.7673743
 553425|Bayou Bourbeaux|Stream|Louisiana|22|Iberville|047|Addis|06/04/1980|||||301853N|0911903W|30.3146391|-91.3176093|301946N|0911159W|30.3293602|-91.1998292
-553426|Bayou Brevelle|Stream|Louisiana|22|Natchitoches|069|Cloutierville|06/04/1980|||||313432N|0925856W|31.5754467|-92.9821049|314011N|0930026W|31.6696107|-93.0071057
+553426|Bayou Brevelle|Stream|Louisiana|22|Natchitoches|069|Cloutierville|06/04/1980|03/02/2026||||313432N|0925856W|31.5754467|-92.9821049|314011N|0930026W|31.6696107|-93.0071057
 553427|Bayou Cascare|Stream|Louisiana|22|Pointe Coupee|077|Fordoche|06/04/1980|||||303708N|0913300W|30.6188001|-91.5501128|303820N|0913602W|30.6387996|-91.6006693
 553428|Bayou Castor|Stream|Louisiana|22|Rapides|079|Lena|06/04/1980|||||312348N|0924706W|31.3965653|-92.7848735|312633N|0925001W|31.4425|-92.8336111
 553429|Bayou Castor|Stream|Louisiana|22|De Soto|031|Logansport East|06/04/1980|||||315602N|0935849W|31.9337792|-93.9801899|321140N|0935422W|32.1943278|-93.9060178
@@ -11583,19 +11583,19 @@
 558020|Bayou Poisson Arme|Stream|Louisiana|22|Natchitoches|069|Saint Maurice|03/01/1994|||||314701N|0925906W|31.7834971|-92.9848825|314811N|0930118W|31.8029412|-93.0215504
 558024|Petites Coquilles|Island|Louisiana|22|Orleans|071|Rigolets|03/01/1994|||||300928N|0894422W|30.1576967|-89.7395047|||0.0|0.0
 558026|Acadian Villa|Populated Place|Louisiana|22|Terrebonne|109|Thibodaux|03/01/1994|06/07/2022||||294601N|0904912W|29.7668752|-90.8200931|||0.0|0.0
-558027|Jefferson Parish|Civil|Louisiana|22|Jefferson|051|Lafitte|03/01/1994|08/09/2023||||294039N|0900552W|29.6774521|-90.097767|||0.0|0.0
-558039|Jefferson Davis Parish|Civil|Louisiana|22|Jefferson Davis|053|Welsh North|03/01/1994|08/09/2023||||301604N|0924851W|30.2677129|-92.8141218|||0.0|0.0
-558049|LaSalle Parish|Civil|Louisiana|22|LaSalle|059|Jena West|03/01/1994|08/09/2023||||314036N|0920938W|31.676786|-92.1604441|||0.0|0.0
-558059|Lafayette Parish|Civil|Louisiana|22|Lafayette|055|Lafayette|03/01/1994|08/09/2023||||301225N|0920350W|30.2068325|-92.0639046|||0.0|0.0
-558065|Lafourche Parish|Civil|Louisiana|22|Lafourche|057|Larose|03/01/1994|08/09/2023|Vacated|Board Decision|01/01/1965|293000N|0902409W|29.5001026|-90.402454|||0.0|0.0
-558077|Lincoln Parish|Civil|Louisiana|22|Lincoln|061|Ruston West|03/01/1994|08/09/2023||||323606N|0923954W|32.6016194|-92.6648872|||0.0|0.0
-558083|Livingston Parish|Civil|Louisiana|22|Livingston|063|Frost|03/01/1994|08/09/2023||||302624N|0904340W|30.4401249|-90.727885|||0.0|0.0
-558088|Madison Parish|Civil|Louisiana|22|Madison|065|Fortune Fork|03/01/1994|08/09/2023||||322152N|0911433W|32.3643723|-91.2426085|||0.0|0.0
-558097|Morehouse Parish|Civil|Louisiana|22|Morehouse|067|Mer Rouge|03/01/1994|08/09/2023||||324913N|0914806W|32.8202163|-91.8017834|||0.0|0.0
-558108|Natchitoches Parish|Civil|Louisiana|22|Natchitoches|069|Natchitoches South|03/01/1994|08/09/2023||||314324N|0930546W|31.7233757|-93.0962301|||0.0|0.0
-558113|Orleans Parish|Civil|Louisiana|22|Orleans|071|Little Woods|03/01/1994|08/09/2023||||300407N|0895541W|30.0686434|-89.928129|||0.0|0.0
-558114|Ouachita Parish|Civil|Louisiana|22|Ouachita|073|West Monroe South|03/01/1994|08/09/2023||||322842N|0920918W|32.4783925|-92.1549058|||0.0|0.0
-558125|Plaquemines Parish|Civil|Louisiana|22|Plaquemines|075|Coquille Point|03/01/1994|08/09/2023||||292250N|0892855W|29.3806648|-89.4819188|||0.0|0.0
+558027|Jefferson Parish|Civil|Louisiana|22|Jefferson|051|Lafitte|03/01/1994|01/16/2026||||294039N|0900552W|29.6774521|-90.097767|||0.0|0.0
+558039|Jefferson Davis Parish|Civil|Louisiana|22|Jefferson Davis|053|Welsh North|03/01/1994|01/16/2026||||301604N|0924851W|30.2677129|-92.8141218|||0.0|0.0
+558049|LaSalle Parish|Civil|Louisiana|22|LaSalle|059|Jena West|03/01/1994|01/16/2026||||314036N|0920938W|31.676786|-92.1604441|||0.0|0.0
+558059|Lafayette Parish|Civil|Louisiana|22|Lafayette|055|Lafayette|03/01/1994|01/16/2026||||301225N|0920350W|30.2068325|-92.0639046|||0.0|0.0
+558065|Lafourche Parish|Civil|Louisiana|22|Lafourche|057|Larose|03/01/1994|01/17/2026|Vacated|Board Decision|01/01/1965|293000N|0902409W|29.5001026|-90.402454|||0.0|0.0
+558077|Lincoln Parish|Civil|Louisiana|22|Lincoln|061|Ruston West|03/01/1994|01/16/2026||||323606N|0923954W|32.6016194|-92.6648872|||0.0|0.0
+558083|Livingston Parish|Civil|Louisiana|22|Livingston|063|Frost|03/01/1994|01/17/2026||||302624N|0904340W|30.4401249|-90.727885|||0.0|0.0
+558088|Madison Parish|Civil|Louisiana|22|Madison|065|Fortune Fork|03/01/1994|01/17/2026||||322152N|0911433W|32.3644359|-91.2426019|||0.0|0.0
+558097|Morehouse Parish|Civil|Louisiana|22|Morehouse|067|Mer Rouge|03/01/1994|01/16/2026||||324913N|0914806W|32.8202163|-91.8017834|||0.0|0.0
+558108|Natchitoches Parish|Civil|Louisiana|22|Natchitoches|069|Natchitoches South|03/01/1994|01/16/2026||||314324N|0930546W|31.7233757|-93.0962301|||0.0|0.0
+558113|Orleans Parish|Civil|Louisiana|22|Orleans|071|Little Woods|03/01/1994|01/17/2026||||300407N|0895541W|30.0686439|-89.9281291|||0.0|0.0
+558114|Ouachita Parish|Civil|Louisiana|22|Ouachita|073|West Monroe South|03/01/1994|01/17/2026||||322842N|0920918W|32.4783925|-92.1549058|||0.0|0.0
+558125|Plaquemines Parish|Civil|Louisiana|22|Plaquemines|075|Coquille Point|03/01/1994|01/16/2026||||292250N|0892855W|29.3806648|-89.4819188|||0.0|0.0
 558131|Bayou Cutler|Gut|Louisiana|22|Jefferson|051|Three Bayou Bay|06/04/1980|||||293059N|0900134W|29.5163281|-90.0261839|||0.0|0.0
 558133|Annadale|Populated Place|Louisiana|22|Iberville|047|White Castle|06/04/1980|06/07/2022||||300756N|0910752W|30.1321424|-91.1312145|||0.0|0.0
 558134|Anselm Coulee|Stream|Louisiana|22|Lafayette|055|Milton|06/04/1980|||||300451N|0920421W|30.0807592|-92.0726231|300643N|0920122W|30.1119444|-92.0227778
@@ -11732,31 +11732,31 @@
 558354|Red Gum|Populated Place|Louisiana|22|Concordia|029|Ferriday North|12/01/1991|06/07/2022||||314049N|0913203W|31.6801653|-91.5342868|||0.0|0.0
 558364|Carters Ferry (historical)|Crossing|Louisiana|22|Sabine|085|Beech Bayou|01/01/1993|||||313051N|0934307W|31.5140673|-93.7185158|||0.0|0.0
 558365|Pendleton Ferry (historical)|Crossing|Louisiana|22|Sabine|085|Salter Creek|01/01/1993|||||312801N|0934440W|31.466847|-93.7443496|||0.0|0.0
-558389|Acadia Parish|Civil|Louisiana|22|Acadia|001|Iota|03/01/1994|08/09/2023||||301726N|0922443W|30.2905713|-92.4119751|||0.0|0.0
-558397|Allen Parish|Civil|Louisiana|22|Allen|003|Pine Chapel|03/01/1994|08/09/2023||||303911N|0924941W|30.6529617|-92.8280586|||0.0|0.0
-558403|Ascension Parish|Civil|Louisiana|22|Ascension|005|Gonzales|03/01/1994|08/09/2023||||301213N|0905441W|30.2036133|-90.9113098|||0.0|0.0
-558414|Assumption Parish|Civil|Louisiana|22|Assumption|007|Napoleonville|03/01/1994|08/09/2023||||295409N|0910339W|29.9023766|-91.0607476|||0.0|0.0
-558424|Avoyelles Parish|Civil|Louisiana|22|Avoyelles|009|Marksville South|03/01/1994|08/09/2023||||310435N|0920005W|31.0762976|-92.0014212|||0.0|0.0
-558436|Beauregard Parish|Civil|Louisiana|22|Beauregard|011|Mach Branch|03/01/1994|08/09/2023||||303855N|0932036W|30.6485841|-93.3432354|||0.0|0.0
-558445|Bienville Parish|Civil|Louisiana|22|Bienville|013|Sparta|03/01/1994|08/09/2023||||322050N|0930322W|32.347325|-93.0560591|||0.0|0.0
-558453|Bossier Parish|Civil|Louisiana|22|Bossier|015|Bodcau Lake|03/01/1994|08/09/2023||||324042N|0933618W|32.6784345|-93.6049296|||0.0|0.0
-558458|Caddo Parish|Civil|Louisiana|22|Caddo|017|Blanchard|03/01/1994|08/09/2023||||323451N|0935257W|32.5806972|-93.8824053|||0.0|0.0
-558468|Calcasieu Parish|Civil|Louisiana|22|Calcasieu|019|Westlake|03/01/1994|08/09/2023||||301345N|0932129W|30.2292936|-93.3580048|||0.0|0.0
-558477|Caldwell Parish|Civil|Louisiana|22|Caldwell|021|Columbia|03/01/1994|08/09/2023||||320533N|0920700W|32.0923715|-92.1165736|||0.0|0.0
-558488|Cameron Parish|Civil|Louisiana|22|Cameron|023|Grand Bayou|03/01/1994|08/09/2023||||295049N|0931156W|29.8468684|-93.1989601|||0.0|0.0
-558495|Catahoula Parish|Civil|Louisiana|22|Catahoula|025|Jonesville North|03/01/1994|08/09/2023||||313958N|0915049W|31.6661898|-91.8469938|||0.0|0.0
-558505|Claiborne Parish|Civil|Louisiana|22|Claiborne|027|Arizona|03/01/1994|08/09/2023||||324922N|0925945W|32.82279|-92.9957376|||0.0|0.0
-558515|Concordia Parish|Civil|Louisiana|22|Concordia|029|Monterey|03/01/1994|08/09/2023||||312645N|0913824W|31.4458587|-91.640043|||0.0|0.0
-558521|De Soto Parish|Civil|Louisiana|22|De Soto|031|Mansfield|03/01/1994|08/09/2023||||320320N|0934414W|32.0554527|-93.7372843|||0.0|0.0
-558530|East Baton Rouge Parish|Civil|Louisiana|22|East Baton Rouge|033|Comite|03/01/1994|08/09/2023||||303218N|0910544W|30.5382752|-91.0956486|||0.0|0.0
-558534|East Carroll Parish|Civil|Louisiana|22|East Carroll|035|Transylvania|03/01/1994|08/09/2023||||324357N|0911406W|32.7325138|-91.2349938|||0.0|0.0
-558542|East Feliciana Parish|Civil|Louisiana|22|East Feliciana|037|Clinton|03/01/1994|08/09/2023||||305042N|0910244W|30.8451083|-91.04549|||0.0|0.0
-558551|Evangeline Parish|Civil|Louisiana|22|Evangeline|039|Mamou|03/01/1994|08/09/2023||||304344N|0922421W|30.7289286|-92.4059586|||0.0|0.0
-558557|Franklin Parish|Civil|Louisiana|22|Franklin|041|Winnsboro|03/01/1994|08/09/2023||||320800N|0914026W|32.1332818|-91.6738319|||0.0|0.0
-558567|Grant Parish|Civil|Louisiana|22|Grant|043|Dry Prong|03/01/1994|08/09/2023||||313559N|0923334W|31.5997335|-92.5594867|||0.0|0.0
-558576|Iberia Parish|Civil|Louisiana|22|Iberia|045|Bayou Blanc|03/01/1994|08/09/2023||||293049N|0915023W|29.5135336|-91.8396443|||0.0|0.0
-558582|Iberville Parish|Civil|Louisiana|22|Iberville|047|Addis|03/01/1994|08/09/2023||||301531N|0912058W|30.2586177|-91.3494521|||0.0|0.0
-558592|Jackson Parish|Civil|Louisiana|22|Jackson|049|Curr Creek|03/01/1994|08/09/2023||||321807N|0923328W|32.3020494|-92.5577812|||0.0|0.0
+558389|Acadia Parish|Civil|Louisiana|22|Acadia|001|Iota|03/01/1994|01/17/2026||||301726N|0922443W|30.2905713|-92.4119751|||0.0|0.0
+558397|Allen Parish|Civil|Louisiana|22|Allen|003|Pine Chapel|03/01/1994|01/17/2026||||303911N|0924941W|30.6529617|-92.8280586|||0.0|0.0
+558403|Ascension Parish|Civil|Louisiana|22|Ascension|005|Gonzales|03/01/1994|01/17/2026||||301213N|0905441W|30.2036133|-90.9113098|||0.0|0.0
+558414|Assumption Parish|Civil|Louisiana|22|Assumption|007|Napoleonville|03/01/1994|01/16/2026||||295409N|0910339W|29.9023766|-91.0607476|||0.0|0.0
+558424|Avoyelles Parish|Civil|Louisiana|22|Avoyelles|009|Marksville South|03/01/1994|01/16/2026||||310435N|0920005W|31.0762976|-92.0014212|||0.0|0.0
+558436|Beauregard Parish|Civil|Louisiana|22|Beauregard|011|Mach Branch|03/01/1994|01/17/2026||||303855N|0932036W|30.6485841|-93.3432354|||0.0|0.0
+558445|Bienville Parish|Civil|Louisiana|22|Bienville|013|Sparta|03/01/1994|01/16/2026||||322050N|0930322W|32.347325|-93.0560591|||0.0|0.0
+558453|Bossier Parish|Civil|Louisiana|22|Bossier|015|Bodcau Lake|03/01/1994|01/16/2026||||324042N|0933618W|32.6784345|-93.6049296|||0.0|0.0
+558458|Caddo Parish|Civil|Louisiana|22|Caddo|017|Blanchard|03/01/1994|01/16/2026||||323451N|0935257W|32.5806972|-93.8824053|||0.0|0.0
+558468|Calcasieu Parish|Civil|Louisiana|22|Calcasieu|019|Westlake|03/01/1994|01/16/2026||||301345N|0932129W|30.2292936|-93.3580048|||0.0|0.0
+558477|Caldwell Parish|Civil|Louisiana|22|Caldwell|021|Columbia|03/01/1994|01/16/2026||||320533N|0920700W|32.0923715|-92.1165736|||0.0|0.0
+558488|Cameron Parish|Civil|Louisiana|22|Cameron|023|Grand Bayou|03/01/1994|01/16/2026||||295049N|0931156W|29.8468684|-93.1989601|||0.0|0.0
+558495|Catahoula Parish|Civil|Louisiana|22|Catahoula|025|Jonesville North|03/01/1994|01/16/2026||||313958N|0915049W|31.6661898|-91.8469938|||0.0|0.0
+558505|Claiborne Parish|Civil|Louisiana|22|Claiborne|027|Arizona|03/01/1994|01/16/2026||||324922N|0925945W|32.82279|-92.9957376|||0.0|0.0
+558515|Concordia Parish|Civil|Louisiana|22|Concordia|029|Monterey|03/01/1994|01/17/2026||||312645N|0913824W|31.4458588|-91.640043|||0.0|0.0
+558521|De Soto Parish|Civil|Louisiana|22|De Soto|031|Mansfield|03/01/1994|01/16/2026||||320320N|0934414W|32.0554527|-93.7372843|||0.0|0.0
+558530|East Baton Rouge Parish|Civil|Louisiana|22|East Baton Rouge|033|Comite|03/01/1994|01/16/2026||||303218N|0910544W|30.5382752|-91.0956486|||0.0|0.0
+558534|East Carroll Parish|Civil|Louisiana|22|East Carroll|035|Transylvania|03/01/1994|01/16/2026||||324357N|0911406W|32.7325138|-91.2349938|||0.0|0.0
+558542|East Feliciana Parish|Civil|Louisiana|22|East Feliciana|037|Clinton|03/01/1994|01/16/2026||||305042N|0910244W|30.8451083|-91.04549|||0.0|0.0
+558551|Evangeline Parish|Civil|Louisiana|22|Evangeline|039|Mamou|03/01/1994|01/16/2026||||304344N|0922421W|30.7289286|-92.4059586|||0.0|0.0
+558557|Franklin Parish|Civil|Louisiana|22|Franklin|041|Winnsboro|03/01/1994|01/17/2026||||320800N|0914026W|32.1332818|-91.6738319|||0.0|0.0
+558567|Grant Parish|Civil|Louisiana|22|Grant|043|Dry Prong|03/01/1994|01/16/2026||||313559N|0923334W|31.5997335|-92.5594867|||0.0|0.0
+558576|Iberia Parish|Civil|Louisiana|22|Iberia|045|Bayou Blanc|03/01/1994|01/16/2026||||293049N|0915023W|29.5135336|-91.8396443|||0.0|0.0
+558582|Iberville Parish|Civil|Louisiana|22|Iberville|047|Addis|03/01/1994|01/16/2026||||301531N|0912058W|30.2586177|-91.349452|||0.0|0.0
+558592|Jackson Parish|Civil|Louisiana|22|Jackson|049|Curr Creek|03/01/1994|01/16/2026||||321807N|0923328W|32.3020494|-92.5577812|||0.0|0.0
 558603|Alliance Revetment|Levee|Louisiana|22|Plaquemines|075|Phoenix|03/01/1994|||||294134N|0895836W|29.6927115|-89.9767368|||0.0|0.0
 558604|Back Levee Ditch|Bay|Louisiana|22|Plaquemines|075|Port Sulphur|03/01/1994|01/11/2018||||292902N|0893958W|29.4839689|-89.6660584|||0.0|0.0
 558606|Ballandock Canal|Bay|Louisiana|22|Plaquemines|075|Empire|03/01/1994|12/13/2018||||292620N|0893527W|29.4387512|-89.5907341|||0.0|0.0
@@ -12317,23 +12317,23 @@
 559410|Capitol View|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge West|05/01/1994|06/07/2022||||302748N|0911049W|30.463246|-91.1803851|||0.0|0.0
 559411|Carmel Acres|Populated Place|Louisiana|22|East Baton Rouge|033|Comite|05/01/1994|06/07/2022||||303243N|0910451W|30.5451882|-91.0809383|||0.0|0.0
 559412|Carmen Terrace|Populated Place|Louisiana|22|East Baton Rouge|033|Baton Rouge East|05/01/1994|06/07/2022||||302519N|0910518W|30.421858|-91.0884379|||0.0|0.0
-559449|Pointe Coupee Parish|Civil|Louisiana|22|Pointe Coupee|077|Morganza|05/01/1994|08/09/2023||||304234N|0913603W|30.7094908|-91.6008465|||0.0|0.0
-559460|Rapides Parish|Civil|Louisiana|22|Rapides|079|Woodworth West|05/01/1994|08/09/2023||||311155N|0923159W|31.1985853|-92.5331932|||0.0|0.0
-559472|Red River Parish|Civil|Louisiana|22|Red River|081|Coushatta|05/01/1994|08/09/2023||||320535N|0932023W|32.0931019|-93.339845|||0.0|0.0
-559481|Richland Parish|Civil|Louisiana|22|Richland|083|Rayville|05/01/1994|08/09/2023||||322504N|0914549W|32.4177704|-91.7635055|||0.0|0.0
-559489|Sabine Parish|Civil|Louisiana|22|Sabine|085|Loring|05/01/1994|08/09/2023||||313351N|0933317W|31.5640377|-93.5547175|||0.0|0.0
-559500|Tangipahoa Parish|Civil|Louisiana|22|Tangipahoa|105|Loranger|05/01/1994|08/09/2023||||303736N|0902420W|30.6266459|-90.4056627|||0.0|0.0
-559509|Tensas Parish|Civil|Louisiana|22|Tensas|107|Saranac|05/01/1994|08/09/2023|Vacated|Board Decision|01/01/1965|320006N|0912024W|32.0017663|-91.3401039|||0.0|0.0
-559517|Terrebonne Parish|Civil|Louisiana|22|Terrebonne|109|Bayou Sauveur|05/01/1994|08/09/2023|Vacated|Board Decision|01/01/1965|292015N|0905016W|29.337521|-90.8377072|||0.0|0.0
-559528|Union Parish|Civil|Louisiana|22|Union|111|De Loutre|05/01/1994|08/09/2023||||324955N|0922229W|32.8318924|-92.3748019|||0.0|0.0
-559538|Vermilion Parish|Civil|Louisiana|22|Vermilion|113|Forked Island|05/01/1994|08/09/2023|Vacated|Board Decision|01/01/1965|294836N|0921823W|29.8098634|-92.3064566|||0.0|0.0
-559548|Vernon Parish|Civil|Louisiana|22|Vernon|115|Fort Polk|05/01/1994|08/09/2023||||310630N|0931103W|31.1083319|-93.184283|||0.0|0.0
-559557|Washington Parish|Civil|Louisiana|22|Washington|117|Sheridan|05/01/1994|08/09/2023||||305112N|0900226W|30.8533584|-90.0405291|||0.0|0.0
-559567|Webster Parish|Civil|Louisiana|22|Webster|119|Minden North|05/01/1994|08/09/2023||||324248N|0932006W|32.7134618|-93.3350463|||0.0|0.0
-559570|West Baton Rouge Parish|Civil|Louisiana|22|West Baton Rouge|121|Lobdell|05/01/1994|08/09/2023||||302749N|0911846W|30.4636447|-91.3127707|||0.0|0.0
-559578|West Carroll Parish|Civil|Louisiana|22|West Carroll|123|Oak Grove|05/01/1994|08/09/2023||||324719N|0912724W|32.7885368|-91.4567599|||0.0|0.0
-559584|West Feliciana Parish|Civil|Louisiana|22|West Feliciana|125|Weyanoke|05/01/1994|08/09/2023||||305247N|0912512W|30.8797707|-91.4200251|||0.0|0.0
-559594|Winn Parish|Civil|Louisiana|22|Winn|127|Winnfield West|05/01/1994|08/09/2023||||315639N|0923813W|31.9442717|-92.6368615|||0.0|0.0
+559449|Pointe Coupee Parish|Civil|Louisiana|22|Pointe Coupee|077|Morganza|05/01/1994|01/16/2026||||304234N|0913603W|30.7094908|-91.6008465|||0.0|0.0
+559460|Rapides Parish|Civil|Louisiana|22|Rapides|079|Woodworth West|05/01/1994|01/16/2026||||311155N|0923159W|31.1985853|-92.5331932|||0.0|0.0
+559472|Red River Parish|Civil|Louisiana|22|Red River|081|Coushatta|05/01/1994|01/16/2026||||320535N|0932023W|32.0931019|-93.339845|||0.0|0.0
+559481|Richland Parish|Civil|Louisiana|22|Richland|083|Rayville|05/01/1994|01/16/2026||||322504N|0914549W|32.4177704|-91.7635055|||0.0|0.0
+559489|Sabine Parish|Civil|Louisiana|22|Sabine|085|Loring|05/01/1994|01/16/2026||||313351N|0933317W|31.5640377|-93.5547175|||0.0|0.0
+559500|Tangipahoa Parish|Civil|Louisiana|22|Tangipahoa|105|Loranger|05/01/1994|01/16/2026||||303736N|0902420W|30.6266459|-90.4056627|||0.0|0.0
+559509|Tensas Parish|Civil|Louisiana|22|Tensas|107|Saranac|05/01/1994|01/16/2026|Vacated|Board Decision|01/01/1965|320007N|0912024W|32.0018655|-91.3400666|||0.0|0.0
+559517|Terrebonne Parish|Civil|Louisiana|22|Terrebonne|109|Bayou Sauveur|05/01/1994|01/16/2026|Vacated|Board Decision|01/01/1965|292015N|0905016W|29.337521|-90.8377072|||0.0|0.0
+559528|Union Parish|Civil|Louisiana|22|Union|111|De Loutre|05/01/1994|01/16/2026||||324955N|0922229W|32.8318924|-92.3748019|||0.0|0.0
+559538|Vermilion Parish|Civil|Louisiana|22|Vermilion|113|Forked Island|05/01/1994|01/16/2026|Vacated|Board Decision|01/01/1965|294836N|0921823W|29.8098634|-92.3064566|||0.0|0.0
+559548|Vernon Parish|Civil|Louisiana|22|Vernon|115|Fort Polk|05/01/1994|01/16/2026||||310630N|0931103W|31.1083319|-93.184283|||0.0|0.0
+559557|Washington Parish|Civil|Louisiana|22|Washington|117|Sheridan|05/01/1994|01/16/2026||||305112N|0900226W|30.8533584|-90.0405291|||0.0|0.0
+559567|Webster Parish|Civil|Louisiana|22|Webster|119|Minden North|05/01/1994|01/16/2026||||324248N|0932006W|32.7134618|-93.3350463|||0.0|0.0
+559570|West Baton Rouge Parish|Civil|Louisiana|22|West Baton Rouge|121|Lobdell|05/01/1994|01/17/2026||||302749N|0911846W|30.4636447|-91.3127707|||0.0|0.0
+559578|West Carroll Parish|Civil|Louisiana|22|West Carroll|123|Oak Grove|05/01/1994|01/17/2026||||324719N|0912724W|32.7885368|-91.4567599|||0.0|0.0
+559584|West Feliciana Parish|Civil|Louisiana|22|West Feliciana|125|Weyanoke|05/01/1994|01/17/2026||||305247N|0912512W|30.8797707|-91.4200251|||0.0|0.0
+559594|Winn Parish|Civil|Louisiana|22|Winn|127|Winnfield West|05/01/1994|01/16/2026||||315639N|0923813W|31.9442717|-92.6368615|||0.0|0.0
 559610|Faubourg Marigny|Populated Place|Louisiana|22|Orleans|071|New Orleans East|05/01/1994|06/07/2022||||295757N|0900315W|29.965759|-90.054238|||0.0|0.0
 559614|Lafayette (historical)|Populated Place|Louisiana|22|Orleans|071|New Orleans East|05/01/1994|06/07/2022||||295526N|0900450W|29.9238159|-90.0806278|||0.0|0.0
 559615|Lower Garden District|Populated Place|Louisiana|22|Orleans|071|New Orleans East|05/01/1994|06/07/2022||||295526N|0900450W|29.9238159|-90.0806278|||0.0|0.0
@@ -14732,14 +14732,14 @@
 1629434|Myrtle Grove|Populated Place|Louisiana|22|St. Bernard|087|Chalmette|05/01/1994|06/07/2022||||295604N|0895602W|29.9343705|-89.9339562|||0.0|0.0
 1629435|Oak Ridge Park|Populated Place|Louisiana|22|St. Bernard|087|Chalmette|05/01/1994|06/07/2022||||295444N|0895330W|29.9121487|-89.8917325|||0.0|0.0
 1629436|Story Park|Populated Place|Louisiana|22|St. Bernard|087|Chalmette|05/01/1994|06/07/2022||||295539N|0895417W|29.9274261|-89.9047884|||0.0|0.0
-1629449|Saint Charles Parish|Civil|Louisiana|22|St. Charles|089|Luling|05/01/1994|08/09/2023||||295420N|0902130W|29.9055278|-90.3582217|||0.0|0.0
-1629457|Saint Helena Parish|Civil|Louisiana|22|St. Helena|091|Greensburg|05/01/1994|08/09/2023||||304919N|0904237W|30.8219177|-90.7103227|||0.0|0.0
-1629464|Saint James Parish|Civil|Louisiana|22|St. James|093|Convent|05/01/1994|08/09/2023||||300137N|0904735W|30.02698|-90.7930857|||0.0|0.0
-1629472|Saint John the Baptist Parish|Civil|Louisiana|22|St. John the Baptist|095|Ruddock|05/01/1994|08/09/2023||||300735N|0902815W|30.1263813|-90.4709592|||0.0|0.0
-1629479|Saint Landry Parish|Civil|Louisiana|22|St. Landry|097|Opelousas|05/01/1994|08/09/2023||||303556N|0920021W|30.5989315|-92.0058238|||0.0|0.0
-1629486|Saint Martin Parish|Civil|Louisiana|22|St. Martin|099|Lake Mongoulois|05/01/1994|08/09/2023||||300745N|0913630W|30.1290696|-91.6082592|||0.0|0.0
-1629492|Saint Mary Parish|Civil|Louisiana|22|St. Mary|101|North Bend|05/01/1994|08/09/2023||||293805N|0912823W|29.6346812|-91.4729888|||0.0|0.0
-1629503|Saint Tammany Parish|Civil|Louisiana|22|St. Tammany|103|Saint Tammany|05/01/1994|08/09/2023||||302428N|0895717W|30.4078552|-89.9546444|||0.0|0.0
+1629449|Saint Charles Parish|Civil|Louisiana|22|St. Charles|089|Luling|05/01/1994|01/17/2026||||295420N|0902130W|29.9055278|-90.3582217|||0.0|0.0
+1629457|Saint Helena Parish|Civil|Louisiana|22|St. Helena|091|Greensburg|05/01/1994|01/17/2026||||304919N|0904237W|30.8219177|-90.7103227|||0.0|0.0
+1629464|Saint James Parish|Civil|Louisiana|22|St. James|093|Convent|05/01/1994|01/16/2026||||300137N|0904735W|30.02698|-90.7930857|||0.0|0.0
+1629472|Saint John the Baptist Parish|Civil|Louisiana|22|St. John the Baptist|095|Ruddock|05/01/1994|01/17/2026||||300735N|0902815W|30.1263813|-90.4709592|||0.0|0.0
+1629479|Saint Landry Parish|Civil|Louisiana|22|St. Landry|097|Opelousas|05/01/1994|01/16/2026||||303556N|0920021W|30.5989315|-92.0058238|||0.0|0.0
+1629486|Saint Martin Parish|Civil|Louisiana|22|St. Martin|099|Lake Mongoulois|05/01/1994|01/16/2026||||300745N|0913630W|30.1290696|-91.6082592|||0.0|0.0
+1629492|Saint Mary Parish|Civil|Louisiana|22|St. Mary|101|North Bend|05/01/1994|01/17/2026||||293805N|0912823W|29.6346812|-91.4729888|||0.0|0.0
+1629503|Saint Tammany Parish|Civil|Louisiana|22|St. Tammany|103|Saint Tammany|05/01/1994|01/16/2026||||302428N|0895717W|30.4078555|-89.9546444|||0.0|0.0
 1629514|Chandeleur Sound|Bay|Louisiana|22|St. Bernard|087|Freemason Island OE W|06/04/1980|04/16/2014||||295134N|0890132W|29.8593688|-89.0255902|||0.0|0.0
 1629515|Conkey Cove|Bay|Louisiana|22|St. Bernard|087|Oak Mound Bayou|06/04/1980|||||295628N|0891509W|29.9410347|-89.2525417|||0.0|0.0
 1629516|Cranetown Bay|Bay|Louisiana|22|St. Bernard|087|Mitchell Island|06/04/1980|||||295906N|0891414W|29.984923|-89.2372626|||0.0|0.0
@@ -14756,7 +14756,7 @@
 1629537|Frame Isle (historical)|Island|Louisiana|22|St. Bernard|087|Mitchell Island|03/01/1994|||||295725N|0891222W|29.9568679|-89.2061508|||0.0|0.0
 1629538|Keel Boat Isle (historical)|Island|Louisiana|22|St. Bernard|087|Mitchell Island|03/01/1994|||||295358N|0891307W|29.8993687|-89.2186523|||0.0|0.0
 1629539|Turtle Pen Isle|Island|Louisiana|22|St. Bernard|087|Mitchell Island|03/01/1994|||||295558N|0891415W|29.9327015|-89.2375413|||0.0|0.0
-1629542|Saint Bernard Parish|Civil|Louisiana|22|St. Bernard|087|Oak Mound Bayou|05/01/1994|08/09/2023||||295417N|0891815W|29.9047257|-89.3041274|||0.0|0.0
+1629542|Saint Bernard Parish|Civil|Louisiana|22|St. Bernard|087|Oak Mound Bayou|05/01/1994|01/16/2026||||295417N|0891815W|29.9047257|-89.3041274|||0.0|0.0
 1629543|State of Louisiana|Civil|Louisiana|22|Avoyelles|009|Simmesport|06/01/1990|08/09/2023|Vacated|Board Decision|01/01/1965|305433N|0914851W|30.9090798|-91.8142362|||0.0|0.0
 1629544|Adolph Clark Pass|Bay|Louisiana|22|Plaquemines|075|Pass a Loutre West|06/04/1980|01/11/2018||||290954N|0891028W|29.1649289|-89.1743709|||0.0|0.0
 1629545|Barataria Bay Waterway|Channel|Louisiana|22|Jefferson|051|Bay Dosgris|01/01/2000|||||292836N|0900020W|29.4766073|-90.005628|||0.0|0.0

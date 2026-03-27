@@ -3355,7 +3355,7 @@
 209787|Pine Ledge|Bench|Connecticut|09|Lower Connecticut River Valley|130|Deep River|09/12/1979|||||412311N|0722731W|41.386488|-72.4586986|||0.0|0.0
 209788|Pine Ledge|Cliff|Connecticut|09|Northwest Hills|160|Kent|09/12/1979|||||414304N|0732924W|41.7178719|-73.4901243|||0.0|0.0
 209789|Pine Meadow|Populated Place|Connecticut|09|Northwest Hills|160|New Hartford|09/12/1979|06/07/2022||||415235N|0725801W|41.8764855|-72.9670484|||0.0|0.0
-209790|Pine Meadows Park Pond|Reservoir|Connecticut|09|Southeastern Connecticut|180|Moodus|09/12/1979|03/29/2023||||413229N|0722321W|41.5413846|-72.3891497|||0.0|0.0
+209790|Pine Meadows Lake|Reservoir|Connecticut|09|Southeastern Connecticut|180|Moodus|09/12/1979|03/16/2026|Official|Board Decision|03/12/2026|413229N|0722321W|41.5413846|-72.3891497|||0.0|0.0
 209791|Pine Mountain|Summit|Connecticut|09|Western Connecticut|190|Bethel|09/12/1979|03/21/2023||||412104N|0732910W|41.3510205|-73.4860342|||0.0|0.0
 209792|Pine Mountain|Summit|Connecticut|09|Northwest Hills|160|Norfolk|09/12/1979|03/22/2023||||415801N|0731111W|41.9669852|-73.1864847|||0.0|0.0
 209793|Pine Mountain|Summit|Connecticut|09|Northwest Hills|160|New Hartford|09/12/1979|03/21/2023||||415814N|0725540W|41.9706716|-72.9278967|||0.0|0.0
@@ -7108,15 +7108,15 @@
 2812663|Botsford Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Botsford|06/18/2020|08/09/2023||||412132N|0731602W|41.3587758|-73.2671593|||0.0|0.0
 2813335|Taylor Corners Census Designated Place|Census|Connecticut|09|Western Connecticut|190|Brewster|08/03/2020|08/09/2023||||412647N|0733143W|41.4464133|-73.5286872|||0.0|0.0
 2830199|Pulaski Lake|Reservoir|Connecticut|09|Greater Bridgeport|120|Long Hill|12/10/2021|01/31/2022|Official|Board Decision|10/14/2021|411924N|0731412W|41.323229|-73.236681|||0.0|0.0
-2830244|Capitol Planning Region|Civil|Connecticut|09|Capitol|110|Manchester|02/15/2022|08/09/2023||||414907N|0723419W|41.8185107|-72.5720501|||0.0|0.0
-2830245|Greater Bridgeport Planning Region|Civil|Connecticut|09|Greater Bridgeport|120|Bridgeport|02/15/2022|08/09/2023||||411106N|0731231W|41.1851324|-73.2085115|||0.0|0.0
-2830246|Lower Connecticut River Valley Planning Region|Civil|Connecticut|09|Lower Connecticut River Valley|130|Deep River|02/15/2022|08/09/2023||||412515N|0722932W|41.4207213|-72.4922863|||0.0|0.0
-2830249|Naugatuck Valley Planning Region|Civil|Connecticut|09|Naugatuck Valley|140|Waterbury|02/15/2022|08/09/2023||||413123N|0730510W|41.5231515|-73.0860421|||0.0|0.0
-2830250|Northeastern Connecticut Planning Region|Civil|Connecticut|09|Northeastern Connecticut|150|Danielson|02/15/2022|08/09/2023||||414937N|0715837W|41.8269745|-71.9769253|||0.0|0.0
-2830251|Northwest Hills Planning Region|Civil|Connecticut|09|Northwest Hills|160|West Torrington|02/15/2022|08/09/2023||||415049N|0731316W|41.8469196|-73.2212148|||0.0|0.0
-2830252|South Central Connecticut Planning Region|Civil|Connecticut|09|South Central Connecticut|170|Branford|02/15/2022|08/09/2023||||411740N|0725001W|41.2944704|-72.8336661|||0.0|0.0
-2830253|Southeastern Connecticut Planning Region|Civil|Connecticut|09|Southeastern Connecticut|180|Uncasville|02/15/2022|08/09/2023||||412905N|0720603W|41.4847895|-72.1007273|||0.0|0.0
-2830254|Western Connecticut Planning Region|Civil|Connecticut|09|Western Connecticut|190|Bethel|02/15/2022|08/09/2023||||411652N|0732649W|41.2810043|-73.4470355|||0.0|0.0
+2830244|Capitol Planning Region|Civil|Connecticut|09|Capitol|110|Manchester|02/15/2022|01/16/2026||||414907N|0723419W|41.8185107|-72.5720501|||0.0|0.0
+2830245|Greater Bridgeport Planning Region|Civil|Connecticut|09|Greater Bridgeport|120|Bridgeport|02/15/2022|01/16/2026||||411106N|0731231W|41.1851324|-73.2085115|||0.0|0.0
+2830246|Lower Connecticut River Valley Planning Region|Civil|Connecticut|09|Lower Connecticut River Valley|130|Deep River|02/15/2022|01/16/2026||||412515N|0722932W|41.4207213|-72.4922863|||0.0|0.0
+2830249|Naugatuck Valley Planning Region|Civil|Connecticut|09|Naugatuck Valley|140|Waterbury|02/15/2022|01/16/2026||||413123N|0730510W|41.5231515|-73.0860421|||0.0|0.0
+2830250|Northeastern Connecticut Planning Region|Civil|Connecticut|09|Northeastern Connecticut|150|Danielson|02/15/2022|01/16/2026||||414937N|0715837W|41.8269745|-71.9769253|||0.0|0.0
+2830251|Northwest Hills Planning Region|Civil|Connecticut|09|Northwest Hills|160|West Torrington|02/15/2022|01/16/2026||||415049N|0731316W|41.8469196|-73.2212148|||0.0|0.0
+2830252|South Central Connecticut Planning Region|Civil|Connecticut|09|South Central Connecticut|170|Branford|02/15/2022|01/16/2026||||411740N|0725001W|41.2944704|-72.8336661|||0.0|0.0
+2830253|Southeastern Connecticut Planning Region|Civil|Connecticut|09|Southeastern Connecticut|180|Uncasville|02/15/2022|01/16/2026||||412905N|0720603W|41.4847895|-72.1007273|||0.0|0.0
+2830254|Western Connecticut Planning Region|Civil|Connecticut|09|Western Connecticut|190|Bethel|02/15/2022|01/16/2026||||411652N|0732649W|41.2810043|-73.4470355|||0.0|0.0
 2830257|Hoskins Island|Island|Connecticut|09|Northeastern Connecticut|150|East Killingly|02/15/2022|02/15/2022|Official|Board Decision|02/10/2022|415132N|0714751W|41.8588635|-71.7974394|||0.0|0.0
 2831004|Great Plain (historical)|Populated Place|Connecticut|09|Western Connecticut|190|Danbury|01/11/2023|02/24/2023||||412518N|0732620W|41.42158|-73.43894|||0.0|0.0
 2831229|Barlow Mountain|Summit|Connecticut|09|Western Connecticut|190|Bethel|05/17/2023|12/18/2023|Official|Board Decision|05/11/2023|411935N|0732955W|41.3262866|-73.4985337|||0.0|0.0

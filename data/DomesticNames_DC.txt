@@ -387,7 +387,7 @@
 1680825|Fort Kearny (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|05/01/1991|05/31/2022||||385654N|0770330W|38.9483333|-77.0583333|||0.0|0.0
 1680854|Fort Mahan (historical)|Military|District of Columbia|11|District of Columbia|001|Washington East|04/01/1993|05/31/2022||||385340N|0765639W|38.8944444|-76.9441667|||0.0|0.0
 1681190|Maine Avenue Armory (historical)|Military|District of Columbia|11|District of Columbia|001|Alexandria|04/01/1991|05/31/2022||||385222N|0770113W|38.8727778|-77.0202778|||0.0|0.0
-1702382|District of Columbia|Civil|District of Columbia|11|District of Columbia|001|Washington West|11/26/1996|08/09/2023||||385417N|0770059W|38.9047746|-77.0163024|||0.0|0.0
+1702382|District of Columbia|Civil|District of Columbia|11|District of Columbia|001|Washington West|11/26/1996|01/16/2026||||385417N|0770059W|38.9047746|-77.0163024|||0.0|0.0
 1934375|Fort Gaines (historical)|Military|District of Columbia|11|District of Columbia|001|Washington West|08/07/2001|05/31/2022||||385610N|0770515W|38.9361111|-77.0875|||0.0|0.0
 2013820|Battery Ricketts (historical)|Military|District of Columbia|11|District of Columbia|001|Anacostia|11/05/2003|05/31/2022||||385123N|0765830W|38.8563889|-76.975|||0.0|0.0
 2071908|Rock of Dumbarton Tract (historical)|Civil|District of Columbia|11|District of Columbia|001|Washington West|08/03/2005|||||385418N|0770340W|38.905|-77.06111|||0.0|0.0
