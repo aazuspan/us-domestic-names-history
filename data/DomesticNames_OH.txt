@@ -16221,7 +16221,7 @@
 2398266|Village of Haviland|Civil|Ohio|39|Paulding|125|Latty|02/27/2008|08/10/2023||||410104N|0843507W|41.0177887|-84.585294|||0.0|0.0
 2398270|Village of Hayesville|Civil|Ohio|39|Ashland|005|Ashland South|02/27/2008|08/10/2023||||404631N|0821535W|40.7752144|-82.2596175|||0.0|0.0
 2398274|Village of Irondale|Civil|Ohio|39|Jefferson|081|Wellsville|02/27/2008|08/11/2023||||403422N|0804333W|40.5728008|-80.7259521|||0.0|0.0
-2398281|Village of Ithaca|Civil|Ohio|39|Darke|037|Arcanum|02/27/2008|08/10/2023||||395616N|0843312W|39.9377367|-84.553332|||0.0|0.0
+2398281|Village of Ithaca|Civil|Ohio|39|Darke|037|Arcanum|02/27/2008|05/12/2026||||395616N|0843312W|39.9377367|-84.553332|||0.0|0.0
 2398286|Village of Jackson Center|Civil|Ohio|39|Shelby|149|Jackson Center|02/27/2008|08/10/2023||||402619N|0840228W|40.4384787|-84.0412475|||0.0|0.0
 2398287|Village of Jacksonburg|Civil|Ohio|39|Butler|017|West Elkton|02/27/2008|08/10/2023||||393218N|0843012W|39.5383849|-84.5033152|||0.0|0.0
 2398288|Village of Jacksonville|Civil|Ohio|39|Athens|009|Jacksonville|02/27/2008|08/11/2023||||392834N|0820447W|39.4760876|-82.0795986|||0.0|0.0
@@ -17919,3 +17919,4 @@
 2832871|Naval Operational Support Center Columbus|Military|Ohio|39|Franklin|049|Lockbourne|08/20/2025|08/20/2025||||394911N|0825645W|39.819765|-82.9459055|||0.0|0.0
 2832938|Toledo Express Airport|Military|Ohio|39|Lucas|095|Whitehouse|08/20/2025|08/20/2025||||413511N|0834731W|41.5864543|-83.7919913|||0.0|0.0
 2832962|Aquilla Census Designated Place|Census|Ohio|39|Geauga|055|Chardon|08/21/2025|08/21/2025||||413247N|0811023W|41.5465227|-81.1730641|||0.0|0.0
+2833171|Ithaca CDP|Census|Ohio|39|Darke|037|Arcanum|05/12/2026|05/12/2026||||395616N|0843312W|39.937737|-84.553332|||0.0|0.0

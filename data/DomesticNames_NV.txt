@@ -9656,7 +9656,7 @@
 851965|Small Spring|Spring|Nevada|32|Elko|007|Leppy Peak NW|08/01/1990|04/18/2011||||405728N|1141053W|40.9578587|-114.1815113|||0.0|0.0
 851969|Savot Spring|Spring|Nevada|32|Lincoln|017|Groom Range|08/01/1990|||||372427N|1154427W|37.407455|-115.7408646|||0.0|0.0
 851970|Mount Wandell|Summit|Nevada|32|Lincoln|017|Groom Range|08/01/1990|||||372233N|1154348W|37.3757888|-115.7300305|||0.0|0.0
-851971|Mount Clayton|Summit|Nevada|32|Nye|023|Reveille Peak NW|08/01/1990|||||375802N|1160958W|37.9671591|-116.1661584|||0.0|0.0
+851971|Mount Clayton|Summit|Nevada|32|Nye|023|Reveille Peak NW|08/01/1990|04/27/2026||||375905N|1161042W|37.984731|-116.178317|||0.0|0.0
 851972|Wandell Spring|Spring|Nevada|32|Lincoln|017|Southeastern Mine|08/01/1990|||||370436N|1153611W|37.0766252|-115.60308|||0.0|0.0
 852000|Wells City Water Reservoir|Reservoir|Nevada|32|Elko|007|Wells|08/01/1990|04/02/2019||||410641N|1145859W|41.1112743|-114.9831545|||0.0|0.0
 852022|H D Range|Range|Nevada|32|Elko|007|Knoll Mountain SE|08/01/1990|||||413702N|1143510W|41.6171389|-114.5861431|||0.0|0.0
@@ -9693,7 +9693,7 @@
 852099|Mount Diablo|Summit|Nevada|32|Nye|023|Reeds Ranch|10/19/2023|10/20/2023||||375347N|1164520W|37.8963816|-116.755477|||0.0|0.0
 852100|Number One Settlement|Populated Place|Nevada|32|Elko|007|The Point|08/01/1990|06/07/2022||||415926N|1160755W|41.9904559|-116.1320447|||0.0|0.0
 852104|Lyng Ditch|Canal|Nevada|32|Humboldt|013|Willow Point|08/01/1990|||||412120N|1173037W|41.3554542|-117.5104035|||0.0|0.0
-852105|Rusty Ridge|Ridge|Nevada|32|White Pine|033|Riepetown|08/01/1990|||||391559N|1150203W|39.2663271|-115.0341896|||0.0|0.0
+852105|Rusty Ridge (historic)|Ridge|Nevada|32|White Pine|033|Riepetown|08/01/1990|05/06/2026||||391559N|1150203W|39.2663271|-115.0341896|||0.0|0.0
 852106|Jog Along Ridge|Ridge|Nevada|32|White Pine|033|Riepetown|08/01/1990|||||391526N|1150128W|39.2571606|-115.024467|||0.0|0.0
 852108|Hot Creek Spring|Spring|Nevada|32|Elko|007|Willow Creek Reservoir|08/01/1990|04/18/2011||||411058N|1163034W|41.1827052|-116.5094561|||0.0|0.0
 852109|Old Tuscarora (historical)|Populated Place|Nevada|32|Elko|007|Tuscarora|08/01/1990|06/07/2022||||411717N|1161457W|41.2879625|-116.2492569|||0.0|0.0
@@ -16105,3 +16105,4 @@
 2832939|Tonopah Air Force Station|Military|Nevada|32|Nye|023|Rays|08/20/2025|08/20/2025||||380829N|1171158W|38.1413491|-117.1995413|||0.0|0.0
 2832940|Tonopah Auxiliary Airfield Annex 2|Military|Nevada|32|Nye|023|East of Cactus Peak|08/20/2025|08/20/2025||||374826N|1164633W|37.8072787|-116.7758633|||0.0|0.0
 2832993|Riggs Ridge|Ridge|Nevada|32|Carson City (city)|510|McTarnahan Hill|09/12/2025|09/12/2025|Official|Board Decision|09/11/2025|390703N|1194045W|39.117512|-119.67922|||0.0|0.0
+2833141|Whittell Peak|Summit|Nevada|32|Carson City (city)|510|Marlette Lake|04/09/2026|04/09/2026|Official|Board Decision|04/09/2026|390731N|1195524W|39.125278|-119.923333|||0.0|0.0

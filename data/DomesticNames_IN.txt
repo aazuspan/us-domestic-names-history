@@ -14408,3 +14408,4 @@
 2832799|National Guard Knightstown|Military|Indiana|18|Rush|139|Knightstown|08/20/2025|08/20/2025||||394605N|0853104W|39.7679336|-85.5176799|||0.0|0.0
 2832816|National Guard Muscatatuck Urban Training Center|Military|Indiana|18|Jennings|079|Butlerville|08/20/2025|08/20/2025||||390305N|0853129W|39.051418|-85.5245845|||0.0|0.0
 2832834|National Guard Shelbyville|Military|Indiana|18|Shelby|145|Shelbyville|08/20/2025|08/20/2025||||393444N|0854840W|39.5789546|-85.8110331|||0.0|0.0
+2833143|Owl Island|Island|Indiana|18|Vigo|167|New Goshen|04/09/2026|04/09/2026|Official|Board Decision|04/09/2026|393423N|0872355W|39.573139|-87.398583|||0.0|0.0

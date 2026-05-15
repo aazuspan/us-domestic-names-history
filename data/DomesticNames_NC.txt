@@ -5846,7 +5846,7 @@
 990042|Mine Ridge|Ridge|North Carolina|37|Haywood|087|Waterville|06/17/1980|06/07/2016||||354649N|0830236W|35.7803044|-83.0431974|||0.0|0.0
 990043|Minehole Gap|Gap|North Carolina|37|Buncombe|021|Oteen|06/17/1980|||||353246N|0822715W|35.5462262|-82.4542874|||0.0|0.0
 990045|Mineral Gap Branch|Stream|North Carolina|37|Swain|173|Thunderhead Mountain|06/17/1980|||||353259N|0834114W|35.5498125|-83.6871146|353353N|0834112W|35.5647222|-83.6866667
-990047|Mineral Springs|Populated Place|North Carolina|37|Union|179|Waxhaw|06/17/1980|06/07/2022||||345617N|0804007W|34.9379274|-80.6686791|||0.0|0.0
+990047|Mineral Springs|Populated Place|North Carolina|37|Union|179|Waxhaw|06/17/1980|05/01/2026||||345617N|0804007W|34.9379274|-80.6686791|||0.0|0.0
 990051|Mineral Springs Mountain|Summit|North Carolina|37|Burke|023|Valdese|06/17/1980|03/08/2025||||354255N|0813335W|35.7151463|-81.5597151|||0.0|0.0
 990053|Mingo Creek|Stream|North Carolina|37|Carteret|031|Long Bay|06/17/1980|||||345302N|0762346W|34.8837745|-76.3960295|345315N|0762335W|34.8875|-76.3930556
 990054|Mingo Creek|Stream|North Carolina|37|Swain|173|Smokemont|06/17/1980|||||353202N|0831637W|35.5339882|-83.276817|353112N|0831506W|35.52|-83.2516667
@@ -8919,7 +8919,7 @@
 996747|Walnut Knob|Summit|North Carolina|37|Alexander|003|Boomer|06/17/1980|03/03/2025||||360018N|0811843W|36.0050788|-81.3119056|||0.0|0.0
 996748|Walnut Pocosin|Swamp|North Carolina|37|Wayne|191|Southeast Goldsboro|06/17/1980|||||352053N|0775252W|35.34794|-77.8810936|||0.0|0.0
 996751|Walter Slough|Channel|North Carolina|37|Dare|055|Oregon Inlet|06/17/1980|||||354731N|0753358W|35.7918434|-75.5660011|||0.0|0.0
-996761|Southwest|Populated Place|North Carolina|37|Onslow|133|Haws Run|06/17/1980|06/07/2022||||344419N|0773030W|34.7384979|-77.5083006|||0.0|0.0
+996761|Southwest|Populated Place|North Carolina|37|Onslow|133|Haws Run|06/17/1980|04/01/2026||||344419N|0773030W|34.7384979|-77.5083006|||0.0|0.0
 996763|Wam Squam Bay|Swamp|North Carolina|37|Bladen|017|Elizabethtown North|06/17/1980|||||343843N|0783116W|34.6451712|-78.5211191|||0.0|0.0
 996764|Wananish|Populated Place|North Carolina|37|Columbus|047|Lake Waccamaw West|06/17/1980|06/07/2022||||341920N|0783001W|34.3221133|-78.5002866|||0.0|0.0
 996765|Wanchese|Populated Place|North Carolina|37|Dare|055|Wanchese|06/17/1980|06/07/2022||||355034N|0753819W|35.8426729|-75.6385055|||0.0|0.0
@@ -9558,7 +9558,6 @@
 998349|W P Sanders Pond Dam|Reservoir|North Carolina|37|Cumberland|051|Clifdale|01/01/2000|12/05/2018||||350328N|0790151W|35.0578181|-79.0309137|||0.0|0.0
 998351|Brock Pond|Reservoir|North Carolina|37|Jones|103|Trenton|01/01/2000|12/21/2018||||350338N|0772123W|35.0606525|-77.3563886|||0.0|0.0
 998352|Mathews Pond|Reservoir|North Carolina|37|Sampson|163|Salemburg|01/01/2000|||||350337N|0783029W|35.0601682|-78.508063|||0.0|0.0
-998355|McFadyen Lake|Reservoir|North Carolina|37|Cumberland|051|Fayetteville|01/01/2000|||||350337N|0785859W|35.060163|-78.9830842|||0.0|0.0
 998357|Bowden Millpond|Reservoir|North Carolina|37|Duplin|061|Warsaw North|01/01/2000|12/05/2018||||350341N|0780726W|35.0613327|-78.1238974|||0.0|0.0
 998359|Mitchell Pond Number Six|Reservoir|North Carolina|37|Mecklenburg|119|Weddington|01/01/2000|12/10/2018||||350419N|0804844W|35.0719473|-80.812274|||0.0|0.0
 998361|Loraine Lake|Reservoir|North Carolina|37|Cumberland|051|Clifdale|01/01/2000|12/05/2018||||350434N|0790054W|35.0761667|-79.0151066|||0.0|0.0
@@ -20989,7 +20988,7 @@
 1019025|Beaufort Inlet|Channel|North Carolina|37|Carteret|031|Beaufort|06/17/1980|||||344138N|0763959W|34.6937732|-76.6663185|||0.0|0.0
 1019026|Beaver Creek|Populated Place|North Carolina|37|Cumberland|051|Fayetteville|06/17/1980|06/07/2022||||350538N|0785910W|35.0937737|-78.9861397|||0.0|0.0
 1019027|Beaver Creek|Populated Place|North Carolina|37|Ashe|009|Warrensville|06/17/1980|06/07/2022||||362238N|0813008W|36.3773479|-81.5023274|||0.0|0.0
-1019028|Beaver Creek Pond|Reservoir|North Carolina|37|Cumberland|051|Fayetteville|06/17/1980|12/05/2018||||350348N|0785908W|35.0632825|-78.9855959|||0.0|0.0
+1019028|Beaver Creek Pond|Reservoir|North Carolina|37|Cumberland|051|Fayetteville|06/17/1980|04/27/2026||||350348N|0785908W|35.0632825|-78.9855959|||0.0|0.0
 1019029|Beaver Top|Summit|North Carolina|37|Cherokee|039|Persimmon Creek|06/17/1980|10/31/2019||||350352N|0841304W|35.0645185|-84.2176907|||0.0|0.0
 1019030|Beaverbrook|Populated Place|North Carolina|37|Gaston|071|Gastonia North|06/17/1980|06/07/2022||||351642N|0811138W|35.2784706|-81.1939674|||0.0|0.0
 1019031|Beaverdam|Populated Place|North Carolina|37|Buncombe|021|Dunsmore Mountain|06/17/1980|06/07/2022||||352950N|0824112W|35.497332|-82.6867944|||0.0|0.0
@@ -24773,7 +24772,7 @@
 1023153|Weldons Mill|Populated Place|North Carolina|37|Vance|181|Vicksboro|06/17/1980|06/07/2022||||361726N|0781914W|36.290425|-78.3205509|||0.0|0.0
 1023154|Wendell|Populated Place|North Carolina|37|Wake|183|Zebulon|06/17/1980|06/07/2022||||354652N|0782211W|35.780987|-78.3697213|||0.0|0.0
 1023155|Wentworth|Populated Place|North Carolina|37|Rockingham|157|Southwest Eden|06/17/1980|06/07/2022||||362400N|0794628W|36.4001371|-79.7744792|||0.0|0.0
-1023157|Wesley Chapel|Populated Place|North Carolina|37|Union|179|Matthews|06/17/1980|06/07/2022||||350026N|0804028W|35.0070935|-80.6745131|||0.0|0.0
+1023157|Wesley Chapel|Populated Place|North Carolina|37|Union|179|Matthews|06/17/1980|05/01/2026||||350026N|0804028W|35.0070935|-80.6745131|||0.0|0.0
 1023158|Wesner Bald|Summit|North Carolina|37|Jackson|099|Hazelwood|06/17/1980|08/04/2018||||352525N|0830312W|35.4236323|-83.0532109|||0.0|0.0
 1023159|Wesser|Populated Place|North Carolina|37|Swain|173|Wesser|06/17/1980|06/07/2022||||351959N|0833529W|35.3331481|-83.5912762|||0.0|0.0
 1023160|West Asheville|Populated Place|North Carolina|37|Buncombe|021|Asheville|06/17/1980|06/07/2022||||353440N|0823501W|35.5778892|-82.5837375|||0.0|0.0
@@ -28620,7 +28619,7 @@
 2406159|Town of Midland|Civil|North Carolina|37|Cabarrus|025|Midland|03/10/2008|08/10/2023||||351457N|0803148W|35.2491586|-80.5299507|||0.0|0.0
 2406166|Town of Mills River|Civil|North Carolina|37|Henderson|089|Skyland|03/10/2008|08/11/2023||||352307N|0823507W|35.3852999|-82.5854149|||0.0|0.0
 2406167|Town of Milton|Civil|North Carolina|37|Caswell|033|Milton|03/10/2008|08/10/2023||||363214N|0791229W|36.5372421|-79.2080975|||0.0|0.0
-2406168|Town of Mineral Springs|Civil|North Carolina|37|Union|179|Waxhaw|03/10/2008|08/11/2023||||345628N|0804105W|34.9411374|-80.6846258|||0.0|0.0
+2406168|Town of Mineral Springs|Civil|North Carolina|37|Union|179|Waxhaw|03/10/2008|05/01/2026||||345628N|0804105W|34.9411375|-80.6846258|||0.0|0.0
 2406169|Town of Minnesott Beach|Civil|North Carolina|37|Pamlico|137|Cherry Point|03/10/2008|08/10/2023||||345910N|0764927W|34.9861015|-76.824188|||0.0|0.0
 2406170|Town of Mint Hill|Civil|North Carolina|37|Mecklenburg|119|Mint Hill|03/10/2008|08/10/2023||||351042N|0803910W|35.1782986|-80.6527233|||0.0|0.0
 2406174|Town of Mocksville|Civil|North Carolina|37|Davie|059|Mocksville|03/10/2008|08/10/2023||||355403N|0803348W|35.9007736|-80.5632143|||0.0|0.0
@@ -28946,7 +28945,7 @@
 2407555|Village of Sugar Mountain|Civil|North Carolina|37|Avery|011|Valle Crucis|03/10/2008|08/10/2023||||360735N|0815153W|36.1263814|-81.8647424|||0.0|0.0
 2407562|Village of Tobaccoville|Civil|North Carolina|37|Forsyth|067|Rural Hall|03/10/2008|08/10/2023||||361332N|0802133W|36.2255723|-80.3590586|||0.0|0.0
 2407566|Village of Walnut Creek|Civil|North Carolina|37|Wayne|191|La Grange|03/10/2008|08/11/2023||||351818N|0775217W|35.3049637|-77.8713683|||0.0|0.0
-2407569|Village of Wesley Chapel|Civil|North Carolina|37|Union|179|Matthews|03/10/2008|08/09/2023||||350020N|0804004W|35.0054404|-80.6678365|||0.0|0.0
+2407569|Village of Wesley Chapel|Civil|North Carolina|37|Union|179|Matthews|03/10/2008|05/01/2026||||350020N|0804004W|35.0054404|-80.6678365|||0.0|0.0
 2407570|Village of Whispering Pines|Civil|North Carolina|37|Moore|125|Carthage|03/10/2008|08/10/2023||||351512N|0792231W|35.2534314|-79.3752632|||0.0|0.0
 2407573|Township of Whitehouse|Civil|North Carolina|37|Robeson|155|Gaddysville|03/10/2008|08/13/2023||||342309N|0790802W|34.385779|-79.1339157|||0.0|0.0
 2418608|Haliwa-Saponi State Designated Tribal Statistical Area|Census|North Carolina|37|Halifax|083|Hollister|04/11/2008|03/21/2023||||361519N|0775815W|36.2554089|-77.9709719|||0.0|0.0
@@ -29210,3 +29209,12 @@
 2832824|National Guard Raleigh|Military|North Carolina|37|Wake|183|Raleigh West|08/20/2025|08/20/2025||||354833N|0784244W|35.8091962|-78.7120938|||0.0|0.0
 2832908|Outlying Field Atlantic|Military|North Carolina|37|Carteret|031|Atlantic|08/20/2025|08/20/2025||||345342N|0762058W|34.8949281|-76.3493772|||0.0|0.0
 2832910|Outlying Field Oak Grove|Military|North Carolina|37|Jones|103|Trenton|08/20/2025|08/20/2025||||350123N|0771531W|35.023145|-77.2587382|||0.0|0.0
+2833071|Bear Creek|Census|North Carolina|37|Onslow|133|Hubert|04/01/2026|04/01/2026||||343926N|0771129W|34.6571914|-77.1913892|||0.0|0.0
+2833072|Belgrade|Census|North Carolina|37|Onslow|133|Hubert|04/01/2026|04/01/2026||||343909N|0771141W|34.6524218|-77.1947306|||0.0|0.0
+2833073|Catherine Lake|Census|North Carolina|37|Onslow|133|Catherine Lake|04/01/2026|04/01/2026||||345008N|0773401W|34.8354404|-77.5668639|||0.0|0.0
+2833074|Dixon|Census|North Carolina|37|Onslow|133|Sneads Ferry|04/01/2026|04/01/2026||||343506N|0772822W|34.5851382|-77.4728984|||0.0|0.0
+2833075|Folkstone|Census|North Carolina|37|Onslow|133|Sneads Ferry|04/01/2026|04/01/2026||||343124N|0772839W|34.5232566|-77.4775468|||0.0|0.0
+2833076|Hubert|Census|North Carolina|37|Onslow|133|Hubert|04/01/2026|04/01/2026||||344225N|0771241W|34.7069822|-77.2113733|||0.0|0.0
+2833077|Kellum|Census|North Carolina|37|Onslow|133|Kellum|04/01/2026|04/01/2026||||344849N|0772056W|34.8135411|-77.3489429|||0.0|0.0
+2833078|Southwest|Census|North Carolina|37|Onslow|133|Haws Run|04/01/2026|04/01/2026||||344419N|0773030W|34.7384979|-77.5083006|||0.0|0.0
+2833079|Verona|Census|North Carolina|37|Onslow|133|Jacksonville South|04/01/2026|04/01/2026||||344100N|0772939W|34.6834606|-77.4942719|||0.0|0.0

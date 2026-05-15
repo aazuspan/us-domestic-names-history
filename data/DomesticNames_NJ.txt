@@ -4279,7 +4279,7 @@
 880734|South Mantoloking Beach|Populated Place|New Jersey|34|Ocean|029|Point Pleasant|09/08/1979|06/07/2022||||400122N|0740317W|40.022895|-74.0548586|||0.0|0.0
 880739|South Ogdensburg|Populated Place|New Jersey|34|Sussex|037|Franklin|09/08/1979|06/07/2022||||410429N|0743547W|41.0748192|-74.5962714|||0.0|0.0
 880740|South Old Bridge|Populated Place|New Jersey|34|Middlesex|023|South Amboy|09/08/1979|06/07/2022||||402429N|0742116W|40.4081628|-74.3543153|||0.0|0.0
-880741|Township of South Orange Village|Civil|New Jersey|34|Essex|013|Roselle|09/08/1979|08/12/2023||||404457N|0741537W|40.7490738|-74.2601806|||0.0|0.0
+880741|Township of South Orange Village|Civil|New Jersey|34|Essex|013|Roselle|09/08/1979|05/12/2026||||404457N|0741537W|40.7490738|-74.2601806|||0.0|0.0
 880742|South Pemberton|Populated Place|New Jersey|34|Burlington|005|Pemberton|09/08/1979|06/07/2022||||395803N|0744106W|39.9676134|-74.6848809|||0.0|0.0
 880743|South Penns Grove|Populated Place|New Jersey|34|Salem|033|Penns Grove|09/08/1979|06/07/2022||||394318N|0752734W|39.7217804|-75.459362|||0.0|0.0
 880744|South Plainfield|Populated Place|New Jersey|34|Middlesex|023|Plainfield|09/08/1979|06/07/2022|Official|Board Decision|01/01/1894|403445N|0742442W|40.5792701|-74.4115401|||0.0|0.0
@@ -7551,3 +7551,4 @@
 2832716|Joint Base McGuire-Dix-Lakehurst|Military|New Jersey|34|Burlington|005|New Egypt|08/20/2025|08/20/2025||||400144N|0743454W|40.0289636|-74.5815622|||0.0|0.0
 2832803|National Guard Lawrenceville|Military|New Jersey|34|Mercer|021|Princeton|08/20/2025|08/20/2025||||401611N|0744441W|40.269831|-74.7446814|||0.0|0.0
 2832902|Naval Weapons Station Earle Waterfront Unit|Military|New Jersey|34|Monmouth|025|Sandy Hook West|08/20/2025|08/20/2025||||402519N|0740414W|40.4218431|-74.0705708|||0.0|0.0
+2833172|South Orange Village|Populated Place|New Jersey|34|Essex|013|Roselle|05/12/2026|05/12/2026||||404457N|0741537W|40.749074|-74.26018|||0.0|0.0

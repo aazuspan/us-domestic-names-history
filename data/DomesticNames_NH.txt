@@ -1816,7 +1816,7 @@
 867270|Guild|Populated Place|New Hampshire|33|Sullivan|019|Grantham|08/27/1980|06/07/2022||||432236N|0720817W|43.3767411|-72.1381421|||0.0|0.0
 867271|Guild Hill|Summit|New Hampshire|33|Merrimack|013|Bradford|08/27/1980|08/31/2022||||431501N|0715444W|43.2501692|-71.9121356|||0.0|0.0
 867272|Guinea Ridge|Ridge|New Hampshire|33|Belknap|001|Gilmanton Ironworks|08/27/1980|03/22/2022||||432800N|0711948W|43.4665677|-71.3300652|||0.0|0.0
-867273|Gulay Island|Island|New Hampshire|33|Carroll|003|Center Harbor|08/27/1980|||||434308N|0712257W|43.718964|-71.3825722|||0.0|0.0
+867273|Guay Island|Island|New Hampshire|33|Carroll|003|Center Harbor|08/27/1980|04/22/2026||||434309N|0712255W|43.719226|-71.381843|||0.0|0.0
 867274|Gulch Brook|Stream|New Hampshire|33|Coos|007|Lovering Mountain|08/27/1980|||||445814N|0712649W|44.9706022|-71.4470269|445903N|0712624W|44.9841667|-71.44
 867276|Gulf Brook|Stream|New Hampshire|33|Belknap|001|Northfield|08/27/1980|||||432716N|0713345W|43.4545215|-71.5625748|432955N|0713554W|43.4986111|-71.5983333
 867277|Gulf Brook|Stream|New Hampshire|33|Merrimack|013|Andover|08/27/1980|||||432947N|0715008W|43.4964635|-71.8356366|432825N|0715016W|43.4736111|-71.8377778
@@ -6809,7 +6809,6 @@
 1775290|Piscataquog River Reservoir|Reservoir|New Hampshire|33|Hillsborough|011|Manchester South|01/09/1998|||||425936N|0712946W|42.9934172|-71.4961789|||0.0|0.0
 1775292|Ashuelot River Reservoir|Reservoir|New Hampshire|33|Cheshire|005|Hinsdale|01/09/1998|||||424636N|0722304W|42.7767497|-72.3845311|||0.0|0.0
 1775300|Exeter River Reservoir|Reservoir|New Hampshire|33|Rockingham|015|Exeter|01/09/1998|||||425854N|0705652W|42.9817548|-70.9478343|||0.0|0.0
-1775302|Sand Pond|Reservoir|New Hampshire|33|Cheshire|005|East Lempster|01/09/1998|||||431030N|0720940W|43.1750773|-72.1611962|||0.0|0.0
 1775308|Meredith Reservoir|Reservoir|New Hampshire|33|Belknap|001|Holderness|01/09/1998|05/15/2018||||433753N|0713022W|43.6314894|-71.5060062|||0.0|0.0
 1775316|Souhegan River Reservoir|Reservoir|New Hampshire|33|Hillsborough|011|Milford|01/09/1998|||||425012N|0713846W|42.8367529|-71.6461826|||0.0|0.0
 1775318|Berrys River Reservoir|Reservoir|New Hampshire|33|Strafford|017|Baxter Lake|01/09/1998|||||431900N|0710458W|43.3167477|-71.0828422|||0.0|0.0

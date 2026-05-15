@@ -21780,7 +21780,7 @@
 2832478|Boyles Creek|Stream|Alabama|01|Franklin|059|Frankfort|02/19/2025|02/19/2025|Official|Board Decision|02/13/2025|343120N|0874714W|34.5222862|-87.7871655|343310N|0874554W|34.5529129|-87.7650936
 2832545|Red Mountain|Summit|Alabama|01|St. Clair|115|Hyatt Gap|04/21/2025|04/23/2025||||335733N|0861635W|33.9590767|-86.2764343|||0.0|0.0
 2832591|Town of Pine Level|Civil|Alabama|01|Autauga|001|Deatsville|07/02/2025|07/02/2025||||323442N|0862742W|32.578471|-86.461633|||0.0|0.0
-2832599|Ruffner Mountain|Summit|Alabama|01|Jefferson|073|Irondale|07/11/2025|07/11/2025|Official|Board Decision|07/10/2025|333356N|0864157W|33.565536|-86.699272|||0.0|0.0
+2832599|Ruffner Mountain|Summit|Alabama|01|Jefferson|073|Irondale|07/11/2025|05/11/2026|Official|Board Decision|07/10/2025|333356N|0864157W|33.565536|-86.699272|||0.0|0.0
 2832637|Army National Guard Fort McClellan Training Center|Military|Alabama|01|Calhoun|015|Eulaton|08/20/2025|08/20/2025||||334304N|0855700W|33.7178642|-85.9501336|||0.0|0.0
 2832645|Birmingham Airport|Military|Alabama|01|Jefferson|073|Birmingham North|08/20/2025|08/20/2025||||333413N|0864514W|33.5703892|-86.7540093|||0.0|0.0
 2832744|Maxwell Air Force Base Gunter Annex|Military|Alabama|01|Montgomery|101|Willow Springs|08/20/2025|08/20/2025||||322425N|0861447W|32.4069311|-86.246279|||0.0|0.0
