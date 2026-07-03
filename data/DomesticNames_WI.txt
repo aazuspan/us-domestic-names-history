@@ -16693,7 +16693,7 @@
 2351145|Camp Smith (historical)|Military|Wisconsin|55|Brown|009|De Pere|09/07/2007|05/31/2022||||442829N|0880203W|44.4747222|-88.0341667|||0.0|0.0
 2353271|Twin Island Rapids|Falls|Michigan|26|Menominee|109|Chappee Rapids|11/08/2007|||||451403N|0874323W|45.2341667|-87.7230556|||0.0|0.0
 2392983|Eagle Lake Census Designated Place|Census|Wisconsin|55|Racine|101|Rochester|02/27/2008|08/08/2023||||424205N|0880745W|42.7013897|-88.1290693|||0.0|0.0
-2393013|French Island Census Designated Place|Census|Wisconsin|55|La Crosse|063|La Crescent|02/27/2008|08/08/2023||||435133N|0911541W|43.8592983|-91.2613871|||0.0|0.0
+2393013|French Island Census Designated Place (historical)|Census|Wisconsin|55|La Crosse|063|La Crescent|02/27/2008|06/04/2026||||435133N|0911541W|43.8592983|-91.2613871|||0.0|0.0
 2393044|Hebron Census Designated Place|Census|Wisconsin|55|Jefferson|055|Rome|02/27/2008|08/09/2023||||425524N|0884130W|42.9232267|-88.6915803|||0.0|0.0
 2393045|Helenville Census Designated Place|Census|Wisconsin|55|Jefferson|055|Helenville|02/27/2008|08/08/2023||||430100N|0884200W|43.0165375|-88.6998976|||0.0|0.0
 2393065|Ixonia Census Designated Place|Census|Wisconsin|55|Jefferson|055|Ixonia|02/27/2008|08/09/2023||||430823N|0883547W|43.1396267|-88.5962659|||0.0|0.0
@@ -17521,3 +17521,4 @@
 2832466|Onsrud Pond|Lake|Wisconsin|55|Dane|025|Rutland|02/12/2025|02/12/2025||||425556N|0891631W|42.93229|-89.27514|||0.0|0.0
 2832694|General Mitchell International Airport|Military|Wisconsin|55|Milwaukee|079|Greendale|08/20/2025|08/20/2025||||425628N|0875317W|42.9410454|-87.8879314|||0.0|0.0
 2832943|Truax Field Air National Guard Base|Military|Wisconsin|55|Dane|025|De Forest|08/20/2025|08/20/2025||||430749N|0892009W|43.1301765|-89.3359052|||0.0|0.0
+2833184|French Island Village|Populated Place|Wisconsin|55|La Crosse|063|Holmen|06/04/2026|06/04/2026||||435236N|0911725W|43.876641|-91.290339|||0.0|0.0

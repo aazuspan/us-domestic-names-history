@@ -33247,7 +33247,7 @@
 1858019|Mercer Lake Number One|Reservoir|Texas|48|Gonzales|177|Dilworth|04/11/2000|12/01/2025||||293417N|0971833W|29.5714036|-97.3092806|||0.0|0.0
 1858021|Mercer Lake Number 2|Reservoir|Texas|48|Gonzales|177|Dilworth|04/11/2000|||||293319N|0971901W|29.555236|-97.3169347|||0.0|0.0
 1858023|Iley Lake|Reservoir|Texas|48|Gonzales|177|Gonzales North|04/11/2000|05/12/2025||||293145N|0972820W|29.529106|-97.472098|||0.0|0.0
-1858025|Benke Lake|Reservoir|Texas|48|Gonzales|177|Ottine|04/11/2000|10/18/2018||||293606N|0973320W|29.6016364|-97.5555055|||0.0|0.0
+1858025|Kaye-Parker Lake|Reservoir|Texas|48|Gonzales|177|Ottine|04/11/2000|06/11/2026|Official|Board Decision|06/11/2026|293606N|0973320W|29.6016364|-97.5555055|||0.0|0.0
 1858027|Duval County Ranch Lake Number 1|Reservoir|Texas|48|Duval|131|Mirasol Creek|04/11/2000|10/25/2018||||280224N|0984421W|28.0400233|-98.7390281|||0.0|0.0
 1858029|Duval County Ranch Lake Number Two|Reservoir|Texas|48|Duval|131|Mirasol Creek|04/11/2000|05/12/2025||||280048N|0984024W|28.0134|-98.67345|||0.0|0.0
 1858031|Wright Brothers Materials Plant Reservoir|Reservoir|Texas|48|Duval|131|Realitos|04/11/2000|10/29/2018||||272521N|0983447W|27.4224593|-98.5797344|||0.0|0.0
@@ -43335,3 +43335,5 @@
 2832860|Naval Auxiliary Landing Field Orange Grove|Military|Texas|48|Jim Wells|249|San Diego NE|08/20/2025|08/20/2025||||275345N|0980236W|27.895875|-98.0432713|||0.0|0.0
 2832970|Spring Creek|Stream|Texas|48|Garza|169|Grassland SE|08/25/2025|08/25/2025||||330449N|1013218W|33.080161|-101.538219|330755N|1012920W|33.132045|-101.488781
 2833040|Holiday Lake|Reservoir|Texas|48|Polk|373|Goodrich|02/13/2026|02/13/2026||||303327N|0945308W|30.5574576|-94.8854432|||0.0|0.0
+2833191|Big Beaver Pond|Lake|Texas|48|Harris|201|Oklahoma|06/11/2026|06/11/2026|Official|Board Decision|06/11/2026|300955N|0953301W|30.16522|-95.55036|||0.0|0.0
+2833192|Little Beaver Pond|Lake|Texas|48|Harris|201|Oklahoma|06/11/2026|06/11/2026|Official|Board Decision|06/11/2026|300959N|0953300W|30.1665|-95.54995|||0.0|0.0

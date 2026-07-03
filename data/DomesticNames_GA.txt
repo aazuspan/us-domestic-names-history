@@ -11274,7 +11274,6 @@
 331646|Elizabeth|Populated Place|Georgia|13|Cobb|067|Marietta|09/25/1979|06/07/2022||||335834N|0843251W|33.9762124|-84.5474327|||0.0|0.0
 331647|Ellabell|Populated Place|Georgia|13|Bryan|029|Meldrim SW|09/25/1979|02/19/2019||||320725N|0812908W|32.1235368|-81.4856673|||0.0|0.0
 331648|Ellenton|Populated Place|Georgia|13|Colquitt|071|Ellenton|09/25/1979|06/07/2022||||311034N|0833515W|31.1760205|-83.587389|||0.0|0.0
-331649|Ellenwood|Populated Place|Georgia|13|Clayton|063|Jonesboro|09/25/1979|06/07/2022||||333636N|0841717W|33.6101096|-84.287978|||0.0|0.0
 331650|Ellerslie|Populated Place|Georgia|13|Harris|145|Cataula|09/25/1979|06/07/2022||||323753N|0844805W|32.6315258|-84.8013182|||0.0|0.0
 331651|Ellijay|Populated Place|Georgia|13|Gilmer|123|Ellijay|09/25/1979|06/07/2022||||344141N|0842856W|34.6948076|-84.4821498|||0.0|0.0
 331652|Elliotts Bluff|Populated Place|Georgia|13|Camden|039|Harrietts Bluff|09/25/1979|06/07/2022||||305045N|0813341W|30.8457903|-81.5614874|||0.0|0.0

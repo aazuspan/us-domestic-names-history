@@ -10837,7 +10837,7 @@
 706049|Mount Moriah|Populated Place|Mississippi|28|Tippah|139|Walnut|12/01/2003|06/07/2022||||345817N|0885625W|34.971479|-88.9403382|||0.0|0.0
 706072|Shady Grove|Populated Place|Mississippi|28|Tippah|139|Blue Mountain|12/01/2003|06/07/2022||||344459N|0890310W|34.7498181|-89.0528437|||0.0|0.0
 706078|Walnut Creek|Populated Place|Mississippi|28|Tippah|139|Falkner|12/01/2003|06/07/2022||||344823N|0885323W|34.8064826|-88.8897825|||0.0|0.0
-706083|White Oak Bottom|Valley|Mississippi|28|Tippah|139|Peoples|12/01/2003|||||344815N|0884920W|34.8042601|-88.8222804|344815N|0884920W|34.8042601|-88.8222804
+706083|White Oak Bottom|Valley|Mississippi|28|Tippah|139|Peoples|12/01/2003|06/18/2026||||344659N|0885053W|34.782933|-88.848163|344645N|0885232W|34.779267|-88.875617
 706089|Blue Cut|Gap|Mississippi|28|Union|145|New Albany East|12/01/2003|||||342452N|0885245W|34.4145471|-88.8792261|||0.0|0.0
 706101|King Creek Bottoms|Flat|Mississippi|28|Union|145|New Albany West|12/01/2003|||||342730N|0890200W|34.4584356|-89.033398|||0.0|0.0
 706132|Blythes Chapel|Populated Place|Mississippi|28|Prentiss|117|Marietta|12/01/2003|06/07/2022||||343525N|0882750W|34.5903742|-88.463938|||0.0|0.0
@@ -11249,7 +11249,7 @@
 710773|Epps Ford|Crossing|Mississippi|28|Tishomingo|141|Red Bay|12/01/2003|01/03/2006||||342948N|0881027W|34.4967639|-88.1742092|||0.0|0.0
 710790|Mauldin Branch|Stream|Mississippi|28|Tishomingo|141|Belmont|12/01/2003|||||343418N|0881156W|34.5717622|-88.1989318|343448N|0881342W|34.58|-88.2283333
 710795|New Bethel|Populated Place|Mississippi|28|Tishomingo|141|Red Bay|12/01/2003|07/10/2019||||342934N|0881455W|34.4928755|-88.2486553|||0.0|0.0
-710820|Beasley Hills|Range|Mississippi|28|Webster|155|Hohenlinden|12/01/2003|||||334015N|0891300W|33.6709513|-89.2167341|||0.0|0.0
+710820|Beasley Hills|Range|Mississippi|28|Webster|155|Hohenlinden|12/01/2003|06/29/2026||||334037N|0891324W|33.676854|-89.223235|||0.0|0.0
 710822|Antioch (historical)|Populated Place|Mississippi|28|Attala|007|McCool|12/01/2003|06/07/2022||||331000N|0892135W|33.1667937|-89.3597928|||0.0|0.0
 710824|Aponaug (historical)|Populated Place|Mississippi|28|Attala|007|Kosciusko|12/01/2003|06/07/2022||||330330N|0893710W|33.0584627|-89.6195219|||0.0|0.0
 710826|Attalaville (historical)|Populated Place|Mississippi|28|Attala|007|Durant|12/01/2003|06/07/2022||||330035N|0894720W|33.0098521|-89.7889711|||0.0|0.0

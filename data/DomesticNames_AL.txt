@@ -17322,7 +17322,7 @@
 157101|Stanley Crossroads|Populated Place|Alabama|01|Escambia|053|Barnett Crossroads|09/04/1980|06/07/2022||||310805N|0872025W|31.1346208|-87.3402566|||0.0|0.0
 157102|Stansel|Populated Place|Alabama|01|Pickens|107|Carrollton|09/04/1980|06/07/2022||||331910N|0880244W|33.3195633|-88.0455798|||0.0|0.0
 157103|Stapler Ford|Crossing|Alabama|01|Marshall|095|Grant|09/04/1980|||||343107N|0862057W|34.5187|-86.3491518|||0.0|0.0
-157104|Star Hill|Populated Place|Alabama|01|Barbour|005|Perote|09/04/1980|06/07/2022||||315446N|0853754W|31.912658|-85.6316113|||0.0|0.0
+157104|Star Hill|Summit|Alabama|01|Barbour|005|Perote|09/04/1980|06/11/2026||||315446N|0853754W|31.912658|-85.6316113|||0.0|0.0
 157105|Starvacre Ford|Crossing|Alabama|01|Jefferson|073|Concord|09/04/1980|||||332539N|0870452W|33.4276102|-87.0811065|||0.0|0.0
 157106|Statesville|Populated Place|Alabama|01|Autauga|001|Durant Bend|09/04/1980|06/07/2022||||322810N|0864950W|32.4695795|-86.8305407|||0.0|0.0
 157108|Stedman|Populated Place|Alabama|01|Covington|039|Florala|09/04/1980|06/07/2022||||310417N|0861813W|31.0712884|-86.3035584|||0.0|0.0

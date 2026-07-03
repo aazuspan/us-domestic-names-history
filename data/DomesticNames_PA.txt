@@ -9665,7 +9665,7 @@
 1182890|Oil Well Hollow|Valley|Pennsylvania|42|Cameron|023|Rich Valley|08/02/1979|04/08/2016||||413613N|0781912W|41.6036765|-78.3200827|413640N|0781846W|41.6111973|-78.3128996
 1182891|Oil Well Hollow|Valley|Pennsylvania|42|Tioga|117|Keeneyville|08/02/1979|03/24/2016||||414745N|0772229W|41.7959385|-77.3747371|414844N|0772154W|41.8121893|-77.3648956
 1182892|Oklahoma|Populated Place|Pennsylvania|42|Westmoreland|129|Vandergrift|08/02/1979|06/07/2022||||403453N|0793426W|40.5814547|-79.5739334|||0.0|0.0
-1182893|Oklahoma|Populated Place|Pennsylvania|42|Clearfield|033|Luthersburg|11/01/2023|11/01/2023||||410650N|0784400W|41.1139501|-78.7333623|||0.0|0.0
+1182893|Oklahoma|Populated Place|Pennsylvania|42|Clearfield|033|Luthersburg|08/02/1979|05/19/2026||||410650N|0784400W|41.1139501|-78.7333623|||0.0|0.0
 1182894|Olanta|Populated Place|Pennsylvania|42|Clearfield|033|Curwensville|08/02/1979|06/07/2022||||405500N|0783023W|40.9167255|-78.5064122|||0.0|0.0
 1182896|Old Boston|Populated Place|Pennsylvania|42|Luzerne|079|Pittston|08/02/1979|06/07/2022||||411736N|0754606W|41.2934139|-75.7682485|||0.0|0.0
 1182907|Old Concord|Populated Place|Pennsylvania|42|Washington|125|Prosperity|08/02/1979|06/07/2022||||400031N|0802012W|40.0086845|-80.3367314|||0.0|0.0
@@ -12421,7 +12421,7 @@
 1188093|South Mountain|Summit|Pennsylvania|42|Lehigh|077|Allentown West|08/02/1979|02/17/2026||||403030N|0753044W|40.5084311|-75.5121285|||0.0|0.0
 1188095|South Mountain Manor|Populated Place|Pennsylvania|42|Berks|011|Sinking Spring|08/02/1979|06/09/2020||||401849N|0760556W|40.3137034|-76.0988318|||0.0|0.0
 1188096|South Mountain Reservoir|Reservoir|Pennsylvania|42|Lehigh|077|Allentown East|08/02/1979|12/15/2018||||403357N|0752750W|40.5659113|-75.4638054|||0.0|0.0
-1188097|South New Castle|Populated Place|Pennsylvania|42|Lawrence|073|New Castle South|08/02/1979|06/07/2022||||405840N|0802042W|40.977839|-80.3450645|||0.0|0.0
+1188097|South New Castle|Populated Place|Pennsylvania|42|Lawrence|073|New Castle South|08/02/1979|05/19/2026||||405840N|0802042W|40.977839|-80.3450645|||0.0|0.0
 1188098|South Philipsburg|Populated Place|Pennsylvania|42|Centre|027|Philipsburg|09/25/2023|09/25/2023||||405309N|0781315W|40.885891|-78.2208466|||0.0|0.0
 1188100|South Pottstown|Populated Place|Pennsylvania|42|Chester|029|Pottstown|08/02/1979|06/07/2022||||401422N|0753904W|40.239541|-75.6510199|||0.0|0.0
 1188101|South Prong Thick Mountain|Cape|Pennsylvania|42|Union|119|Woodward|08/02/1979|||||405307N|0771854W|40.8853504|-77.3149817|||0.0|0.0
@@ -15792,7 +15792,7 @@
 1193282|Sand Mountain|Summit|Pennsylvania|42|Union|119|Carroll|08/02/1979|04/12/2025||||410007N|0770754W|41.001859|-77.1316206|||0.0|0.0
 1193283|Sand Mountain|Summit|Pennsylvania|42|Centre|027|Spring Mills|08/02/1979|04/24/2025||||404757N|0773237W|40.7990399|-77.5436152|||0.0|0.0
 1193285|Sand Spring Run|Stream|Pennsylvania|42|Centre|027|Houtzdale|08/02/1979|||||404552N|0781758W|40.7645036|-78.2994606|404413N|0781851W|40.7370045|-78.314183
-1193286|Sandy|Populated Place|Pennsylvania|42|Clearfield|033|Du Bois|08/02/1979|06/07/2022||||410628N|0784616W|41.1078394|-78.7711411|||0.0|0.0
+1193286|Sandy|Populated Place|Pennsylvania|42|Clearfield|033|Du Bois|08/02/1979|05/19/2026||||410628N|0784616W|41.1078394|-78.7711411|||0.0|0.0
 1193287|Sandy Hill|Summit|Pennsylvania|42|Montgomery|091|Lansdale|08/02/1979|04/11/2025||||400753N|0751558W|40.1314982|-75.2660119|||0.0|0.0
 1193288|Sandy Lick Creek|Stream|Pennsylvania|42|Jefferson|065|Brookville|08/02/1979|02/17/2015||||410930N|0790436W|41.1583969|-79.0767033|411144N|0784019W|41.1956161|-78.6719708
 1193289|Sandy Ridge|Ridge|Pennsylvania|42|Franklin|055|Waynesboro|08/02/1979|||||394906N|0773110W|39.8184262|-77.5194339|||0.0|0.0
@@ -16500,7 +16500,7 @@
 1195876|Lake Stanmor|Reservoir|Pennsylvania|42|Susquehanna|115|Laurel Lake|08/30/1990|||||415836N|0755253W|41.976743|-75.8813045|||0.0|0.0
 1195881|North Fork Reservoir|Reservoir|Pennsylvania|42|Potter|105|Harrison Valley|08/30/1990|06/05/2020||||415948N|0773859W|41.9965507|-77.6496914|||0.0|0.0
 1195882|Siegel Marsh Reservoir|Reservoir|Pennsylvania|42|Erie|049|Hammett|08/30/1990|11/15/2016||||420312N|0795553W|42.0533885|-79.9314409|||0.0|0.0
-1195887|Callimont|Populated Place|Pennsylvania|42|Somerset|111|Wittenberg|08/30/1990|06/07/2022||||394753N|0785459W|39.798139|-78.9164118|||0.0|0.0
+1195887|Callimont|Populated Place|Pennsylvania|42|Somerset|111|Wittenberg|08/30/1990|05/19/2026||||394753N|0785459W|39.798139|-78.9164118|||0.0|0.0
 1195890|Woodbridge Island|Island|Pennsylvania|42|Susquehanna|115|Great Bend|08/30/1990||Official|Board Decision|01/01/1982|415738N|0753934W|41.9606352|-75.6593508|||0.0|0.0
 1195891|Thorn Brook|Stream|Pennsylvania|42|Lycoming|081|Cogan Station|08/30/1990||Official|Board Decision|01/01/1983|411644N|0770349W|41.2789657|-77.0635795|411658N|0770501W|41.2827778|-77.0836111
 1195892|Buttonwood Run|Stream|Pennsylvania|42|Lycoming|081|Waterville|08/30/1990||Official|Board Decision|01/01/1983|411802N|0772114W|41.3006269|-77.3538641|411718N|0772200W|41.2883333|-77.3666667
@@ -22867,7 +22867,7 @@
 1211040|Warrens Point|Summit|Pennsylvania|42|Franklin|055|Cherry Run|08/30/1990|04/23/2020||||394402N|0780439W|39.7339816|-78.0775036|||0.0|0.0
 1211041|Tartown (historical)|Populated Place|Pennsylvania|42|Adams|001|Iron Springs|08/30/1990|06/07/2022||||394911N|0772710W|39.8196121|-77.4526691|||0.0|0.0
 1211057|Hammer Hall|Populated Place|Pennsylvania|42|Adams|001|Fairfield|08/30/1990|06/07/2022||||395022N|0771812W|39.8395394|-77.3033188|||0.0|0.0
-1211059|Mackey Ford|Populated Place|Pennsylvania|42|York|133|Abbottstown|08/30/1990|06/07/2022||||395823N|0765520W|39.9731523|-76.9221971|||0.0|0.0
+1211059|Markey Ford|Populated Place|Pennsylvania|42|York|133|Abbottstown|08/30/1990|06/17/2026||||395850N|0765547W|39.980602|-76.929616|||0.0|0.0
 1211072|Bowlder|Populated Place|Pennsylvania|42|Adams|001|Hampton|08/30/1990|06/07/2022||||395651N|0770556W|39.9475953|-77.0988696|||0.0|0.0
 1211074|Waldheim|Populated Place|Pennsylvania|42|Adams|001|Hampton|08/30/1990|06/07/2022||||395427N|0770337W|39.9075967|-77.0602583|||0.0|0.0
 1211076|Amatus|Populated Place|Pennsylvania|42|Adams|001|Hampton|08/30/1990|06/07/2022||||395751N|0770238W|39.9642624|-77.0438683|||0.0|0.0
@@ -24237,7 +24237,7 @@
 1215355|Borough of New Beaver|Civil|Pennsylvania|42|Lawrence|073|New Castle South|08/30/1990|08/10/2023||||405238N|0802212W|40.8772693|-80.3701121|||0.0|0.0
 1215356|City of New Castle|Civil|Pennsylvania|42|Lawrence|073|New Castle South|08/30/1990|08/10/2023||||405944N|0802045W|40.9956289|-80.3458325|||0.0|0.0
 1215357|Borough of New Wilmington|Civil|Pennsylvania|42|Lawrence|073|New Castle North|08/30/1990|08/11/2023||||410703N|0801956W|41.1173922|-80.3322316|||0.0|0.0
-1215359|Borough of South New Castle|Civil|Pennsylvania|42|Lawrence|073|New Castle South|08/30/1990|05/12/2026||||405829N|0802044W|40.9747371|-80.3456467|||0.0|0.0
+1215359|Borough of South New Castle (historical)|Civil|Pennsylvania|42|Lawrence|073|New Castle South|08/30/1990|05/27/2026||||405829N|0802044W|40.9747371|-80.3456467|||0.0|0.0
 1215360|Borough of Volant|Civil|Pennsylvania|42|Lawrence|073|New Castle North|08/30/1990|08/09/2023||||410647N|0801533W|41.1130884|-80.2590973|||0.0|0.0
 1215361|Borough of Wampum|Civil|Pennsylvania|42|Lawrence|073|New Castle South|08/30/1990|08/09/2023||||405311N|0802022W|40.8862928|-80.3393604|||0.0|0.0
 1215362|Borough of Cleona|Civil|Pennsylvania|42|Lebanon|075|Lebanon|08/30/1990|08/10/2023||||402019N|0762838W|40.3385109|-76.4770927|||0.0|0.0
@@ -25120,7 +25120,7 @@
 1216246|Township of Pine|Civil|Pennsylvania|42|Clearfield|033|Elliott Park|12/01/1989|08/13/2023||||410600N|0783201W|41.0999736|-78.5335615|||0.0|0.0
 1216247|Township of Union|Civil|Pennsylvania|42|Clearfield|033|Luthersburg|12/01/1989|08/13/2023||||410530N|0783802W|41.091603|-78.6338312|||0.0|0.0
 1216248|Township of Goshen|Civil|Pennsylvania|42|Clearfield|033|Huntley|12/01/1989|08/13/2023||||410838N|0782244W|41.1438335|-78.3788481|||0.0|0.0
-1216249|Township of Sandy|Civil|Pennsylvania|42|Clearfield|033|Sabula|12/01/1989|08/13/2023||||410841N|0784346W|41.1447064|-78.7295366|||0.0|0.0
+1216249|Township of Sandy (historical)|Civil|Pennsylvania|42|Clearfield|033|Sabula|12/01/1989|05/27/2026||||410841N|0784346W|41.1447064|-78.7295366|||0.0|0.0
 1216250|Township of Woodward|Civil|Pennsylvania|42|Clearfield|033|Ramey|12/01/1989|08/13/2023||||405100N|0782236W|40.8498946|-78.3767268|||0.0|0.0
 1216252|Township of Allison|Civil|Pennsylvania|42|Clinton|035|Lock Haven|12/01/1989|08/13/2023||||410856N|0772840W|41.1489299|-77.4776729|||0.0|0.0
 1216253|Township of Bald Eagle|Civil|Pennsylvania|42|Clinton|035|Farrandsville|12/01/1989|08/13/2023||||410838N|0773305W|41.1438372|-77.5513222|||0.0|0.0
@@ -26369,7 +26369,7 @@
 1867507|Rutherford|Populated Place|Pennsylvania|42|Dauphin|043|Harrisburg East|05/15/2000|06/07/2022||||401608N|0764605W|40.2689786|-76.7680263|||0.0|0.0
 1867508|Schlusser|Populated Place|Pennsylvania|42|Cumberland|041|Carlisle|05/15/2000|06/07/2022||||401430N|0771037W|40.2417541|-77.1769254|||0.0|0.0
 1867509|Susquehanna Trails|Populated Place|Pennsylvania|42|York|133|Holtwood|05/15/2000|06/07/2022||||394531N|0762205W|39.7587151|-76.3680159|||0.0|0.0
-1867510|Treasure Lake|Populated Place|Pennsylvania|42|Clearfield|033|Sabula|05/15/2000|06/07/2022||||411024N|0784257W|41.1733942|-78.7158611|||0.0|0.0
+1867510|Treasure Lake|Populated Place|Pennsylvania|42|Clearfield|033|Sabula|05/15/2000|05/19/2026||||411024N|0784257W|41.1733942|-78.7158611|||0.0|0.0
 1867511|Upper Saint Clair|Populated Place|Pennsylvania|42|Allegheny|003|Bridgeville|09/21/2023|09/21/2023||||402009N|0800500W|40.3359029|-80.083388|||0.0|0.0
 1867512|Valley Green|Populated Place|Pennsylvania|42|York|133|Steelton|05/15/2000|06/07/2022||||400926N|0764734W|40.1573148|-76.7927481|||0.0|0.0
 1867513|Valley View|Populated Place|Pennsylvania|42|York|133|York|05/15/2000|06/07/2022||||395700N|0764204W|39.9500987|-76.7010783|||0.0|0.0
@@ -26457,7 +26457,7 @@
 2086573|Borough of Briar Creek|Civil|Pennsylvania|42|Columbia|037|Mifflinville|04/17/2006|08/10/2023||||410247N|0761710W|41.0463123|-76.2862021|||0.0|0.0
 2086583|Borough of Lykens|Civil|Pennsylvania|42|Dauphin|043|Lykens|04/17/2006|08/10/2023||||403351N|0764154W|40.56411|-76.6983802|||0.0|0.0
 2086591|Township of Burnside|Civil|Pennsylvania|42|Clearfield|033|Burnside|04/17/2006|08/13/2023||||404655N|0784505W|40.7818821|-78.7514637|||0.0|0.0
-2086600|Borough of Callimont|Civil|Pennsylvania|42|Somerset|111|Wittenberg|04/17/2006|08/09/2023||||394804N|0785518W|39.8011537|-78.9216079|||0.0|0.0
+2086600|Borough of Callimont (historical)|Civil|Pennsylvania|42|Somerset|111|Wittenberg|04/17/2006|05/27/2026||||394804N|0785518W|39.8011537|-78.9216079|||0.0|0.0
 2086609|Borough of Northern Cambria|Civil|Pennsylvania|42|Cambria|021|Barnesboro|04/17/2006|08/10/2023||||403922N|0784642W|40.6561601|-78.7782928|||0.0|0.0
 2086651|Borough of Valley-Hi|Civil|Pennsylvania|42|Fulton|057|Wells Tannery|04/17/2006|08/10/2023||||400148N|0781130W|40.029904|-78.1916967|||0.0|0.0
 2086657|Borough of Summerhill|Civil|Pennsylvania|42|Cambria|021|Nanty Glo|04/17/2006|08/10/2023||||402235N|0784542W|40.3763023|-78.7616785|||0.0|0.0
@@ -27322,7 +27322,7 @@
 2389797|Salunga-Landisville Census Designated Place (historical)|Census|Pennsylvania|42|Lancaster|071|Columbia East|02/19/2008|07/12/2010||||400530N|0762508W|40.0917893|-76.418902|||0.0|0.0
 2389799|Sanatoga Census Designated Place|Census|Pennsylvania|42|Montgomery|091|Phoenixville|02/19/2008|08/08/2023||||401459N|0753519W|40.249753|-75.5886882|||0.0|0.0
 2389800|Sand Hill Census Designated Place|Census|Pennsylvania|42|Lebanon|075|Lebanon|02/19/2008|08/08/2023||||402141N|0762518W|40.3613549|-76.4217356|||0.0|0.0
-2389802|Sandy Census Designated Place|Census|Pennsylvania|42|Clearfield|033|Du Bois|02/19/2008|08/08/2023||||410623N|0784631W|41.1062741|-78.7753188|||0.0|0.0
+2389802|Sandy Census Designated Place (historical)|Census|Pennsylvania|42|Clearfield|033|Du Bois|02/19/2008|05/27/2026||||410623N|0784631W|41.1062741|-78.7753188|||0.0|0.0
 2389804|Fort Washington Census Designated Place|Census|Pennsylvania|42|Montgomery|091|Ambler|02/19/2008|08/08/2023||||400827N|0751133W|40.1407617|-75.1925756|||0.0|0.0
 2389805|Foundryville Census Designated Place|Census|Pennsylvania|42|Columbia|037|Berwick|02/19/2008|08/08/2023||||410439N|0761408W|41.0775077|-76.2355122|||0.0|0.0
 2389806|Fountain Springs Census Designated Place|Census|Pennsylvania|42|Schuylkill|107|Ashland|02/19/2008|08/09/2023||||404620N|0761943W|40.7721684|-76.3285131|||0.0|0.0
@@ -27463,7 +27463,7 @@
 2390392|Tinicum Township Census Designated Place|Census|Pennsylvania|42|Delaware|045|Bridgeport|02/19/2008|||||395152N|0751610W|39.8643513|-75.2694|||0.0|0.0
 2390393|Tipton Census Designated Place|Census|Pennsylvania|42|Blair|013|Tipton|02/19/2008|08/09/2023||||403815N|0781741W|40.6373995|-78.2947768|||0.0|0.0
 2390397|Toughkenamon Census Designated Place|Census|Pennsylvania|42|Chester|029|West Grove|02/19/2008|08/08/2023||||394953N|0754524W|39.8313711|-75.7565342|||0.0|0.0
-2390401|Treasure Lake Census Designated Place|Census|Pennsylvania|42|Clearfield|033|Sabula|02/19/2008|08/09/2023||||411004N|0784307W|41.1676818|-78.718719|||0.0|0.0
+2390401|Treasure Lake Census Designated Place (historical)|Census|Pennsylvania|42|Clearfield|033|Sabula|02/19/2008|05/27/2026||||411004N|0784307W|41.1676818|-78.718719|||0.0|0.0
 2390402|Tresckow Census Designated Place|Census|Pennsylvania|42|Carbon|025|Hazleton|02/19/2008|08/08/2023||||405458N|0755756W|40.915975|-75.9656726|||0.0|0.0
 2390403|Trevorton Census Designated Place|Census|Pennsylvania|42|Northumberland|097|Trevorton|02/19/2008|08/09/2023||||404703N|0764016W|40.7841265|-76.6710428|||0.0|0.0
 2390406|Trooper Census Designated Place|Census|Pennsylvania|42|Montgomery|091|Collegeville|02/19/2008|08/08/2023||||400856N|0752357W|40.1488372|-75.3990931|||0.0|0.0
@@ -28169,7 +28169,7 @@
 2634247|Morrisdale Census Designated Place|Census|Pennsylvania|42|Clearfield|033|Philipsburg|07/27/2010|08/09/2023||||405654N|0781340W|40.9483903|-78.2277555|||0.0|0.0
 2634248|Muir Census Designated Place|Census|Pennsylvania|42|Schuylkill|107|Tower City|07/27/2010|08/08/2023||||403539N|0763107W|40.5942971|-76.5186568|||0.0|0.0
 2634249|Northwood Census Designated Place|Census|Pennsylvania|42|Blair|013|Tyrone|07/27/2010|08/09/2023||||404111N|0781338W|40.6863748|-78.2271243|||0.0|0.0
-2634250|Oklahoma Census Designated Place|Census|Pennsylvania|42|Clearfield|033|Luthersburg|07/27/2010|08/08/2023||||410636N|0784408W|41.1099614|-78.735626|||0.0|0.0
+2634250|Oklahoma Census Designated Place (historical)|Census|Pennsylvania|42|Clearfield|033|Luthersburg|07/27/2010|05/27/2026||||410636N|0784408W|41.1099614|-78.735626|||0.0|0.0
 2634251|Orwin Census Designated Place|Census|Pennsylvania|42|Schuylkill|107|Tower City|07/27/2010|08/09/2023||||403502N|0763153W|40.5838689|-76.5314138|||0.0|0.0
 2634252|Oval Census Designated Place|Census|Pennsylvania|42|Lycoming|081|Linden|07/27/2010|08/09/2023||||410908N|0771028W|41.1522356|-77.1744866|||0.0|0.0
 2634268|Pen Mar Census Designated Place|Census|Pennsylvania|42|Franklin|055|Smithsburg|07/27/2010|08/08/2023||||394327N|0773054W|39.7242054|-77.5150016|||0.0|0.0
@@ -28811,4 +28811,9 @@
 2833164|Shade Mountain|Ridge|Pennsylvania|42|Mifflin|087|Mifflintown|05/04/2026|05/04/2026||||403657N|0772912W|40.6159068|-77.4866591|||0.0|0.0
 2833166|Broad Mountain|Summit|Pennsylvania|42|Dauphin|043|Elizabethville|05/04/2026|05/05/2026||||403039N|0764616W|40.5109191|-76.7710803|||0.0|0.0
 2833167|Locust Mountain|Summit|Pennsylvania|42|Schuylkill|107|Shenandoah|05/05/2026|05/05/2026||||405040N|0761016W|40.844532|-76.171049|||0.0|0.0
-2833173|South New Castle CDP|Census|Pennsylvania|42|Lawrence|073|New Castle South|05/12/2026|05/12/2026||||405829N|0802044W|40.974737|-80.345647|||0.0|0.0
+2833173|South New Castle Census Designated Place|Census|Pennsylvania|42|Lawrence|073|New Castle South|05/12/2026|05/19/2026||||405829N|0802044W|40.974737|-80.345647|||0.0|0.0
+2833175|Clark Island|Island|Pennsylvania|42|Forest|053|Mayburg|05/15/2026|05/15/2026|Official|Board Decision|05/14/2026|413539N|0791239W|41.594197|-79.210756|||0.0|0.0
+2833194|Schist Creek|Stream|Pennsylvania|42|Chester|029|Coatesville|06/11/2026|06/11/2026|Official|Board Decision|06/11/2026|395835N|0754714W|39.97637|-75.78724|395728N|0754648W|39.9579|-75.77995
+2833195|Lake Wilkins|Lake|Pennsylvania|42|Susquehanna|115|Lawton|06/11/2026|06/11/2026|Official|Board Decision|06/11/2026|414603N|0760231W|41.7674388|-76.0420203|||0.0|0.0
+2833199|Mud Pond|Lake|Pennsylvania|42|Carbon|025|Hickory Run|06/22/2026|06/22/2026||||410437N|0753902W|41.076973|-75.650654|||0.0|0.0
+2833200|Joshuas Run|Stream|Pennsylvania|42|Carbon|025|Weatherly|06/22/2026|06/22/2026||||405816N|0754511W|40.970982|-75.753185|405903N|0754430W|40.984199|-75.741597

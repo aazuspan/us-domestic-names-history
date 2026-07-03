@@ -22478,3 +22478,11 @@
 2833044|Horseshoe Crab Island|Island|Florida|12|Brevard|009|Mims|02/13/2026|02/13/2026|Official|Board Decision|02/12/2026|283750N|0804757W|28.63046|-80.79906|||0.0|0.0
 2833052|Chipco Township (historical)|Populated Place|Florida|12|Pasco|101|Spring Lake|02/24/2026|02/24/2026||||282352N|0821627W|28.39785|-82.27405|||0.0|0.0
 2833070|Pasadena Hills|Populated Place|Florida|12|Pasco|101|Dade City|03/23/2026|03/23/2026||||281717N|0821417W|28.2881472|-82.2380225|||0.0|0.0
+2833174|Sharlette Lake|Lake|Florida|12|Hernando|053|Weeki Wachee Spring|05/15/2026|05/15/2026|Official|Board Decision|05/14/2026|283240N|0823335W|28.544538|-82.559621|||0.0|0.0
+2833177|Midas Pond|Reservoir|Florida|12|Seminole|117|Geneva|05/15/2026|05/15/2026|Official|Board Decision|05/14/2026|284217N|0810704W|28.7048382|-81.1177918|||0.0|0.0
+2833183|Babcock Ranch|Populated Place|Florida|12|Charlotte|015|Telegraph Swamp|05/26/2026|05/26/2026||||265228N|0814308W|26.874444|-81.718889|||0.0|0.0
+2833185|Pine Glades Lake|Lake|Florida|12|Miami-Dade|086|Long Pine Key|06/10/2026|06/10/2026||||252540N|0804320W|25.4277143|-80.7221543|||0.0|0.0
+2833186|Sisal Pond|Lake|Florida|12|Miami-Dade|086|Pa-Hay-Okee Lookout Tower|06/10/2026|06/10/2026||||252324N|0804752W|25.3898805|-80.7978559|||0.0|0.0
+2833187|Ficus Pond|Lake|Florida|12|Miami-Dade|086|Mahogany Hammock|06/10/2026|06/10/2026||||252220N|0804923W|25.3722775|-80.8230915|||0.0|0.0
+2833188|Sweet Bay Pond|Lake|Florida|12|Miami-Dade|086|Mahogany Hammock|06/10/2026|06/10/2026||||251936N|0804744W|25.3265328|-80.795517|||0.0|0.0
+2833189|Snipe Point|Cape|Florida|12|Miami-Dade|086|Blackwater Sound|06/10/2026|06/10/2026||||251159N|0802945W|25.199802|-80.495896|||0.0|0.0

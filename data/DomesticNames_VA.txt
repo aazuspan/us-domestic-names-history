@@ -22613,7 +22613,7 @@
 1738241|Swansonville|Populated Place|Virginia|51|Pittsylvania|143|Callands|05/19/1997|06/07/2022||||364613N|0793523W|36.7704155|-79.5897524|||0.0|0.0
 1738265|Maiden Spring Fort (historical)|Military|Virginia|51|Tazewell|185|Pounding Mill|05/19/1997|05/31/2022||||370139N|0814057W|37.0275|-81.6825|||0.0|0.0
 1738267|Fort Young (historical)|Military|Virginia|51|Covington (city)|580|Covington|05/19/1997|05/31/2022||||374736N|0795939W|37.7933333|-79.9941667|||0.0|0.0
-1738289|Grindstone Hill|Summit|Virginia|51|Clarke|043|Berryville|05/19/1997|07/06/2020||||390841N|0775754W|39.1448192|-77.9649942|||0.0|0.0
+1738289|Grindstone Hill (historic)|Summit|Virginia|51|Clarke|043|Berryville|05/19/1997|05/19/2026||||390841N|0775754W|39.1448192|-77.9649942|||0.0|0.0
 1738296|Whittletown|Populated Place|Virginia|51|Pittsylvania|143|Chatham|05/19/1997|06/07/2022||||364933N|0792414W|36.825972|-79.4039142|||0.0|0.0
 1738297|Woodlawn|Populated Place|Virginia|51|Pittsylvania|143|Chatham|05/19/1997|06/07/2022||||364835N|0792334W|36.8098604|-79.3928027|||0.0|0.0
 1738299|Woodlawn Heights|Populated Place|Virginia|51|Pittsylvania|143|Chatham|05/19/1997|06/07/2022||||364850N|0792354W|36.8140273|-79.3983584|||0.0|0.0

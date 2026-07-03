@@ -4279,7 +4279,7 @@
 880734|South Mantoloking Beach|Populated Place|New Jersey|34|Ocean|029|Point Pleasant|09/08/1979|06/07/2022||||400122N|0740317W|40.022895|-74.0548586|||0.0|0.0
 880739|South Ogdensburg|Populated Place|New Jersey|34|Sussex|037|Franklin|09/08/1979|06/07/2022||||410429N|0743547W|41.0748192|-74.5962714|||0.0|0.0
 880740|South Old Bridge|Populated Place|New Jersey|34|Middlesex|023|South Amboy|09/08/1979|06/07/2022||||402429N|0742116W|40.4081628|-74.3543153|||0.0|0.0
-880741|Township of South Orange Village|Civil|New Jersey|34|Essex|013|Roselle|09/08/1979|05/12/2026||||404457N|0741537W|40.7490738|-74.2601806|||0.0|0.0
+880741|Village of South Orange Village|Civil|New Jersey|34|Essex|013|Roselle|09/08/1979|05/27/2026||||404457N|0741537W|40.7490738|-74.2601806|||0.0|0.0
 880742|South Pemberton|Populated Place|New Jersey|34|Burlington|005|Pemberton|09/08/1979|06/07/2022||||395803N|0744106W|39.9676134|-74.6848809|||0.0|0.0
 880743|South Penns Grove|Populated Place|New Jersey|34|Salem|033|Penns Grove|09/08/1979|06/07/2022||||394318N|0752734W|39.7217804|-75.459362|||0.0|0.0
 880744|South Plainfield|Populated Place|New Jersey|34|Middlesex|023|Plainfield|09/08/1979|06/07/2022|Official|Board Decision|01/01/1894|403445N|0742442W|40.5792701|-74.4115401|||0.0|0.0
@@ -6893,7 +6893,7 @@
 1867373|Seabrook Farms|Populated Place|New Jersey|34|Cumberland|011|Elmer|05/15/2000|06/07/2022||||393003N|0751305W|39.5009483|-75.2179641|||0.0|0.0
 1867374|Society Hill|Populated Place|New Jersey|34|Middlesex|023|Plainfield|05/15/2000|06/07/2022||||403202N|0742729W|40.5339927|-74.4579304|||0.0|0.0
 1867375|Somerset|Populated Place|New Jersey|34|Somerset|035|New Brunswick|05/15/2000|06/07/2022||||402951N|0742919W|40.4976041|-74.4884868|||0.0|0.0
-1867376|South Orange|Populated Place|New Jersey|34|Essex|013|Roselle|05/15/2000|06/07/2022||||404456N|0741541W|40.7489898|-74.2612583|||0.0|0.0
+1867376|South Orange|Populated Place|New Jersey|34|Essex|013|Roselle|05/15/2000|05/19/2026||||404456N|0741541W|40.7489898|-74.2612583|||0.0|0.0
 1867377|Vernon Valley|Populated Place|New Jersey|34|Sussex|037|Wawayanda|05/15/2000|06/07/2022||||411412N|0742914W|41.2367616|-74.4871026|||0.0|0.0
 1867378|Victory Lakes|Populated Place|New Jersey|34|Gloucester|015|Williamstown|05/15/2000|06/07/2022||||393759N|0745758W|39.6331712|-74.966002|||0.0|0.0
 1867380|White Meadow Lake|Populated Place|New Jersey|34|Morris|027|Dover|05/15/2000|06/07/2022||||405525N|0743039W|40.9237098|-74.5107121|||0.0|0.0
@@ -7196,7 +7196,7 @@
 2390300|Silver Ridge Census Designated Place|Census|New Jersey|34|Ocean|029|Toms River|02/19/2008|08/08/2023||||395743N|0741409W|39.9620254|-74.2358744|||0.0|0.0
 2390310|Society Hill Census Designated Place|Census|New Jersey|34|Middlesex|023|Plainfield|02/19/2008|08/12/2021||||403204N|0742728W|40.5343322|-74.4577486|||0.0|0.0
 2390312|Somerset Census Designated Place|Census|New Jersey|34|Somerset|035|Bound Brook|02/19/2008|08/08/2023||||403030N|0743003W|40.5082812|-74.5009526|||0.0|0.0
-2390323|South Orange Census Designated Place|Census|New Jersey|34|Essex|013|Roselle|02/19/2008|||||404457N|0741537W|40.749051|-74.260376|||0.0|0.0
+2390323|South Orange Census Designated Place (historical)|Census|New Jersey|34|Essex|013|Roselle|02/19/2008|05/19/2026||||404457N|0741537W|40.749051|-74.260376|||0.0|0.0
 2390337|Springdale Census Designated Place|Census|New Jersey|34|Camden|007|Moorestown|02/19/2008|08/08/2023||||395237N|0745820W|39.8768752|-74.9722755|||0.0|0.0
 2390339|Springfield Census Designated Place|Census|New Jersey|34|Union|039|Roselle|02/19/2008|08/08/2023||||404222N|0741847W|40.7060729|-74.3129875|||0.0|0.0
 2390365|Strathmere Census Designated Place|Census|New Jersey|34|Cape May|009|Sea Isle City|02/19/2008|08/09/2023||||391141N|0743939W|39.1948257|-74.6608033|||0.0|0.0
@@ -7551,4 +7551,3 @@
 2832716|Joint Base McGuire-Dix-Lakehurst|Military|New Jersey|34|Burlington|005|New Egypt|08/20/2025|08/20/2025||||400144N|0743454W|40.0289636|-74.5815622|||0.0|0.0
 2832803|National Guard Lawrenceville|Military|New Jersey|34|Mercer|021|Princeton|08/20/2025|08/20/2025||||401611N|0744441W|40.269831|-74.7446814|||0.0|0.0
 2832902|Naval Weapons Station Earle Waterfront Unit|Military|New Jersey|34|Monmouth|025|Sandy Hook West|08/20/2025|08/20/2025||||402519N|0740414W|40.4218431|-74.0705708|||0.0|0.0
-2833172|South Orange Village|Populated Place|New Jersey|34|Essex|013|Roselle|05/12/2026|05/12/2026||||404457N|0741537W|40.749074|-74.26018|||0.0|0.0
