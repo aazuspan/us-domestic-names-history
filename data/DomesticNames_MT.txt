@@ -28352,3 +28352,4 @@
 2832790|National Guard Helena Aviation Reserve Component Army Aviation Support Facility C12|Military|Montana|30|Lewis and Clark|049|East Helena|08/20/2025|08/20/2025||||463630N|1115816W|46.6084465|-111.9710878|||0.0|0.0
 2832811|National Guard Maneuver Training Area Limestone Hills|Military|Montana|30|Broadwater|007|Townsend|08/20/2025|08/20/2025||||461626N|1113447W|46.2738895|-111.5797556|||0.0|0.0
 2833054|Black Coulee|Valley|Montana|30|Toole|101|Hawthorne School|02/27/2026|03/02/2026||||483750N|1112735W|48.630469|-111.45963|483801N|1113040W|48.633632|-111.511185
+2833201|Jones Coulee|Valley|Montana|30|Valley|105|Antelope Pass|06/23/2026|06/23/2026||||484840N|1065645W|48.811159|-106.94581|484945N|1065812W|48.829244|-106.9701

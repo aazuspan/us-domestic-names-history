@@ -16727,7 +16727,7 @@
 664653|Township of La Crosse|Civil|Minnesota|27|Jackson|063|Dundee|09/01/1995|08/12/2023||||434816N|0952339W|43.8045345|-95.3940515|||0.0|0.0
 664655|Township of Lafayette|Civil|Minnesota|27|Nicollet|103|Lafayette|09/01/1995|08/12/2023||||442332N|0942552W|44.3922529|-94.4309987|||0.0|0.0
 664656|Township of La Garde|Civil|Minnesota|27|Mahnomen|087|North Twin Lake|09/01/1995|08/12/2023||||471650N|0954432W|47.2805947|-95.7421546|||0.0|0.0
-664657|Township of La Grand|Civil|Minnesota|27|Douglas|041|Alexandria West|09/01/1995|08/12/2023||||455332N|0952715W|45.8921768|-95.454302|||0.0|0.0
+664657|Township of LaGrand|Civil|Minnesota|27|Douglas|041|Alexandria West|09/01/1995|05/27/2026||||455332N|0952716W|45.8921713|-95.4543579|||0.0|0.0
 664658|Township of Lake|Civil|Minnesota|27|Roseau|135|Warroad NW|09/01/1995|08/12/2023||||485631N|0952405W|48.9418605|-95.4013867|||0.0|0.0
 664659|Township of Lake|Civil|Minnesota|27|Wabasha|157|Pepin|09/01/1995|08/12/2023||||442415N|0921458W|44.4040421|-92.249436|||0.0|0.0
 664660|Township of Lake Alice|Civil|Minnesota|27|Hubbard|057|Schoolcraft Lake|09/01/1995|08/12/2023||||471146N|0950628W|47.1960023|-95.1078021|||0.0|0.0
@@ -18208,7 +18208,6 @@
 1777170|Reservoir Number Four|Reservoir|Minnesota|27|Itasca|061|Nashwauk|01/12/1998|||||472236N|0930825W|47.3766022|-93.1401958|||0.0|0.0
 1777172|Mill Pond|Reservoir|Minnesota|27|Houston|055|Sheldon|01/12/1998|||||434000N|0913449W|43.6666343|-91.5801433|||0.0|0.0
 1777177|Lake Grace|Reservoir|Minnesota|27|Carver|019|Shakopee|01/12/1998|09/21/2018||||444931N|0933617W|44.8252899|-93.6046196|||0.0|0.0
-1777179|Rice Portage Lake|Reservoir|Minnesota|27|Carlton|017|Esquagamah Lake|01/12/1998|||||464218N|0934049W|46.7049565|-93.6802431|||0.0|0.0
 1777188|Yaeger Lake|Reservoir|Minnesota|27|Wadena|159|Nimrod|01/12/1998|||||464230N|0945755W|46.7082925|-94.9652976|||0.0|0.0
 1777190|Rice Lake|Reservoir|Minnesota|27|Todd|153|Staples|01/12/1998|07/23/2018||||461740N|0944747W|46.29447|-94.7963362|||0.0|0.0
 1777194|High Island Creek|Reservoir|Minnesota|27|Sibley|143|Henderson|01/12/1998|||||443430N|0935943W|44.5749634|-93.9952473|||0.0|0.0
@@ -20082,3 +20081,4 @@
 2833012|Township of Goodwill|Civil|Minnesota|27|St. Louis|137|Norwegian Bay|11/13/2025|11/14/2025||||475610N|0923112W|47.935979|-92.520066|||0.0|0.0
 2833018|Whiskey Point|Cape|Minnesota|27|St. Louis|137|Blind Pig Island|12/12/2025|12/12/2025|Official|Board Decision|12/11/2025|482603N|0923254W|48.434167|-92.548333|||0.0|0.0
 2833048|Sunrise Lake|Lake|Minnesota|27|Stearns|145|Farming|02/13/2026|02/13/2026|Official|Board Decision|02/12/2026|453355N|0943346W|45.56525|-94.56275|||0.0|0.0
+2833198|Hidden Willow Pond|Lake|Minnesota|27|Rice|131|Lonsdale|06/15/2026|06/15/2026||||442821N|0932423W|44.472591|-93.4063|||0.0|0.0

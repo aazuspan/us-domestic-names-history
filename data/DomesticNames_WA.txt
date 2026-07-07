@@ -22872,3 +22872,4 @@
 2833051|Trillium Creek|Stream|Washington|53|Mason|045|Shelton Valley|02/13/2026|02/13/2026|Official|Board Decision|02/12/2026|470951N|1231218W|47.16411|-123.205|471007N|1231114W|47.16857|-123.1873
 2833146|Green Mountain|Summit|Washington|53|Cowlitz|015|Woodland|04/21/2026|04/21/2026||||455850N|1224428W|45.9806698|-122.7412145|||0.0|0.0
 2833147|Huckleberry Ridge|Ridge|Washington|53|Pierce|053|Clear West Peak|04/21/2026|04/21/2026||||470252N|1213903W|47.0478856|-121.6509308|||0.0|0.0
+2833203|Clayton Beach|Beach|Washington|53|Whatcom|073|Bellingham South|06/24/2026|06/24/2026||||483854N|1222913W|48.6482|-122.487|||0.0|0.0

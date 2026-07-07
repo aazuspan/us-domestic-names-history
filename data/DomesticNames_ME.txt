@@ -6578,7 +6578,7 @@
 568601|Indian Pond|Lake|Maine|23|Piscataquis|021|Barren Mountain East|09/30/1980|03/17/2018||||452510N|0691734W|45.4193272|-69.2927772|||0.0|0.0
 568602|Indian Pond|Lake|Maine|23|Piscataquis|021|Barren Mountain West|09/30/1980|03/17/2018||||452657N|0692721W|45.4491427|-69.4557098|||0.0|0.0
 568603|Indian Pond|Lake|Maine|23|Piscataquis|021|Soper Mountain|09/30/1980|10/18/2017||||461520N|0691736W|46.2556037|-69.293425|||0.0|0.0
-568604|Indian Pond|Reservoir|Maine|23|Somerset|025|Hartland|09/30/1980|05/12/2018||||445612N|0692308W|44.9367245|-69.3854353|||0.0|0.0
+568604|Indian Pond|Reservoir|Maine|23|Somerset|025|Hartland|09/30/1980|06/17/2026||||445612N|0692308W|44.9367245|-69.3854353|||0.0|0.0
 568605|Indian Pond|Reservoir|Maine|23|Somerset|025|Indian Pond North|09/30/1980|06/30/2021||||453123N|0694837W|45.5230475|-69.810226|||0.0|0.0
 568606|Indian Ridge|Ridge|Maine|23|Washington|029|Peaked Mountain|09/30/1980|07/23/2022||||445411N|0675245W|44.9031761|-67.8790925|||0.0|0.0
 568607|Indian River|Populated Place|Maine|23|Washington|029|Addison|09/30/1980|06/07/2022||||443419N|0673834W|44.5720224|-67.6427725|||0.0|0.0
@@ -16968,7 +16968,7 @@
 580671|Bubble Brook|Stream|Maine|23|Hancock|009|Seal Harbor|06/01/1992|||||442058N|0681428W|44.3495241|-68.2411256|442116N|0681451W|44.3544444|-68.2475
 580672|Enoch Mountain|Summit|Maine|23|Hancock|009|Seal Harbor|06/01/1992|05/10/2017||||442019N|0681117W|44.3385593|-68.1879818|||0.0|0.0
 580678|Newport Ledge|Bar|Maine|23|Hancock|009|Seal Harbor|06/01/1992|||||442115N|0681043W|44.3542466|-68.1786225|||0.0|0.0
-580679|Handiron Ledge|Bar|Maine|23|Hancock|009|Seal Harbor|06/01/1992|||||442220N|0680808W|44.3723021|-68.1355649|||0.0|0.0
+580679|Handiron Ledge|Bar|Maine|23|Hancock|009|Seal Harbor|06/01/1992|07/01/2026||||442122N|0680807W|44.356024|-68.135362|||0.0|0.0
 580680|Harding Ledge|Bar|Maine|23|Hancock|009|Seal Harbor|06/01/1992|||||441538N|0681235W|44.2606366|-68.2097349|||0.0|0.0
 580681|Great Head|Cape|Maine|23|Hancock|009|Bar Harbor|06/01/1992|||||442245N|0680823W|44.3792465|-68.1397319|||0.0|0.0
 580682|Black Rock|Island|Maine|23|Hancock|009|Johns Island|06/01/1992|||||440718N|0682641W|44.1217492|-68.4447413|||0.0|0.0
@@ -18645,7 +18645,6 @@
 1773708|Sebasticook River Reservoir|Reservoir|Maine|23|Waldo|027|Burnham|01/08/1998|||||444318N|0692452W|44.7217318|-69.4144918|||0.0|0.0
 1773710|Mill Pond|Reservoir|Maine|23|Somerset|025|Pittsfield|01/08/1998|||||444712N|0692252W|44.7867308|-69.3811592|||0.0|0.0
 1773718|East Branch Sebasticook River Reservoir|Reservoir|Maine|23|Penobscot|019|Newport|01/08/1998|05/24/2010||||445007N|0691619W|44.83514|-69.27205|||0.0|0.0
-1773724|Indian Pond|Reservoir|Maine|23|Somerset|025|Hartland|01/08/1998|||||445448N|0692428W|44.9133938|-69.4078252|||0.0|0.0
 1773728|Sandy River Reservoir|Reservoir|Maine|23|Somerset|025|Mercer|01/08/1998|05/24/2010||||444352N|0695352W|44.7312|-69.8977|||0.0|0.0
 1773730|Wilson Pond|Reservoir|Maine|23|Franklin|007|Wilton|01/08/1998|06/30/2010||||443509N|0701359W|44.58585|-70.23308|||0.0|0.0
 1773732|Little Norridgewock Stream Reservoir|Reservoir|Maine|23|Franklin|007|Farmington Falls|01/08/1998|05/24/2010||||443304N|0700513W|44.55102|-70.08686|||0.0|0.0
@@ -18757,7 +18756,6 @@
 1774232|Great Works River Reservoir|Reservoir|Maine|23|York|031|North Berwick|01/08/1998|05/15/2018||||431910N|0704450W|43.3193747|-70.7471732|||0.0|0.0
 1774240|Long Pond|Reservoir|Maine|23|Hancock|009|Southwest Harbor|01/08/1998|06/30/2010||||442058N|0682127W|44.34956|-68.35763|||0.0|0.0
 1774248|Pleasant Lake|Reservoir|Maine|23|Penobscot|019|Stetson|01/08/1998|04/30/2010||||445315N|0690817W|44.88761|-69.13794|||0.0|0.0
-1774250|Indian Stream Reservoir|Reservoir|Maine|23|Somerset|025|Hartland|01/08/1998|||||445436N|0692428W|44.9100606|-69.4078252|||0.0|0.0
 1774252|Lazy Tom Stream Reservoir|Reservoir|Maine|23|Piscataquis|021|Kokadjo|01/08/1998|05/11/2018||||454144N|0692613W|45.6954431|-69.4370831|||0.0|0.0
 1774254|Mill Stream|Reservoir|Maine|23|Kennebec|011|Albion|01/08/1998|||||443218N|0692652W|44.5384011|-69.4478202|||0.0|0.0
 1774264|Medomak River Reservoir|Reservoir|Maine|23|Lincoln|015|Waldoboro West|01/08/1998|05/28/2010||||440557N|0692242W|44.09912|-69.37846|||0.0|0.0

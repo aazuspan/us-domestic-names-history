@@ -7126,3 +7126,4 @@
 2832770|National Guard Camp Hartell|Military|Connecticut|09|Capitol|110|Windsor Locks|08/20/2025|08/20/2025||||415632N|0723956W|41.9421257|-72.6656787|||0.0|0.0
 2832771|National Guard Camp Nett|Military|Connecticut|09|Southeastern Connecticut|180|Niantic|08/20/2025|08/20/2025||||411953N|0721116W|41.3313899|-72.1879102|||0.0|0.0
 2832839|National Guard Stones Ranch Military Reservation|Military|Connecticut|09|Lower Connecticut River Valley|130|Old Lyme|08/20/2025|08/20/2025||||412200N|0721656W|41.366582|-72.282256|||0.0|0.0
+2833182|Long Ridge|Populated Place|Connecticut|09|Western Connecticut|190|Bethel|05/26/2026|05/26/2026||||412003N|0732633W|41.33409|-73.4424|||0.0|0.0

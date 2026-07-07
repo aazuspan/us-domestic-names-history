@@ -28619,7 +28619,7 @@
 2406159|Town of Midland|Civil|North Carolina|37|Cabarrus|025|Midland|03/10/2008|08/10/2023||||351457N|0803148W|35.2491586|-80.5299507|||0.0|0.0
 2406166|Town of Mills River|Civil|North Carolina|37|Henderson|089|Skyland|03/10/2008|08/11/2023||||352307N|0823507W|35.3852999|-82.5854149|||0.0|0.0
 2406167|Town of Milton|Civil|North Carolina|37|Caswell|033|Milton|03/10/2008|08/10/2023||||363214N|0791229W|36.5372421|-79.2080975|||0.0|0.0
-2406168|Town of Mineral Springs|Civil|North Carolina|37|Union|179|Waxhaw|03/10/2008|05/01/2026||||345628N|0804105W|34.9411375|-80.6846258|||0.0|0.0
+2406168|Town of Mineral Springs|Civil|North Carolina|37|Union|179|Waxhaw|03/10/2008|05/27/2026||||345627N|0804108W|34.9408259|-80.6856533|||0.0|0.0
 2406169|Town of Minnesott Beach|Civil|North Carolina|37|Pamlico|137|Cherry Point|03/10/2008|08/10/2023||||345910N|0764927W|34.9861015|-76.824188|||0.0|0.0
 2406170|Town of Mint Hill|Civil|North Carolina|37|Mecklenburg|119|Mint Hill|03/10/2008|08/10/2023||||351042N|0803910W|35.1782986|-80.6527233|||0.0|0.0
 2406174|Town of Mocksville|Civil|North Carolina|37|Davie|059|Mocksville|03/10/2008|08/10/2023||||355403N|0803348W|35.9007736|-80.5632143|||0.0|0.0
@@ -28945,7 +28945,7 @@
 2407555|Village of Sugar Mountain|Civil|North Carolina|37|Avery|011|Valle Crucis|03/10/2008|08/10/2023||||360735N|0815153W|36.1263814|-81.8647424|||0.0|0.0
 2407562|Village of Tobaccoville|Civil|North Carolina|37|Forsyth|067|Rural Hall|03/10/2008|08/10/2023||||361332N|0802133W|36.2255723|-80.3590586|||0.0|0.0
 2407566|Village of Walnut Creek|Civil|North Carolina|37|Wayne|191|La Grange|03/10/2008|08/11/2023||||351818N|0775217W|35.3049637|-77.8713683|||0.0|0.0
-2407569|Village of Wesley Chapel|Civil|North Carolina|37|Union|179|Matthews|03/10/2008|05/01/2026||||350020N|0804004W|35.0054404|-80.6678365|||0.0|0.0
+2407569|Village of Wesley Chapel|Civil|North Carolina|37|Union|179|Matthews|03/10/2008|05/27/2026||||350020N|0804004W|35.0054404|-80.6678365|||0.0|0.0
 2407570|Village of Whispering Pines|Civil|North Carolina|37|Moore|125|Carthage|03/10/2008|08/10/2023||||351512N|0792231W|35.2534314|-79.3752632|||0.0|0.0
 2407573|Township of Whitehouse|Civil|North Carolina|37|Robeson|155|Gaddysville|03/10/2008|08/13/2023||||342309N|0790802W|34.385779|-79.1339157|||0.0|0.0
 2418608|Haliwa-Saponi State Designated Tribal Statistical Area|Census|North Carolina|37|Halifax|083|Hollister|04/11/2008|03/21/2023||||361519N|0775815W|36.2554089|-77.9709719|||0.0|0.0

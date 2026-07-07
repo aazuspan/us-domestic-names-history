@@ -6738,8 +6738,6 @@
 1774985|Salmon Falls River Reservoir|Reservoir|New Hampshire|33|Strafford|017|Somersworth|01/09/1998|||||431548N|0705146W|43.2634169|-70.8628371|||0.0|0.0
 1774987|Salmon Falls River Reservoir|Reservoir|New Hampshire|33|Strafford|017|Rochester|01/09/1998|||||431712N|0705352W|43.2867495|-70.8978383|||0.0|0.0
 1774992|Berrys River Reservoir|Reservoir|New Hampshire|33|Strafford|017|Baxter Lake|01/09/1998|11/14/2024||||431613N|0710346W|43.270362|-71.062768|||0.0|0.0
-1774998|Pawtuckaway Pond|Reservoir|New Hampshire|33|Strafford|017|Mount Pawtuckaway|01/09/1998|||||430454N|0710758W|43.0817512|-71.1328394|||0.0|0.0
-1775000|Pawtuckaway Pond|Reservoir|New Hampshire|33|Rockingham|015|Mount Pawtuckaway|01/09/1998|05/15/2018||||430455N|0710848W|43.082068|-71.1467126|||0.0|0.0
 1775002|Newfound Lake|Reservoir|New Hampshire|33|Grafton|009|Bristol|01/09/1998|||||433700N|0714434W|43.6167403|-71.7428569|||0.0|0.0
 1775004|Sugar River Reservoir|Reservoir|New Hampshire|33|Sullivan|019|Claremont South|01/09/1998|||||432224N|0722046W|43.3734068|-72.3462005|||0.0|0.0
 1775006|Sugar River Reservoir|Reservoir|New Hampshire|33|Sullivan|019|Windsor|01/09/1998|||||432324N|0722234W|43.3900732|-72.3762009|||0.0|0.0
