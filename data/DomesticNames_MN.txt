@@ -13211,7 +13211,7 @@
 658630|Ten Lake|Lake|Minnesota|27|Cass|021|Raven Lake|01/11/1980|07/23/2018||||472310N|0942028W|47.3860744|-94.3410508|||0.0|0.0
 658631|Ten Lake|Lake|Minnesota|27|Beltrami|007|Cass Lake|01/11/1980|07/23/2018||||472844N|0943546W|47.478778|-94.5961954|||0.0|0.0
 658632|Ten Section Lake|Lake|Minnesota|27|Cass|021|Pike Bay|01/11/1980|07/23/2018||||471936N|0943432W|47.3266411|-94.5756305|||0.0|0.0
-658633|Tenmile Lake|Lake|Minnesota|27|Cass|021|Hackensack|01/11/1980|07/23/2018||||465815N|0943439W|46.9707657|-94.577598|||0.0|0.0
+658633|Tenmile Lake|Lake|Minnesota|27|Cass|021|Hackensack|01/11/1980|07/16/2026||||465815N|0943439W|46.9707657|-94.577598|||0.0|0.0
 658634|Tenor Lake|Lake|Minnesota|27|Cook|031|Munker Island|01/11/1980|05/30/2023||||481142N|0905235W|48.195049|-90.876399|||0.0|0.0
 658635|Tenstrike|Populated Place|Minnesota|27|Beltrami|007|Tenstrike|01/11/1980|06/07/2022||||473924N|0944029W|47.6566206|-94.6747007|||0.0|0.0
 658636|Tent Lake|Lake|Minnesota|27|Cook|031|Cherokee Lake|01/11/1980|05/30/2023||||475720N|0905008W|47.955554|-90.8355082|||0.0|0.0
@@ -16200,7 +16200,7 @@
 663881|Township of Cottonwood|Civil|Minnesota|27|Brown|015|Hanska|09/01/1995|08/12/2023||||441419N|0942609W|44.2386292|-94.4357107|||0.0|0.0
 663884|Township of Courtland|Civil|Minnesota|27|Nicollet|103|Courtland|09/01/1995|08/12/2023||||441719N|0941951W|44.2885429|-94.330843|||0.0|0.0
 663885|Township of Crate|Civil|Minnesota|27|Chippewa|023|Kerkhoven SW|09/01/1995|08/12/2023||||450117N|0952554W|45.0213999|-95.4316357|||0.0|0.0
-663886|Township of Credit River (historical)|Civil|Minnesota|27|Scott|139|Orchard Lake|09/01/1995|08/12/2023||||444026N|0932131W|44.6739456|-93.3586229|||0.0|0.0
+663886|Township of Credit River (historical)|Civil|Minnesota|27|Scott|139|Orchard Lake|09/01/1995|07/16/2026||||444026N|0932131W|44.6739456|-93.3586229|||0.0|0.0
 663887|Township of Croke|Civil|Minnesota|27|Traverse|155|Dumont|09/01/1995|08/12/2023||||454256N|0962656W|45.7156818|-96.448818|||0.0|0.0
 663889|Township of Cromwell|Civil|Minnesota|27|Clay|027|Hawley|09/01/1995|08/12/2023||||465603N|0962139W|46.9342473|-96.3609167|||0.0|0.0
 663890|Township of Crooked Creek|Civil|Minnesota|27|Houston|055|Reno|09/01/1995|08/12/2023||||433625N|0911921W|43.6068578|-91.3224932|||0.0|0.0

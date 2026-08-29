@@ -1,6 +1,6 @@
 ﻿feature_id|feature_name|feature_class|state_name|state_numeric|county_name|county_numeric|map_name|date_created|date_edited|bgn_type|bgn_authority|bgn_date|prim_lat_dms|prim_long_dms|prim_lat_dec|prim_long_dec|source_lat_dms|source_long_dms|source_lat_dec|source_long_dec
 165345|Tennessee Valley Divide|Ridge|Tennessee|47|Grundy|061|Tracy City|09/04/1980|01/13/2011||||352138N|0853947W|35.36063|-85.6630284|||0.0|0.0
-422222|Hillerman Rock|Pillar|Illinois|17|Massac|127|Bandana|02/01/1991||Official|Board Decision|01/01/1891|371250N|0885300W|37.2139421|-88.8833955|||0.0|0.0
+422222|Hillerman Rock (historical)|Pillar|Illinois|17|Massac|127|Bandana|02/01/1991|07/20/2026|Official|Board Decision|01/01/1891|371250N|0885300W|37.2139421|-88.8833955|||0.0|0.0
 424697|Cache River|Stream|Illinois|17|Alexander|003|Cairo|01/15/1980|05/12/2014||||370401N|0891022W|37.0669957|-89.1728509|372700N|0891444W|37.4500497|-89.2456391
 424724|Cave in Rock Ferry|Crossing|Illinois|17|Hardin|069|Cave-in-Rock|01/15/1980|||||372750N|0880959W|37.4639391|-88.1664192|||0.0|0.0
 425264|Ohio River|Stream|Kentucky|21|Ballard|007|Wyatt|10/24/1980|02/13/2020|Official|Board Decision|01/01/1931|365912N|0890750W|36.986719|-89.1306255|402634N|0800102W|40.4428469|-80.0172759
@@ -9219,7 +9219,7 @@
 500640|Pilot Knob|Summit|Kentucky|21|Simpson|213|Auburn|09/20/1979|09/29/2022||||364921N|0864030W|36.8224631|-86.6749918|||0.0|0.0
 500641|Pilot Knob|Summit|Kentucky|21|Warren|227|Smiths Grove|09/20/1979|08/18/2017||||370210N|0861020W|37.0359956|-86.1722229|||0.0|0.0
 500642|Pilot Knob|Summit|Kentucky|21|Green|087|Center|09/20/1979|10/08/2022||||370835N|0853939W|37.1430324|-85.66082|||0.0|0.0
-500643|Pilot Knob (historic)|Summit|Kentucky|21|Ohio|183|Paradise|09/20/1979|06/04/2025||||371730N|0865439W|37.2917113|-86.9108267|||0.0|0.0
+500643|Pilot Knob (historical)|Summit|Kentucky|21|Ohio|183|Paradise|09/20/1979|07/02/2026||||371730N|0865439W|37.2917113|-86.9108267|||0.0|0.0
 500644|Pilot Knob|Summit|Kentucky|21|Crittenden|055|Marion|09/20/1979|03/24/2023||||371812N|0880048W|37.3032571|-88.0133061|||0.0|0.0
 500645|Pilot Knob|Summit|Kentucky|21|Breathitt|025|Quicksand|09/20/1979|03/24/2023||||373726N|0831854W|37.6238472|-83.3149835|||0.0|0.0
 500646|Pilot Knob|Summit|Kentucky|21|Morgan|175|Cannel City|09/20/1979|10/08/2022||||374659N|0831946W|37.7830625|-83.3293636|||0.0|0.0
@@ -20578,7 +20578,7 @@
 1304528|White Oak Creek|Stream|Tennessee|47|Macon|111|Fountain Run|05/19/1980|||||363833N|0855517W|36.6425534|-85.921369|362923N|0855846W|36.4897749|-85.9794281
 1305682|Capuchin Creek|Stream|Kentucky|21|McCreary|147|Jellico West|05/19/1980|08/17/2006||||363618N|0841405W|36.6050815|-84.2346556|363011N|0842004W|36.5031356|-84.3343786
 1306928|Pryor Creek|Stream|Kentucky|21|Trigg|221|Linton|05/19/1980|10/09/2012||||364130N|0875651W|36.6916679|-87.9475951|363654N|0875900W|36.6150522|-87.9833604
-1310685|Big Three Hollow|Valley|Kentucky|21|Bell|013|Eagan|09/01/1989|01/17/2016||||363524N|0835307W|36.5900742|-83.885158|363433N|0835302W|36.5759477|-83.8840079
+1310685|Big Three Hollow|Valley|Kentucky|21|Bell|013|Eagan|09/01/1989|08/15/2026||||363524N|0835307W|36.5900743|-83.885158|363433N|0835302W|36.5759477|-83.8840079
 1311278|Isham Creek|Stream|Tennessee|47|Scott|151|Winfield|10/01/1989|||||363515N|0842718W|36.587579|-84.4549377|363602N|0842514W|36.6005556|-84.4205556
 1327181|Tacket Creek|Stream|Tennessee|47|Scott|151|Barthell SW|05/19/1980|||||363518N|0844057W|36.5884082|-84.6824401|363653N|0844209W|36.6147222|-84.7025
 1327767|Burkes Branch|Stream|Tennessee|47|Scott|151|Barthell SW|05/19/1980|||||363519N|0843927W|36.5886865|-84.6574399|363609N|0843848W|36.6025|-84.6466667
@@ -21393,7 +21393,7 @@
 2336221|Turkey Creek (historical)|Populated Place|Kentucky|21|Letcher|133|Tilford|08/06/2007|06/07/2022||||370414N|0830120W|37.0704638|-83.0223237|||0.0|0.0
 2336226|Upper Cumberland (historical)|Populated Place|Kentucky|21|Letcher|133|Flat Gap|08/06/2007|06/07/2022||||370415N|0824408W|37.070716|-82.735688|||0.0|0.0
 2336233|West Whitesburg (historical)|Populated Place|Kentucky|21|Letcher|133|Whitesburg|08/06/2007|06/07/2022||||370717N|0825008W|37.1214312|-82.8356819|||0.0|0.0
-2336238|Apple Rock (historic)|Populated Place|Kentucky|21|Letcher|133|Blackey|08/06/2007|06/03/2025||||371331N|0825254W|37.22525|-82.8816409|||0.0|0.0
+2336238|Apple Rock (historical)|Populated Place|Kentucky|21|Letcher|133|Blackey|08/06/2007|07/02/2026||||371331N|0825254W|37.22525|-82.8816409|||0.0|0.0
 2336242|Bandmill Bottom|Flat|Kentucky|21|Letcher|133|Jenkins West|08/06/2007|||||371210N|0824100W|37.202844|-82.6834251|||0.0|0.0
 2336243|Bandmill Hill|Summit|Kentucky|21|Letcher|133|Jenkins West|08/06/2007|01/16/2020||||371222N|0824125W|37.2060582|-82.6901866|||0.0|0.0
 2336252|Big Cowan (historical)|Populated Place|Kentucky|21|Letcher|133|Whitesburg|08/06/2007|06/07/2022||||370401N|0825129W|37.0669775|-82.8580752|||0.0|0.0
@@ -21794,7 +21794,7 @@
 2363010|Kennedys Bottom|Flat|Kentucky|21|Lewis|135|Vanceburg|11/14/2007|||||383703N|0831928W|38.6173983|-83.3244959|||0.0|0.0
 2363027|Mill Hollow Creek|Stream|Kentucky|21|Lewis|135|Garrison|11/14/2007|||||383726N|0831457W|38.6239048|-83.2492362|383652N|0831415W|38.6144572|-83.2373674
 2363039|Oak Ridge (historical)|Populated Place|Kentucky|21|Lewis|135|Stricklett|11/14/2007|06/07/2022||||382808N|0832947W|38.468966|-83.496335|||0.0|0.0
-2363040|Oak Ridge (historic)|Populated Place|Kentucky|21|Lewis|135|Burtonville|11/14/2007|06/30/2025||||382811N|0833043W|38.469584|-83.511887|||0.0|0.0
+2363040|Oak Ridge (historical)|Populated Place|Kentucky|21|Lewis|135|Burtonville|11/14/2007|07/02/2026||||382811N|0833043W|38.469584|-83.511887|||0.0|0.0
 2363083|The Sand Fills|Flat|Kentucky|21|Lewis|135|Maysville East|11/14/2007|||||383948N|0833744W|38.6632197|-83.6288211|||0.0|0.0
 2363088|Toles Creek|Stream|Kentucky|21|Lewis|135|Manchester Islands|11/14/2007|||||384127N|0833323W|38.6908|-83.5563435|384056N|0833251W|38.6822466|-83.54751
 2363091|Upper Bruce (historical)|Populated Place|Kentucky|21|Lewis|135|Garrison|11/14/2007|06/07/2022||||383437N|0831116W|38.5769095|-83.1876943|||0.0|0.0
@@ -21998,7 +21998,7 @@
 2403856|City of Benton|Civil|Kentucky|21|Marshall|157|Hardin|03/10/2008|08/10/2023||||365051N|0882137W|36.8475088|-88.3602754|||0.0|0.0
 2403858|City of Berea|Civil|Kentucky|21|Madison|151|Berea|03/10/2008|08/10/2023||||373525N|0841723W|37.5903634|-84.2898002|||0.0|0.0
 2403861|City of Berry|Civil|Kentucky|21|Harrison|097|Berry|03/10/2008|08/10/2023||||383114N|0842301W|38.5205331|-84.3836197|||0.0|0.0
-2403871|City of Blackey (historical)|Civil|Kentucky|21|Letcher|133|Blackey|03/10/2008|08/11/2023||||370820N|0825852W|37.13888|-82.9812069|||0.0|0.0
+2403871|City of Blackey (historical)|Civil|Kentucky|21|Letcher|133|Blackey|03/10/2008|07/17/2026||||370820N|0825852W|37.13888|-82.9812069|||0.0|0.0
 2403873|City of Blaine|Civil|Kentucky|21|Lawrence|127|Blaine|03/10/2008|08/11/2023||||380138N|0825029W|38.0272258|-82.8413327|||0.0|0.0
 2403877|City of Blandville (historical)|Civil|Kentucky|21|Ballard|007|Blandville|03/10/2008|08/23/2025||||365639N|0885753W|36.9440603|-88.9645876|||0.0|0.0
 2403879|City of Bloomfield|Civil|Kentucky|21|Nelson|179|Bloomfield|03/10/2008|08/10/2023||||375444N|0851850W|37.9121972|-85.3139718|||0.0|0.0

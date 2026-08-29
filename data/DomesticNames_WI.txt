@@ -17522,3 +17522,4 @@
 2832694|General Mitchell International Airport|Military|Wisconsin|55|Milwaukee|079|Greendale|08/20/2025|08/20/2025||||425628N|0875317W|42.9410454|-87.8879314|||0.0|0.0
 2832943|Truax Field Air National Guard Base|Military|Wisconsin|55|Dane|025|De Forest|08/20/2025|08/20/2025||||430749N|0892009W|43.1301765|-89.3359052|||0.0|0.0
 2833184|French Island Village|Populated Place|Wisconsin|55|La Crosse|063|Holmen|06/04/2026|06/04/2026||||435236N|0911725W|43.876641|-91.290339|||0.0|0.0
+2833214|Lancaster Creek|Stream|Wisconsin|55|Brown|009|Green Bay West|08/04/2026|08/04/2026||||443349N|0880343W|44.563742|-88.06191|443619N|0880824W|44.605213|-88.139938

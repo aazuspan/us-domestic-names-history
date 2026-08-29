@@ -9986,7 +9986,7 @@
 999443|Glossons Lake Number One|Reservoir|North Carolina|37|Davidson|057|Lexington West|01/01/2000|||||354724N|0801953W|35.7901381|-80.331442|||0.0|0.0
 999446|Thompson-Arthur Lake|Reservoir|North Carolina|37|Randolph|151|Glenola|01/01/2000|12/10/2018||||354738N|0795234W|35.7939278|-79.8762351|||0.0|0.0
 999447|Noname|Reservoir|North Carolina|37|Iredell|097|Statesville West|01/01/2000|||||354730N|0805717W|35.7918014|-80.9547981|||0.0|0.0
-999449|Moss Pond|Reservoir|North Carolina|37|Wake|183|Raleigh West|01/01/2000|12/20/2018||||355041N|0784211W|35.8446677|-78.7029549|||0.0|0.0
+999449|Moss Pond|Reservoir|North Carolina|37|Wake|183|Zebulon|01/01/2000|08/04/2026||||354736N|0781908W|35.79338|-78.318958|||0.0|0.0
 999451|Camp Keyauwee Lake|Reservoir|North Carolina|37|Randolph|151|Glenola|01/01/2000|12/10/2018||||354748N|0795638W|35.7967792|-79.9438667|||0.0|0.0
 999453|Lu-Tom Acres Lake|Reservoir|North Carolina|37|Wake|183|Cary|01/01/2000|12/20/2018||||355058N|0784805W|35.8494477|-78.8012697|||0.0|0.0
 999455|Siler City Water Supply Lake Number One|Reservoir|North Carolina|37|Chatham|037|Crutchfield Crossroads|01/01/2000|12/08/2018||||354816N|0792850W|35.8044921|-79.4804809|||0.0|0.0
@@ -27856,9 +27856,9 @@
 1291666|Little Slickrock Creek|Stream|Tennessee|47|Monroe|123|Tapoco|05/19/1980|||||352653N|0835846W|35.4481398|-83.9793491|352728N|0840058W|35.4578611|-84.0160172
 1293112|McCampbell Gap|Gap|Tennessee|47|Blount|009|Cades Cove|05/19/1980||Official|Board Decision|01/01/1932|353345N|0834543W|35.5625885|-83.7618397|||0.0|0.0
 1294033|Mineral Gap|Gap|Tennessee|47|Blount|009|Thunderhead Mountain|05/19/1980|06/27/2014|Official|Board Decision|01/01/1932|353408N|0834056W|35.5689323|-83.6821168|||0.0|0.0
-1296886|Parson Bald|Summit|North Carolina|37|Swain|173|Calderwood|05/19/1980|05/25/2016|Official|Board Decision|01/01/1932|353057N|0835259W|35.5157728|-83.882931|||0.0|0.0
-1297567|Pine Mountain|Summit|North Carolina|37|Ashe|009|Baldwin Gap|05/19/1980|06/21/2019||||362602N|0814317W|36.4338641|-81.7212843|||0.0|0.0
-1299883|Rocky Face Mountain|Summit|Tennessee|47|Cocke|029|Luftee Knob|05/19/1980|06/06/2016|Official|Board Decision|01/01/1932|354439N|0831039W|35.7442512|-83.1774713|||0.0|0.0
+1296886|Parson Bald|Summit|North Carolina|37|Swain|173|Calderwood|05/19/1980|08/15/2026|Official|Board Decision|01/01/1932|353057N|0835259W|35.5157729|-83.882931|||0.0|0.0
+1297567|Pine Mountain|Summit|North Carolina|37|Ashe|009|Baldwin Gap|05/19/1980|08/15/2026||||362602N|0814317W|36.4338641|-81.7212843|||0.0|0.0
+1299883|Rocky Face Mountain|Summit|North Carolina|37|Haywood|087|Luftee Knob|05/19/1980|08/15/2026|Official|Board Decision|01/01/1932|354439N|0831039W|35.7442512|-83.1774713|||0.0|0.0
 1299942|Rocky Top|Summit|North Carolina|37|Swain|173|Thunderhead Mountain|05/19/1980|05/20/2016|Official|Board Decision|01/01/1932|353351N|0834250W|35.564085|-83.7139096|||0.0|0.0
 1300127|Ross Knob|Summit|North Carolina|37|Haywood|087|Luftee Knob|05/19/1980|06/06/2016|Official|Board Decision|01/01/1932|354331N|0831151W|35.7253032|-83.1975508|||0.0|0.0
 1300645|Sams Gap|Gap|Tennessee|47|Sevier|155|Thunderhead Mountain|05/19/1980||Official|Board Decision|01/01/1932|353402N|0833815W|35.5673134|-83.6373905|||0.0|0.0
@@ -27868,22 +27868,23 @@
 1306915|Porters Gap|Gap|Tennessee|47|Sevier|155|Mount Guyot|05/19/1980||Official|Board Decision|01/01/1932|353845N|0832137W|35.6459293|-83.3601562|||0.0|0.0
 1307381|Great Smoky Mountains|Range|Tennessee|47|Blount|009|Silers Bald|01/01/1991|08/19/2013|Official|Board Decision|01/01/1932|353500N|0833030W|35.5834272|-83.5082188|||0.0|0.0
 1307389|Deals Gap|Gap|Tennessee|47|Blount|009|Tapoco|01/01/1991|05/20/2015|Official|Board Decision|06/30/1932|352825N|0835515W|35.4736965|-83.9207351|||0.0|0.0
-1326387|Kuwohi|Summit|North Carolina|37|Swain|173|Kuwohi|05/19/1980|09/19/2024|Official|Board Decision|09/18/2024|353346N|0832955W|35.562778|-83.498535|||0.0|0.0
+1326387|Kuwohi|Summit|North Carolina|37|Swain|173|Kuwohi|05/19/1980|08/15/2026|Official|Board Decision|09/18/2024|353346N|0832955W|35.562778|-83.498535|||0.0|0.0
 1326759|Fox Cabin Gap|Gap|Tennessee|47|Greene|059|Greystone|01/01/1993|||||360248N|0824051W|36.0467717|-82.680699|||0.0|0.0
 1326897|Nolichucky River|Stream|Tennessee|47|Cocke|029|Rankin|05/19/1980|03/20/2020|Official|Board Decision|01/01/1896|360455N|0831345W|36.0820395|-83.2290522|360145N|0821936W|36.0292781|-82.3267984
-1326903|Bald Mountains|Range|North Carolina|37|Madison|115|Hot Springs|05/19/1980|07/19/2023|Official|Board Decision|01/01/1932|355647N|0824744W|35.9464855|-82.795417|||0.0|0.0
-1326943|Iron Mountain|Ridge|North Carolina|37|Mitchell|121|Iron Mountain Gap|05/19/1980|11/02/2019||||360856N|0820902W|36.148978|-82.1505796|||0.0|0.0
+1326903|Bald Mountains|Range|North Carolina|37|Madison|115|Hot Springs|05/19/1980|08/15/2026|Official|Board Decision|01/01/1932|355647N|0824744W|35.9464855|-82.795417|||0.0|0.0
+1326943|Iron Mountain|Ridge|North Carolina|37|Mitchell|121|Iron Mountain Gap|05/19/1980|08/15/2026||||360856N|0820902W|36.148978|-82.1505796|||0.0|0.0
 1327081|Spivey Creek|Stream|Tennessee|47|Unicoi|171|Flag Pond|05/19/1980|||||360413N|0823013W|36.0703854|-82.5034732|360100N|0822707W|36.0167758|-82.4520805
 1327140|Stratton Meadows|Flat|Tennessee|47|Monroe|123|Big Junction|05/19/1980|||||352012N|0840152W|35.3367499|-84.0310208|||0.0|0.0
+1327275|Unaka Mountains|Ridge|Tennessee|47|Unicoi|171|Unicoi|05/19/1980|08/15/2026|Official|Board Decision|01/01/1932|360802N|0821750W|36.1338636|-82.2973023|||0.0|0.0
 1327321|Watauga River|Stream|Tennessee|47|Washington|179|Boone Dam|05/19/1980|05/12/2014||||362651N|0822521W|36.4476035|-82.4223658|360725N|0815007W|36.1237384|-81.835389
 1327451|Allen Gap|Gap|Tennessee|47|Greene|059|Hot Springs|05/19/1980|||||355913N|0824705W|35.9870481|-82.7845882|||0.0|0.0
 1327742|Buckeye Gap|Gap|Tennessee|47|Carter|019|Carvers Gap|05/19/1980|||||360703N|0820330W|36.1176213|-82.0584536|||0.0|0.0
-1327953|Coldspring Mountain|Summit|North Carolina|37|Madison|115|Greystone|05/19/1980|11/02/2019||||360341N|0823739W|36.0613353|-82.6274465|||0.0|0.0
+1327953|Coldspring Mountain|Summit|North Carolina|37|Madison|115|Greystone|05/19/1980|08/15/2026||||360341N|0823739W|36.0613353|-82.6274465|||0.0|0.0
 1328129|Elk River|Stream|Tennessee|47|Carter|019|Elk Mills|05/19/1980||Official|Board Decision|01/01/1963|361845N|0815929W|36.3126204|-81.9915082|360815N|0814959W|36.1376272|-81.8331668
 1328366|Hall Creek|Stream|Tennessee|47|Polk|139|Isabella|05/19/1980|||||350553N|0841949W|35.0981344|-84.3301997|350436N|0841814W|35.0766667|-84.3038889
-1328409|Haw Knob|Summit|North Carolina|37|Graham|075|Big Junction|05/19/1980|05/07/2019||||351834N|0840136W|35.309521|-84.0265727|||0.0|0.0
+1328409|Haw Knob|Summit|North Carolina|37|Graham|075|Big Junction|05/19/1980|08/15/2026||||351834N|0840136W|35.309521|-84.0265727|||0.0|0.0
 1328447|Hiwassee River|Stream|Tennessee|47|Meigs|121|Graysville|05/19/1980|03/11/2020|Official|Board Decision|05/07/1895|352436N|0850037W|35.4100705|-85.0102305|344804N|0834405W|34.8012049|-83.7346208
-1328493|Horse Ridge|Ridge|North Carolina|37|Avery|011|Elk Park|05/19/1980|03/23/2023||||361447N|0815624W|36.2462668|-81.9398868|||0.0|0.0
+1328493|Horse Ridge|Ridge|North Carolina|37|Avery|011|Elk Park|05/19/1980|08/15/2026||||361447N|0815624W|36.2462668|-81.9398868|||0.0|0.0
 1328563|Jennings Creek|Stream|Tennessee|47|Greene|059|Greystone|05/19/1980|||||360606N|0824317W|36.1017708|-82.7212581|360324N|0823927W|36.0566667|-82.6575
 1462802|Barnes Creek|Stream|Virginia|51|Brunswick|025|Valentines|09/28/1979|||||363328N|0774717W|36.5576488|-77.7880415|363206N|0774654W|36.535|-77.7816667
 1463305|Bluewing Creek|Stream|Virginia|51|Halifax|083|Virgilina|09/13/1996||Official|Board Decision|01/01/1980|363717N|0785016W|36.6212506|-78.8377857|362741N|0785005W|36.4613889|-78.8347222
@@ -28683,7 +28684,7 @@
 2406410|Town of Earl|Civil|North Carolina|37|Cleveland|045|Blacksburg North|03/10/2008|08/10/2023||||351144N|0813202W|35.1954241|-81.5340098|||0.0|0.0
 2406411|Town of East Arcadia|Civil|North Carolina|37|Bladen|017|Kelly|03/10/2008|08/10/2023||||342254N|0781923W|34.3816034|-78.3231852|||0.0|0.0
 2406412|Town of East Bend|Civil|North Carolina|37|Yadkin|197|East Bend|03/10/2008|08/10/2023||||361304N|0803030W|36.2177527|-80.508422|||0.0|0.0
-2406414|Town of East Laurinburg (historical)|Civil|North Carolina|37|Scotland|165|Laurinburg|04/26/2024|04/30/2024||||344609N|0792642W|34.7690788|-79.4450777|||0.0|0.0
+2406414|Town of East Laurinburg (historical)|Civil|North Carolina|37|Scotland|165|Laurinburg|03/10/2008|07/16/2026||||344609N|0792642W|34.7690788|-79.4450777|||0.0|0.0
 2406415|Town of East Spencer|Civil|North Carolina|37|Rowan|159|Salisbury|03/10/2008|08/11/2023||||354054N|0802522W|35.6815439|-80.4227132|||0.0|0.0
 2406422|Town of Edenton|Civil|North Carolina|37|Chowan|041|Edenton|03/10/2008|08/10/2023||||360329N|0763603W|36.0580204|-76.6009208|||0.0|0.0
 2406434|Town of Elizabethtown|Civil|North Carolina|37|Bladen|017|Elizabethtown South|03/10/2008|08/11/2023||||343719N|0783627W|34.6218796|-78.6073821|||0.0|0.0

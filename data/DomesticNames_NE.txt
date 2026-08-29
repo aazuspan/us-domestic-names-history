@@ -1,9 +1,9 @@
 ﻿feature_id|feature_name|feature_class|state_name|state_numeric|county_name|county_numeric|map_name|date_created|date_edited|bgn_type|bgn_authority|bgn_date|prim_lat_dms|prim_long_dms|prim_lat_dec|prim_long_dec|source_lat_dms|source_long_dms|source_lat_dec|source_long_dec
-171029|Sidney Draw|Valley|Nebraska|31|Cheyenne|033|Brownson|10/13/1978|03/08/2018||||410816N|1030116W|41.1377213|-103.021044|405215N|1040353W|40.8709614|-104.0646558
+171029|Sidney Draw|Valley|Nebraska|31|Cheyenne|033|Brownson|10/13/1978|07/30/2026||||410816N|1030116W|41.1377213|-103.021044|405215N|1040353W|40.8709614|-104.0646558
 182687|Highline Canal|Canal|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|||||405810N|1023137W|40.9694351|-102.5268556|||0.0|0.0
 182688|Cottonwood Creek|Stream|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|10/23/2009||||405511N|1023355W|40.9197132|-102.5651893|405850N|1030107W|40.9805426|-103.0185329
-182689|Sand Draw|Valley|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|12/20/2017||||405951N|1023040W|40.9974447|-102.5111958|410203N|1023313W|41.0342898|-102.5536
-182690|Sedgwick Draw|Valley|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|11/04/2017||||405749N|1023313W|40.9636507|-102.5534931|410227N|1023722W|41.0407909|-102.6227148
+182689|Sand Draw|Valley|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|07/31/2026||||405951N|1023040W|40.9974447|-102.5111958|410203N|1023313W|41.0342898|-102.5536
+182690|Sedgwick Draw|Valley|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|07/31/2026||||405749N|1023313W|40.9636507|-102.5534931|410227N|1023722W|41.0407909|-102.6227148
 182692|Peterson Ditch|Canal|Colorado|08|Sedgwick|115|Sedgwick|10/13/1978|10/15/2019||||405604N|1023053W|40.9345581|-102.514778|||0.0|0.0
 183028|North Fork Republican River|Stream|Nebraska|31|Dundy|057|Haigler|10/13/1978|07/26/2019|Official|Board Decision|01/01/1934|400111N|1015618W|40.0197222|-101.9383333|395958N|1022714W|39.9994444|-102.4538889
 201759|South Platte River|Stream|Colorado|08|Logan|075|Deckers|10/13/1978|08/13/2019|Official|Board Decision|01/01/1960|391730N|1051232W|39.2916567|-105.2088815|390040N|1054425W|39.0111036|-105.7402844
@@ -550,7 +550,7 @@
 827714|Brush Creek|Stream|Nebraska|31|Saline|151|Swanton|03/09/1979|||||402924N|0970110W|40.4900041|-97.019475|403257N|0970627W|40.5491712|-97.1075361
 827715|Brush Creek|Stream|Nebraska|31|Holt|089|Butte SE|03/09/1979|||||424935N|0984900W|42.826389|-98.8167562|423938N|0985446W|42.6605574|-98.9128713
 827717|Brush Lake|Lake|Nebraska|31|Logan|113|Happy Hollow|03/09/1979|02/27/2019||||413930N|1003132W|41.6582431|-100.52563|||0.0|0.0
-827718|Brush Lake (historical)|Lake|Nebraska|31|Cherry|031|Wolf Lake|04/27/2022|04/27/2022||||422257N|1012747W|42.3824917|-101.4629407|||0.0|0.0
+827718|Brush Lake (historical)|Lake|Nebraska|31|Cherry|031|Wolf Lake|03/09/1979|07/17/2026||||422257N|1012747W|42.3824917|-101.4629407|||0.0|0.0
 827719|Brushy Creek|Stream|Nebraska|31|Frontier|063|Curtis|03/09/1979|||||403741N|1003334W|40.6280639|-100.5593126|403751N|1003800W|40.6308419|-100.6332033
 827720|Brushy Creek|Stream|Nebraska|31|Red Willow|145|McCook East|03/09/1979|||||401204N|1003334W|40.2011153|-100.5593168|400434N|1003418W|40.0761161|-100.5715381
 827721|Brushy Island|Island|Nebraska|31|Lincoln|111|Brady SW|03/09/1979|||||410157N|1002647W|41.0325039|-100.4465248|||0.0|0.0
@@ -1218,7 +1218,7 @@
 828991|East Smith Canyon|Valley|Nebraska|31|Dawson|047|Gothenburg SW|03/09/1979|08/11/2018||||405126N|1001153W|40.8573485|-100.1981452|404847N|1001126W|40.8131909|-100.190638
 828992|East Springer Main Lateral|Canal|Wyoming|56|Goshen|015|Lyman|06/05/1979|||||415618N|1040257W|41.9382991|-104.049116|||0.0|0.0
 828994|East Table|Summit|Nebraska|31|Custer|041|Lillian|03/09/1979|06/07/2025||||413030N|0994434W|41.5083741|-99.7428897|||0.0|0.0
-828997|East Twin Lake (historical)|Lake|Nebraska|31|Cherry|031|Wolf Lake|03/09/1979|06/17/2022||||422443N|1012550W|42.4119368|-101.4304395|||0.0|0.0
+828997|East Twin Lake (historical)|Lake|Nebraska|31|Cherry|031|Wolf Lake|03/09/1979|07/17/2026||||422443N|1012550W|42.4119368|-101.4304395|||0.0|0.0
 828998|East Twin Lake|Lake|Nebraska|31|Cherry|031|Willow Lake|03/09/1979|02/26/2019||||423017N|1003148W|42.5047018|-100.5299744|||0.0|0.0
 829000|East Valley Lake|Lake|Nebraska|31|Morrill|123|Storm Lake|03/09/1979|12/25/2018||||415220N|1024117W|41.872104|-102.6880475|||0.0|0.0
 829010|Eaton Lake|Swamp|Nebraska|31|Arthur|005|Bucktail|03/09/1979|06/17/2022||||413356N|1012818W|41.5655253|-101.4715921|||0.0|0.0
@@ -2909,7 +2909,7 @@
 833294|School Section Lake|Lake|Nebraska|31|Garden|069|Mumper|03/09/1979|12/25/2018||||414753N|1022506W|41.7980985|-102.4182426|||0.0|0.0
 833295|School Section Lake|Lake|Nebraska|31|Sheridan|161|Krause Lake East|03/09/1979|02/26/2019||||421109N|1023053W|42.1857366|-102.5147899|||0.0|0.0
 833296|School Section Lake|Lake|Nebraska|31|Cherry|031|Camp Valley|03/09/1979|02/28/2019||||421417N|1015916W|42.2380797|-101.9877699|||0.0|0.0
-833297|School Section Lake (historical)|Lake|Nebraska|31|Cherry|031|Carrico Lakes|04/27/2022|04/27/2022||||421921N|1013838W|42.3224882|-101.6437789|||0.0|0.0
+833297|School Section Lake (historical)|Lake|Nebraska|31|Cherry|031|Carrico Lakes|03/09/1979|07/16/2026||||421921N|1013838W|42.3224882|-101.6437789|||0.0|0.0
 833298|School Section Lakes|Lake|Nebraska|31|Sheridan|161|Krause Lake East|03/09/1979|02/26/2019||||420817N|1023504W|42.1381932|-102.5843508|||0.0|0.0
 833300|Schoonover Lake|Lake|Nebraska|31|Garden|069|Schoonover Lake|03/09/1979|02/26/2019||||415843N|1022823W|41.9786357|-102.4729533|||0.0|0.0
 833304|Schukar Table|Summit|Nebraska|31|Custer|041|Roten Valley North|03/09/1979|05/31/2025||||411304N|1000610W|41.2178106|-100.1027196|||0.0|0.0
@@ -7454,7 +7454,7 @@
 1928761|Buckley Election Precinct|Civil|Nebraska|31|Jefferson|095|Reynolds|07/23/2001|08/12/2023||||400244N|0971845W|40.0454202|-97.3126225|||0.0|0.0
 1928762|Buda Election Precinct|Civil|Nebraska|31|Lancaster|109|Cortland|07/23/2001|08/12/2023||||403400N|0964433W|40.5667267|-96.7426237|||0.0|0.0
 1928763|Bushnell Election Precinct|Civil|Nebraska|31|Kimball|105|Bushnell|07/23/2001|08/12/2023||||411141N|1035522W|41.1947308|-103.9228704|||0.0|0.0
-1928764|Butterfly Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SW|07/23/2001|06/16/2022||||415225N|0971140W|41.8736647|-97.1943325|||0.0|0.0
+1928764|Butterfly Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SW|07/23/2001|07/17/2026||||415225N|0971140W|41.8736647|-97.1943325|||0.0|0.0
 1928765|Byron Election Precinct (historical)|Civil|Nebraska|31|Thayer|169|Hebron SW|07/23/2001|03/20/2008||||400246N|0974450W|40.0461205|-97.7472642|||0.0|0.0
 1928766|Cambridge Election Precinct|Civil|Nebraska|31|Furnas|065|Cambridge|07/23/2001|08/12/2023||||401549N|1000818W|40.2636786|-100.1382285|||0.0|0.0
 1928767|Carleton Election Precinct (historical)|Civil|Nebraska|31|Thayer|169|Carleton|07/23/2001|03/20/2008||||401753N|0974006W|40.2980602|-97.6683756|||0.0|0.0
@@ -7505,10 +7505,10 @@
 1928812|Delaware Election Precinct|Civil|Nebraska|31|Otoe|131|Dunbar|07/23/2001|08/12/2023||||403914N|0960358W|40.6537763|-96.0661179|||0.0|0.0
 1928813|Denton Election Precinct|Civil|Nebraska|31|Lancaster|109|Denton|07/23/2001|08/12/2023||||404429N|0965114W|40.7413143|-96.8538203|||0.0|0.0
 1928815|Deshler Election Precinct|Civil|Nebraska|31|Thayer|169|Deshler|07/23/2001|08/12/2023||||400824N|0974427W|40.1398749|-97.7409671|||0.0|0.0
-1928817|Dewey Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Wayne SW|06/14/2022|06/14/2022||||420251N|0971140W|42.0474324|-97.1945096|||0.0|0.0
+1928817|Dewey Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Wayne SW|07/23/2001|07/17/2026||||420251N|0971140W|42.0474324|-97.1945096|||0.0|0.0
 1928818|Dewey Tabor Election Precinct|Civil|Nebraska|31|Scotts Bluff|157|Lake Alice|07/23/2001|08/12/2023||||415351N|1033101W|41.8974496|-103.5169241|||0.0|0.0
-1928819|Dickens Election Precinct (historical)|Civil|Nebraska|31|Lincoln|111|Dickens|09/15/2023|09/15/2023||||404922N|1005926W|40.8227845|-100.9904277|||0.0|0.0
-1928820|Dimick Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Madison SE|09/15/2023|09/15/2023||||414712N|0971836W|41.7865706|-97.310047|||0.0|0.0
+1928819|Dickens Election Precinct (historical)|Civil|Nebraska|31|Lincoln|111|Dickens|07/23/2001|07/17/2026||||404922N|1005926W|40.8227845|-100.9904277|||0.0|0.0
+1928820|Dimick Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Madison SE|07/23/2001|07/17/2026||||414712N|0971836W|41.7865706|-97.310047|||0.0|0.0
 1928821|Dix Election Precinct|Civil|Nebraska|31|Kimball|105|Dix|09/13/2023|09/13/2023||||411207N|1032814W|41.2019616|-103.4706278|||0.0|0.0
 1928822|Dorchester Election Precinct|Civil|Nebraska|31|Saline|151|Dorchester|09/13/2023|09/13/2023||||403916N|0970502W|40.6545455|-97.0840003|||0.0|0.0
 1928823|Dorsey Election Precinct (historical)|Civil|Nebraska|31|Box Butte|013|Hemingford|07/23/2001|05/07/2008||||422207N|1030059W|42.3685738|-103.0163049|||0.0|0.0
@@ -7541,7 +7541,7 @@
 1928850|Elk Election Precinct|Civil|Nebraska|31|Lancaster|109|Raymond|07/23/2001|08/12/2023||||405456N|0965111W|40.9154229|-96.8531364|||0.0|0.0
 1928851|Elk Election Precinct|Civil|Nebraska|31|Nuckolls|129|Edgar|07/23/2001|08/12/2023||||401641N|0975455W|40.2779379|-97.9153865|||0.0|0.0
 1928852|Elkhorn Election Precinct|Civil|Nebraska|31|Douglas|055|Elkhorn|07/23/2001|08/12/2023||||412107N|0961458W|41.3520726|-96.2495258|||0.0|0.0
-1928853|Elkhorn Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Madison NE|06/14/2022|06/14/2022||||415738N|0971837W|41.9605596|-97.3102637|||0.0|0.0
+1928853|Elkhorn Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Madison NE|07/23/2001|07/17/2026||||415738N|0971837W|41.9605596|-97.3102637|||0.0|0.0
 1928854|Ellsworth Election Precinct (historical)|Civil|Nebraska|31|Sheridan|161|Gaunt Lake|07/23/2001|03/20/2008||||420620N|1021440W|42.10556|-102.24444|||0.0|0.0
 1928855|Elmwood Election Precinct|Civil|Nebraska|31|Cass|025|Murdock|07/23/2001|08/12/2023||||405451N|0961737W|40.9141335|-96.2937484|||0.0|0.0
 1928856|Elsie Election Precinct (historical)|Civil|Nebraska|31|Perkins|135|Grainton|07/23/2001|03/16/2010||||405052N|1012143W|40.8477762|-101.3618292|||0.0|0.0
@@ -7628,7 +7628,7 @@
 1928938|Harrison Election Precinct|Civil|Nebraska|31|Sherman|163|Litchfield|07/23/2001|08/12/2023||||410857N|0990738W|41.1491408|-99.1273588|||0.0|0.0
 1928939|Hay Springs Election Precinct|Civil|Nebraska|31|Sheridan|161|Hay Springs|07/23/2001|08/12/2023||||424500N|1024046W|42.7499517|-102.6794807|||0.0|0.0
 1928940|Hayes Center Election Precinct|Civil|Nebraska|31|Hayes|085|Palisade NE|07/23/2001|08/12/2023||||402849N|1010014W|40.4802447|-101.0038219|||0.0|0.0
-1928941|Haymow Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SE|07/23/2001|06/21/2022||||415225N|0970441W|41.873615|-97.0780471|||0.0|0.0
+1928941|Haymow Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SE|07/23/2001|07/17/2026||||415225N|0970441W|41.873615|-97.0780471|||0.0|0.0
 1928942|Haynes Election Precinct|Civil|Nebraska|31|Morrill|123|Angora NE|07/23/2001|08/12/2023||||415346N|1030425W|41.8961887|-103.0736354|||0.0|0.0
 1928943|Hays Election Precinct|Civil|Nebraska|31|York|185|Grafton|07/23/2001|08/12/2023||||404432N|0973917W|40.7421045|-97.6546005|||0.0|0.0
 1928947|Hebron Election Precinct (historical)|Civil|Nebraska|31|Thayer|169|Hebron|07/23/2001|03/20/2008||||401035N|0973541W|40.1763932|-97.5947639|||0.0|0.0
@@ -7677,7 +7677,7 @@
 1928991|Kimball Number 1 Election Precinct|Civil|Nebraska|31|Kimball|105|Kimball|07/23/2001|08/12/2023||||411353N|1033959W|41.2313256|-103.6663017|||0.0|0.0
 1928992|Kimball Number 2 Election Precinct|Civil|Nebraska|31|Kimball|105|Kimball|07/23/2001|08/12/2023||||411401N|1033849W|41.2334881|-103.6468412|||0.0|0.0
 1928993|King Election Precinct|Civil|Nebraska|31|Cherry|031|Card Lake|07/23/2001|08/12/2023||||422122N|1015303W|42.3560956|-101.8841224|||0.0|0.0
-1928994|Kingsburg Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton NE|07/23/2001|06/23/2022||||415646N|0970442W|41.9460194|-97.0782067|||0.0|0.0
+1928994|Kingsburg Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton NE|07/23/2001|07/17/2026||||415646N|0970442W|41.9460194|-97.0782067|||0.0|0.0
 1928995|Kinkaid Election Precinct|Civil|Nebraska|31|Garfield|071|Burwell NE|07/23/2001|08/12/2023||||415727N|0990626W|41.9575993|-99.1071336|||0.0|0.0
 1928996|Kinkaid Election Precinct|Civil|Nebraska|31|Rock|149|Sybrant|07/23/2001|08/12/2023||||421539N|0992104W|42.2607551|-99.3511699|||0.0|0.0
 1928997|Kinkaid Election Precinct (historical)|Civil|Nebraska|31|Sheridan|161|Argo Hill|07/23/2001|03/20/2008||||422047N|1020935W|42.34639|-102.15972|||0.0|0.0
@@ -7734,7 +7734,7 @@
 1929049|Madison Square Election Precinct|Civil|Nebraska|31|Loup|115|Almeria|07/23/2001|08/12/2023||||414626N|0993637W|41.7740117|-99.6101425|||0.0|0.0
 1929050|Madrid Election Precinct (historical)|Civil|Nebraska|31|Perkins|135|Madrid|07/23/2001|03/16/2010||||405103N|1013209W|40.8508298|-101.5357231|||0.0|0.0
 1929051|Maple Creek Election Precinct|Civil|Nebraska|31|Colfax|037|Dodge SW|07/23/2001|08/12/2023||||413643N|0965748W|41.6120491|-96.963331|||0.0|0.0
-1929052|Maple Creek Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SE|07/23/2001|06/17/2022||||414712N|0970440W|41.7866518|-97.0778937|||0.0|0.0
+1929052|Maple Creek Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SE|07/23/2001|07/16/2026||||414712N|0970440W|41.7866518|-97.0778937|||0.0|0.0
 1929053|Maple Grove Election Precinct|Civil|Nebraska|31|Johnson|097|Vesta|07/23/2001|08/12/2023||||401821N|0961736W|40.3056948|-96.2934107|||0.0|0.0
 1929054|Max Election Precinct (historical)|Civil|Nebraska|31|Dundy|057|Max SE|07/23/2001|03/20/2008||||400553N|1012217W|40.0980514|-101.371275|||0.0|0.0
 1929055|Maxwell Election Precinct|Civil|Nebraska|31|Lincoln|111|Brady SW|07/23/2001|08/12/2023||||410410N|1002937W|41.0693599|-100.4935352|||0.0|0.0
@@ -7825,7 +7825,7 @@
 1929141|Peru Election Precinct|Civil|Nebraska|31|Nemaha|127|Peru|07/23/2001|08/12/2023||||402841N|0954418W|40.4779683|-95.7382701|||0.0|0.0
 1929142|Pewaukee Election Precinct|Civil|Nebraska|31|Rock|149|Rose|07/23/2001|08/12/2023||||421024N|0993355W|42.1734074|-99.5652894|||0.0|0.0
 1929143|Pierce Election Precinct|Civil|Nebraska|31|Pierce|139|Pierce|07/23/2001|08/12/2023||||421317N|0973236W|42.2213893|-97.5434557|||0.0|0.0
-1929144|Pilger Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Pilger|06/14/2022|06/14/2022||||420158N|0970441W|42.0328306|-97.0781482|||0.0|0.0
+1929144|Pilger Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Pilger|07/23/2001|07/16/2026||||420158N|0970441W|42.0328306|-97.0781482|||0.0|0.0
 1929145|Pine Creek Election Precinct (historical)|Civil|Nebraska|31|Sheridan|161|Twin Lakes|07/23/2001|03/20/2008||||421812N|1022402W|42.30333|-102.40056|||0.0|0.0
 1929146|Pioneer Election Precinct (historical)|Civil|Nebraska|31|Chase|029|Enders|07/23/2001|04/21/2008||||402917N|1013053W|40.4880517|-101.5146109|||0.0|0.0
 1929147|Platford-Springfield I Election Precinct|Civil|Nebraska|31|Sarpy|153|Springfield|07/23/2001|08/12/2023||||410512N|0960828W|41.0865871|-96.1411828|||0.0|0.0
@@ -7912,7 +7912,7 @@
 1929228|Election Precinct 09|Civil|Nebraska|31|Dawes|045|Chimney Butte|07/23/2001|08/12/2023||||424411N|1031313W|42.7363442|-103.2202873|||0.0|0.0
 1929229|Election Precinct O|Civil|Nebraska|31|Seward|159|Dorchester|07/23/2001|08/12/2023||||404430N|0970457W|40.7417762|-97.0825661|||0.0|0.0
 1929230|Purdum Election Precinct|Civil|Nebraska|31|Blaine|009|Dunning NE|07/23/2001|08/12/2023||||415738N|1000617W|41.9604351|-100.1048375|||0.0|0.0
-1929231|Ramshorn Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SW|07/23/2001|06/15/2022||||414712N|0971139W|41.7866163|-97.1940869|||0.0|0.0
+1929231|Ramshorn Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton SW|07/23/2001|07/16/2026||||414712N|0971139W|41.7866163|-97.1940869|||0.0|0.0
 1929232|Red Cloud-Cowles Election Precinct (historical)|Civil|Nebraska|31|Webster|181|Cowles|07/23/2001|03/20/2008||||400757N|0982649W|40.1325134|-98.4470017|||0.0|0.0
 1929233|Red Willow Election Precinct|Civil|Nebraska|31|Red Willow|145|Indianola|07/23/2001|08/12/2023||||401312N|1002841W|40.2199676|-100.4780807|||0.0|0.0
 1929234|Redington Election Precinct|Civil|Nebraska|31|Morrill|123|Redington|07/23/2001|08/12/2023||||413250N|1031511W|41.547329|-103.2531905|||0.0|0.0
@@ -7985,7 +7985,7 @@
 1929301|Southwest Manchester Election Precinct|Civil|Nebraska|31|Boone|011|Albion West|07/23/2001|08/12/2023||||414004N|0980547W|41.6677464|-98.0963462|||0.0|0.0
 1929302|Spalding Election Precinct|Civil|Nebraska|31|Greeley|077|Spalding NW|07/23/2001|08/12/2023||||413945N|0982342W|41.6624233|-98.3950387|||0.0|0.0
 1929303|Speiser Election Precinct|Civil|Nebraska|31|Richardson|147|Humboldt SW|07/23/2001|08/12/2023||||400239N|0955714W|40.0441844|-95.9539197|||0.0|0.0
-1929304|Spring Branch Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Hoskins|07/23/2001|06/18/2022||||420247N|0971843W|42.0463102|-97.3118574|||0.0|0.0
+1929304|Spring Branch Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Hoskins|07/23/2001|07/16/2026||||420247N|0971843W|42.0463102|-97.3118574|||0.0|0.0
 1929305|Spring Creek Election Precinct|Civil|Nebraska|31|Howard|093|Cushing|07/23/2001|08/12/2023||||412006N|0982039W|41.3349504|-98.3440486|||0.0|0.0
 1929306|Spring Creek Election Precinct|Civil|Nebraska|31|Johnson|097|Tecumseh NW|07/23/2001|08/12/2023||||402846N|0960906W|40.4795556|-96.1516159|||0.0|0.0
 1929307|Spring Creek Election Precinct|Civil|Nebraska|31|Nuckolls|129|Oak|07/23/2001|08/12/2023||||400758N|0975239W|40.1326447|-97.8774598|||0.0|0.0
@@ -7995,7 +7995,7 @@
 1929311|Saint Paul Election Precinct|Civil|Nebraska|31|Howard|093|Saint Paul|07/23/2001|08/12/2023||||411201N|0982848W|41.2003642|-98.480086|||0.0|0.0
 1929312|Saint Stephens Election Precinct (historical)|Civil|Nebraska|31|Nuckolls|129|Mount Clare|07/23/2001|03/20/2008||||401239N|0981240W|40.2108452|-98.2111571|||0.0|0.0
 1929313|Stanton Election Precinct|Civil|Nebraska|31|Colfax|037|Leigh|07/23/2001|08/12/2023||||414158N|0971140W|41.6994807|-97.1945051|||0.0|0.0
-1929314|Stanton Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton|07/23/2001|06/15/2022||||415741N|0971136W|41.9613275|-97.1933695|||0.0|0.0
+1929314|Stanton Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Stanton|07/23/2001|07/16/2026||||415741N|0971136W|41.9613275|-97.1933695|||0.0|0.0
 1929315|Stapleton Number 1 Election Precinct|Civil|Nebraska|31|Logan|113|Happy Hollow|07/23/2001|04/08/2020||||413744N|1003023W|41.6289367|-100.5062516|||0.0|0.0
 1929316|Stapleton Number 2 Election Precinct|Civil|Nebraska|31|Logan|113|Stapleton|07/23/2001|04/08/2020||||412612N|1003627W|41.4367909|-100.6075671|||0.0|0.0
 1929317|Starkey Election Precinct|Civil|Nebraska|31|Hitchcock|087|Stratton|07/23/2001|08/12/2023||||401312N|1010915W|40.2198811|-101.1541191|||0.0|0.0
@@ -8769,7 +8769,7 @@
 2630666|Ames Census Designated Place|Census|Nebraska|31|Dodge|053|Malmo NW|06/09/2010|08/09/2023||||412657N|0963735W|41.4491184|-96.6263364|||0.0|0.0
 2702074|Benkelman Township|Civil|Nebraska|31|Dundy|057|Benkelman|07/21/2011||Vacated|Board Decision|02/09/1965|400300N|1013200W|40.05|-101.5333333|||0.0|0.0
 2702103|Plattford Precinct|Civil|Nebraska|31|Sarpy|153|Springfield|07/21/2011||Vacated|Board Decision|02/09/1965|410400N|0961000W|41.0666667|-96.1666667|||0.0|0.0
-2712328|Spring Branch 2 Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Hoskins|02/16/2012|06/20/2022||||420317N|0971802W|42.0547325|-97.3004205|||0.0|0.0
+2712328|Spring Branch 2 Election Precinct (historical)|Civil|Nebraska|31|Stanton|167|Hoskins|02/16/2012|07/16/2026||||420317N|0971802W|42.0547325|-97.3004205|||0.0|0.0
 2712329|Election Precinct 1|Civil|Nebraska|31|Phelps|137|Elm Creek SE|02/16/2012|08/12/2023||||403610N|0991542W|40.6028175|-99.2617006|||0.0|0.0
 2712330|Election Precinct 2|Civil|Nebraska|31|Phelps|137|Overton|02/16/2012|08/12/2023||||403841N|0993103W|40.6447416|-99.5173775|||0.0|0.0
 2712331|Election Precinct 3|Civil|Nebraska|31|Phelps|137|Bertrand SE|02/16/2012|08/12/2023||||403129N|0993513W|40.5246928|-99.5869206|||0.0|0.0
@@ -8856,3 +8856,6 @@
 2832786|National Guard Greenlief Training Site Unit Training and Equipment Site 1|Military|Nebraska|31|Adams|001|Hastings East|08/20/2025|08/20/2025||||403256N|0981707W|40.548756|-98.285155|||0.0|0.0
 2832804|National Guard Lincoln Army Aviation Support Facility and Readiness Center|Military|Nebraska|31|Lancaster|109|Emerald|08/20/2025|08/20/2025||||405015N|0964518W|40.8373749|-96.7550026|||0.0|0.0
 2832813|National Guard Mead Field Maintenance Shop 6 and Unit Training and Equipment Site 2|Military|Nebraska|31|Saunders|155|Mead|08/20/2025|08/20/2025||||411137N|0962617W|41.1936185|-96.4379359|||0.0|0.0
+2833208|Platte Spring Lake|Lake|Nebraska|31|Sarpy|153|Wann|07/09/2026|07/09/2026|Official|Board Decision|07/09/2026|411023N|0961858W|41.173071|-96.316039|||0.0|0.0
+2833209|Tibbets Creek|Stream|Nebraska|31|Dawson|047|Sumner|07/09/2026|07/09/2026|Official|Board Decision|07/09/2026|405709N|0993000W|40.95261|-99.50013|405708N|0993219W|40.95231|-99.53852
+2833210|Eiseley Creek|Stream|Nebraska|31|Lancaster|109|Lincoln|07/09/2026|07/09/2026|Official|Board Decision|07/09/2026|404735N|0964326W|40.792932|-96.723984|404701N|0964129W|40.783589|-96.691313

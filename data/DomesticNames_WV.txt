@@ -1,5 +1,4 @@
 ﻿feature_id|feature_name|feature_class|state_name|state_numeric|county_name|county_numeric|map_name|date_created|date_edited|bgn_type|bgn_authority|bgn_date|prim_lat_dms|prim_long_dms|prim_lat_dec|prim_long_dec|source_lat_dms|source_long_dms|source_lat_dec|source_long_dec
-181595|Tucker Gulch|Valley|Colorado|08|Jefferson|059|Golden|10/13/1978|04/11/2024||||394535N|1051319W|39.7598044|-105.2219952|394705N|1051921W|39.7846327|-105.3224993
 425264|Ohio River|Stream|Kentucky|21|Ballard|007|Wyatt|10/24/1980|02/13/2020|Official|Board Decision|01/01/1931|365912N|0890750W|36.986719|-89.1306255|402634N|0800102W|40.4428469|-80.0172759
 487126|Big Branch|Stream|Kentucky|21|Martin|159|Webb|09/20/1979|||||375411N|0822807W|37.9031497|-82.4684833|375354N|0822747W|37.8983333|-82.4630556
 487249|Big Sandy River|Stream|Kentucky|21|Boyd|019|Catlettsburg|09/20/1979|12/10/2013|Official|Board Decision|01/01/1975|382458N|0823545W|38.416193|-82.5957146|380705N|0823606W|38.1181432|-82.6015453
@@ -17380,10 +17379,10 @@
 1928234|District 3|Civil|West Virginia|54|Raleigh|081|Shady Spring|07/23/2001|08/13/2023||||374457N|0810309W|37.7491687|-81.0523817|||0.0|0.0
 1928235|District 3|Civil|West Virginia|54|Wetzel|103|New Martinsville|07/23/2001|08/13/2023||||393950N|0805132W|39.663756|-80.8587699|||0.0|0.0
 1928236|District 3|Civil|West Virginia|54|Wyoming|109|Oceana|07/23/2001|08/13/2023||||374150N|0813838W|37.6972556|-81.6439985|||0.0|0.0
-1928237|District 4 Election District (historical)|Civil|West Virginia|54|Cabell|011|Winslow|07/23/2001|06/16/2022||||382057N|0821629W|38.3491157|-82.2747797|||0.0|0.0
+1928237|District 4 Election District (historical)|Civil|West Virginia|54|Cabell|011|Winslow|07/23/2001|07/17/2026||||382057N|0821629W|38.3491157|-82.2747797|||0.0|0.0
 1928238|District 4|Civil|West Virginia|54|Calhoun|013|Arnoldsburg|07/23/2001|08/13/2023||||384937N|0811011W|38.8270685|-81.1696828|||0.0|0.0
 1928239|District 4|Civil|West Virginia|54|Kanawha|039|Blue Creek|07/23/2001|08/13/2023||||382744N|0812918W|38.4621651|-81.4884631|||0.0|0.0
-1928241|District 5 Election District (historical)|Civil|West Virginia|54|Cabell|011|Milton|07/23/2001|06/25/2022||||382734N|0821104W|38.4594001|-82.1843546|||0.0|0.0
+1928241|District 5 Election District (historical)|Civil|West Virginia|54|Cabell|011|Milton|07/23/2001|07/17/2026||||382734N|0821104W|38.4594001|-82.1843546|||0.0|0.0
 1928242|District 5|Civil|West Virginia|54|Calhoun|013|Chloe|07/23/2001|08/13/2023||||384158N|0810502W|38.6995608|-81.0838665|||0.0|0.0
 1928243|District A|Civil|West Virginia|54|Pleasants|073|Willow Island|07/23/2001|08/13/2023||||392016N|0811751W|39.3377628|-81.2974584|||0.0|0.0
 1928244|District A|Civil|West Virginia|54|Clay|015|Ivydale|07/23/2001|08/13/2023||||383303N|0810206W|38.5507386|-81.0351356|||0.0|0.0

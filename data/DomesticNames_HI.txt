@@ -5896,7 +5896,7 @@
 365126|Keoneʻōʻio|Populated Place|Hawaii|15|Maui|009|Makena|02/06/1981|11/01/2012||||203603N|1562514W|20.6007445|-156.4205398|||0.0|0.0
 365127|Kepuhi|Populated Place|Hawaii|15|Maui|009|Ilio Point|09/30/2003|10/09/2012|Official|Board Decision|01/01/2003|211111N|1571443W|21.1864352|-157.2454007|||0.0|0.0
 365128|Kiʻi|Populated Place|Hawaii|15|Kauai|007|Niihau North|09/30/2003|06/07/2022||||215840N|1600331W|21.9778987|-160.0585106|||0.0|0.0
-365130|Kīpukanahuaopala (historical)|Populated Place|Hawaii|15|Hawaii|001|Naalehu|12/12/2023|12/12/2023||||190233N|1553654W|19.04253|-155.61503|||0.0|0.0
+365130|Kīpukanahuaopala (historical)|Populated Place|Hawaii|15|Hawaii|001|Naalehu|02/06/1981|07/17/2026||||190233N|1553654W|19.04253|-155.61503|||0.0|0.0
 365132|Koaʻe (historical)|Populated Place|Hawaii|15|Hawaii|001|Kapoho OE N|02/06/1981|06/07/2022||||193126N|1545034W|19.5237551|-154.8427677|||0.0|0.0
 365133|Kōheo|Populated Place|Hawaii|15|Maui|009|Kaunakakai|09/30/2003|10/09/2012|Official|Board Decision|01/01/2003|210506N|1570051W|21.0851|-157.01411|||0.0|0.0
 365136|Komakawai|Populated Place|Hawaii|15|Hawaii|001|Kaunene|02/06/1981|10/03/2012||||192339N|1554627W|19.3942692|-155.7742405|||0.0|0.0

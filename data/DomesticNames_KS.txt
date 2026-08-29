@@ -1900,7 +1900,7 @@
 472441|Plainville|Populated Place|Kansas|20|Rooks|163|Plainville|10/13/1978|06/07/2022||||391405N|0991753W|39.2347323|-99.2981556|||0.0|0.0
 472445|King Hill|Summit|Kansas|20|Ellis|051|Codell|10/13/1978|01/01/2021||||390755N|0991111W|39.1318529|-99.1864117|||0.0|0.0
 472446|Codell|Populated Place|Kansas|20|Rooks|163|Codell|10/13/1978|06/07/2022||||391136N|0991038W|39.1933439|-99.1773178|||0.0|0.0
-472447|Township of Catherine (historical)|Civil|Kansas|20|Ellis|051|Turkville|04/26/2024|04/30/2024|Vacated|Board Decision|01/01/1965|390112N|0991134W|39.0199846|-99.1928548|||0.0|0.0
+472447|Township of Catherine (historical)|Civil|Kansas|20|Ellis|051|Turkville|10/13/1978|07/16/2026|Vacated|Board Decision|01/01/1965|390112N|0991134W|39.0199846|-99.1928548|||0.0|0.0
 472448|Natoma|Populated Place|Kansas|20|Osborne|141|Natoma|10/13/1978|06/07/2022||||391127N|0990143W|39.1908441|-99.0287006|||0.0|0.0
 472450|Township of Natoma|Civil|Kansas|20|Osborne|141|Paradise NW|10/13/1978|08/12/2023||||391036N|0985931W|39.1767537|-98.9919382|||0.0|0.0
 472452|Township of Herzog|Civil|Kansas|20|Ellis|051|Gorham|07/01/1984|08/12/2023||||385824N|0990621W|38.9734383|-99.1059371|||0.0|0.0

@@ -3842,7 +3842,7 @@
 413252|McDowell|Populated Place|Illinois|17|Livingston|105|Southeast Pontiac|01/15/1980|06/07/2022||||404950N|0883506W|40.8305893|-88.5850596|||0.0|0.0
 413258|McFadden Ditch|Canal|Illinois|17|Mason|125|Forest City|01/15/1980|||||401706N|0894535W|40.2850423|-89.7598326|||0.0|0.0
 413265|McGee Hill|Summit|Illinois|17|Union|181|Wolf Lake|01/15/1980|11/14/2018||||373248N|0892602W|37.5467092|-89.4339343|||0.0|0.0
-413267|McGillian Hollow (historical)|Valley|Illinois|17|Shelby|173|Shelbyville|01/22/2024|01/22/2024||||392525N|0884531W|39.42365|-88.7586791|392444N|0884441W|39.4122612|-88.7447891
+413267|McGillian Hollow (historical)|Valley|Illinois|17|Shelby|173|Shelbyville|01/15/1980|07/16/2026||||392525N|0884531W|39.42365|-88.7586791|392444N|0884441W|39.4122612|-88.7447891
 413274|McHarry Pond|Reservoir|Illinois|17|Mason|125|Topeka|01/15/1980|||||402036N|0895934W|40.343375|-89.9928934|||0.0|0.0
 413278|McHenry Ditch|Canal|Illinois|17|White|193|Maunie|01/15/1980|||||380628N|0880549W|38.1078241|-88.0969797|||0.0|0.0
 413279|McHenry Slough|Gut|Illinois|17|Mason|125|Newmansville|01/15/1980|||||400533N|0900452W|40.0925467|-90.081228|||0.0|0.0
@@ -10891,7 +10891,7 @@
 1721027|West Ditch|Canal|Illinois|17|Bureau|011|Manlius|12/09/1996|||||412810N|0894013W|41.4694793|-89.6703765|||0.0|0.0
 1721057|Ridge Lake|Reservoir|Illinois|17|Coles|029|Charleston South|12/09/1996|04/11/2018||||392413N|0880918W|39.403653|-88.1550486|||0.0|0.0
 1721116|Negro Slough|Lake|Illinois|17|Grundy|063|Minooka|12/09/1996|07/23/2018||||412302N|0882040W|41.3839839|-88.3443739|||0.0|0.0
-1721126|Sand Ridge (historic)|Ridge|Illinois|17|Grundy|063|Coal City|12/09/1996|07/22/2025||||411936N|0881738W|41.3266983|-88.2939524|||0.0|0.0
+1721126|Sand Ridge (historical)|Ridge|Illinois|17|Grundy|063|Coal City|12/09/1996|07/02/2026||||411936N|0881738W|41.3266983|-88.2939524|||0.0|0.0
 1721141|Calamus Lake|Lake|Illinois|17|Macon|115|Niantic|12/09/1996|12/21/2018||||394927N|0891146W|39.8242708|-89.196174|||0.0|0.0
 1721143|Chapin|Populated Place|Illinois|17|Macon|115|Argenta|12/09/1996|06/07/2022||||395253N|0884626W|39.8814248|-88.7739613|||0.0|0.0
 1721153|Goose Neck Slough|Stream|Illinois|17|Macon|115|Niantic|12/09/1996|||||394854N|0891230W|39.8150417|-89.2084159|394942N|0891201W|39.8283333|-89.2002778
@@ -12374,13 +12374,13 @@
 1928458|Carlin Election Precinct|Civil|Illinois|17|Calhoun|013|Pleasant Dale Valley|07/23/2001|08/11/2023||||392102N|0903910W|39.3504949|-90.6526647|||0.0|0.0
 1928459|Cave-In-Rock Election Precinct|Civil|Illinois|17|Hardin|069|Cave-in-Rock|07/23/2001|08/11/2023||||372926N|0881130W|37.4905146|-88.1915833|||0.0|0.0
 1928460|Central Election Precinct|Civil|Illinois|17|Randolph|157|Walsh|07/23/2001|08/11/2023||||380359N|0894839W|38.0662875|-89.8107389|||0.0|0.0
-1928461|Chapin Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Chapin|07/23/2001|08/14/2023||||394650N|0902534W|39.7805559|-90.4261069|||0.0|0.0
+1928461|Chapin Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Chapin|07/23/2001|07/17/2026||||394650N|0902534W|39.7805559|-90.4261069|||0.0|0.0
 1928462|Chester Election Precinct|Civil|Illinois|17|Randolph|157|Chester|07/23/2001|08/11/2023||||375457N|0894812W|37.9159456|-89.8034555|||0.0|0.0
 1928463|Cobden District 1 Election Precinct|Civil|Illinois|17|Union|181|Makanda|07/23/2001|08/11/2023||||373306N|0891214W|37.551622|-89.2038574|||0.0|0.0
 1928464|Cobden District 2 Election Precinct|Civil|Illinois|17|Union|181|Cobden|07/23/2001|08/11/2023||||373302N|0891615W|37.5504766|-89.2709166|||0.0|0.0
 1928465|Coffee Election Precinct|Civil|Illinois|17|Wabash|185|Keensburg|07/23/2001|08/11/2023||||382006N|0875138W|38.335049|-87.8604245|||0.0|0.0
 1928466|Compton Election Precinct|Civil|Illinois|17|Wabash|185|Grayville|07/23/2001|08/11/2023||||381855N|0875613W|38.3153016|-87.9370287|||0.0|0.0
-1928467|Concord Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Concord|07/23/2001|08/24/2023||||395003N|0902216W|39.8340736|-90.3709888|||0.0|0.0
+1928467|Concord Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Concord|07/23/2001|07/17/2026||||395003N|0902216W|39.8340736|-90.3709888|||0.0|0.0
 1928468|Coulterville Election Precinct|Civil|Illinois|17|Randolph|157|Coulterville|07/23/2001|08/11/2023||||381033N|0893730W|38.1758657|-89.6249845|||0.0|0.0
 1928469|Crater Election Precinct|Civil|Illinois|17|Calhoun|013|Pleasant Dale Valley|07/23/2001|08/11/2023||||391545N|0903813W|39.2625146|-90.6369641|||0.0|0.0
 1928470|Cutler Election Precinct|Civil|Illinois|17|Perry|145|Percy|07/23/2001|08/11/2023||||380330N|0893300W|38.0582656|-89.5500632|||0.0|0.0
@@ -12437,12 +12437,12 @@
 1928521|Jacksonville Number 10 Election Precinct|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|08/11/2023||||394401N|0901427W|39.7336302|-90.2408172|||0.0|0.0
 1928522|Jacksonville Number 11 Election Precinct|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/11/2023||||394321N|0901513W|39.7225224|-90.253608|||0.0|0.0
 1928523|Jacksonville Number 12 Election Precinct|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/11/2023||||394338N|0901546W|39.7271731|-90.2626499|||0.0|0.0
-1928524|Jacksonville Number 13 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/14/2023||||394335N|0901625W|39.7263325|-90.2735875|||0.0|0.0
-1928525|Jacksonville Number 14 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/14/2023||||394420N|0901603W|39.7388737|-90.2675653|||0.0|0.0
-1928526|Jacksonville Number 15 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/14/2023||||394418N|0901529W|39.7383558|-90.2580779|||0.0|0.0
-1928527|Jacksonville Number 16 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|08/14/2023||||394414N|0901457W|39.7372588|-90.2491745|||0.0|0.0
-1928528|Jacksonville Number 17 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|08/14/2023||||394448N|0901459W|39.7466101|-90.2497225|||0.0|0.0
-1928529|Jacksonville Number 18 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|08/14/2023||||394417N|0901426W|39.7379772|-90.2404585|||0.0|0.0
+1928524|Jacksonville Number 13 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|07/17/2026||||394335N|0901625W|39.7263325|-90.2735875|||0.0|0.0
+1928525|Jacksonville Number 14 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|07/17/2026||||394420N|0901603W|39.7388737|-90.2675653|||0.0|0.0
+1928526|Jacksonville Number 15 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|07/17/2026||||394418N|0901529W|39.7383558|-90.2580779|||0.0|0.0
+1928527|Jacksonville Number 16 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|07/17/2026||||394414N|0901457W|39.7372588|-90.2491745|||0.0|0.0
+1928528|Jacksonville Number 17 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|07/17/2026||||394448N|0901459W|39.7466101|-90.2497225|||0.0|0.0
+1928529|Jacksonville Number 18 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|07/17/2026||||394417N|0901426W|39.7379772|-90.2404585|||0.0|0.0
 1928530|Jacksonville Number 19 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|03/20/2008||||394447N|0901414W|39.746389|-90.237288|||0.0|0.0
 1928531|Jacksonville Number 2 Election Precinct|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|08/11/2023||||394439N|0901356W|39.7442154|-90.2320996|||0.0|0.0
 1928535|Jacksonville Number 25 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|07/23/2001|03/20/2008||||394248N|0901322W|39.713449|-90.222781|||0.0|0.0
@@ -12467,13 +12467,13 @@
 1928557|Lincoln Election Precinct|Civil|Illinois|17|Massac|127|Metropolis|07/23/2001|08/11/2023||||370930N|0884328W|37.1582866|-88.7244764|||0.0|0.0
 1928558|Literberry Election Precinct|Civil|Illinois|17|Morgan|137|Literberry|07/23/2001|08/11/2023||||394814N|0901043W|39.8037639|-90.1786028|||0.0|0.0
 1928559|Logan Election Precinct|Civil|Illinois|17|Massac|127|Karnak|07/23/2001|08/11/2023||||371714N|0885232W|37.2872216|-88.8754698|||0.0|0.0
-1928560|Lynnville Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/14/2023||||394052N|0901946W|39.6811801|-90.3295354|||0.0|0.0
+1928560|Lynnville Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|07/16/2026||||394052N|0901946W|39.6811801|-90.3295354|||0.0|0.0
 1928561|Manchester Election Precinct|Civil|Illinois|17|Scott|171|Manchester|07/23/2001|08/11/2023||||393511N|0902023W|39.5864628|-90.3396677|||0.0|0.0
-1928562|Markham Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|08/14/2023||||394451N|0901953W|39.7473842|-90.3314809|||0.0|0.0
+1928562|Markham Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Lynnville|07/23/2001|07/17/2026||||394451N|0901953W|39.7473842|-90.3314809|||0.0|0.0
 1928563|McClure Election Precinct|Civil|Illinois|17|Alexander|003|McClure|07/23/2001|08/11/2023||||371737N|0892556W|37.2937216|-89.4320837|||0.0|0.0
 1928564|McFarlan Election Precinct|Civil|Illinois|17|Hardin|069|Rosiclare|07/23/2001|08/11/2023||||372904N|0881618W|37.4843983|-88.2716263|||0.0|0.0
-1928565|Meredosia Number 1 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Meredosia|07/23/2001|08/14/2023||||395117N|0903018W|39.8548004|-90.5051306|||0.0|0.0
-1928566|Meredosia Number 2 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Meredosia|07/23/2001|08/14/2023||||394841N|0903126W|39.8115057|-90.523798|||0.0|0.0
+1928565|Meredosia Number 1 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Meredosia|07/23/2001|07/17/2026||||395117N|0903018W|39.8548004|-90.5051306|||0.0|0.0
+1928566|Meredosia Number 2 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Meredosia|07/23/2001|07/16/2026||||394841N|0903126W|39.8115057|-90.523798|||0.0|0.0
 1928567|Merritt Election Precinct|Civil|Illinois|17|Scott|171|Winchester|07/23/2001|08/11/2023||||394327N|0902540W|39.7241552|-90.4277066|||0.0|0.0
 1928568|Metropolis Number 1 Election Precinct|Civil|Illinois|17|Massac|127|Metropolis|07/23/2001|08/11/2023||||370914N|0884408W|37.1538969|-88.7356141|||0.0|0.0
 1928569|Metropolis Number 2 Election Precinct|Civil|Illinois|17|Massac|127|Metropolis|07/23/2001|08/11/2023||||370903N|0884352W|37.150739|-88.7312153|||0.0|0.0
@@ -12488,7 +12488,7 @@
 1928578|Murrayville Number 1 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Nortonville|07/23/2001|06/13/2008||||393348N|0901312W|39.563318|-90.219872|||0.0|0.0
 1928579|Murrayville Number 2 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Manchester|07/23/2001|06/12/2008||||393350N|0901630W|39.5639348|-90.274979|||0.0|0.0
 1928580|Naples-Bluffs Election Precinct|Civil|Illinois|17|Scott|171|Florence|07/23/2001|08/11/2023||||394438N|0903506W|39.7437597|-90.5848652|||0.0|0.0
-1928581|Nortonville Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Nortonville|07/23/2001|08/14/2023||||393345N|0900904W|39.5624975|-90.1512452|||0.0|0.0
+1928581|Nortonville Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Nortonville|07/23/2001|07/17/2026||||393345N|0900904W|39.5624975|-90.1512452|||0.0|0.0
 1928582|Oakford Number 9 Election Precinct|Civil|Illinois|17|Menard|129|Oakford|07/23/2001|08/11/2023||||400618N|0895655W|40.104938|-89.9487155|||0.0|0.0
 1928583|Olive Branch Election Precinct|Civil|Illinois|17|Alexander|003|Tamms|07/23/2001|08/11/2023||||370930N|0892144W|37.158385|-89.3623505|||0.0|0.0
 1928584|Olmsted Election Precinct|Civil|Illinois|17|Pulaski|153|Olmsted|07/23/2001|08/11/2023||||371239N|0890554W|37.2107362|-89.0983304|||0.0|0.0
@@ -12537,7 +12537,7 @@
 1928627|Election Precinct 7|Civil|Illinois|17|Monroe|133|Paderborn|07/23/2001|08/11/2023||||381925N|0900525W|38.3235048|-90.0903403|||0.0|0.0
 1928628|Election Precinct 8|Civil|Illinois|17|Monroe|133|Paderborn|07/23/2001|08/11/2023||||381731N|0900549W|38.292062|-90.0970077|||0.0|0.0
 1928629|Election Precinct 9|Civil|Illinois|17|Monroe|133|Ames|07/23/2001|08/11/2023||||381017N|0900539W|38.1713268|-90.0941821|||0.0|0.0
-1928630|Prentice-Sinclair Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Prentice|07/23/2001|08/14/2023||||394916N|0900434W|39.8210662|-90.0762391|||0.0|0.0
+1928630|Prentice-Sinclair Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Prentice|07/23/2001|07/17/2026||||394916N|0900434W|39.8210662|-90.0762391|||0.0|0.0
 1928631|Pulaski Election Precinct|Civil|Illinois|17|Pulaski|153|Pulaski|07/23/2001|08/11/2023||||371256N|0891200W|37.2154297|-89.2000064|||0.0|0.0
 1928632|Red Bud Election Precinct|Civil|Illinois|17|Randolph|157|Red Bud|07/23/2001|08/11/2023||||381114N|0895746W|38.1871792|-89.9628813|||0.0|0.0
 1928633|Richwood Election Precinct|Civil|Illinois|17|Calhoun|013|Foley|07/23/2001|08/11/2023||||390123N|0903817W|39.0231637|-90.6379722|||0.0|0.0
@@ -14665,7 +14665,7 @@
 2435850|South Jacksonville Number 1 Election Precinct|Civil|Illinois|17|Morgan|137|Jacksonville|05/16/2008|08/11/2023||||394244N|0901316W|39.7122804|-90.2211283|||0.0|0.0
 2435851|South Jacksonville Number 2 Election Precinct|Civil|Illinois|17|Morgan|137|Jacksonville|05/16/2008|08/11/2023||||394244N|0901349W|39.7123485|-90.2304086|||0.0|0.0
 2435852|South Jacksonville Number 3 Election Precinct|Civil|Illinois|17|Morgan|137|Jacksonville|05/16/2008|08/11/2023||||394245N|0901426W|39.7126279|-90.2405122|||0.0|0.0
-2435853|South Jacksonville Number 4 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|05/16/2008|08/14/2023||||394148N|0901341W|39.6967569|-90.2280911|||0.0|0.0
+2435853|South Jacksonville Number 4 Election Precinct (historical)|Civil|Illinois|17|Morgan|137|Jacksonville|05/16/2008|07/17/2026||||394148N|0901341W|39.6967569|-90.2280911|||0.0|0.0
 2438415|Murrayville Election Precinct|Civil|Illinois|17|Morgan|137|Nortonville|06/06/2008|08/11/2023||||393349N|0901448W|39.5636628|-90.2465796|||0.0|0.0
 2511933|Naval Station Great Lakes|Military|Illinois|17|Lake|097|Waukegan|11/17/2008|08/22/2025||||421845N|0875011W|42.3124887|-87.8362935|||0.0|0.0
 2512002|Savanna Army Depot|Military|Illinois|17|Jo Daviess|085|Green Island|11/17/2008|05/31/2022||||421321N|0901935W|42.2225539|-90.3262625|||0.0|0.0

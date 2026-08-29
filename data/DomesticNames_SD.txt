@@ -5246,7 +5246,7 @@
 1267035|Mount Rushmore|Summit|South Dakota|46|Pennington|103|Mount Rushmore|02/13/1980|07/20/2018|Official|Board Decision|06/04/1930|435248N|1032733W|43.8800573|-103.4592424|||0.0|0.0
 1267036|Scruton Mountain|Summit|South Dakota|46|Pennington|103|Silver City|02/13/1980|12/17/2020||||440234N|1033135W|44.0428963|-103.5263561|||0.0|0.0
 1267037|Sheridan Lake|Reservoir|South Dakota|46|Pennington|103|Mount Rushmore|02/13/1980|04/24/2019|Official|Board Decision|01/01/1947|435825N|1032807W|43.973596|-103.468625|||0.0|0.0
-1267038|Pactola (historical)|Populated Place|South Dakota|46|Pennington|103|Pactola Dam|09/28/2023|09/28/2023||||440425N|1032902W|44.0735982|-103.4838007|||0.0|0.0
+1267038|Pactola (historical)|Populated Place|South Dakota|46|Pennington|103|Pactola Dam|09/23/1986|07/16/2026||||440425N|1032902W|44.0735982|-103.4838007|||0.0|0.0
 1267039|Bismark Lake|Reservoir|South Dakota|46|Custer|033|Custer|09/23/1986|04/24/2019||||434634N|1033054W|43.7760571|-103.5150462|||0.0|0.0
 1267042|Mount Coolidge|Summit|South Dakota|46|Custer|033|Mount Coolidge|06/01/1992|05/11/2017|Official|Board Decision|10/03/1928|434441N|1032854W|43.7447243|-103.4815876|||0.0|0.0
 1267043|Thunderhead Falls|Falls|South Dakota|46|Pennington|103|Pactola Dam|03/01/1995|||||440330N|1032449W|44.0583208|-103.4135208|||0.0|0.0

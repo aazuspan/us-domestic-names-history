@@ -18705,7 +18705,7 @@
 1201370|Triple Divide|Summit|Pennsylvania|42|Potter|105|Brookland|08/01/1989|07/24/2025||||415048N|0775014W|41.846734|-77.8372183|||0.0|0.0
 1201371|Ticklish Rock|Pillar|Pennsylvania|42|Sullivan|113|Picture Rocks|08/01/1989|||||412102N|0763853W|41.3506351|-76.6480085|||0.0|0.0
 1201373|Picture Rocks|Cliff|Pennsylvania|42|Lycoming|081|Picture Rocks|08/01/1989|||||411647N|0764229W|41.279803|-76.7080114|||0.0|0.0
-1201375|Conneaut Lake Kame (Historic)|Summit|Pennsylvania|42|Crawford|039|Conneaut Lake|08/01/1989|06/09/2025||||413700N|0801635W|41.616721|-80.2764516|||0.0|0.0
+1201375|Conneaut Lake Kame (historical)|Summit|Pennsylvania|42|Crawford|039|Conneaut Lake|08/01/1989|07/02/2026||||413700N|0801635W|41.616721|-80.2764516|||0.0|0.0
 1201376|Darbytown Falls|Falls|Pennsylvania|42|Wayne|127|Narrowsburg|08/01/1989|||||413622N|0750436W|41.6061999|-75.0765585|||0.0|0.0
 1201377|Rock Creek Falls|Falls|Pennsylvania|42|Crawford|039|Geneva|08/01/1989|||||413124N|0801005W|41.5233869|-80.1681171|||0.0|0.0
 1201378|Grant City Falls|Falls|Pennsylvania|42|Lawrence|073|Portersville|08/01/1989|||||405842N|0801035W|40.9783955|-80.1764493|||0.0|0.0
@@ -19378,7 +19378,7 @@
 1202367|The Glens|Valley|Pennsylvania|42|Luzerne|079|Red Rock|01/01/1990|||||411915N|0761631W|41.3209139|-76.2752131|412009N|0761610W|41.3358333|-76.2694444
 1202368|The Red Rock|Pillar|Pennsylvania|42|Luzerne|079|Red Rock|01/01/1990|||||411849N|0761802W|41.3136919|-76.3004922|||0.0|0.0
 1202370|Rock Garden|Area|Pennsylvania|42|Sullivan|113|Eagles Mere|01/01/1990|||||412739N|0763405W|41.4609099|-76.5680044|||0.0|0.0
-1202371|Conejohela Valley (historic)|Valley|Pennsylvania|42|York|133|Safe Harbor|01/01/1990|05/04/2026||||395930N|0762923W|39.9917651|-76.4896869|395825N|0763334W|39.9737097|-76.5594099
+1202371|Conejohela Valley (historical)|Valley|Pennsylvania|42|York|133|Safe Harbor|01/01/1990|07/02/2026||||395930N|0762923W|39.9917651|-76.4896869|395825N|0763334W|39.9737097|-76.5594099
 1202372|Caldwell|Populated Place|Pennsylvania|42|Lycoming|081|Trout Run|01/01/1990|06/07/2022||||412400N|0770241W|41.4000762|-77.0446907|||0.0|0.0
 1202373|Deep Hollow Run (historical)|Stream|Pennsylvania|42|Luzerne|079|Nuremberg|01/01/1990|||||405652N|0760950W|40.9478636|-76.1638226|405728N|0760902W|40.9577778|-76.1505556
 1202374|Boiling Spring|Spring|Pennsylvania|42|Union|119|Hartleton|01/01/1990|||||405955N|0771048W|40.9986862|-77.1799684|||0.0|0.0
