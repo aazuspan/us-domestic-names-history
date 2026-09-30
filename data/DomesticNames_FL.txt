@@ -16750,7 +16750,7 @@
 1699881|Woodbine Springs Lake|Lake|Florida|12|Santa Rosa|113|Pace|11/08/1996|04/06/2023|Official|Board Decision|01/01/1996|303712N|0871116W|30.6201167|-87.1876892|||0.0|0.0
 1738069|Parker-Pinder Channel|Channel|Florida|12|Monroe|087|Upper Matecumbe Key|05/16/1997||Official|Board Decision|01/01/1997|245324N|0804034W|24.890134|-80.6761747|||0.0|0.0
 1738070|Russell Channel|Channel|Florida|12|Monroe|087|Upper Matecumbe Key|05/16/1997||Official|Board Decision|01/01/1997|245325N|0804022W|24.8904118|-80.6728413|||0.0|0.0
-1738071|Slones Ridge|Ridge|Florida|12|Lake|069|Mascotte|05/16/1997|01/15/2021|Official|Board Decision|01/01/1997|283450N|0815706W|28.5805662|-81.9515367|||0.0|0.0
+1738071|Slones Ridge|Ridge|Florida|12|Lake|069|Mascotte|05/16/1997|08/19/2026|Official|Board Decision|01/01/1997|283450N|0815706W|28.5805662|-81.9515367|||0.0|0.0
 1759220|Dames Point|Populated Place|Florida|12|Duval|031|Eastport|07/14/1997|06/07/2022|Official|Board Decision|09/14/1978|302321N|0813330W|30.3891282|-81.5584253|||0.0|0.0
 1759737|Wellington|Populated Place|Florida|12|Palm Beach|099|Palm Beach Farms|08/27/1997|06/07/2022||||263931N|0801429W|26.6586779|-80.2414357|||0.0|0.0
 1759765|Walker Bayou|Stream|Florida|12|Bay|005|Allanton|08/27/1997|||||300133N|0852645W|30.0257591|-85.445755|300000N|0852436W|29.9999262|-85.4099208

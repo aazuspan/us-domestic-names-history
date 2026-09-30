@@ -17400,7 +17400,7 @@
 1416132|Cone Peak|Summit|Alaska|02|Aleutians West|016|Attu A-1 NW|03/31/1981|05/24/2025||||522942N|1734128E|52.4949423|173.6910347|||0.0|0.0
 1416133|Conquer Point|Cape|Alaska|02|Aleutians West (CA)|016|Kiska D-2 SW|03/31/1981|||||520011N|1772900E|52.0030556|177.4833333|||0.0|0.0
 1416134|Constantine Harbor|Bay|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|01/01/2000|06/01/2011|Official|Board Decision|01/01/1937|512411N|1791749E|51.4030556|179.2969444|||0.0|0.0
-1416135|Constantine Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-2 NW|03/31/1981|||||512401N|1792049E|51.4002778|179.3469444|||0.0|0.0
+1416135|Constantine Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-2 NW|03/31/1981|09/14/2026||||512424N|1792101E|51.406682|179.350185|||0.0|0.0
 1416136|Cooper Islands|Island|Alaska|02|Aleutians West (CA)|016|Attu C-3 NE|03/31/1981|10/14/2008||||525654N|1731457E|52.9483333|173.2491667|||0.0|0.0
 1416137|Lake Cories|Lake|Alaska|02|Aleutians West (CA)|016|Attu C-3 NE|03/31/1981|11/05/2010||||525416N|1731359E|52.9044444|173.2330556|||0.0|0.0
 1416138|Corvie Bay|Bay|Alaska|02|Aleutians West (CA)|016|Kiska C-2 NW|03/31/1981|11/05/2010||||515349N|1772041E|51.8969444|177.3447222|||0.0|0.0
@@ -17458,7 +17458,7 @@
 1416191|Hook Point|Cape|Alaska|02|Aleutians West (CA)|016|Attu C-3 NE|03/31/1981|||||525247N|1731434E|52.8797222|173.2427778|||0.0|0.0
 1416192|Hoppe Island|Island|Alaska|02|Aleutians West (CA)|016|Attu C-2 SW|01/01/2000|04/26/2011|Official|Board Decision|01/01/1945|525121N|1732525E|52.8558333|173.4236111|||0.0|0.0
 1416193|Iron Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands D-6 SE|01/01/2000||Official|Board Decision|01/01/1937|520013N|1781059E|52.0036111|178.1830556|||0.0|0.0
-1416194|Ivakin Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-2 NW|01/01/2000|03/05/2009|Official|Board Decision|01/01/1937|512425N|1792337E|51.4069444|179.3936111|||0.0|0.0
+1416194|Ivakin Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-2 NW|01/01/2000|09/14/2026|Official|Board Decision|01/01/1937|512443N|1792322E|51.411953|179.389437|||0.0|0.0
 1416195|Jackass Pass|Gap|Alaska|02|Aleutians West (CA)|016|Attu C-3 SE|03/31/1981|07/22/2010||||525120N|1731519E|52.8555556|173.2552778|||0.0|0.0
 1416196|Karab Cove|Bay|Alaska|02|Aleutians West (CA)|016|Attu A-2 NE|01/01/2000||Official|Board Decision|01/01/1938|522339N|1733630E|52.3941667|173.6083333|||0.0|0.0
 1416197|Kaufman Creek|Stream|Alaska|02|Aleutians West (CA)|016|Attu C-3 SW|03/31/1981|||||524903N|1730041E|52.8175|173.0113889|525007N|1725512E|52.8352778|172.92
@@ -17470,7 +17470,7 @@
 1416203|Khvostof Island|Island|Alaska|02|Aleutians West (CA)|016|Rat Islands C-6 NE|01/01/2000|06/10/2011|Official|Board Decision|01/01/1933|515850N|1781636E|51.9805556|178.2766667|||0.0|0.0
 1416204|Khvostof Pass|Channel|Alaska|02|Aleutians West (CA)|016|Rat Islands C-6 NE|01/01/2000||Official|Board Decision|01/01/1937|515925N|1781356E|51.9902778|178.2322222|||0.0|0.0
 1416205|Kirilof Bay|Bay|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|01/01/2000|03/12/2010|Official|Board Decision|01/01/1937|512505N|1791524E|51.4180556|179.2566667|||0.0|0.0
-1416206|Kirilof Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|01/01/2000|03/12/2010|Official|Board Decision|01/01/1937|512454N|1791716E|51.415|179.2877778|||0.0|0.0
+1416206|Kirilof Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|01/01/2000|09/14/2026|Official|Board Decision|01/01/1937|512501N|1791744E|51.416916|179.295648|||0.0|0.0
 1416207|Kiska Harbor|Bay|Alaska|02|Aleutians West (CA)|016|Kiska C-2 NE|01/01/2000||Official|Board Decision|01/01/1937|515801N|1773350E|51.9669444|177.5638889|||0.0|0.0
 1416208|Kiska Island|Island|Alaska|02|Aleutians West (CA)|016|Kiska C-2 NW|01/01/2000|12/01/2010|Official|Board Decision|01/01/1890|515751N|1772736E|51.9641667|177.46|||0.0|0.0
 1416209|Kiska Volcano|Summit|Alaska|02|Aleutians West (CA)|016|Kiska D-2 SE|01/01/2000|03/12/2010|Official|Board Decision|01/01/1937|520609N|1773610E|52.1025|177.6027778|||0.0|0.0
@@ -19641,7 +19641,7 @@
 1419626|Airolo Lake|Lake|Alaska|02|Matanuska-Susitna|170|Anchorage C-8 SE|10/01/1992|10/01/2017||||613444N|1494242W|61.5789693|-149.7117119|||0.0|0.0
 1419635|West Branch Eklutna Glacier|Glacier|Alaska|02|Anchorage|020|Anchorage A-6 NE|10/01/1992||Official|Board Decision|01/01/1964|611305N|1490050W|61.2180556|-149.0138889|||0.0|0.0
 1419636|Mount Yukla|Summit|Alaska|02|Anchorage|020|Anchorage A-6 NW|10/01/1992|04/06/2021|Official|Board Decision|01/01/1964|611128N|1490653W|61.1911734|-149.1146156|||0.0|0.0
-1419642|Cyril Cove|Bay|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|10/01/1992|11/17/2010|Official|Board Decision|01/01/1973|512658N|1791302E|51.4494444|179.2172222|||0.0|0.0
+1419642|Cyril Cove|Bay|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|10/01/1992|09/14/2026|Official|Board Decision|01/01/1973|512635N|1791226E|51.44316|179.207248|||0.0|0.0
 1419643|Rifle Range Point|Cape|Alaska|02|Aleutians West (CA)|016|Rat Islands A-3 NE|10/01/1992|03/24/2010|Official|Board Decision|01/01/1969|512457N|1791130E|51.4158333|179.1916667|||0.0|0.0
 1419649|Sharkstooth Mountain|Summit|Alaska|02|Copper River|066|Valdez B-8 SW|10/01/1992|07/03/2025|Official|Board Decision|01/01/1969|612159N|1465922W|61.3663644|-146.9894774|||0.0|0.0
 1419650|Control Creek|Stream|Alaska|02|Chugach|063|Cordova C-6 NW|10/01/1992|10/28/2008||||604448N|1461333W|60.7468|-146.2257|604659N|1461306W|60.783133|-146.218243
@@ -24585,7 +24585,7 @@
 1680786|Fort Glenn (historical)|Military|Alaska|02|Aleutians West (CA)|016|Unalaska A-6 NW|01/01/2000|05/31/2022||||532302N|1675435W|53.3838889|-167.9097222|||0.0|0.0
 1681549|Thornbrough Air Force Base (historical)|Military|Alaska|02|Aleutians East|013|Cold Bay A-3 NE|01/01/2000|05/31/2022||||551158N|1624335W|55.1994444|-162.7263889|||0.0|0.0
 1690859|Kvichak|Populated Place|Alaska|02|Lake and Peninsula|164|Naknek D-3 NW|05/07/1996|06/07/2022||||585810N|1565550W|58.9694444|-156.9305556|||0.0|0.0
-1699724|Owen Mountain|Summit|Alaska|02|Kodiak Island|150|Afognak A-0 NW|07/01/1996|07/03/2021|Official|Board Decision|01/01/1996|581130N|1515211W|58.1916834|-151.8696683|||0.0|0.0
+1699724|Owen Mountain|Summit|Alaska|02|Kodiak Island|150|Afognak A-0 NW|07/01/1996|08/19/2026|Official|Board Decision|01/01/1996|581130N|1515211W|58.1916834|-151.8696684|||0.0|0.0
 1699725|Spirit Creek|Stream|Alaska|02|Prince of Wales-Hyder (CA)|195|Petersburg C-3 SW|07/01/1996||Official|Board Decision|01/01/1996|563228N|1325714W|56.5411111|-132.9538889|563206N|1325621W|56.535|-132.9391667
 1699726|Cessnun Lakes|Lake|Alaska|02|Ketchikan Gateway|130|Ketchikan C-3 NE|07/01/1996|09/21/2018|Official|Board Decision|01/01/1996|553947N|1304915W|55.6630742|-130.8209544|||0.0|0.0
 1699727|Bates Rapids|Rapids|Alaska|02|Southeast Fairbanks (CA)|240|Big Delta A-4 NW|07/01/1996||Official|Board Decision|01/01/1996|641201N|1455830W|64.2002778|-145.975|||0.0|0.0
@@ -24599,10 +24599,10 @@
 1699846|Microblade Lake|Lake|Alaska|02|North Slope|185|Beechey Point B-5 NE|08/20/1996|09/26/2015|Official|Board Decision|01/01/1996|702513N|1493204W|70.4203015|-149.5345114|||0.0|0.0
 1699847|Waldron Island|Island|Alaska|02|Matanuska-Susitna|170|Anchorage C-8 NW|08/20/1996||Official|Board Decision|01/01/1996|614051N|1495938W|61.6808333|-149.9938889|||0.0|0.0
 1699880|Marie Lake|Lake|Alaska|02|Kenai Peninsula|122|Kenai C-4 NE|11/08/1996|07/26/2018|Official|Board Decision|01/01/1996|604138N|1511337W|60.6939254|-151.2268491|||0.0|0.0
-1729773|Aello Peak|Summit|Alaska|02|Copper River|066|McCarthy B-3 SE|04/08/1997|10/16/2018|Official|Board Decision|01/01/1967|612155N|1415409W|61.3651515|-141.9023861|||0.0|0.0
-1729774|Celeno Peak|Summit|Alaska|02|Copper River|066|McCarthy B-3 SW|04/08/1997|10/16/2018|Official|Board Decision|01/01/1967|612018N|1415814W|61.3384023|-141.970666|||0.0|0.0
-1729775|Ocypete Peak|Summit|Alaska|02|Copper River|066|McCarthy B-3 SW|04/08/1997|10/16/2018|Official|Board Decision|01/01/1967|612030N|1415636W|61.3417667|-141.9433174|||0.0|0.0
-1729776|The Twaharpies|Summit|Alaska|02|Copper River|066|McCarthy B-3 SE|04/08/1997|10/16/2018|Official|Board Decision|01/01/1967|612154N|1415409W|61.3651161|-141.9024084|||0.0|0.0
+1729773|Aello Peak|Summit|Alaska|02|Copper River|066|McCarthy B-3 SE|04/08/1997|08/19/2026|Official|Board Decision|01/01/1967|612155N|1415409W|61.3651515|-141.9023861|||0.0|0.0
+1729774|Celeno Peak|Summit|Alaska|02|Copper River|066|McCarthy B-3 SW|04/08/1997|08/19/2026|Official|Board Decision|01/01/1967|612018N|1415814W|61.3384023|-141.970666|||0.0|0.0
+1729775|Ocypete Peak|Summit|Alaska|02|Copper River|066|McCarthy B-3 SW|04/08/1997|08/19/2026|Official|Board Decision|01/01/1967|612030N|1415636W|61.3417667|-141.9433174|||0.0|0.0
+1729776|The Twaharpies|Summit|Alaska|02|Copper River|066|McCarthy B-3 SE|04/08/1997|08/19/2026|Official|Board Decision|01/01/1967|612154N|1415409W|61.3651161|-141.9024084|||0.0|0.0
 1729778|Freedom Lake|Lake|Alaska|02|Matanuska-Susitna|170|Talkeetna A-4 SE|04/08/1997|01/28/2016|Official|Board Decision|01/01/1996|620453N|1513852W|62.0813419|-151.6479165|||0.0|0.0
 1729782|Abandoned River|Stream|Alaska|02|Yakutat|282|Bering Glacier A-7 NE|04/08/1997||Official|Board Decision|01/01/1997|600756N|1431501W|60.1322222|-143.2502778|601228N|1430740W|60.2077778|-143.1277778
 1729783|Arrowhead Point|Cape|Alaska|02|Yakutat|282|Bering Glacier A-7 NE|04/08/1997||Official|Board Decision|01/01/1997|601016N|1431838W|60.1711111|-143.3105556|||0.0|0.0
@@ -24641,14 +24641,14 @@
 1759756|Tsitus Island|Island|Alaska|02|Yakutat|282|Bering Glacier A-7 NE|08/27/1997||Official|Board Decision|01/01/1997|601033N|1431744W|60.1758333|-143.2955556|||0.0|0.0
 1759757|Tsivat Lake|Lake|Alaska|02|Yakutat|282|Bering Glacier A-6 NW|08/27/1997||Official|Board Decision|01/01/1997|601310N|1431110W|60.2194444|-143.1861111|||0.0|0.0
 1759758|Tsivat Outlet|Gut|Alaska|02|Yakutat|282|Bering Glacier A-6 NW|08/27/1997||Official|Board Decision|01/01/1997|601200N|1431130W|60.2|-143.1916667|||0.0|0.0
-1759759|Plenisner Hills|Range|Alaska|02|Chugach|063|Bering Glacier C-7 SW|08/27/1997|10/11/2018|Official|Board Decision|01/01/1997|603323N|1433336W|60.5564254|-143.5599143|||0.0|0.0
+1759759|Plenisner Hills|Range|Alaska|02|Chugach|063|Bering Glacier C-8 SE|08/27/1997|08/19/2026|Official|Board Decision|01/01/1997|603250N|1433835W|60.5471706|-143.6430413|||0.0|0.0
 1759760|Sint Hills|Ridge|Alaska|02|Yakutat|282|Bering Glacier B-6 SE|08/27/1997||Official|Board Decision|01/01/1997|601730N|1425901W|60.2916667|-142.9836111|||0.0|0.0
 1759761|Betge Glacier|Glacier|Alaska|02|Yakutat|282|Bering Glacier B-6 NE|08/27/1997||Official|Board Decision|01/01/1997|602805N|1430005W|60.4680556|-143.0013889|||0.0|0.0
 1759762|Yushin Glacier|Glacier|Alaska|02|Yakutat|282|Bering Glacier B-6 NW|08/27/1997||Official|Board Decision|01/01/1997|602605N|1431305W|60.4347222|-143.2180556|||0.0|0.0
 1759763|Tsiu Lake|Lake|Alaska|02|Yakutat|282|Bering Glacier A-6 NW|08/27/1997||Official|Board Decision|01/01/1997|601136N|1431332W|60.1933333|-143.2255556|||0.0|0.0
-1759764|Central Medial Moraine Band|Ridge|Alaska|02|Chugach|063|Bering Glacier B-7 NW|08/27/1997|01/24/2026|Official|Board Decision|01/01/1997|602258N|1432739W|60.3828089|-143.4608173|||0.0|0.0
+1759764|Central Medial Moraine Band|Ridge|Alaska|02|Chugach|063|Bering Glacier B-7 NW|08/27/1997|08/19/2026|Official|Board Decision|01/01/1997|602258N|1432739W|60.3828089|-143.4608173|||0.0|0.0
 1765036|Farm Creek|Stream|Alaska|02|Copper River|066|McCarthy B-6 NE|11/07/1997||Official|Board Decision|01/01/1997|612425N|1425954W|61.4069444|-142.9983333|612630N|1430034W|61.4416667|-143.0094444
-1765043|Black Diamond Peak|Summit|Alaska|02|Denali|068|Healy D-5 SE|11/07/1997|09/17/2017|Official|Board Decision|01/01/1997|634819N|1490142W|63.805286|-149.0282867|||0.0|0.0
+1765043|Black Diamond Peak|Summit|Alaska|02|Denali|068|Healy D-5 SE|11/07/1997|08/19/2026|Official|Board Decision|01/01/1997|634819N|1490142W|63.805286|-149.0282867|||0.0|0.0
 1781942|Noel Hanson Mountain|Summit|Alaska|02|Kenai Peninsula|122|Seward B-8 SE|02/11/1998|08/25/2017|Official|Board Decision|01/01/1998|602201N|1493802W|60.3668193|-149.6338102|||0.0|0.0
 1781963|Halibut Cove|Populated Place|Alaska|02|Kenai Peninsula|122|Seldovia C-4 SE|02/23/1998|06/07/2022||||593542N|1511330W|59.595|-151.225|||0.0|0.0
 1785533|State of Alaska|Civil|Alaska|02|Denali|068|Denali C-4 NE|03/24/1998|08/09/2023|Official|Congressional Legislation|01/01/1959|634412N|1513602W|63.73664|-151.6006053|||0.0|0.0

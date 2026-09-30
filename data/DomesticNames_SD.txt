@@ -7226,7 +7226,7 @@
 1729753|Township of Dakota|Civil|South Dakota|46|Meade|093|Plainview|04/04/1997|08/13/2023||||443148N|1021036W|44.5299144|-102.1766992|||0.0|0.0
 1729758|Township of Rainy Creek/Cheyenne|Civil|South Dakota|46|Pennington|103|Creighton|04/04/1997|08/13/2023||||442115N|1021152W|44.354053|-102.1978802|||0.0|0.0
 1759801|Ionia (historical)|Populated Place|Nebraska|31|Dixon|051|Burbank|08/27/1997|06/07/2022|Official|Board Decision|01/01/1891|424006N|0964651W|42.6683314|-96.7808726|||0.0|0.0
-1765042|Mount Wheaton|Summit|South Dakota|46|Pennington|103|Pactola Dam|11/07/1997|12/17/2020|Official|Board Decision|01/01/1997|440330N|1032434W|44.0582559|-103.4094469|||0.0|0.0
+1765042|Mount Wheaton|Summit|South Dakota|46|Pennington|103|Pactola Dam|11/07/1997|08/19/2026|Official|Board Decision|01/01/1997|440330N|1032434W|44.0582559|-103.4094469|||0.0|0.0
 1782056|Snoma (historical)|Populated Place|South Dakota|46|Butte|019|Fruitdale|02/23/1998|06/07/2022||||443854N|1034132W|44.6483178|-103.6921413|||0.0|0.0
 1785534|State of South Dakota|Civil|South Dakota|46|Hughes|065|Canning NW|03/24/1998|08/09/2023|Vacated|Board Decision|01/01/1965|442610N|1001350W|44.436136|-100.2304575|||0.0|0.0
 1805153|Cody Lake|Lake|Nebraska|31|Cherry|031|Cody West|02/02/1999|02/24/2019||||425942N|1011502W|42.9950847|-101.250596|||0.0|0.0

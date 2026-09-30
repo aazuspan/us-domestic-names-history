@@ -3048,7 +3048,7 @@
 1613395|Pico Santa Ana|Summit|Puerto Rico|72|Maricao|093|Maricao|01/01/2000|03/13/2018||||180853N|0665751W|18.1481546|-66.964067|||0.0|0.0
 1613397|Piragua de Adentro|Bar|Puerto Rico|72|Ceiba|037|Cayo Icacos|01/01/2000|||||181607N|0653152W|18.2685679|-65.5309938|||0.0|0.0
 1613398|Cabeza de Perro|Island|Puerto Rico|72|Ceiba|037|Isla De Vieques West|01/01/2000|||||181454N|0653439W|18.2482908|-65.5773829|||0.0|0.0
-1777351|Cerros de San Francisco|Range|Puerto Rico|72|Añasco|011|Rincon|01/29/1998|03/23/2018||||181815N|0671306W|18.3042724|-67.2183998|||0.0|0.0
+1777351|Cerros de San Francisco|Range|Puerto Rico|72|Rincón|117|Rincon|01/29/1998|08/19/2026||||181829N|0671218W|18.3081585|-67.2048723|||0.0|0.0
 1779808|Commonwealth of Puerto Rico|Civil|Puerto Rico|72|Orocovis|107|Orocovis|02/06/1998|08/09/2023|Official|Congressional Legislation|01/01/1932|181257N|0662453W|18.2156983|-66.4146668|||0.0|0.0
 1804480|Adjuntas Municipio|Civil|Puerto Rico|72|Adjuntas|001|Monte Guilarte|02/01/1999|01/16/2026||||181047N|0664514W|18.1797375|-66.7539538|||0.0|0.0
 1804481|Aguada Municipio|Civil|Puerto Rico|72|Aguada|003|Aguadilla|02/01/1999|01/16/2026||||182235N|0671112W|18.376289|-67.1867288|||0.0|0.0

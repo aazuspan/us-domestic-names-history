@@ -4915,7 +4915,7 @@
 1699870|Gauchat Creek|Stream|Nebraska|31|Nemaha|127|Brock|10/29/1996||Official|Board Decision|01/01/1996|402820N|0955528W|40.4722232|-95.9244462|402714N|0955559W|40.4538889|-95.9330556
 1729693|Township of Haigler|Civil|Nebraska|31|Dundy|057|Haigler|03/21/1997|02/04/2009||||400500N|1015602W|40.0833248|-101.9337927|||0.0|0.0
 1729756|Township of Exeter-Fairmont Consolidated|Civil|Nebraska|31|Fillmore|059|Exeter|04/04/1997|08/12/2023||||403918N|0972856W|40.6550413|-97.4822734|||0.0|0.0
-1759800|Courthouse Rock|Summit|Nebraska|31|Morrill|123|Courthouse Rock|08/27/1997|05/31/2025|Official|Board Decision|01/01/1897|413549N|1030658W|41.5970297|-103.1160421|||0.0|0.0
+1759800|Courthouse Rock|Summit|Nebraska|31|Morrill|123|Courthouse Rock|08/27/1997|08/19/2026|Official|Board Decision|01/01/1897|413549N|1030658W|41.5970297|-103.1160421|||0.0|0.0
 1766763|Carpenter Reservoir|Reservoir|Nebraska|31|York|185|Bradshaw|12/22/1997|09/21/2018||||405305N|0973905W|40.8845906|-97.6514304|||0.0|0.0
 1766765|Bjerrum Reservoir|Lake|Nebraska|31|York|185|Durant|12/22/1997|09/21/2018||||410215N|0974438W|41.0375342|-97.7438131|||0.0|0.0
 1766767|Rech-Smith Reservoir|Reservoir|Nebraska|31|York|185|Henderson NE|12/22/1997|09/21/2018||||405553N|0974639W|40.931341|-97.777543|||0.0|0.0
